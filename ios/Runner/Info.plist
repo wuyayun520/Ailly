@@ -28,14 +28,14 @@
 	<true/>
 	<key>NSAppleMusicUsageDescription</key>
 	<string>This app needs access to play music in the background.</string>
-	<key>NSUserTrackingUsageDescription</key>
-	<string>Ailly track your activity across other companies&apos; apps and websites to provide you with a personalized experience</string>
+	<key>NSCameraUsageDescription</key>
+	<string>Ailly requires access to the camera to take profile pictures.</string>
 	<key>NSPhotoLibraryAddUsageDescription</key>
 	<string>Ailly requires access to add new photos to your library, enabling you to save photos directly from the app.</string>
 	<key>NSPhotoLibraryUsageDescription</key>
 	<string>Ailly requires access to the photo library to select profile pictures.</string>
-	<key>NSCameraUsageDescription</key>
-	<string>Ailly requires access to the camera to take profile pictures.</string>
+	<key>NSUserTrackingUsageDescription</key>
+	<string>Ailly track your activity across other companies' apps and websites to provide you with a personalized experience</string>
 	<key>UIApplicationSupportsIndirectInputEvents</key>
 	<true/>
 	<key>UIBackgroundModes</key>
