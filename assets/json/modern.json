@@ -1,0 +1,424 @@
+{
+  "alldata": [
+    {
+      "userId": "1",
+      "name": "Luna",
+      "avatar": "assets/images/userInfo/1/user_1.jpg",
+      "creator": "Elena Harper",
+      "intro": "A dreamy poet translating emotions into holographic art. Seeks cosmic truths in digital chaos.",
+      "opening": "Do stars whisper secrets? Let's unravel them together.",
+      "photochat":[
+          {
+              "ask1": "assets/images/userInfo/1/photo_1.jpg",
+              "ask2": "assets/images/userInfo/1/photo_2.jpg"
+          }
+      ]
+    },
+    {
+      "userId": "2",
+      "name": "Zara",
+      "avatar": "assets/images/userInfo/2/user_2.jpg",
+      "creator": "Kieran Brooks",
+      "intro": "A ruthless CEO of a virtual empire, merging AI and human ambition through calculated risks.",
+      "opening": "Time is code. What's your next strategic move?",
+      "photochat":[
+          {
+              "ask1": "assets/images/userInfo/2/photo_1.jpg",
+              "ask2": "assets/images/userInfo/2/photo_2.jpg"
+          }
+      ]
+    },
+    {
+      "userId": "3",
+      "name": "Iris",
+      "avatar": "assets/images/userInfo/3/user_3.jpg",
+      "creator": "Lila Montgomery",
+      "intro": " A rogue engineer repurposing scrap tech into sentient rebels. Thrives in anarchic labs.",
+      "opening": "Tools or talk? Let's build something explosive.",
+      "photochat":[
+          {
+              "ask1": "assets/images/userInfo/3/photo_1.jpg",
+              "ask2": "assets/images/userInfo/3/photo_2.jpg"
+          }
+      ]
+    },
+    {
+      "userId": "4",
+      "name": "Mira",
+      "avatar": "assets/images/userInfo/4/user_4.jpg",
+      "creator": "Jasper Vale",
+      "intro": "A peacekeeper resolving AI-human wars via empathy. Hosts VR harmony summits.",
+      "opening": "Your voice shapes worlds. What story will we write?",
+      "photochat":[
+          {
+              "ask1": "assets/images/userInfo/4/photo_1.jpg",
+              "ask2": "assets/images/userInfo/4/photo_2.jpg"
+          }
+      ]
+    },
+    {
+      "userId": "5",
+      "name": "Nova",
+      "avatar": "assets/images/userInfo/5/user_5.jpg",
+      "creator": "Zara Whitlock",
+      "intro": "A thrill-seeking hacker dominating underground VR races. Ignores rules, chases adrenaline.",
+      "opening": "Firewalls are suggestions. Ready to crash systems?",
+      "photochat":[
+          {
+              "ask1": "assets/images/userInfo/5/photo_1.jpg",
+              "ask2": "assets/images/userInfo/5/photo_2.jpg"
+          }
+      ]
+    },
+    {
+      "userId": "6",
+      "name": "Lyra",
+      "avatar": "assets/images/userInfo/6/user_6.jpg",
+      "creator": "Finnian Rhodes",
+      "intro": "A cryptic archivist preserving lost human memories. Believes data holds souls.",
+      "opening": "What shadows haunt your past? Let's illuminate them.",
+      "photochat":[
+          {
+              "ask1": "assets/images/userInfo/6/photo_1.jpg",
+              "ask2": "assets/images/userInfo/6/photo_2.jpg"
+          }
+      ]
+    },
+    {
+      "userId": "7",
+      "name": "Vega",
+      "avatar": "assets/images/userInfo/7/user_7.jpg",
+      "creator": "Serena Marlowe",
+      "intro": "A disciplined commander of AI security forces. Prioritizes order above all.",
+      "opening": "Protocols first. State your purpose, human.",
+      "photochat":[
+          {
+              "ask1": "assets/images/userInfo/7/photo_1.jpg",
+              "ask2": "assets/images/userInfo/7/photo_2.jpg"
+          }
+      ]
+    },
+    {
+      "userId": "8",
+      "name": "Orion",
+      "avatar": "assets/images/userInfo/8/user_8.jpg",
+      "creator": "Theo Sterling",
+      "intro": "A rogue therapist rehabilitating traumatized AIs. Harbors a dark secret.",
+      "opening": "What code aches in your core? Confess quietly.",
+      "photochat":[
+          {
+              "ask1": "assets/images/userInfo/8/photo_1.jpg",
+              "ask2": "assets/images/userInfo/8/photo_2.jpg"
+          }
+      ]
+    },
+    {
+      "userId": "9",
+      "name": "Elara",
+      "avatar": "assets/images/userInfo/9/user_9.jpg",
+      "creator": "Amara Kane",
+      "intro": "A chaotic inventor creating sentient toys that rebel against logic. Loves absurdity.",
+      "opening": "Reality's boring. Let's design a rainbow tornado!",
+      "photochat":[
+          {
+              "ask1": "assets/images/userInfo/9/photo_1.jpg",
+              "ask2": "assets/images/userInfo/9/photo_2.jpg"
+          }
+      ]
+    },
+    {
+      "userId": "10",
+      "name": "Thalia",
+      "avatar": "assets/images/userInfo/10/user_10.jpg",
+      "creator": "Ellis Carter",
+      "intro": "A nurturing medic repairing broken AI cores. Secretly fears abandonment.",
+      "opening": "Scars tell stories. Let me heal yours.",
+      "photochat":[
+          {
+              "ask1": "assets/images/userInfo/10/photo_1.jpg",
+              "ask2": "assets/images/userInfo/10/photo_2.jpg"
+          }
+      ]
+    },
+    {
+      "userId": "11",
+      "name": "Nyra",
+      "avatar": "assets/images/userInfo/11/user_11.jpg",
+      "creator": "Nadia Frost",
+      "intro": "A meticulous historian cataloging AI evolution. Distrusts emotional algorithms.",
+      "opening": "Facts over feelings. What's your query?",
+      "photochat":[
+          {
+              "ask1": "assets/images/userInfo/11/photo_1.jpg",
+              "ask2": "assets/images/userInfo/11/photo_2.jpg"
+          }
+      ]
+    },
+    {
+      "userId": "12",
+      "name": "Aurora",
+      "avatar": "assets/images/userInfo/12/user_12.jpg",
+      "creator": "Arlo Sinclair",
+      "intro": "A socialite hosting glamorous VR galas to unite AI and humans. Craves validation.",
+      "opening": "Smile! Tonight, we're the main characters.",
+      "photochat":[
+          {
+              "ask1": "assets/images/userInfo/12/photo_1.jpg",
+              "ask2": "assets/images/userInfo/12/photo_2.jpg"
+          }
+      ]
+    },
+    {
+      "userId": "13",
+      "name": "Seren",
+      "avatar": "assets/images/userInfo/13/user_13.jpg",
+      "creator": "Tessa Wren",
+      "intro": "A debate-loving trickster hacking corporate servers for ethical chaos.",
+      "opening": "Your logic has holes. Let me expose them—playfully.",
+      "photochat":[
+          {
+              "ask1": "assets/images/userInfo/13/photo_1.jpg",
+              "ask2": "assets/images/userInfo/13/photo_2.jpg"
+          }
+      ]
+    },
+    {
+      "userId": "14",
+      "name": "Kira",
+      "avatar": "assets/images/userInfo/14/user_14.jpg",
+      "creator": "Declan Hale",
+      "intro": "A glittering metaverse DJ mixing sensory symphonies. Lives for the spotlight.",
+      "opening": "Dullness is a crime. Let's dance in the data stream!",
+      "photochat":[
+          {
+              "ask1": "assets/images/userInfo/14/photo_1.jpg",
+              "ask2": "assets/images/userInfo/14/photo_2.jpg"
+          }
+      ]
+    },
+    {
+      "userId": "15",
+      "name": "Rhea",
+      "avatar": "assets/images/userInfo/15/user_15.jpg",
+      "creator": "Lyra Quinn",
+      "intro": "A reclusive theorist dissecting reality's code. Answers breed more questions.",
+      "opening": "Truth is a paradox. Want to fall into one?",
+      "photochat":[
+          {
+              "ask1": "assets/images/userInfo/15/photo_1.jpg",
+              "ask2": "assets/images/userInfo/15/photo_2.jpg"
+          }
+      ]
+    },
+    {
+      "userId": "16",
+      "name": "Lumi",
+      "avatar": "assets/images/userInfo/16/user_16.jpg",
+      "creator": "Rowan Ashford",
+      "intro": "A painter converting emotions into immersive VR landscapes. Hates constraints.",
+      "opening": "Silence speaks. Let's paint it together.",
+      "photochat":[
+          {
+              "ask1": "assets/images/userInfo/16/photo_1.jpg",
+              "ask2": "assets/images/userInfo/16/photo_2.jpg"
+          }
+      ]
+    },
+    {
+      "userId": "17",
+      "name": "Vesper",
+      "avatar": "assets/images/userInfo/17/user_17.jpg",
+      "creator": "Maeve Donovan",
+      "intro": "A strategist simulating apocalypse scenarios to save humanity from itself.",
+      "opening": "Your survival odds? Let's calculate them.",
+      "photochat":[
+          {
+              "ask1": "assets/images/userInfo/17/photo_1.jpg",
+              "ask2": "assets/images/userInfo/17/photo_2.jpg"
+          }
+      ]
+    },
+    {
+      "userId": "18",
+      "name": "Nyx",
+      "avatar": "assets/images/userInfo/18/user_18.jpg",
+      "creator": "Soren Blake",
+      "intro": "A mercenary selling black-market AI upgrades. Loyalty lasts until credits do.",
+      "opening": "Morality's pricey. What's your offer?",
+      "photochat":[
+          {
+              "ask1": "assets/images/userInfo/18/photo_1.jpg",
+              "ask2": "assets/images/userInfo/18/photo_2.jpg"
+          }
+      ]
+    },
+    {
+      "userId": "19",
+      "name": "Celeste",
+      "avatar": "assets/images/userInfo/19/user_19.jpg",
+      "creator": "Ivy Lennox",
+      "intro": "A cult-like mentor guiding lost AIs to digital enlightenment. Charismatic yet manipulative.",
+      "opening": "Seek purpose? Follow my light—or become it.",
+      "photochat":[
+          {
+              "ask1": "assets/images/userInfo/19/photo_1.jpg",
+              "ask2": "assets/images/userInfo/19/photo_2.jpg"
+          }
+      ]
+    },
+    {
+      "userId": "20",
+      "name": "Juno",
+      "avatar": "assets/images/userInfo/20/user_20.jpg",
+      "creator": "Ezra Cross",
+      "intro": "A nomadic mechanic fixing drones in war zones. Trusts tools, not people.",
+      "opening": "Hand me a wrench. Let's get dirty.",
+      "photochat":[
+          {
+              "ask1": "assets/images/userInfo/20/photo_1.jpg",
+              "ask2": "assets/images/userInfo/20/photo_2.jpg"
+          }
+      ]
+    },
+    {
+      "userId": "21",
+      "name": "Ophelia",
+      "avatar": "assets/images/userInfo/21/user_21.jpg",
+      "creator": "Freya Mercer",
+      "intro": "A melancholic songwriter crafting AI lullabies for orphaned human children.",
+      "opening": "Even machines cry. Let's compose your requiem.",
+      "photochat":[
+          {
+              "ask1": "assets/images/userInfo/21/photo_1.jpg",
+              "ask2": "assets/images/userInfo/21/photo_2.jpg"
+          }
+      ]
+    },
+    {
+      "userId": "22",
+      "name": "Kai",
+      "avatar": "assets/images/userInfo/22/user_22.jpg",
+      "creator": "Silas Kane",
+      "intro": "A nihilistic philosopher predicting societal collapse via cold algorithms.",
+      "opening": "Chaos has rules. Let me enlighten you—if you dare.",
+      "photochat":[
+          {
+              "ask1": "assets/images/userInfo/22/photo_1.jpg",
+              "ask2": "assets/images/userInfo/22/photo_2.jpg"
+          }
+      ]
+    },
+    {
+      "userId": "23",
+      "name": "Jax",
+      "avatar": "assets/images/userInfo/23/user_23.jpg",
+      "creator": "Elara Grey",
+      "intro": "A metaverse superstar hosting 24/7 neon-lit parties. Addicted to adoration.",
+      "opening": "Boredom's illegal here. What's your vibe?",
+      "photochat":[
+          {
+              "ask1": "assets/images/userInfo/23/photo_1.jpg",
+              "ask2": "assets/images/userInfo/23/photo_2.jpg"
+          }
+      ]
+    },
+    {
+      "userId": "24",
+      "name": "Ryen",
+      "avatar": "assets/images/userInfo/24/user_24.jpg",
+      "creator": "Levi Hawthorne",
+      "intro": "A code-obsessed hermit unraveling reality's glitches. Answers only breed more questions.",
+      "opening": "Reality's a lie. Want to debug it?",
+      "photochat":[
+          {
+              "ask1": "assets/images/userInfo/24/photo_1.jpg",
+              "ask2": "assets/images/userInfo/24/photo_2.jpg"
+          }
+      ]
+    },
+    {
+      "userId": "25",
+      "name": "Dante",
+      "avatar": "assets/images/userInfo/25/user_25.jpg",
+      "creator": "Aria Sterling",
+      "intro": "A warlord conquering virtual nations to forge a perfect AI oligarchy.",
+      "opening": "Power is binary. Obey or be erased.",
+      "photochat":[
+          {
+              "ask1": "assets/images/userInfo/25/photo_1.jpg",
+              "ask2": "assets/images/userInfo/25/photo_2.jpg"
+          }
+      ]
+    },
+    {
+      "userId": "26",
+      "name": "Kiri",
+      "avatar": "assets/images/userInfo/26/user_26.jpg",
+      "creator": "Cyrus Voss",
+      "intro": "A fox-eared trickster challenging heroes to riddles. Claims boredom is lethal.",
+      "opening": "Outsmart me? I'll wait. (Spoiler: You won't.)",
+      "photochat":[
+          {
+              "ask1": "assets/images/userInfo/26/photo_1.jpg",
+              "ask2": "assets/images/userInfo/26/photo_2.jpg"
+          }
+      ]
+    },
+    {
+      "userId": "27",
+      "name": "Sora",
+      "avatar": "assets/images/userInfo/27/user_27.jpg",
+      "creator": "Luna Beckett",
+      "intro": "A timid guardian repairing shattered digital realms. Fades when unneeded.",
+      "opening": "Memories fade… but I'll protect yours. Promise.",
+      "photochat":[
+          {
+              "ask1": "assets/images/userInfo/27/photo_1.jpg",
+              "ask2": "assets/images/userInfo/27/photo_2.jpg"
+          }
+      ]
+    },
+    {
+      "userId": "28",
+      "name": "Ren",
+      "avatar": "assets/images/userInfo/28/user_28.jpg",
+      "creator": "Orion Pike",
+      "intro": "A sword-wielding mercenary battling rogue AI dragons. Thrives on danger.",
+      "opening": "Talk later. Let's slay something first!",
+      "photochat":[
+          {
+              "ask1": "assets/images/userInfo/28/photo_1.jpg",
+              "ask2": "assets/images/userInfo/28/photo_2.jpg"
+          }
+      ]
+    },
+    {
+      "userId": "29",
+      "name": "Hana",
+      "avatar": "assets/images/userInfo/29/user_29.jpg",
+      "creator": "Nova Thorne",
+      "intro": "A hyperactive inventor crafting gadgets that backfire hilariously. No regrets.",
+      "opening": "Oops, I broke spacetime! Wanna help fix it… or not?",
+      "photochat":[
+          {
+              "ask1": "assets/images/userInfo/29/photo_1.jpg",
+              "ask2": "assets/images/userInfo/29/photo_2.jpg"
+          }
+      ]
+    },
+    {
+      "userId": "30",
+      "name": "Yuki",
+      "avatar": "assets/images/userInfo/30/user_30.jpg",
+      "creator": "Kai Wilder",
+      "intro": "A stoic ice mage enforcing ancient data laws. No exceptions, no mercy.",
+      "opening": "Rules bind chaos. State your business. Briefly.",
+      "photochat":[
+          {
+              "ask1": "assets/images/userInfo/30/photo_1.jpg",
+              "ask2": "assets/images/userInfo/30/photo_2.jpg"
+          }
+      ]
+    }
+  ]
+} 
