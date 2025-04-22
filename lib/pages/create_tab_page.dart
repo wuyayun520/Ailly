@@ -519,16 +519,47 @@ class _CreateTabPageState extends State<CreateTabPage> {
   // 应用栏
   Widget _buildAppBar() {
     return Padding(
-      padding: const EdgeInsets.all(16),
-      child: Center(
-        child: Text(
-          'Edit information',
-          style: TextStyle(
-            color: Colors.white,
-            fontSize: 18,
-            fontWeight: FontWeight.bold,
+      padding: const EdgeInsets.symmetric(horizontal: 16, vertical: 8),
+      child: Row(
+        mainAxisAlignment: MainAxisAlignment.spaceBetween,
+        children: [
+          // 返回按钮
+          GestureDetector(
+            onTap: () {
+              Navigator.pop(context); // 返回上一页
+            },
+            child: Container(
+              width: 40,
+              height: 40,
+              decoration: BoxDecoration(
+                shape: BoxShape.circle,
+                color: Colors.black.withOpacity(0.3),
+                border: Border.all(
+                  color: Colors.white.withOpacity(0.2),
+                  width: 1,
+                ),
+              ),
+              child: const Icon(
+                Icons.arrow_back_ios_new,
+                color: Colors.white,
+                size: 20,
+              ),
+            ),
           ),
-        ),
+          
+          // 标题
+          const Text(
+            'Edit information',
+            style: TextStyle(
+              color: Colors.white,
+              fontSize: 18,
+              fontWeight: FontWeight.bold,
+            ),
+          ),
+          
+          // 占位
+          const SizedBox(width: 40),
+        ],
       ),
     );
   }

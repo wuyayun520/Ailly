@@ -6,6 +6,7 @@ import 'character_detail_page.dart';
 import '../models/chat_history_model.dart';
 import 'dart:io';
 import 'package:path_provider/path_provider.dart';
+import 'create_tab_page.dart';
 
 class CharacterModel {
   final String userId;
@@ -56,7 +57,10 @@ class HomeTabPage extends StatefulWidget {
 
 class _HomeTabPageState extends State<HomeTabPage> with AutomaticKeepAliveClientMixin {
   List<CharacterModel> characters = [];
+  List<CharacterModel> filteredCharacters = []; // 过滤后的角色列表
   bool isLoading = true;
+  String searchQuery = ''; // 搜索查询
+  String selectedCategory = 'All'; // 当前选中的分类
 
   @override
   bool get wantKeepAlive => true; // 确保页面保持状态
@@ -86,6 +90,7 @@ class _HomeTabPageState extends State<HomeTabPage> with AutomaticKeepAliveClient
       
       setState(() {
         characters = allCharacters;
+        filteredCharacters = allCharacters;
         isLoading = false;
       });
     } catch (e) {
@@ -93,6 +98,49 @@ class _HomeTabPageState extends State<HomeTabPage> with AutomaticKeepAliveClient
         isLoading = false;
       });
       debugPrint('Error loading characters: $e');
+    }
+  }
+  
+  // 过滤角色列表
+  void _filterCharacters() {
+    setState(() {
+      // 首先根据搜索查询过滤
+      var result = characters.where((character) {
+        if (searchQuery.isEmpty) return true;
+        return character.name.toLowerCase().contains(searchQuery.toLowerCase()) ||
+               character.intro.toLowerCase().contains(searchQuery.toLowerCase()) ||
+               character.creator.toLowerCase().contains(searchQuery.toLowerCase());
+      }).toList();
+      
+      // 然后根据类别过滤
+      if (selectedCategory != 'All') {
+        if (selectedCategory == 'Popular') {
+          // 按照某种标准对角色进行排序，这里我们假设前10个是最受欢迎的
+          result = result.take(10).toList();
+        } else if (selectedCategory == 'Latest') {
+          // 假设按照userId排序，userId包含时间戳
+          result.sort((a, b) => b.userId.compareTo(a.userId));
+        } else if (selectedCategory == 'My Creations') {
+          // 只显示当前用户创建的角色
+          result = result.where((character) => character.creator == 'You').toList();
+        } else if (selectedCategory == 'Favorites') {
+          // 这里可以添加喜欢/收藏功能，现在先简单处理
+          // 假设前5个是收藏的
+          result = result.take(5).toList();
+        }
+      }
+      
+      filteredCharacters = result;
+    });
+  }
+  
+  // 处理分类标签点击
+  void _handleCategoryTap(String category) {
+    if (selectedCategory != category) {
+      setState(() {
+        selectedCategory = category;
+      });
+      _filterCharacters();
     }
   }
 
@@ -111,13 +159,265 @@ class _HomeTabPageState extends State<HomeTabPage> with AutomaticKeepAliveClient
     return Scaffold(
       backgroundColor: const Color(0xFF121214),
       body: SafeArea(
-        child: ListView.builder(
-          padding: const EdgeInsets.symmetric(vertical: 16.0),
-          itemCount: characters.length,
-          itemBuilder: (context, index) {
-            final character = characters[index];
-            return CharacterCard(character: character);
-          },
+        child: Stack(
+          children: [
+            // 主要内容（带搜索栏和分类标签）
+            Column(
+              children: [
+                // 搜索栏
+                Padding(
+                  padding: const EdgeInsets.fromLTRB(16, 16, 16, 8),
+                  child: Container(
+                    height: 48,
+                    decoration: BoxDecoration(
+                      color: Colors.grey.shade900,
+                      borderRadius: BorderRadius.circular(24),
+                      border: Border.all(
+                        color: Colors.grey.shade800,
+                        width: 1,
+                      ),
+                    ),
+                    child: TextField(
+                      style: const TextStyle(color: Colors.white),
+                      decoration: InputDecoration(
+                        hintText: 'Search AI characters',
+                        hintStyle: TextStyle(color: Colors.grey.shade500),
+                        prefixIcon: Icon(Icons.search, color: Colors.grey.shade500),
+                        border: InputBorder.none,
+                        contentPadding: const EdgeInsets.symmetric(vertical: 12),
+                      ),
+                      onChanged: (value) {
+                        setState(() {
+                          searchQuery = value;
+                        });
+                        _filterCharacters();
+                      },
+                    ),
+                  ),
+                ),
+                
+                // 分类标签
+                SizedBox(
+                  height: 48,
+                  child: ListView(
+                    scrollDirection: Axis.horizontal,
+                    padding: const EdgeInsets.symmetric(horizontal: 16),
+                    children: [
+                      _buildCategoryTag('All', isSelected: selectedCategory == 'All'),
+                      _buildCategoryTag('Popular', isSelected: selectedCategory == 'Popular'),
+                      _buildCategoryTag('Latest', isSelected: selectedCategory == 'Latest'),
+                      _buildCategoryTag('My Creations', isSelected: selectedCategory == 'My Creations'),
+                      _buildCategoryTag('Favorites', isSelected: selectedCategory == 'Favorites'),
+                    ],
+                  ),
+                ),
+                
+                // 推荐角色（带渐变背景）
+                if (filteredCharacters.isNotEmpty)
+                  Container(
+                    height: 200,
+                    margin: const EdgeInsets.only(top: 8, bottom: 16),
+                    child: ListView.builder(
+                      scrollDirection: Axis.horizontal,
+                      padding: const EdgeInsets.symmetric(horizontal: 16),
+                      itemCount: filteredCharacters.length > 5 ? 5 : filteredCharacters.length,
+                      itemBuilder: (context, index) {
+                        final character = filteredCharacters[index];
+                        return GestureDetector(
+                          onTap: () {
+                            Navigator.push(
+                              context,
+                              MaterialPageRoute(
+                                builder: (context) => CharacterDetailPage(character: character),
+                              ),
+                            );
+                          },
+                          child: Container(
+                            width: 140,
+                            margin: const EdgeInsets.only(right: 12),
+                            decoration: BoxDecoration(
+                              borderRadius: BorderRadius.circular(12),
+                              gradient: LinearGradient(
+                                begin: Alignment.topCenter,
+                                end: Alignment.bottomCenter,
+                                colors: [
+                                  Colors.transparent,
+                                  Colors.black.withOpacity(0.7),
+                                ],
+                              ),
+                            ),
+                            child: Stack(
+                              children: [
+                                // 角色图片
+                                ClipRRect(
+                                  borderRadius: BorderRadius.circular(12),
+                                  child: buildAvatarImage(character.avatar, 
+                                    width: 140, 
+                                    height: 200,
+                                  ),
+                                ),
+                                
+                                // 角色信息（底部）
+                                Positioned(
+                                  bottom: 0,
+                                  left: 0,
+                                  right: 0,
+                                  child: Container(
+                                    padding: const EdgeInsets.all(8),
+                                    decoration: BoxDecoration(
+                                      borderRadius: const BorderRadius.only(
+                                        bottomLeft: Radius.circular(12),
+                                        bottomRight: Radius.circular(12),
+                                      ),
+                                      gradient: LinearGradient(
+                                        begin: Alignment.bottomCenter,
+                                        end: Alignment.topCenter,
+                                        colors: [
+                                          Colors.black.withOpacity(0.8),
+                                          Colors.transparent,
+                                        ],
+                                      ),
+                                    ),
+                                    child: Column(
+                                      crossAxisAlignment: CrossAxisAlignment.start,
+                                      children: [
+                                        Text(
+                                          character.name,
+                                          style: const TextStyle(
+                                            color: Colors.white,
+                                            fontSize: 16,
+                                            fontWeight: FontWeight.bold,
+                                          ),
+                                          maxLines: 1,
+                                          overflow: TextOverflow.ellipsis,
+                                        ),
+                                        Text(
+                                          character.intro,
+                                          style: TextStyle(
+                                            color: Colors.white.withOpacity(0.7),
+                                            fontSize: 12,
+                                          ),
+                                          maxLines: 2,
+                                          overflow: TextOverflow.ellipsis,
+                                        ),
+                                      ],
+                                    ),
+                                  ),
+                                ),
+                                
+                                // 热门标签
+                                if (index < 3)
+                                  Positioned(
+                                    top: 8,
+                                    right: 8,
+                                    child: Container(
+                                      padding: const EdgeInsets.symmetric(horizontal: 8, vertical: 4),
+                                      decoration: BoxDecoration(
+                                        color: const Color(0xFFE91E63),
+                                        borderRadius: BorderRadius.circular(10),
+                                      ),
+                                      child: const Text(
+                                        'HOT',
+                                        style: TextStyle(
+                                          color: Colors.white,
+                                          fontSize: 10,
+                                          fontWeight: FontWeight.bold,
+                                        ),
+                                      ),
+                                    ),
+                                  ),
+                              ],
+                            ),
+                          ),
+                        );
+                      },
+                    ),
+                  ),
+                
+                // 角色卡片列表（使用Expanded确保列表可滚动）
+                Expanded(
+                  child: ListView.builder(
+                    padding: const EdgeInsets.only(top: 8, bottom: 80),
+                    itemCount: filteredCharacters.length,
+                    itemBuilder: (context, index) {
+                      final character = filteredCharacters[index];
+                      return CharacterCard(character: character);
+                    },
+                  ),
+                ),
+              ],
+            ),
+            
+            // 创建AI角色按钮
+            Positioned(
+              bottom: 24,
+              right: 24,
+              child: GestureDetector(
+                onTap: () {
+                  Navigator.push(
+                    context,
+                    MaterialPageRoute(
+                      builder: (context) => const CreateTabPage(),
+                    ),
+                  );
+                },
+                child: Container(
+                  width: 60,
+                  height: 60,
+                  decoration: BoxDecoration(
+                    shape: BoxShape.circle,
+                    gradient: const LinearGradient(
+                      begin: Alignment.topLeft,
+                      end: Alignment.bottomRight,
+                      colors: [
+                        Color(0xFFE91E63),
+                        Color(0xFFFF4081),
+                      ],
+                    ),
+                    boxShadow: [
+                      BoxShadow(
+                        color: const Color(0xFFE91E63).withOpacity(0.5),
+                        spreadRadius: 2,
+                        blurRadius: 10,
+                        offset: const Offset(0, 4),
+                      ),
+                    ],
+                  ),
+                  child: const Icon(
+                    Icons.add,
+                    color: Colors.white,
+                    size: 36,
+                  ),
+                ),
+              ),
+            ),
+          ],
+        ),
+      ),
+    );
+  }
+  
+  // 分类标签组件
+  Widget _buildCategoryTag(String text, {bool isSelected = false}) {
+    return GestureDetector(
+      onTap: () => _handleCategoryTap(text),
+      child: Container(
+        margin: const EdgeInsets.only(right: 8),
+        child: Chip(
+          label: Text(
+            text,
+            style: TextStyle(
+              color: isSelected ? Colors.white : Colors.grey.shade400,
+              fontWeight: isSelected ? FontWeight.bold : FontWeight.normal,
+            ),
+          ),
+          backgroundColor: isSelected 
+              ? const Color(0xFFE91E63) 
+              : Colors.grey.shade800,
+          padding: const EdgeInsets.symmetric(horizontal: 12, vertical: 4),
+          shape: RoundedRectangleBorder(
+            borderRadius: BorderRadius.circular(16),
+          ),
         ),
       ),
     );
@@ -215,7 +515,7 @@ class CharacterCard extends StatelessWidget {
                             ),
                           ),
                           child: ClipOval(
-                            child: _buildAvatarImage(character.avatar, size: 28),
+                            child: buildAvatarImage(character.avatar, size: 28),
                           ),
                         ),
                         const SizedBox(width: 4.0),
@@ -239,7 +539,7 @@ class CharacterCard extends StatelessWidget {
               top: 12,
               child: ClipRRect(
                 borderRadius: BorderRadius.circular(16.0),
-                child: _buildAvatarImage(character.avatar, width: 105, height: 140),
+                child: buildAvatarImage(character.avatar, width: 105, height: 140),
               ),
             ),
           ],
@@ -247,75 +547,77 @@ class CharacterCard extends StatelessWidget {
       ),
     );
   }
+}
+
+// 构建角色头像 - 全局函数
+Widget buildAvatarImage(String avatarPath, {double? width, double? height, double? size}) {
+  final double imageWidth = size ?? width ?? 105;
+  final double imageHeight = size ?? height ?? 140;
   
-  Widget _buildAvatarImage(String avatarPath, {double? width, double? height, double? size}) {
-    final double imageWidth = size ?? width ?? 105;
-    final double imageHeight = size ?? height ?? 140;
-    
-    try {
-      // 检查是否是绝对路径
-      if (avatarPath.startsWith('/')) {
-        // 绝对路径 - 本地文件
-        return Image.file(
-          File(avatarPath),
-          width: imageWidth,
-          height: imageHeight,
-          fit: BoxFit.cover,
-          errorBuilder: (context, error, stackTrace) {
-            print('Error loading avatar file: $error');
-            return _buildDefaultAvatar(imageWidth, imageHeight);
-          },
-        );
-      } else if (avatarPath.startsWith('assets/')) {
-        // 资源文件路径
-        return Image.asset(
-          avatarPath,
-          width: imageWidth,
-          height: imageHeight,
-          fit: BoxFit.cover,
-          errorBuilder: (context, error, stackTrace) {
-            return _buildDefaultAvatar(imageWidth, imageHeight);
-          },
-        );
-      } else {
-        // 相对路径 - 需要获取完整路径
-        return FutureBuilder<Directory>(
-          future: getApplicationDocumentsDirectory(),
-          builder: (context, snapshot) {
-            if (snapshot.connectionState == ConnectionState.done && snapshot.hasData) {
-              final fullPath = '${snapshot.data!.path}/$avatarPath';
-              return Image.file(
-                File(fullPath),
-                width: imageWidth,
-                height: imageHeight,
-                fit: BoxFit.cover,
-                errorBuilder: (context, error, stackTrace) {
-                  print('Error loading relative avatar file: $error');
-                  return _buildDefaultAvatar(imageWidth, imageHeight);
-                },
-              );
-            } else {
-              return _buildDefaultAvatar(imageWidth, imageHeight);
-            }
-          },
-        );
-      }
-    } catch (e) {
-      print('Error building avatar image: $e');
-      return _buildDefaultAvatar(imageWidth, imageHeight);
+  try {
+    // 检查是否是绝对路径
+    if (avatarPath.startsWith('/')) {
+      // 绝对路径 - 本地文件
+      return Image.file(
+        File(avatarPath),
+        width: imageWidth,
+        height: imageHeight,
+        fit: BoxFit.cover,
+        errorBuilder: (context, error, stackTrace) {
+          print('Error loading avatar file: $error');
+          return buildDefaultAvatar(imageWidth, imageHeight);
+        },
+      );
+    } else if (avatarPath.startsWith('assets/')) {
+      // 资源文件路径
+      return Image.asset(
+        avatarPath,
+        width: imageWidth,
+        height: imageHeight,
+        fit: BoxFit.cover,
+        errorBuilder: (context, error, stackTrace) {
+          return buildDefaultAvatar(imageWidth, imageHeight);
+        },
+      );
+    } else {
+      // 相对路径 - 需要获取完整路径
+      return FutureBuilder<Directory>(
+        future: getApplicationDocumentsDirectory(),
+        builder: (context, snapshot) {
+          if (snapshot.connectionState == ConnectionState.done && snapshot.hasData) {
+            final fullPath = '${snapshot.data!.path}/$avatarPath';
+            return Image.file(
+              File(fullPath),
+              width: imageWidth,
+              height: imageHeight,
+              fit: BoxFit.cover,
+              errorBuilder: (context, error, stackTrace) {
+                print('Error loading relative avatar file: $error');
+                return buildDefaultAvatar(imageWidth, imageHeight);
+              },
+            );
+          } else {
+            return buildDefaultAvatar(imageWidth, imageHeight);
+          }
+        },
+      );
     }
+  } catch (e) {
+    print('Error building avatar image: $e');
+    return buildDefaultAvatar(imageWidth, imageHeight);
   }
-  
-  Widget _buildDefaultAvatar(double width, double height) {
-    return Container(
-      width: width,
-      height: height,
-      color: Colors.grey.shade800,
-      child: Icon(
-        Icons.person,
-        color: Colors.white54,
-        size: width * 0.4,
-      ),
-    );
-  }
+}
+
+// 默认头像 - 全局函数
+Widget buildDefaultAvatar(double width, double height) {
+  return Container(
+    width: width,
+    height: height,
+    color: Colors.grey.shade800,
+    child: Icon(
+      Icons.person,
+      color: Colors.white54,
+      size: width * 0.4,
+    ),
+  );
 } 

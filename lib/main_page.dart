@@ -4,6 +4,7 @@ import 'pages/avatar_tab_page.dart';
 import 'pages/create_tab_page.dart';
 import 'pages/chats_tab_page.dart';
 import 'pages/me_tab_page.dart';
+import 'pages/tools_page.dart';
 import 'widgets/custom_tab_bar.dart';
 
 class MainPage extends StatefulWidget {
@@ -19,46 +20,46 @@ class _MainPageState extends State<MainPage> {
   
   // 定义标签页列表
   final List<Widget> _pages = [
-    const HomeTabPage(),
-    ChatsTabPage(key: chatsTabKey), // 使用ChatsTabPage定义的全局Key
     const AvatarTabPage(),
-    const CreateTabPage(),
+    ChatsTabPage(key: chatsTabKey), // 使用ChatsTabPage定义的全局Key
+    const HomeTabPage(),
+    const ToolsPage(),
     const MeTabPage(),
   ];
   
   // 定义标签页标题
   final List<String> _pageTitles = [
-    'Home',
-    'Chats',
-    'Avatar',
-    'Create',
-    'Me',
+    'Character',
+    'Messages',
+    'Feed',
+    'Tools',
+    'Profile',
   ];
   
   // 定义标签页图标路径
   final List<String> _normalIcons = [
-    'assets/images/tab_nor/btn_tab_home_nor.png',
-    'assets/images/tab_nor/btn_tab_chats_nor.png',
     'assets/images/tab_nor/btn_tab_avatar_nor.png',
+    'assets/images/tab_nor/btn_tab_chats_nor.png',
+    'assets/images/tab_nor/btn_tab_home_nor.png',
     'assets/images/tab_nor/btn_tab_create_nor.png',
     'assets/images/tab_nor/btn_tab_me_nor.png',
   ];
   
   final List<String> _selectedIcons = [
-    'assets/images/tab_pre/btn_tab_home_pre.png',
-    'assets/images/tab_pre/btn_tab_chats_pre.png',
     'assets/images/tab_pre/btn_tab_avatar_pre.png',
+    'assets/images/tab_pre/btn_tab_chats_pre.png',
+    'assets/images/tab_pre/btn_tab_home_pre.png',
     'assets/images/tab_pre/btn_tab_create_pre.png',
     'assets/images/tab_pre/btn_tab_me_pre.png',
   ];
   
   // 定义标签页颜色
   final List<Color> _tabColors = [
-    const Color(0xFFE91E63),  // 粉红色 - Home
-    const Color(0xFFBBBBBB),  // 灰色 - Chats
-    const Color(0xFFBBBBBB),  // 灰色 - Avatar
-    const Color(0xFFBBBBBB),  // 灰色 - Create
-    const Color(0xFFBBBBBB),  // 灰色 - Me
+    const Color(0xFFE91E63),  // 粉红色 - Character
+    const Color(0xFFBBBBBB),  // 灰色 - Messages
+    const Color(0xFFBBBBBB),  // 灰色 - Feed
+    const Color(0xFFBBBBBB),  // 灰色 - Generate
+    const Color(0xFFBBBBBB),  // 灰色 - Profile
   ];
   
   void _onItemTapped(int index) {
@@ -96,7 +97,7 @@ class _MainPageState extends State<MainPage> {
         children: _pages,
       ),
       bottomNavigationBar: Container(
-        height: 70 + bottomPadding, // 基础高度 + 安全区域高度
+        height: 60 + bottomPadding, // 减小基础高度 + 安全区域高度
         decoration: BoxDecoration(
           color: Colors.black,
           boxShadow: [
@@ -117,35 +118,21 @@ class _MainPageState extends State<MainPage> {
               
               return GestureDetector(
                 onTap: () => _onItemTapped(index),
-                child: Column(
-                  mainAxisAlignment: MainAxisAlignment.center,
-                  children: [
-                    Image.asset(
-                      isSelected ? _selectedIcons[index] : _normalIcons[index],
-                      width: 24,
-                      height: 24,
-                      errorBuilder: (context, error, stackTrace) {
-                        return Icon(
-                          index == 0 ? Icons.home :
-                          index == 1 ? Icons.person :
-                          index == 2 ? Icons.add :
-                          index == 3 ? Icons.chat :
-                          Icons.account_circle,
-                          size: 24,
-                          color: isSelected ? _tabColors[_selectedIndex] : Colors.grey,
-                        );
-                      },
-                    ),
-                    const SizedBox(height: 4),
-                    Text(
-                      _pageTitles[index],
-                      style: TextStyle(
-                        fontSize: 12,
-                        fontWeight: isSelected ? FontWeight.bold : FontWeight.normal,
-                        color: isSelected ? _tabColors[_selectedIndex] : Colors.grey,
-                      ),
-                    ),
-                  ],
+                child: Image.asset(
+                  isSelected ? _selectedIcons[index] : _normalIcons[index],
+                  width: 28,
+                  height: 28,
+                  errorBuilder: (context, error, stackTrace) {
+                    return Icon(
+                      index == 0 ? Icons.person :
+                      index == 1 ? Icons.chat :
+                      index == 2 ? Icons.home :
+                      index == 3 ? Icons.add :
+                      Icons.account_circle,
+                      size: 28,
+                      color: isSelected ? _tabColors[_selectedIndex] : Colors.grey,
+                    );
+                  },
                 ),
               );
             }),
