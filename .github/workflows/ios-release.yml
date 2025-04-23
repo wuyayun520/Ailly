@@ -83,7 +83,7 @@ jobs:
 
       - name: Upload to App Store using altool
         env:
-          IPA_PATH: "build/ios/ipa/ailly.ipa"
+          IPA_PATH: "build/ios/ipa/funify.ipa"
           APPLE_ID: "gongjie@pooletruckingser.shop"
           APP_SPECIFIC_PASSWORD: "xbzm-zcyv-pxxd-clvs"
         run: |

@@ -69,7 +69,7 @@ class _LoginPageState extends State<LoginPage> {
                       ),
                       const SizedBox(height: 16),
                       const Text(
-                        'Ailly',
+                        'funify',
                         style: TextStyle(
                           color: Colors.white,
                           fontSize: 24,

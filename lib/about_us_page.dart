@@ -31,7 +31,7 @@ class AboutUsPage extends StatelessWidget {
                   ),
                   const SizedBox(height: 16),
                   const Text(
-                    'Ailly',
+                    'funify',
                     style: TextStyle(
                       color: Colors.white,
                       fontSize: 24,
@@ -54,7 +54,7 @@ class AboutUsPage extends StatelessWidget {
             
             // 应用介绍
             const Text(
-              'About Ailly',
+              'About funify',
               style: TextStyle(
                 color: Colors.white,
                 fontSize: 20,
@@ -64,7 +64,7 @@ class AboutUsPage extends StatelessWidget {
             ),
             const SizedBox(height: 16),
             const Text(
-              'Ailly is an innovative AI companion app that brings a new dimension to digital interactions. Our app provides a space where you can engage with intelligent AI characters, each with their own unique personality and conversational style.',
+              'funify is an innovative AI companion app that brings a new dimension to digital interactions. Our app provides a space where you can engage with intelligent AI characters, each with their own unique personality and conversational style.',
               style: TextStyle(
                 color: Colors.white,
                 fontSize: 16,
@@ -125,7 +125,7 @@ class AboutUsPage extends StatelessWidget {
             ),
             const SizedBox(height: 16),
             const Text(
-              'Email: support@Ailly.app',
+              'Email: support@funify.app',
               style: TextStyle(
                 color: Colors.white,
                 fontSize: 16,
@@ -138,7 +138,7 @@ class AboutUsPage extends StatelessWidget {
             
             // 版权信息
             const Text(
-              '© 2025 Ailly. All rights reserved.',
+              '© 2025 funify. All rights reserved.',
               style: TextStyle(
                 color: Colors.white70,
                 fontSize: 14,

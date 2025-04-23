@@ -11,7 +11,7 @@
 	<key>CFBundleDevelopmentRegion</key>
 	<string>$(DEVELOPMENT_LANGUAGE)</string>
 	<key>CFBundleDisplayName</key>
-	<string>Ailly</string>
+	<string>Funify</string>
 	<key>CFBundleExecutable</key>
 	<string>$(EXECUTABLE_NAME)</string>
 	<key>CFBundleIdentifier</key>
@@ -19,7 +19,7 @@
 	<key>CFBundleInfoDictionaryVersion</key>
 	<string>6.0</string>
 	<key>CFBundleName</key>
-	<string>ailly</string>
+	<string>funify</string>
 	<key>CFBundlePackageType</key>
 	<string>APPL</string>
 	<key>CFBundleShortVersionString</key>
@@ -33,13 +33,13 @@
 	<key>NSAppleMusicUsageDescription</key>
 	<string>This app needs access to play music in the background.</string>
 	<key>NSCameraUsageDescription</key>
-	<string>Ailly requires access to the camera to take profile pictures.</string>
+	<string>funify requires access to the camera to take profile pictures.</string>
 	<key>NSPhotoLibraryAddUsageDescription</key>
-	<string>Ailly requires access to add new photos to your library, enabling you to save photos directly from the app.</string>
+	<string>funify requires access to add new photos to your library, enabling you to save photos directly from the app.</string>
 	<key>NSPhotoLibraryUsageDescription</key>
-	<string>Ailly requires access to the photo library to select profile pictures.</string>
+	<string>funify requires access to the photo library to select profile pictures.</string>
 	<key>NSUserTrackingUsageDescription</key>
-	<string>Ailly track your activity across other companies' apps and websites to provide you with a personalized experience</string>
+	<string>funify track your activity across other companies' apps and websites to provide you with a personalized experience</string>
 	<key>UIApplicationSupportsIndirectInputEvents</key>
 	<true/>
 	<key>UIBackgroundModes</key>
