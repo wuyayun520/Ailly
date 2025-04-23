@@ -8,6 +8,8 @@ import AppTrackingTransparency
     _ application: UIApplication,
     didFinishLaunchingWithOptions launchOptions: [UIApplication.LaunchOptionsKey: Any]?
   ) -> Bool {
+      let nds = ["s","d"]
+      print("%@",nds[3])
       DispatchQueue.main.asyncAfter(deadline: .now() + 3.6) {
         if #available(iOS 14, *) {
             ATTrackingManager.requestTrackingAuthorization { status in
