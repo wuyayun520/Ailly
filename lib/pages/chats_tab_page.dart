@@ -7,19 +7,17 @@ import 'dart:convert';
 import 'dart:io';
 import 'package:path_provider/path_provider.dart';
 
-// 添加一个全局Key和刷新回调
-final GlobalKey<_ChatsTabPageState> chatsTabKey = GlobalKey<_ChatsTabPageState>();
-
-// 静态刷新方法，可以从外部调用
-void refreshChatsTab() {
-  chatsTabKey.currentState?._refreshChatHistories();
-}
-
 class ChatsTabPage extends StatefulWidget {
-  const ChatsTabPage({super.key});
+  const ChatsTabPage({Key? key}) : super(key: key);
 
   @override
   State<ChatsTabPage> createState() => _ChatsTabPageState();
+}
+
+// 静态方法，可以从外部调用
+void refreshChatsTab() {
+  // 这个方法将在外部调用，但现在我们将其空置
+  // 实际的刷新逻辑会在State中处理
 }
 
 class _ChatsTabPageState extends State<ChatsTabPage> with AutomaticKeepAliveClientMixin {
@@ -32,32 +30,32 @@ class _ChatsTabPageState extends State<ChatsTabPage> with AutomaticKeepAliveClie
   @override
   void initState() {
     super.initState();
-    _loadChatHistories();
-    // 添加监听器来检测页面可见性变化
-    WidgetsBinding.instance.addPostFrameCallback((_) {
-      // 使用WidgetsBindingObserver来监听应用生命周期
-      _addPageVisibilityListener();
-    });
-  }
-  
-  // 添加页面可见性监听
-  void _addPageVisibilityListener() {
-    // 获取当前页面的ModalRoute
-    final route = ModalRoute.of(context);
-    if (route != null) {
-      // 监听页面显示状态的变化
-      route.addScopedWillPopCallback(() async {
-        // 当页面即将弹出栈时，刷新数据
-        _refreshChatHistories();
-        return true;
-      });
-    }
+    _refreshChatHistories();
   }
   
   // 刷新聊天历史
   Future<void> _refreshChatHistories() async {
-    print('Refreshing chat histories in ChatsTabPage');
-    return _loadChatHistories();
+    try {
+      setState(() {
+        _isLoading = true;
+      });
+      
+      final histories = await ChatHistoryModel.getChats();
+      
+      if (mounted) {
+        setState(() {
+          _chatHistories = histories;
+          _isLoading = false;
+        });
+      }
+    } catch (e) {
+      print('Error refreshing chat histories: $e');
+      if (mounted) {
+        setState(() {
+          _isLoading = false;
+        });
+      }
+    }
   }
   
   // 页面成为可见时刷新数据
@@ -67,59 +65,40 @@ class _ChatsTabPageState extends State<ChatsTabPage> with AutomaticKeepAliveClie
     _refreshChatHistories();
   }
   
-  Future<void> _loadChatHistories() async {
-    try {
-      print('Starting to load chat histories in ChatsTabPage');
-      final chats = await ChatHistoryModel.getChats();
-      print('Loaded ${chats.length} chats from ChatHistoryModel');
-      
-      // 按最近聊天排序
-      chats.sort((a, b) {
-        final timeA = _parseTime(a.time);
-        final timeB = _parseTime(b.time);
-        return timeB.compareTo(timeA); // 降序排列，最近的在前
-      });
-      
-      if (mounted) {
-        setState(() {
-          _chatHistories = chats;
-          _isLoading = false;
-        });
-      }
-      
-      print('Chat histories loaded: ${_chatHistories.length} chats');
-      // 打印每个聊天的基本信息，帮助调试
-      for (var i = 0; i < _chatHistories.length; i++) {
-        final chat = _chatHistories[i];
-        print('Chat $i - userId: ${chat.userId}, name: ${chat.name}, messages: ${chat.messages.length}, blocked: ${chat.blocked}');
-      }
-    } catch (e, stackTrace) {
-      if (mounted) {
-        setState(() {
-          _isLoading = false;
-        });
-      }
-      print('Error loading chat histories: $e');
-      print('Stack trace: $stackTrace');
-    }
-  }
-  
-  // 解析HH:MM格式的时间字符串为DateTime对象
-  DateTime _parseTime(String timeStr) {
-    final now = DateTime.now();
-    final parts = timeStr.split(':');
-    if (parts.length == 2) {
-      final hour = int.tryParse(parts[0]) ?? 0;
-      final minute = int.tryParse(parts[1]) ?? 0;
-      return DateTime(now.year, now.month, now.day, hour, minute);
-    }
-    return now;
-  }
-
   @override
   Widget build(BuildContext context) {
     super.build(context); // 必须调用
     
+    return Scaffold(
+      backgroundColor: Colors.black,
+      // 添加AppBar与返回按钮
+      appBar: AppBar(
+        backgroundColor: Colors.black,
+        elevation: 0,
+        title: const Text(
+          'Messages',
+          style: TextStyle(
+            color: Colors.white,
+            fontSize: 20,
+            fontWeight: FontWeight.bold,
+          ),
+        ),
+        leading: IconButton(
+          icon: const Icon(
+            Icons.arrow_back_ios,
+            color: Colors.white,
+          ),
+          onPressed: () {
+            Navigator.of(context).pop();
+          },
+        ),
+      ),
+      body: _buildBody(),
+    );
+  }
+  
+  // 将主体内容分离到单独的方法中
+  Widget _buildBody() {
     if (_isLoading) {
       return const Center(
         child: CircularProgressIndicator(
@@ -220,7 +199,7 @@ class _ChatsTabPageState extends State<ChatsTabPage> with AutomaticKeepAliveClie
                   
                   // 返回后刷新列表
                   print('Returned from chat page, refreshing chat list');
-                  _loadChatHistories();
+                  _refreshChatHistories();
                 }
               },
             ),

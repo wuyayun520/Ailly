@@ -7,6 +7,8 @@ import 'package:shared_preferences/shared_preferences.dart';
 import '../terms_of_service_page.dart';
 import '../privacy_policy_page.dart';
 import '../about_us_page.dart';
+import '../pages/chats_tab_page.dart';
+import '../pages/home_tab_page.dart';
 
 class MeTabPage extends StatefulWidget {
   const MeTabPage({super.key});
@@ -268,6 +270,32 @@ class _MeTabPageState extends State<MeTabPage> {
               // 菜单项列表
               const SizedBox(height: 20),
 
+              _buildMenuItem(
+                icon: Icons.message_outlined,
+                title: 'Messages',
+                onTap: () {
+                  // 跳转到ChatsTabPage页面
+                  Navigator.push(
+                    context,
+                    MaterialPageRoute(
+                      builder: (context) => const ChatsTabPage(),
+                    ),
+                  );
+                },
+              ),
+              _buildMenuItem(
+                icon: Icons.star_outline,
+                title: 'Super Characters',
+                onTap: () {
+                  // 跳转到HomeTabPage页面
+                  Navigator.push(
+                    context,
+                    MaterialPageRoute(
+                      builder: (context) => const HomeTabPage(),
+                    ),
+                  );
+                },
+              ),
               _buildMenuItem(
                 icon: Icons.person_outline,
                 title: 'About us',

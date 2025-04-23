@@ -2,10 +2,10 @@ import 'package:flutter/material.dart';
 import 'pages/home_tab_page.dart';
 import 'pages/avatar_tab_page.dart';
 import 'pages/create_tab_page.dart';
-import 'pages/chats_tab_page.dart';
 import 'pages/me_tab_page.dart';
 import 'pages/tools_page.dart';
-import 'widgets/custom_tab_bar.dart';
+import 'pages/screen/home_screen.dart';
+import 'pages/screen/category_screen.dart';
 
 class MainPage extends StatefulWidget {
   const MainPage({super.key});
@@ -20,45 +20,45 @@ class _MainPageState extends State<MainPage> {
   
   // 定义标签页列表
   final List<Widget> _pages = [
-    const AvatarTabPage(),
-    ChatsTabPage(key: chatsTabKey), // 使用ChatsTabPage定义的全局Key
-    const HomeTabPage(),
+    const HomeScreen(),
+    const CategoryScreen(),
     const ToolsPage(),
+    const AvatarTabPage(),
     const MeTabPage(),
   ];
   
   // 定义标签页标题
   final List<String> _pageTitles = [
-    'Character',
-    'Messages',
-    'Feed',
+    'Notes',
+    'Categories',
     'Tools',
+    'Character',
     'Profile',
   ];
   
   // 定义标签页图标路径
   final List<String> _normalIcons = [
-    'assets/images/tab_nor/btn_tab_avatar_nor.png',
     'assets/images/tab_nor/btn_tab_chats_nor.png',
     'assets/images/tab_nor/btn_tab_home_nor.png',
     'assets/images/tab_nor/btn_tab_create_nor.png',
+    'assets/images/tab_nor/btn_tab_avatar_nor.png',
     'assets/images/tab_nor/btn_tab_me_nor.png',
   ];
   
   final List<String> _selectedIcons = [
-    'assets/images/tab_pre/btn_tab_avatar_pre.png',
     'assets/images/tab_pre/btn_tab_chats_pre.png',
     'assets/images/tab_pre/btn_tab_home_pre.png',
     'assets/images/tab_pre/btn_tab_create_pre.png',
+    'assets/images/tab_pre/btn_tab_avatar_pre.png',
     'assets/images/tab_pre/btn_tab_me_pre.png',
   ];
   
   // 定义标签页颜色
   final List<Color> _tabColors = [
-    const Color(0xFFE91E63),  // 粉红色 - Character
-    const Color(0xFFBBBBBB),  // 灰色 - Messages
-    const Color(0xFFBBBBBB),  // 灰色 - Feed
-    const Color(0xFFBBBBBB),  // 灰色 - Generate
+    const Color(0xFFBBBBBB),  // 灰色 - Notes
+    const Color(0xFFBBBBBB),  // 灰色 - Categories
+    const Color(0xFFBBBBBB),  // 灰色 - Tools
+    const Color(0xFF00ACC1),  // 蓝绿色 - Character
     const Color(0xFFBBBBBB),  // 灰色 - Profile
   ];
   
@@ -68,20 +68,6 @@ class _MainPageState extends State<MainPage> {
     
     setState(() {
       _selectedIndex = index;
-    });
-    
-    // 如果切换到聊天标签页，刷新聊天列表
-    if (index == 1) {
-      print('Switched to Chats tab, refreshing chat list');
-      _refreshChatsTab();
-    }
-  }
-  
-  // 刷新聊天标签页
-  void _refreshChatsTab() {
-    // 使用延迟确保标签页已经构建完成
-    Future.delayed(const Duration(milliseconds: 100), () {
-      refreshChatsTab(); // 调用静态刷新方法
     });
   }
 
@@ -124,10 +110,10 @@ class _MainPageState extends State<MainPage> {
                   height: 28,
                   errorBuilder: (context, error, stackTrace) {
                     return Icon(
-                      index == 0 ? Icons.person :
-                      index == 1 ? Icons.chat :
-                      index == 2 ? Icons.home :
-                      index == 3 ? Icons.add :
+                      index == 0 ? Icons.note :
+                      index == 1 ? Icons.category :
+                      index == 2 ? Icons.add :
+                      index == 3 ? Icons.person :
                       Icons.account_circle,
                       size: 28,
                       color: isSelected ? _tabColors[_selectedIndex] : Colors.grey,

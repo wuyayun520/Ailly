@@ -151,13 +151,34 @@ class _HomeTabPageState extends State<HomeTabPage> with AutomaticKeepAliveClient
     if (isLoading) {
       return const Center(
         child: CircularProgressIndicator(
-          color: Color(0xFFE91E63),
+          color: Color(0xFF00ACC1),
         ),
       );
     }
 
     return Scaffold(
       backgroundColor: const Color(0xFF121214),
+      appBar: AppBar(
+        backgroundColor: const Color(0xFF121214),
+        elevation: 0,
+        title: const Text(
+          'Super Characters',
+          style: TextStyle(
+            color: Colors.white,
+            fontSize: 20,
+            fontWeight: FontWeight.bold,
+          ),
+        ),
+        leading: IconButton(
+          icon: const Icon(
+            Icons.arrow_back_ios,
+            color: Colors.white,
+          ),
+          onPressed: () {
+            Navigator.of(context).pop();
+          },
+        ),
+      ),
       body: SafeArea(
         child: Stack(
           children: [
@@ -313,7 +334,7 @@ class _HomeTabPageState extends State<HomeTabPage> with AutomaticKeepAliveClient
                                     child: Container(
                                       padding: const EdgeInsets.symmetric(horizontal: 8, vertical: 4),
                                       decoration: BoxDecoration(
-                                        color: const Color(0xFFE91E63),
+                                        color: const Color(0xFF00ACC1),
                                         borderRadius: BorderRadius.circular(10),
                                       ),
                                       child: const Text(
@@ -370,13 +391,13 @@ class _HomeTabPageState extends State<HomeTabPage> with AutomaticKeepAliveClient
                       begin: Alignment.topLeft,
                       end: Alignment.bottomRight,
                       colors: [
-                        Color(0xFFE91E63),
-                        Color(0xFFFF4081),
+                        Color(0xFF00ACC1),
+                        Color(0xFF4DD0E1),
                       ],
                     ),
                     boxShadow: [
                       BoxShadow(
-                        color: const Color(0xFFE91E63).withOpacity(0.5),
+                        color: const Color(0xFF00ACC1).withOpacity(0.5),
                         spreadRadius: 2,
                         blurRadius: 10,
                         offset: const Offset(0, 4),
@@ -412,7 +433,7 @@ class _HomeTabPageState extends State<HomeTabPage> with AutomaticKeepAliveClient
             ),
           ),
           backgroundColor: isSelected 
-              ? const Color(0xFFE91E63) 
+              ? const Color(0xFF00ACC1) 
               : Colors.grey.shade800,
           padding: const EdgeInsets.symmetric(horizontal: 12, vertical: 4),
           shape: RoundedRectangleBorder(

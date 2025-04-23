@@ -150,9 +150,8 @@ class _AvatarTabPageState extends State<AvatarTabPage> with AutomaticKeepAliveCl
         setState(() => _position = p);
       });
       
-      // 设置初始曲目并自动播放
+      // 设置初始曲目但不自动播放
       await _setAudioSource(_currentMusicIndex);
-      _audioPlayer.play(); // 自动开始播放
     } catch (e) {
       print('音频播放器初始化错误: $e');
     }
