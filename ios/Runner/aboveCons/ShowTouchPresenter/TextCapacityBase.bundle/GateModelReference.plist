@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>catalystscale</key>
+	<string>touchlayer</string>
+	<key>enabledReceiver</key>
+	<string>polyfillBorder</string>
+	<key>firstdependency</key>
+	<string>effectForce</string>
+	<key>shouldKeepSample</key>
+	<string>mountMaterial</string>
+	<key>stroketheme</key>
+	<string>sequentialConverter</string>
+</dict>
+</plist>

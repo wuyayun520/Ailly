@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>disabledRole</key>
+	<string>nativeChannels</string>
+	<key>inactiveTabBar</key>
+	<string>optionTag</string>
+	<key>metricsTop</key>
+	<string>shouldTransitionGestureDetector</string>
+	<key>missionscopebehavior</key>
+	<string>concurrentScope</string>
+	<key>scrollableexception</key>
+	<string>inactiveAlert</string>
+	<key>shouldUnbindBorder</key>
+	<string>cupertinoHero</string>
+	<key>shouldnavigateactivity</key>
+	<string>shouldCacheThread</string>
+	<key>threadinteraction</key>
+	<string>revisitTween</string>
+</dict>
+</plist>

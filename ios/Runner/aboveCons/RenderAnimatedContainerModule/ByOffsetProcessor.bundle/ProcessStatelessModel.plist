@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>associatedBox</key>
+	<string>shouldSerializeSwift</string>
+	<key>declarativeReplica</key>
+	<string>reusablenavigation</string>
+	<key>extensionCenter</key>
+	<string>taxonomyRate</string>
+	<key>nativeMaterial</key>
+	<string>adjustmodulus</string>
+	<key>popupStatus</key>
+	<string>inactiveContraction</string>
+	<key>scaffoldsize</key>
+	<string>canCreateGraphic</string>
+	<key>shouldDetachStamp</key>
+	<string>disabledLoader</string>
+	<key>smallThread</key>
+	<string>timelineLeft</string>
+</dict>
+</plist>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>fusedvarianttop</key>
+	<string>rowObserver</string>
+	<key>mappervalidation</key>
+	<string>navigatelayout</string>
+	<key>parallelModel</key>
+	<string>backwardScreen</string>
+	<key>progressbarthannumber</key>
+	<string>shouldCancelTangent</string>
+	<key>shouldAnimatePet</key>
+	<string>adaptiveMerger</string>
+	<key>shouldPaintScreen</key>
+	<string>firstInterface</string>
+	<key>videoBrightness</key>
+	<string>embedState</string>
+</dict>
+</plist>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>capsulevisible</key>
+	<string>hasbinary</string>
+	<key>criticalDescription</key>
+	<string>modalVisibility</string>
+	<key>cupertinoNib</key>
+	<string>canRestartCanvas</string>
+	<key>detectorfeedback</key>
+	<string>canUnmountAperture</string>
+	<key>diversifiedlogarithmfrequency</key>
+	<string>topicMomentum</string>
+	<key>numericalThreshold</key>
+	<string>canObserveChecklist</string>
+	<key>sanitizesubscription</key>
+	<string>shouldPauseHeap</string>
+	<key>shouldRouteSwitch</key>
+	<string>ephemeralView</string>
+	<key>trainsegue</key>
+	<string>concurrentInteraction</string>
+</dict>
+</plist>

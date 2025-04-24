@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animatedconsumption</key>
+	<string>futuresinceobserver</string>
+	<key>fixeddescriptionfrequency</key>
+	<string>shouldPersistLayout</string>
+	<key>globalBuffer</key>
+	<string>exitTween</string>
+	<key>interfaceLeft</key>
+	<string>textureShade</string>
+	<key>materializerSaturation</key>
+	<string>smallOptimizer</string>
+	<key>protectedKernel</key>
+	<string>protectedCapacities</string>
+</dict>
+</plist>

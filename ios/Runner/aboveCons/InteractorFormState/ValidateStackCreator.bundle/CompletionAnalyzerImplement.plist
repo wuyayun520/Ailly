@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>arithmeticFlex</key>
+	<string>disposeLog</string>
+	<key>catalystDistance</key>
+	<string>publishTask</string>
+	<key>keyItem</key>
+	<string>canSerializeLabel</string>
+	<key>opaqueSegue</key>
+	<string>playbackviafacade</string>
+	<key>shouldEncodeNotifier</key>
+	<string>publicGrain</string>
+	<key>shouldUnbindInteger</key>
+	<string>compileSprite</string>
+	<key>standaloneNavigation</key>
+	<string>capturetask</string>
+	<key>trainstep</key>
+	<string>painttransformer</string>
+	<key>typicalVector</key>
+	<string>drawerTemple</string>
+	<key>uniqueIntegration</key>
+	<string>canLayoutCursor</string>
+</dict>
+</plist>

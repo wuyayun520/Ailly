@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>fragmentFlags</key>
+	<string>directlyloader</string>
+	<key>newestSample</key>
+	<string>shouldcontinuetangent</string>
+	<key>ondrawerchanged</key>
+	<string>shouldBindAperture</string>
+	<key>retainedBinder</key>
+	<string>enumerateSprite</string>
+	<key>smallResilience</key>
+	<string>rectangleContrast</string>
+	<key>tableBound</key>
+	<string>interactionHue</string>
+</dict>
+</plist>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>beginnerAxis</key>
+	<string>animatedSignature</string>
+	<key>flexibleGesture</key>
+	<string>actionamongvariable</string>
+	<key>otherSegue</key>
+	<string>makepet</string>
+	<key>shouldBindRoute</key>
+	<string>nibScope</string>
+	<key>shouldNotifyBox</key>
+	<string>canBindPositioned</string>
+	<key>shouldValidateCompletion</key>
+	<string>dynamicResponder</string>
+	<key>significantTransformer</key>
+	<string>updateModel</string>
+	<key>sortedstatefultension</key>
+	<string>activateTicker</string>
+	<key>tabviewbesidekind</key>
+	<string>shouldSerializeRadio</string>
+	<key>themeFeedback</key>
+	<string>displayableResponder</string>
+</dict>
+</plist>

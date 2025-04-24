@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>advancedSpecifier</key>
+	<string>draggableEvent</string>
+	<key>gesturedetectorrotation</key>
+	<string>delegateScene</string>
+	<key>hyperbolicMomentum</key>
+	<string>shouldPublishHero</string>
+	<key>protocolviaobserver</key>
+	<string>standaloneVector</string>
+</dict>
+</plist>

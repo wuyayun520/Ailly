@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cartesianOverlay</key>
+	<string>modelVisible</string>
+	<key>chapterValidation</key>
+	<string>priorityorvar</string>
+	<key>interfaceagainstactivity</key>
+	<string>flexNumber</string>
+	<key>responsivewrapper</key>
+	<string>interpolationTail</string>
+	<key>robustBuilder</key>
+	<string>infoStyle</string>
+	<key>skinRight</key>
+	<string>pushTween</string>
+	<key>smartfilter</key>
+	<string>drawerlayercolor</string>
+	<key>spotscopetag</key>
+	<string>dynamicWrapper</string>
+	<key>statefulutil</key>
+	<string>divideMetadata</string>
+</dict>
+</plist>

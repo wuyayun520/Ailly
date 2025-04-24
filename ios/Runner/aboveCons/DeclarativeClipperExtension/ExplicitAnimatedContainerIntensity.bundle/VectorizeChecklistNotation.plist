@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>arithmeticBrightness</key>
+	<string>calculateGrid</string>
+	<key>associatedchannelhue</key>
+	<string>directlySubpixel</string>
+	<key>imperativeColor</key>
+	<string>primaryAlignment</string>
+	<key>reactiveGradient</key>
+	<string>mediaSpeed</string>
+	<key>responsiveconstraint</key>
+	<string>agileState</string>
+</dict>
+</plist>

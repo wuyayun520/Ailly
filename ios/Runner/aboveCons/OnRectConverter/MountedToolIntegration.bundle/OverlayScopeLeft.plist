@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animationMargin</key>
+	<string>mergercenter</string>
+	<key>dynamicOffset</key>
+	<string>formatmobile</string>
+	<key>lazyRestriction</key>
+	<string>shouldStopText</string>
+	<key>mastercontainsingleton</key>
+	<string>animateAlpha</string>
+	<key>subscriberPadding</key>
+	<string>shouldRestartSpecifier</string>
+</dict>
+</plist>

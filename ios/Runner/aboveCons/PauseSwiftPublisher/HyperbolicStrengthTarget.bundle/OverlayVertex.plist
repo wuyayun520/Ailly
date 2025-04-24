@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>defaultsensor</key>
+	<string>resilientscalability</string>
+	<key>displayablestorageinteraction</key>
+	<string>playReducer</string>
+	<key>exceptionInset</key>
+	<string>plateLocation</string>
+	<key>intensityleft</key>
+	<string>hashDistance</string>
+	<key>shouldDismissActivity</key>
+	<string>initializesample</string>
+	<key>ternaryTension</key>
+	<string>largeEquipment</string>
+</dict>
+</plist>

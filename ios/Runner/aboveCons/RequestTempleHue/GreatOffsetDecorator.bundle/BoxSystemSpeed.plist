@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>certificateFlags</key>
+	<string>easyConsumption</string>
+	<key>inkwellMargin</key>
+	<string>binaryAdapter</string>
+	<key>listenchecklist</key>
+	<string>certificateWork</string>
+	<key>localCertificate</key>
+	<string>mobileQueue</string>
+	<key>parallelCursor</key>
+	<string>shouldStopEqualization</string>
+	<key>precisionPressure</key>
+	<string>convolutionkind</string>
+	<key>requiredasset</key>
+	<string>robustTween</string>
+	<key>saveasset</key>
+	<string>nativeInfo</string>
+	<key>shouldPublishChannels</key>
+	<string>interpolationSpacing</string>
+</dict>
+</plist>

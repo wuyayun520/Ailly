@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>benchmarktheme</key>
+	<string>maxCurve</string>
+	<key>interfaceinterval</key>
+	<string>gridlocation</string>
+	<key>largeInteger</key>
+	<string>resolversinceobserver</string>
+	<key>occasiontheme</key>
+	<string>loopVelocity</string>
+	<key>parallelProject</key>
+	<string>formatSign</string>
+	<key>prismaticboxinterval</key>
+	<string>concreteinteger</string>
+	<key>shouldKeepColumn</key>
+	<string>canInflateRemainder</string>
+	<key>textvartheme</key>
+	<string>autoIsolate</string>
+</dict>
+</plist>

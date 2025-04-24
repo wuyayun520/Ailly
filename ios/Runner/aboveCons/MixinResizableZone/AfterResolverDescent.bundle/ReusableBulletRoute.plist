@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activePlate</key>
+	<string>shouldUnbindInteger</string>
+	<key>agileLatency</key>
+	<string>shouldUnmountNavigator</string>
+	<key>fixedBinary</key>
+	<string>containerInset</string>
+	<key>gradientTransparency</key>
+	<string>canPrepareNavigation</string>
+	<key>impactlocation</key>
+	<string>capacitiesAcceleration</string>
+	<key>impressionDuration</key>
+	<string>updateFrame</string>
+	<key>popupHue</key>
+	<string>rotatechallenge</string>
+	<key>shouldRestartRoute</key>
+	<string>radioallocator</string>
+</dict>
+</plist>

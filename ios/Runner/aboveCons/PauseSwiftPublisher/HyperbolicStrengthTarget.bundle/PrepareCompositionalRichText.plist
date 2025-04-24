@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cubeFrequency</key>
+	<string>missedFrame</string>
+	<key>elasticpopupspeed</key>
+	<string>secondMission</string>
+	<key>hyperbolicMultiplication</key>
+	<string>nextContrast</string>
+	<key>mediocreData</key>
+	<string>routervalidation</string>
+	<key>reactiveCache</key>
+	<string>shouldRestartCube</string>
+	<key>reactivePositioned</key>
+	<string>augmentChart</string>
+	<key>shouldDecodeReduction</key>
+	<string>listenEvent</string>
+	<key>specifyBitrate</key>
+	<string>encodeEqualization</string>
+	<key>standaloneScheduler</key>
+	<string>restorePresenter</string>
+</dict>
+</plist>

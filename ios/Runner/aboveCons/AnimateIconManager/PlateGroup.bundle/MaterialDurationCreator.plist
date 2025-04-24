@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>callbacknearaction</key>
+	<string>canDisposeGift</string>
+	<key>lossfeature</key>
+	<string>canListenCustomPaint</string>
+	<key>mediumradio</key>
+	<string>combinerKind</string>
+	<key>mobileSegue</key>
+	<string>setupConstraint</string>
+	<key>signaturemethod</key>
+	<string>subscriptionOffset</string>
+	<key>staticmanager</key>
+	<string>radiusAlignment</string>
+	<key>tabviewstatus</key>
+	<string>retainedTopic</string>
+</dict>
+</plist>

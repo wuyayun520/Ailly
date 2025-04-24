@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>delegatechart</key>
+	<string>nativeController</string>
+	<key>durationcontextright</key>
+	<string>persistobserver</string>
+	<key>fusedConstant</key>
+	<string>expandedStage</string>
+	<key>prismaticAllocator</key>
+	<string>associatedstoretransparency</string>
+	<key>shouldLayoutSkirt</key>
+	<string>prevStep</string>
+	<key>shoulddisconnectmember</key>
+	<string>buildGradient</string>
+	<key>textequivalent</key>
+	<string>locateVector</string>
+	<key>visiterror</key>
+	<string>gateFeedback</string>
+</dict>
+</plist>

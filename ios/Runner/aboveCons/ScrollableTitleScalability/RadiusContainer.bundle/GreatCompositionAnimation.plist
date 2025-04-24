@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>currentsignature</key>
+	<string>mobileProfile</string>
+	<key>listencurve</key>
+	<string>immutablebasevalidation</string>
+	<key>listenpriority</key>
+	<string>onpositionedtap</string>
+	<key>normzone</key>
+	<string>dynamicusecase</string>
+	<key>setstatesegue</key>
+	<string>shouldAttachScreen</string>
+	<key>shouldMountedLoss</key>
+	<string>buttonexceptlevel</string>
+	<key>shouldPresentMatrix</key>
+	<string>connectFragment</string>
+	<key>widgetContrast</key>
+	<string>nextroutercount</string>
+</dict>
+</plist>

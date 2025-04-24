@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>commonConsumer</key>
+	<string>canRestartSpot</string>
+	<key>extensionBorder</key>
+	<string>apertureHead</string>
+	<key>nextZone</key>
+	<string>elasticityBehavior</string>
+	<key>operationInterval</key>
+	<string>trainRadio</string>
+	<key>statefulLabel</key>
+	<string>differentiateContainer</string>
+</dict>
+</plist>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>beginnerbufferformat</key>
+	<string>primaryProvider</string>
+	<key>iterativelabelalignment</key>
+	<string>tickerMemento</string>
+	<key>loadobserver</key>
+	<string>updateCompleter</string>
+	<key>logType</key>
+	<string>lazyConsumption</string>
+	<key>numericalMultiplication</key>
+	<string>difficultComposition</string>
+	<key>paintdecoration</key>
+	<string>routeVelocity</string>
+	<key>shouldBuildSlider</key>
+	<string>shouldPushCosine</string>
+	<key>subtleStateful</key>
+	<string>inheritedSwift</string>
+</dict>
+</plist>

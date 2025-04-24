@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cellname</key>
+	<string>showGrid</string>
+	<key>deserializepreview</key>
+	<string>mapFlyweight</string>
+	<key>gramMargin</key>
+	<string>standaloneBandwidth</string>
+	<key>iterativeStateful</key>
+	<string>explicitInterpolation</string>
+	<key>secondanimatedcontainer</key>
+	<string>losstension</string>
+	<key>semanticmodel</key>
+	<string>confidentialitytag</string>
+	<key>statefullayout</key>
+	<string>attachCubit</string>
+	<key>visibleInfo</key>
+	<string>capsuleOpacity</string>
+	<key>webInfrastructure</key>
+	<string>oldEfficiency</string>
+</dict>
+</plist>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accessibleVertex</key>
+	<string>disconnectProvider</string>
+	<key>callbacknumbervisibility</key>
+	<string>backwardStrength</string>
+	<key>consumefragment</key>
+	<string>unmountFlex</string>
+	<key>lazyNode</key>
+	<string>positionProcess</string>
+	<key>numericalCapsule</key>
+	<string>bitrateDensity</string>
+	<key>primarycolumnoffset</key>
+	<string>shouldListenCurve</string>
+	<key>shouldConnectMaster</key>
+	<string>singlePrecision</string>
+	<key>shouldUnbindConsumer</key>
+	<string>skirtProcess</string>
+</dict>
+</plist>

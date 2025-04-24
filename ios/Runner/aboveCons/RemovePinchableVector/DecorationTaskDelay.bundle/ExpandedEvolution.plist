@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animationStatus</key>
+	<string>canTrainTouch</string>
+	<key>displayablesignatureskewx</key>
+	<string>shouldCancelFuture</string>
+	<key>equivalentFeedback</key>
+	<string>relationalText</string>
+	<key>functionalEquivalent</key>
+	<string>normalRecursion</string>
+	<key>managerVisibility</key>
+	<string>restartNotifier</string>
+	<key>opaquetexturestyle</key>
+	<string>findSink</string>
+	<key>reusablecustompaintacceleration</key>
+	<string>temporaryTexture</string>
+	<key>skinmementohead</key>
+	<string>extensionDelay</string>
+	<key>typicalTouch</key>
+	<string>composableBuilder</string>
+</dict>
+</plist>

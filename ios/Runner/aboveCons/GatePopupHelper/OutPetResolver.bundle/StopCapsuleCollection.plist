@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animatecompleter</key>
+	<string>clipisolate</string>
+	<key>explicitGraphic</key>
+	<string>associatedWorkflow</string>
+	<key>popupquaternion</key>
+	<string>immutableAppBar</string>
+	<key>shouldDisconnectModal</key>
+	<string>concreteVector</string>
+</dict>
+</plist>

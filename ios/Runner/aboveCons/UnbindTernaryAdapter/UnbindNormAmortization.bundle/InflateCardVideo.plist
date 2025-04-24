@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>buttonbyactivity</key>
+	<string>publishCosine</string>
+	<key>cachesystemborder</key>
+	<string>canPublishButton</string>
+	<key>signatureTint</key>
+	<string>interactorName</string>
+	<key>slashtween</key>
+	<string>exceptionappearance</string>
+</dict>
+</plist>

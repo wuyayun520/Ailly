@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>mapDelay</key>
+	<string>unbindMediaQuery</string>
+	<key>resourcethroughtier</key>
+	<string>shouldAttachExpanded</string>
+	<key>sequentialbandwidth</key>
+	<string>unbindcoordinator</string>
+	<key>uniformQueue</key>
+	<string>cartesianPresenter</string>
+</dict>
+</plist>

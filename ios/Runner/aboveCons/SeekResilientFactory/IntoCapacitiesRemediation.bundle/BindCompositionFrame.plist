@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activatedSubpixel</key>
+	<string>asynchronousmobilelocation</string>
+	<key>awaitname</key>
+	<string>borderDecorator</string>
+	<key>defaultMedia</key>
+	<string>consumerInset</string>
+	<key>grayscalemerger</key>
+	<string>shouldSerializeSizedBox</string>
+	<key>integrityAcceleration</key>
+	<string>customChallenge</string>
+	<key>progressbarInteraction</key>
+	<string>infoposition</string>
+	<key>shouldFormatNavigation</key>
+	<string>shouldObserveCaption</string>
+</dict>
+</plist>

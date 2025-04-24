@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>alertFormat</key>
+	<string>disposetangent</string>
+	<key>compareactivity</key>
+	<string>canRenderCapacities</string>
+	<key>compositionalCharacter</key>
+	<string>canStreamUsage</string>
+	<key>denseAnimator</key>
+	<string>triggerFormat</string>
+	<key>sharedSizedBox</key>
+	<string>scaleVisible</string>
+	<key>shouldcontinueeffect</key>
+	<string>canFetchDocument</string>
+</dict>
+</plist>

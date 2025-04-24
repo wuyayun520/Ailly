@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>bandwidthAlignment</key>
+	<string>canPublishSensor</string>
+	<key>concreteRadio</key>
+	<string>firstSplitter</string>
+	<key>elementStyle</key>
+	<string>canPrepareConsumer</string>
+	<key>labelrecursion</key>
+	<string>referenceFlyweight</string>
+	<key>permanentListener</key>
+	<string>baseHue</string>
+	<key>substantialMesh</key>
+	<string>oldButton</string>
+</dict>
+</plist>

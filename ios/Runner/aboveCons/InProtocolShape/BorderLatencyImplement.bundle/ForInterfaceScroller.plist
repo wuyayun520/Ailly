@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>draggableStack</key>
+	<string>asynchronousAsync</string>
+	<key>framenearparameter</key>
+	<string>lostGroup</string>
+	<key>lostWrapper</key>
+	<string>tickerfunctiontransparency</string>
+	<key>observertemplefeedback</key>
+	<string>toolParam</string>
+	<key>shouldEndPositioned</key>
+	<string>coordinatorPressure</string>
+	<key>shouldhandletabbar</key>
+	<string>interactiveSegue</string>
+	<key>temporaryLabel</key>
+	<string>lossVar</string>
+</dict>
+</plist>

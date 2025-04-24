@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activatedAnalyzer</key>
+	<string>respectiveSlash</string>
+	<key>associatedBuffer</key>
+	<string>animatedSearcher</string>
+	<key>declarativeheapstyle</key>
+	<string>modalflyweightedge</string>
+	<key>functionalLoop</key>
+	<string>moveResource</string>
+	<key>imperativecoordinator</key>
+	<string>shouldObserveText</string>
+	<key>opaqueDecoration</key>
+	<string>collectionCount</string>
+	<key>shapeOffset</key>
+	<string>sizeScale</string>
+	<key>standaloneAnalyzer</key>
+	<string>publicTaxonomy</string>
+</dict>
+</plist>

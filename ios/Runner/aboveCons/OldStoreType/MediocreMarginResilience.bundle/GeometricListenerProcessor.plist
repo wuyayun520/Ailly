@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>petfeature</key>
+	<string>mutableDecoration</string>
+	<key>shouldNavigateNotifier</key>
+	<string>listenCustomPaint</string>
+	<key>shouldobserveplate</key>
+	<string>sophisticatedProcessor</string>
+	<key>sizeStyle</key>
+	<string>requestStatus</string>
+	<key>subtleSorter</key>
+	<string>descriptioncolor</string>
+</dict>
+</plist>

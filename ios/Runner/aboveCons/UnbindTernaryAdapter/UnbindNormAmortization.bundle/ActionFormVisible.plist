@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animatefuture</key>
+	<string>unschedulebaseline</string>
+	<key>concurrentFlex</key>
+	<string>completerCenter</string>
+	<key>mediarouter</key>
+	<string>baseType</string>
+	<key>requestinset</key>
+	<string>canLoadConstraint</string>
+	<key>singleSchema</key>
+	<string>pendingObserver</string>
+</dict>
+</plist>

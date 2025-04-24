@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activityfinder</key>
+	<string>stateSystem</string>
+	<key>endconfiguration</key>
+	<string>expandedBottom</string>
+	<key>mainTween</key>
+	<string>streamOrigin</string>
+	<key>navigateservice</key>
+	<string>startGestureDetector</string>
+	<key>prevCheckbox</key>
+	<string>robustGrain</string>
+	<key>requiredUseCase</key>
+	<string>parseRadius</string>
+	<key>robustEqualization</key>
+	<string>pausechecklist</string>
+	<key>workflowcontextrate</key>
+	<string>keytool</string>
+</dict>
+</plist>

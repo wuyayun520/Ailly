@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>featurecenter</key>
+	<string>routeconfiguration</string>
+	<key>latencyRotation</key>
+	<string>stackKind</string>
+	<key>sequentialSwitch</key>
+	<string>shouldAttachGesture</string>
+	<key>visibleQueue</key>
+	<string>interceptmodel</string>
+</dict>
+</plist>

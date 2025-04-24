@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activeElasticity</key>
+	<string>observeAwait</string>
+	<key>displayloop</key>
+	<string>graphsearcher</string>
+	<key>eagerFactory</key>
+	<string>removeallocator</string>
+	<key>granularLoader</key>
+	<string>dismissTween</string>
+	<key>interactionStatus</key>
+	<string>navigatorviaproxy</string>
+	<key>lostvectorsaturation</key>
+	<string>liteDuration</string>
+	<key>reductionBorder</key>
+	<string>capacitiesDepth</string>
+	<key>semanticRichText</key>
+	<string>shouldUpdateNorm</string>
+	<key>stackOrigin</key>
+	<string>compositionalcaptionindex</string>
+	<key>tickerattemple</key>
+	<string>loaderMargin</string>
+</dict>
+</plist>

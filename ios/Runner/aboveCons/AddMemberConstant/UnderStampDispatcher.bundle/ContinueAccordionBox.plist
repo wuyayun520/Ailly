@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>asynchronousTransition</key>
+	<string>alphastrength</string>
+	<key>interactorCoord</key>
+	<string>convolutionVariable</string>
+	<key>memberDensity</key>
+	<string>singletonpatternlocation</string>
+	<key>sensorwithoutbuffer</key>
+	<string>effectLocation</string>
+	<key>shouldEncodeBase</key>
+	<string>resilientChallenge</string>
+	<key>specifyEmitter</key>
+	<string>canBuildBuilder</string>
+	<key>statefulUsage</key>
+	<string>reduceGrid</string>
+	<key>stepForce</key>
+	<string>mainMethod</string>
+</dict>
+</plist>

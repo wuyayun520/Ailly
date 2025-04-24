@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accessiblesizealignment</key>
+	<string>canPopCheckbox</string>
+	<key>arithmeticListener</key>
+	<string>samplecontrast</string>
+	<key>captionborder</key>
+	<string>disconnectConsumer</string>
+	<key>initializedescription</key>
+	<string>precisionright</string>
+	<key>shouldProcessCollection</key>
+	<string>analyzeMethod</string>
+	<key>shoulddetachprojection</key>
+	<string>immutableArchitecture</string>
+	<key>statefulwidget</key>
+	<string>sharedListener</string>
+</dict>
+</plist>

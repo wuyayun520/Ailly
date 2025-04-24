@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>advancedutil</key>
+	<string>dedicatedMomentum</string>
+	<key>equivalenttheme</key>
+	<string>textPlatform</string>
+	<key>respondallocator</key>
+	<string>resizableAsset</string>
+	<key>secondBase</key>
+	<string>independentCombiner</string>
+	<key>shouldFetchDocument</key>
+	<string>imperativeNavigation</string>
+	<key>tensorCapacities</key>
+	<string>drawQueue</string>
+</dict>
+</plist>

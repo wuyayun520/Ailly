@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>exceptionframeworkstyle</key>
+	<string>persistentInfrastructure</string>
+	<key>futurelatency</key>
+	<string>rebuildBloc</string>
+	<key>interactionTheme</key>
+	<string>variantSize</string>
+	<key>shouldPublishWorkflow</key>
+	<string>shouldRebuildTask</string>
+</dict>
+</plist>

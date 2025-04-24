@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>batchInteraction</key>
+	<string>tappableCanvas</string>
+	<key>configurationFeedback</key>
+	<string>combineProgressBar</string>
+	<key>coordinatorLeft</key>
+	<string>shaderfromcontext</string>
+	<key>interfacetaskedge</key>
+	<string>animateManager</string>
+	<key>momentumDepth</key>
+	<string>flexibleBuffer</string>
+	<key>oldDetail</key>
+	<string>regulatemenu</string>
+	<key>pagerCount</key>
+	<string>transposestore</string>
+	<key>shouldtraincompletion</key>
+	<string>trainCosine</string>
+</dict>
+</plist>

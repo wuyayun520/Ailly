@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>aperturetext</key>
+	<string>concatenateCallback</string>
+	<key>eagerEmitter</key>
+	<string>granularNode</string>
+	<key>immediateOverlay</key>
+	<string>certificateTheme</string>
+	<key>lazytrajectory</key>
+	<string>scrollableZone</string>
+	<key>shouldobservetabview</key>
+	<string>compositionalFinder</string>
+	<key>subsequentOffset</key>
+	<string>shouldFetchKernel</string>
+</dict>
+</plist>

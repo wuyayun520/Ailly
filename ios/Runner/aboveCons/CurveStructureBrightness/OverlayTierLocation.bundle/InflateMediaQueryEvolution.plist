@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>agileThreshold</key>
+	<string>customizedPet</string>
+	<key>deferredCheckbox</key>
+	<string>injectSize</string>
+	<key>prevMonster</key>
+	<string>scenarioTheme</string>
+	<key>resilientloop</key>
+	<string>gestureVar</string>
+	<key>secondstoragemomentum</key>
+	<string>saveSizedBox</string>
+</dict>
+</plist>

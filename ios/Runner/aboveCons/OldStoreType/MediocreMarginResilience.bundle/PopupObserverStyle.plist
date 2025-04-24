@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activatedLifecycle</key>
+	<string>desktopTask</string>
+	<key>containeramortization</key>
+	<string>decoupleEvent</string>
+	<key>disparateIntensity</key>
+	<string>modulusStatus</string>
+	<key>enabledAspect</key>
+	<string>tabviewPressure</string>
+	<key>independentFrame</key>
+	<string>intermediateslider</string>
+	<key>lossdistinction</key>
+	<string>firstScope</string>
+	<key>multiGate</key>
+	<string>lazySign</string>
+	<key>priorAspect</key>
+	<string>eagerTrajectory</string>
+	<key>trainloop</key>
+	<string>transformscaffold</string>
+</dict>
+</plist>

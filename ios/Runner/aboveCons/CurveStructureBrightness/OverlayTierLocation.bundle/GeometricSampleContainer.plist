@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>defaultbatch</key>
+	<string>shouldListenPromise</string>
+	<key>otherTask</key>
+	<string>factorytaskvisible</string>
+	<key>shouldFormatBorder</key>
+	<string>configurationTail</string>
+	<key>typicalDelivery</key>
+	<string>autoInterface</string>
+</dict>
+</plist>

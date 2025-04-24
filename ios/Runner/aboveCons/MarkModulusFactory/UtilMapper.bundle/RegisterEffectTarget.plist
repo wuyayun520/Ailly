@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>evaluationPosition</key>
+	<string>itemOpacity</string>
+	<key>fragmentSkewY</key>
+	<string>dialogsContrast</string>
+	<key>matrixresponse</key>
+	<string>lazyCallback</string>
+	<key>playbackDepth</key>
+	<string>cartesianRadio</string>
+	<key>shaderSaturation</key>
+	<string>durationdecoratorvelocity</string>
+	<key>shouldPresentSubpixel</key>
+	<string>remainderAction</string>
+</dict>
+</plist>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>immediateBitrate</key>
+	<string>canPauseModulus</string>
+	<key>materialAudio</key>
+	<string>storeTitle</string>
+	<key>missiontiervalidation</key>
+	<string>alertTag</string>
+	<key>publicStatus</key>
+	<string>partitionplate</string>
+</dict>
+</plist>

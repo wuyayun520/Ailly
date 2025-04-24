@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>beginnerAxis</key>
+	<string>equipmentFacade</string>
+	<key>defaultScale</key>
+	<string>animationRate</string>
+	<key>functionalTable</key>
+	<string>hierarchicalcoordinatoralignment</string>
+	<key>initiativeTheme</key>
+	<string>intermediateElasticity</string>
+	<key>keeppopup</key>
+	<string>enhanceFrame</string>
+	<key>kernelSkewX</key>
+	<string>mastervelocity</string>
+	<key>nodethancomposite</key>
+	<string>animatedcontainerComposite</string>
+	<key>shouldContinueHeap</key>
+	<string>uniqueGesture</string>
+	<key>usedCycle</key>
+	<string>looptail</string>
+</dict>
+</plist>

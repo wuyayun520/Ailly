@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>explicitResponder</key>
+	<string>shouldInflateStateless</string>
+	<key>fragmentRate</key>
+	<string>disabledBullet</string>
+	<key>sensorMargin</key>
+	<string>handleNavigator</string>
+	<key>shouldDetachDropdownButton</key>
+	<string>shouldReplaceAxis</string>
+</dict>
+</plist>

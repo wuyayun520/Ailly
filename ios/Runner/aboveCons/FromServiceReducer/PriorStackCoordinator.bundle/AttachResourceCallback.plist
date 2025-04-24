@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>associatedNode</key>
+	<string>canUpdateDescriptor</string>
+	<key>declarativeSound</key>
+	<string>canStreamAperture</string>
+	<key>eagerFactory</key>
+	<string>backwardUtil</string>
+	<key>lazyInitiators</key>
+	<string>injectionName</string>
+	<key>modelMode</key>
+	<string>shouldAnimateBorder</string>
+	<key>reducerVelocity</key>
+	<string>handlerState</string>
+	<key>shouldStopTangent</key>
+	<string>canTrainButton</string>
+	<key>statefulSpecifier</key>
+	<string>canResumeAppBar</string>
+</dict>
+</plist>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>bindimage</key>
+	<string>granularAudio</string>
+	<key>graphproxyformat</key>
+	<string>canObserveHistogram</string>
+	<key>pinchableObject</key>
+	<string>mergerDistance</string>
+	<key>relationalvideo</key>
+	<string>operationValue</string>
+	<key>shouldRouteBitrate</key>
+	<string>accordionpositionkind</string>
+	<key>significantMechanism</key>
+	<string>tappableparticle</string>
+	<key>streamconsumption</key>
+	<string>searchPopup</string>
+</dict>
+</plist>

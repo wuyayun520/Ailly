@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>coordinatorinteraction</key>
+	<string>initiatorsTier</string>
+	<key>dedicatedMediaQuery</key>
+	<string>canPublishHero</string>
+	<key>directCupertino</key>
+	<string>themeInset</string>
+	<key>liteBorder</key>
+	<string>mainDelegate</string>
+	<key>providermethodformat</key>
+	<string>screenevent</string>
+	<key>shouldPaintPageView</key>
+	<string>lockRow</string>
+	<key>startcard</key>
+	<string>directExtension</string>
+</dict>
+</plist>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>bufferstyledirection</key>
+	<string>shouldEncodeBitrate</string>
+	<key>logscalability</key>
+	<string>processMovement</string>
+	<key>mechanismInset</key>
+	<string>originalMethod</string>
+	<key>previewForce</key>
+	<string>encoderesult</string>
+	<key>requestRate</key>
+	<string>synchronizeQueue</string>
+</dict>
+</plist>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>basicListView</key>
+	<string>computeHandler</string>
+	<key>curveTension</key>
+	<string>specifyLatency</string>
+	<key>customizedCursor</key>
+	<string>usedWidget</string>
+	<key>featurebuilder</key>
+	<string>canPopCapsule</string>
+	<key>immutableCursor</key>
+	<string>canSkipResource</string>
+	<key>shouldCancelWorkflow</key>
+	<string>subsequentRadio</string>
+	<key>typicalSample</key>
+	<string>continueDimension</string>
+</dict>
+</plist>

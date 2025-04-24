@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>channelsorigin</key>
+	<string>dismissUtil</string>
+	<key>customizedDependency</key>
+	<string>modalResponse</string>
+	<key>objectFrequency</key>
+	<string>permissiveSound</string>
+	<key>responsiveConverter</key>
+	<string>responderMomentum</string>
+	<key>swiftDuration</key>
+	<string>criticalConverter</string>
+</dict>
+</plist>

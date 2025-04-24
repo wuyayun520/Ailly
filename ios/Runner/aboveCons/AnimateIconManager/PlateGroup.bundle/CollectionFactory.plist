@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animationpressure</key>
+	<string>brushProcess</string>
+	<key>creatorTint</key>
+	<string>threadFlags</string>
+	<key>emittercoord</key>
+	<string>declarativeGrain</string>
+	<key>ignoredUseCase</key>
+	<string>easyText</string>
+	<key>modelscope</key>
+	<string>dimensionSkewX</string>
+	<key>obtaincoordinator</key>
+	<string>shouldSubscribeBase</string>
+	<key>shouldPopScreen</key>
+	<string>shouldMountedWidget</string>
+</dict>
+</plist>

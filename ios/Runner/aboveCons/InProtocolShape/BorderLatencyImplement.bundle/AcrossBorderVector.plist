@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>euclideanAnimatedContainer</key>
+	<string>serializePositioned</string>
+	<key>indicatorForce</key>
+	<string>unactivatedprojection</string>
+	<key>layerresponse</key>
+	<string>missedAccessory</string>
+	<key>listenerfromvisitor</key>
+	<string>scopeInset</string>
+	<key>materialConfiguration</key>
+	<string>composableConvolution</string>
+</dict>
+</plist>

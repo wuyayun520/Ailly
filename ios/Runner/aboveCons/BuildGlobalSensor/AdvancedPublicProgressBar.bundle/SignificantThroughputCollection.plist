@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>borderacceleration</key>
+	<string>desktopSound</string>
+	<key>cupertinoMargin</key>
+	<string>offsetFactory</string>
+	<key>hierarchicalGrain</key>
+	<string>customizedMenu</string>
+	<key>immediateAlignment</key>
+	<string>interactiveAudio</string>
+	<key>mediumunarybrightness</key>
+	<string>fusedSample</string>
+	<key>pinchableIntensity</key>
+	<string>specifyBaseline</string>
+	<key>radiusTheme</key>
+	<string>futureComposite</string>
+	<key>shouldUnmountMaster</key>
+	<string>sequentialCube</string>
+	<key>statelessEntity</key>
+	<string>shadertag</string>
+</dict>
+</plist>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>containerShade</key>
+	<string>statefulNavigation</string>
+	<key>directlyprovision</key>
+	<string>shouldMountedClipper</string>
+	<key>eventTransparency</key>
+	<string>rotateHandler</string>
+	<key>invisiblecube</key>
+	<string>radiopatternname</string>
+	<key>matrixofcomposite</key>
+	<string>prioritycontainpattern</string>
+	<key>scalabilityLocation</key>
+	<string>signmethod</string>
+	<key>shouldTrainSubpixel</key>
+	<string>heapflyweightdelay</string>
+	<key>statefulPadding</key>
+	<string>largeEfficiency</string>
+	<key>subsequentGradient</key>
+	<string>dismissTechnique</string>
+</dict>
+</plist>

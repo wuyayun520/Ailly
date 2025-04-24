@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>asynchronousStroke</key>
+	<string>shouldSavePainter</string>
+	<key>interactiveStrength</key>
+	<string>setupProgressBar</string>
+	<key>ongradientchanged</key>
+	<string>synchronousGrid</string>
+	<key>quantizationbatch</key>
+	<string>smartAsset</string>
+	<key>selectedmission</key>
+	<string>granularDropdownButton</string>
+</dict>
+</plist>

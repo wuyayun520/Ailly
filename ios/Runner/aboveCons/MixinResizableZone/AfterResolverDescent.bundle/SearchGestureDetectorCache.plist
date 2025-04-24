@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>blocbesideinterpreter</key>
+	<string>equalizationandcommand</string>
+	<key>blocframe</key>
+	<string>advancedPositioned</string>
+	<key>compositionalMedia</key>
+	<string>factorydensity</string>
+	<key>displayableImpression</key>
+	<string>rapidResolver</string>
+	<key>initiativeContrast</key>
+	<string>cardDensity</string>
+	<key>optionContrast</key>
+	<string>signvelocity</string>
+	<key>shouldShowLog</key>
+	<string>secondIndicator</string>
+	<key>unactivatedProgressBar</key>
+	<string>elasticProtocol</string>
+</dict>
+</plist>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cupertinoReducer</key>
+	<string>tappableUtil</string>
+	<key>gateSpeed</key>
+	<string>canConnectStoryboard</string>
+	<key>hashexceptdecorator</key>
+	<string>canProcessDelegate</string>
+	<key>multiRemainder</key>
+	<string>shouldDecodeSession</string>
+	<key>shouldNotifyBuilder</key>
+	<string>concatenateView</string>
+	<key>similarMember</key>
+	<string>latencyRate</string>
+	<key>tangentOrientation</key>
+	<string>storyboardCoord</string>
+</dict>
+</plist>

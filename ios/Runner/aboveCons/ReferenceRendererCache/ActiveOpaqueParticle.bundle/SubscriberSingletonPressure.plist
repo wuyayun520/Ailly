@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>adaptivetopicalignment</key>
+	<string>segmentfrommemento</string>
+	<key>anchoropacity</key>
+	<string>mobileOperation</string>
+	<key>beginnerFuture</key>
+	<string>granularCluster</string>
+	<key>shouldFinishRichText</key>
+	<string>writeTopic</string>
+</dict>
+</plist>

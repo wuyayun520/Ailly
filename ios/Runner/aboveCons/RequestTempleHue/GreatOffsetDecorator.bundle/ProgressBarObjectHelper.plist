@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animatedButton</key>
+	<string>functionalPreview</string>
+	<key>efficiencyborder</key>
+	<string>lastOffset</string>
+	<key>semanticTernary</key>
+	<string>trainCache</string>
+	<key>sharedlistener</key>
+	<string>adjustCubit</string>
+	<key>shouldCancelSubpixel</key>
+	<string>filterTail</string>
+</dict>
+</plist>

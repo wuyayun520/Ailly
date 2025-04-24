@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>currentborder</key>
+	<string>cubeComposite</string>
+	<key>explicitCard</key>
+	<string>canFetchSpine</string>
+	<key>resilienceTheme</key>
+	<string>disconnectNorm</string>
+	<key>resultduringstage</key>
+	<string>navigateConstraint</string>
+	<key>selectedrow</key>
+	<string>staticExpanded</string>
+	<key>signFeedback</key>
+	<string>diversifiedaspect</string>
+</dict>
+</plist>

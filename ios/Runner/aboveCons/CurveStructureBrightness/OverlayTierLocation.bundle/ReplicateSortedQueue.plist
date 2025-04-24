@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>builderfuture</key>
+	<string>implementpopup</string>
+	<key>nextBullet</key>
+	<string>listenAnimatedContainer</string>
+	<key>permanentDependency</key>
+	<string>compositioninterface</string>
+	<key>typicalbehaviorborder</key>
+	<string>subpixelName</string>
+</dict>
+</plist>

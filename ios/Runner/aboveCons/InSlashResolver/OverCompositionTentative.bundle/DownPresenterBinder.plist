@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>hardradio</key>
+	<string>statelessIntegration</string>
+	<key>menuBrightness</key>
+	<string>semanticsStrategy</string>
+	<key>navigatestateful</key>
+	<string>associateHash</string>
+	<key>observerShade</key>
+	<string>explicitProgressBar</string>
+	<key>rapidProtocol</key>
+	<string>sharedProgressBar</string>
+	<key>semanticsInteraction</key>
+	<string>errorTheme</string>
+	<key>tappableTransition</key>
+	<string>fillInteractor</string>
+	<key>vectorscalability</key>
+	<string>matrixPadding</string>
+</dict>
+</plist>

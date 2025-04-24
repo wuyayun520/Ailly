@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>backwardShader</key>
+	<string>radiusTag</string>
+	<key>composableComposition</key>
+	<string>featurestatus</string>
+	<key>diffableIcon</key>
+	<string>differentiateTicker</string>
+	<key>drawermethodspeed</key>
+	<string>newestNotation</string>
+	<key>instructionLeft</key>
+	<string>autoduration</string>
+	<key>notifierScale</key>
+	<string>crucialScope</string>
+	<key>shouldPauseGram</key>
+	<string>canProcessMargin</string>
+	<key>shouldShowHero</key>
+	<string>alertDelay</string>
+</dict>
+</plist>

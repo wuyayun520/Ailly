@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activityVisibility</key>
+	<string>instantiatesession</string>
+	<key>concurrentInformation</key>
+	<string>canAttachTransition</string>
+	<key>hasLogarithm</key>
+	<string>canEmitWidget</string>
+	<key>numericalnorm</key>
+	<string>pendingDocument</string>
+	<key>quaternionindex</key>
+	<string>canDismissStep</string>
+	<key>relationalInterpolation</key>
+	<string>canPaintLogarithm</string>
+</dict>
+</plist>

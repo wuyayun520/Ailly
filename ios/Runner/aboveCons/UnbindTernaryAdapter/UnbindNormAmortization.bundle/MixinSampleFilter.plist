@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>agiletransformer</key>
+	<string>sensoragainstframework</string>
+	<key>comprehensiveStep</key>
+	<string>introspectTween</string>
+	<key>distinctionFormat</key>
+	<string>layoutversusjob</string>
+	<key>globalPager</key>
+	<string>requestMenu</string>
+	<key>shouldDispatchResource</key>
+	<string>refactorGrain</string>
+	<key>shouldObservePageView</key>
+	<string>stampcoord</string>
+	<key>shouldPauseSwitch</key>
+	<string>shouldmountedconstraint</string>
+	<key>shouldTrainArithmetic</key>
+	<string>shouldtrainscaffold</string>
+	<key>strokeState</key>
+	<string>canSerializeProtocol</string>
+</dict>
+</plist>

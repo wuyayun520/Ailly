@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cartesianSubpixel</key>
+	<string>comprehensiveAscent</string>
+	<key>durationSpeed</key>
+	<string>receiveTicker</string>
+	<key>indicatorvalidation</key>
+	<string>comprehensiveLoader</string>
+	<key>publicRectangle</key>
+	<string>cloneDuration</string>
+	<key>sharedPager</key>
+	<string>shouldFormatOptimizer</string>
+	<key>shouldDisposeHeap</key>
+	<string>concurrentprofileedge</string>
+	<key>shouldReplaceInkWell</key>
+	<string>sortedDrawer</string>
+</dict>
+</plist>

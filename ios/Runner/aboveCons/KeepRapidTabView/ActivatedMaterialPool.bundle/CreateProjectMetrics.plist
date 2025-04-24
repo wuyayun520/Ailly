@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>agileEntropy</key>
+	<string>boxshadowsingletonmargin</string>
+	<key>cosineactivityalignment</key>
+	<string>declarativePosition</string>
+	<key>evaluationSpacing</key>
+	<string>mergercontrast</string>
+	<key>labelSpeed</key>
+	<string>respondradio</string>
+	<key>lostroute</key>
+	<string>uniformGroup</string>
+	<key>memberMode</key>
+	<string>persistentitem</string>
+	<key>priorRoute</key>
+	<string>semanticConverter</string>
+	<key>profileanimation</key>
+	<string>staticBox</string>
+	<key>shouldEndConvolution</key>
+	<string>canEmitAspect</string>
+</dict>
+</plist>

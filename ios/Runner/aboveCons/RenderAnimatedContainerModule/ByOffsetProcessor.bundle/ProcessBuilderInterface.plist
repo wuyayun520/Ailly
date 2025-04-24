@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>decorationintegration</key>
+	<string>retainedcustompainttag</string>
+	<key>flexibleCharacter</key>
+	<string>crudegesturedetector</string>
+	<key>lazyConfiguration</key>
+	<string>nativeAnimation</string>
+	<key>respectiveDispatcher</key>
+	<string>descriptionMargin</string>
+	<key>sharedInterface</key>
+	<string>backwardTrigger</string>
+	<key>sineScale</key>
+	<string>arithmeticlayoutspacing</string>
+	<key>sophisticatedtweak</key>
+	<string>canDisposeMomentum</string>
+	<key>stampplatformvalidation</key>
+	<string>desktopBuilder</string>
+	<key>synchronousSound</key>
+	<string>substantialStream</string>
+</dict>
+</plist>

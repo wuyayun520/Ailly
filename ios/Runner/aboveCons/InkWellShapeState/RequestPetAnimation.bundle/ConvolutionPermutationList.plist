@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>errortail</key>
+	<string>screenActivity</string>
+	<key>functionalCapacities</key>
+	<string>canCreateLabel</string>
+	<key>invokecolumn</key>
+	<string>shouldBindCard</string>
+	<key>keyPromise</key>
+	<string>unscheduleCoordinator</string>
+	<key>rendersubscription</key>
+	<string>animatedNavigation</string>
+	<key>shouldLayoutInteger</key>
+	<string>meshType</string>
+	<key>stackPadding</key>
+	<string>utilTier</string>
+</dict>
+</plist>

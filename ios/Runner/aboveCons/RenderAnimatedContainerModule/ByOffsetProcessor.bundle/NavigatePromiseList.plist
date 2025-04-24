@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accessibleChapter</key>
+	<string>mergerMomentum</string>
+	<key>beginnerCustomPaint</key>
+	<string>euclideanLoss</string>
+	<key>constraintcontainobserver</key>
+	<string>momentumacceleration</string>
+	<key>masterDuration</key>
+	<string>logAlignment</string>
+	<key>shouldObserveMargin</key>
+	<string>shouldFinishProjection</string>
+	<key>singletonawayparameter</key>
+	<string>topicBuffer</string>
+	<key>subscriberResponse</key>
+	<string>yieldPriority</string>
+	<key>subscriptionStatus</key>
+	<string>denseDelegate</string>
+</dict>
+</plist>

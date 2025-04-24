@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>coordinatorduringstage</key>
+	<string>symbolSingleton</string>
+	<key>gatehead</key>
+	<string>canLayoutNotifier</string>
+	<key>interactiveProvider</key>
+	<string>cacheSingleton</string>
+	<key>playbackIndex</key>
+	<string>canParseBuilder</string>
+	<key>positionstatus</key>
+	<string>globalComposition</string>
+	<key>shouldinflaterichtext</key>
+	<string>playGroup</string>
+</dict>
+</plist>

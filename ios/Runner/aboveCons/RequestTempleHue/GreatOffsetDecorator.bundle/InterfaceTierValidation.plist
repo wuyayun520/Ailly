@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>emitterscale</key>
+	<string>nodefrequency</string>
+	<key>functionalCanvas</key>
+	<string>beginnerCurve</string>
+	<key>imperativeCombiner</key>
+	<string>statusBorder</string>
+	<key>matrixaboutform</key>
+	<string>deserializeTexture</string>
+	<key>semanticTween</key>
+	<string>missedFormat</string>
+</dict>
+</plist>

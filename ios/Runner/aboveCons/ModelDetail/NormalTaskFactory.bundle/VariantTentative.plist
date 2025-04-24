@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>aperturearoundstrategy</key>
+	<string>handlerParam</string>
+	<key>brushforce</key>
+	<string>shouldCreateAnimation</string>
+	<key>dedicatedReducer</key>
+	<string>widgetSize</string>
+	<key>ignoredTask</key>
+	<string>renderStoryboard</string>
+	<key>shouldInflateProvider</key>
+	<string>canCancelCard</string>
+</dict>
+</plist>

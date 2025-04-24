@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accessorycubit</key>
+	<string>stopGram</string>
+	<key>buttonbuilder</key>
+	<string>selectedprojection</string>
+	<key>functionalbufferright</key>
+	<string>instructionFunction</string>
+	<key>immutableanchorinset</key>
+	<string>reactivelayoutleft</string>
+	<key>nextMediaQuery</key>
+	<string>diversifiedCube</string>
+	<key>normalRange</key>
+	<string>priorityFormat</string>
+	<key>schedulerEdge</key>
+	<string>cupertinoLatency</string>
+	<key>shouldStopCube</key>
+	<string>canEncodeScroll</string>
+	<key>signintegration</key>
+	<string>eraseRepository</string>
+</dict>
+</plist>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>adaptiveAxis</key>
+	<string>adjustChapter</string>
+	<key>arithmeticLocalization</key>
+	<string>canRebuildChecklist</string>
+	<key>dedicatedLoop</key>
+	<string>statelesscolor</string>
+	<key>inheritedResponse</key>
+	<string>menuContext</string>
+	<key>iterativeBrush</key>
+	<string>diffableBoxShadow</string>
+	<key>liteShape</key>
+	<string>appbarStyle</string>
+	<key>resilientInstruction</key>
+	<string>futurebeyondparam</string>
+	<key>respectiveAxis</key>
+	<string>hierarchicalInfo</string>
+	<key>retainedIntensity</key>
+	<string>delegateChapter</string>
+	<key>shouldkeeparithmetic</key>
+	<string>dispatchLayout</string>
+</dict>
+</plist>

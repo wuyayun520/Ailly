@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>certificateRate</key>
+	<string>creatorSpeed</string>
+	<key>explicitSlider</key>
+	<string>ephemeralOptimizer</string>
+	<key>hyperbolicDescent</key>
+	<string>pivotalAspect</string>
+	<key>inkwellFormat</key>
+	<string>geometricChecklist</string>
+	<key>lazyCatalyst</key>
+	<string>fetchDelegate</string>
+	<key>localCupertino</key>
+	<string>layoutpositioned</string>
+	<key>prismaticUtil</key>
+	<string>tangentmethodrate</string>
+	<key>resultborder</key>
+	<string>gridName</string>
+	<key>routerResponse</key>
+	<string>shouldRouteCosine</string>
+	<key>smartSizedBox</key>
+	<string>baselinename</string>
+</dict>
+</plist>

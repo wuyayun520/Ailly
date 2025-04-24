@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>augmentalignment</key>
+	<string>asyncFlyweight</string>
+	<key>deferredEntropy</key>
+	<string>crudeFactory</string>
+	<key>localLinker</key>
+	<string>observeUtil</string>
+	<key>rectAcceleration</key>
+	<string>agileBinder</string>
+	<key>taskappearance</key>
+	<string>scaffoldoftemple</string>
+</dict>
+</plist>

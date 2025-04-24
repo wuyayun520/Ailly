@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>prismaticBase</key>
+	<string>ignoredAlert</string>
+	<key>prismatictransformer</key>
+	<string>mapanimation</string>
+	<key>robustBase</key>
+	<string>measureRadius</string>
+	<key>sharedPosition</key>
+	<string>shouldsubscribeheap</string>
+	<key>shouldFormatBloc</key>
+	<string>eagerThreshold</string>
+	<key>shouldKeepBrush</key>
+	<string>arithmeticInstruction</string>
+	<key>sinkslider</key>
+	<string>injectSlider</string>
+	<key>smallMethod</key>
+	<string>animatorCoord</string>
+	<key>statelessTangent</key>
+	<string>cubeStyle</string>
+	<key>taskspeed</key>
+	<string>sophisticatedChart</string>
+</dict>
+</plist>

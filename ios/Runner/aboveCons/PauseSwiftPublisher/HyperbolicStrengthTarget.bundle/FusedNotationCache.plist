@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>crucialTechnique</key>
+	<string>shouldNotifyBitrate</string>
+	<key>listviewRotation</key>
+	<string>observerDepth</string>
+	<key>missedanimatedcontainerinterval</key>
+	<string>immutablealpha</string>
+	<key>protectedVolume</key>
+	<string>layoutshade</string>
+	<key>tappableController</key>
+	<string>agileSensor</string>
+	<key>tappableLatency</key>
+	<string>offsetAdapter</string>
+	<key>tweenthanparam</key>
+	<string>shouldObserveBaseline</string>
+</dict>
+</plist>

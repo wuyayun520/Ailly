@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>appbarAlignment</key>
+	<string>semanticsMemento</string>
+	<key>beginnerScope</key>
+	<string>keyLayout</string>
+	<key>compositionalInteractor</key>
+	<string>upgradeCoordinator</string>
+	<key>defaultAlpha</key>
+	<string>lifecycleColor</string>
+	<key>inactiveMultiplication</key>
+	<string>integrationPosition</string>
+	<key>presenterpressure</key>
+	<string>finishEffect</string>
+	<key>relationalAlert</key>
+	<string>significantcaption</string>
+	<key>requestawayform</key>
+	<string>diversifiedDrawer</string>
+	<key>subsequententity</key>
+	<string>shouldStopHistogram</string>
+	<key>tabviewBehavior</key>
+	<string>storyboardInterpreter</string>
+</dict>
+</plist>

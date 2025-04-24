@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>imagetension</key>
+	<string>pendingBox</string>
+	<key>invisibleBloc</key>
+	<string>sineDelay</string>
+	<key>nativeallocatorinteraction</key>
+	<string>nodeRate</string>
+	<key>optimizercolor</key>
+	<string>canListenStack</string>
+	<key>parallelAspect</key>
+	<string>loadCatalyst</string>
+	<key>primarySplitter</key>
+	<string>routePrecision</string>
+	<key>selectedWidget</key>
+	<string>canTransitionAppBar</string>
+	<key>tappablePlayback</key>
+	<string>positionAppearance</string>
+	<key>vectorFormat</key>
+	<string>shouldCancelBuilder</string>
+</dict>
+</plist>

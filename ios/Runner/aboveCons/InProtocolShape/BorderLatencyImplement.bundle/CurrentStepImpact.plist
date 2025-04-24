@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activatedPainter</key>
+	<string>priorityaction</string>
+	<key>consultativedispatcher</key>
+	<string>allocatoraroundpattern</string>
+	<key>hierarchicalbloccontrast</key>
+	<string>shouldUnmountCell</string>
+	<key>itemOrigin</key>
+	<string>flexibleSession</string>
+	<key>mutableMap</key>
+	<string>syncFuture</string>
+	<key>permutationValidation</key>
+	<string>sharedCapacities</string>
+	<key>webgridview</key>
+	<string>canDispatchSemantics</string>
+</dict>
+</plist>

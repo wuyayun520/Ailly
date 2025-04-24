@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>asynchronousDecoration</key>
+	<string>vertexBrightness</string>
+	<key>granularcreator</key>
+	<string>textTag</string>
+	<key>materializeoption</key>
+	<string>provideException</string>
+	<key>reusableModel</key>
+	<string>fetchScaffold</string>
+	<key>sharedutil</key>
+	<string>splitterShade</string>
+	<key>tweakPadding</key>
+	<string>hierarchicalInfo</string>
+</dict>
+</plist>

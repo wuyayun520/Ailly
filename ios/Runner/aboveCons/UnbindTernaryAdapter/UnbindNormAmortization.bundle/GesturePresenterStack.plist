@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>declarativeBinary</key>
+	<string>materialScope</string>
+	<key>gemValidation</key>
+	<string>alertstrategykind</string>
+	<key>gradientOpacity</key>
+	<string>searchParticle</string>
+	<key>granularConsumer</key>
+	<string>allocatorlinker</string>
+	<key>inactiveconsumption</key>
+	<string>mainEqualization</string>
+	<key>intuitivemap</key>
+	<string>backwardConstraint</string>
+	<key>missedMediaQuery</key>
+	<string>utilProcess</string>
+	<key>uniformOption</key>
+	<string>autolayout</string>
+</dict>
+</plist>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>eagerMethod</key>
+	<string>introspectNode</string>
+	<key>efficiencyDensity</key>
+	<string>unsortedZone</string>
+	<key>hashthreshold</key>
+	<string>mediaqueryloader</string>
+	<key>keyNotifier</key>
+	<string>consultativeBuilder</string>
+	<key>observerasnumber</key>
+	<string>desktopTween</string>
+	<key>radiusconnector</key>
+	<string>canShowGrayscale</string>
+	<key>robustframepressure</key>
+	<string>canEmitTabView</string>
+	<key>seamlessTabView</key>
+	<string>resizeSubscription</string>
+	<key>topicoffset</key>
+	<string>temporaryUseCase</string>
+</dict>
+</plist>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>agileMend</key>
+	<string>permissiveTernary</string>
+	<key>emitterBorder</key>
+	<string>maxExtension</string>
+	<key>flexibleGem</key>
+	<string>canInflateCoordinator</string>
+	<key>mapIndex</key>
+	<string>notificationopacity</string>
+	<key>routerState</key>
+	<string>canRouteSensor</string>
+	<key>sustainableMetrics</key>
+	<string>moduleSkewY</string>
+	<key>techniqueflyweightrotation</key>
+	<string>dedicatedConsumption</string>
+</dict>
+</plist>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>audioStyle</key>
+	<string>lossprovision</string>
+	<key>beginnerAperture</key>
+	<string>extensionCommand</string>
+	<key>granularbuttonmode</key>
+	<string>elasticTentative</string>
+	<key>initializecontroller</key>
+	<string>storyboardScale</string>
+	<key>pauseresource</key>
+	<string>unbindlistener</string>
+	<key>relationalMonster</key>
+	<string>mountlayer</string>
+	<key>routeincludesingleton</key>
+	<string>composableSubscriber</string>
+</dict>
+</plist>

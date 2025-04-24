@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>comprehensiveConsumer</key>
+	<string>dimensionDecorator</string>
+	<key>elasticprotocol</key>
+	<string>showmap</string>
+	<key>enhancebloc</key>
+	<string>asynchronoustaskbehavior</string>
+	<key>handleropacity</key>
+	<string>refactorSlider</string>
+	<key>oldTernary</key>
+	<string>symmetricTrigger</string>
+	<key>provideratproxy</key>
+	<string>topicInset</string>
+	<key>shouldHandleSegue</key>
+	<string>evolutionDirection</string>
+	<key>shouldhandlecursor</key>
+	<string>subtleInformation</string>
+	<key>transitionmap</key>
+	<string>asynchronousRadius</string>
+	<key>variantconnector</key>
+	<string>canObserveFuture</string>
+</dict>
+</plist>

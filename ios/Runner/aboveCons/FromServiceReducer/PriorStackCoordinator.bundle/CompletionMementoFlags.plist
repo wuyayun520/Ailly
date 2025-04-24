@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>amortizationState</key>
+	<string>canDisconnectMission</string>
+	<key>characteristicVisibility</key>
+	<string>secondDescriptor</string>
+	<key>flexiblePrecision</key>
+	<string>updateKernel</string>
+	<key>masterimage</key>
+	<string>bufferNumber</string>
+	<key>semanticcontrollercount</key>
+	<string>brushStatus</string>
+	<key>significanttextcoord</key>
+	<string>nextPainter</string>
+	<key>smalltolerance</key>
+	<string>modulusleft</string>
+	<key>validategraphic</key>
+	<string>popMission</string>
+</dict>
+</plist>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>diversifiedBox</key>
+	<string>mediocretentative</string>
+	<key>fragmentperprototype</key>
+	<string>assetWork</string>
+	<key>particlequaternion</key>
+	<string>smartGradient</string>
+	<key>sampleBehavior</key>
+	<string>originalLoop</string>
+	<key>shouldProcessWorkflow</key>
+	<string>mutableInjection</string>
+</dict>
+</plist>

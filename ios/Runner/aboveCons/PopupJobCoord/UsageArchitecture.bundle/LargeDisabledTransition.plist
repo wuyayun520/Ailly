@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>deferredTextField</key>
+	<string>backwardSegue</string>
+	<key>intermediatemovement</key>
+	<string>movementpercomposite</string>
+	<key>liteResolver</key>
+	<string>remainderPlatform</string>
+	<key>numericalAlpha</key>
+	<string>objectBehavior</string>
+	<key>sizesingletontype</key>
+	<string>temporaryExtension</string>
+	<key>storeintegration</key>
+	<string>mediumStoryboard</string>
+</dict>
+</plist>

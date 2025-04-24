@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>directlyDimension</key>
+	<string>handleState</string>
+	<key>lossinjection</key>
+	<string>checkStore</string>
+	<key>sequentialDuration</key>
+	<string>uniformBatch</string>
+	<key>shouldSkipDelegate</key>
+	<string>normalMetrics</string>
+	<key>skirtbykind</key>
+	<string>optimizerName</string>
+</dict>
+</plist>

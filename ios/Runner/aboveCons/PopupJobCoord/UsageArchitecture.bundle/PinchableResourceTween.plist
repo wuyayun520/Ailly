@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>aperturereliability</key>
+	<string>inflateBehavior</string>
+	<key>liteCycle</key>
+	<string>shouldPauseReduction</string>
+	<key>reusableMedia</key>
+	<string>typicalOffset</string>
+	<key>semanticThreshold</key>
+	<string>spottint</string>
+	<key>subtleEqualization</key>
+	<string>progressbarcontainmethod</string>
+</dict>
+</plist>

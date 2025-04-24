@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>completionPadding</key>
+	<string>masterBehavior</string>
+	<key>lazyCache</key>
+	<string>canUnmountResource</string>
+	<key>resolverstatus</key>
+	<string>publishAnimation</string>
+	<key>shouldMountedAlert</key>
+	<string>initiatorsemitter</string>
+	<key>unsortedLocalization</key>
+	<string>retainedStack</string>
+</dict>
+</plist>

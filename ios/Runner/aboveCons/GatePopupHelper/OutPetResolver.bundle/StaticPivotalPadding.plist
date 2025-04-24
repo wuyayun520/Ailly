@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>autoCompleter</key>
+	<string>parallelDrawer</string>
+	<key>ignoredmenu</key>
+	<string>sustainableBase</string>
+	<key>mediaadapterborder</key>
+	<string>canStopPageView</string>
+	<key>pinchablesensoropacity</key>
+	<string>responsedecoratortheme</string>
+	<key>popupValidation</key>
+	<string>liteFragment</string>
+	<key>priorDimension</key>
+	<string>activeAllocator</string>
+	<key>scrollableParticle</key>
+	<string>normFrequency</string>
+	<key>shouldEndGradient</key>
+	<string>canDismissFuture</string>
+	<key>singleappbarvisible</key>
+	<string>keyFuture</string>
+	<key>substantialNotifier</key>
+	<string>smartMedia</string>
+</dict>
+</plist>

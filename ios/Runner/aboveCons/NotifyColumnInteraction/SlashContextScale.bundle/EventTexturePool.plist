@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>euclideanalphatail</key>
+	<string>cartesianInteraction</string>
+	<key>retainedProvision</key>
+	<string>scenarioBehavior</string>
+	<key>shouldListenImage</key>
+	<string>customBorder</string>
+	<key>temporaryInitiators</key>
+	<string>composableFactory</string>
+	<key>textResponse</key>
+	<string>shouldPushIcon</string>
+</dict>
+</plist>

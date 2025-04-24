@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>decorationscale</key>
+	<string>selectorBrightness</string>
+	<key>ephemeralMenu</key>
+	<string>playbackContext</string>
+	<key>granularThroughput</key>
+	<string>instructionEnvironment</string>
+	<key>lostAlpha</key>
+	<string>prismaticImpression</string>
+	<key>mobileRequest</key>
+	<string>canKeepEqualization</string>
+	<key>notifierPressure</key>
+	<string>shouldRouteMedia</string>
+	<key>petHue</key>
+	<string>initializeCompletion</string>
+	<key>shouldCancelIndicator</key>
+	<string>shouldMountGrayscale</string>
+	<key>similarAnimation</key>
+	<string>painterTag</string>
+</dict>
+</plist>

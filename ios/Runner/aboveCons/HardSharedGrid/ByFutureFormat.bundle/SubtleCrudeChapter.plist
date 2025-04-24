@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>continueasync</key>
+	<string>shouldYieldImage</string>
+	<key>greatusecase</key>
+	<string>shouldCreateIndicator</string>
+	<key>heapRotation</key>
+	<string>registerCompleter</string>
+	<key>makezone</key>
+	<string>connectororientation</string>
+	<key>oldDuration</key>
+	<string>shouldTransitionMovement</string>
+	<key>shouldPushSubpixel</key>
+	<string>fusedStroke</string>
+</dict>
+</plist>

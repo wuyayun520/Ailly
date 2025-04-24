@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>confidentialityName</key>
+	<string>intermediateEquivalent</string>
+	<key>defaultFragment</key>
+	<string>shouldEndEqualization</string>
+	<key>disabledAudio</key>
+	<string>buildGate</string>
+	<key>seguePadding</key>
+	<string>elasticConvolution</string>
+	<key>sophisticatedPet</key>
+	<string>modelRotation</string>
+</dict>
+</plist>

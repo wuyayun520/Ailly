@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>directcontainer</key>
+	<string>lostMesh</string>
+	<key>globalGradient</key>
+	<string>startPoint</string>
+	<key>shouldAttachGestureDetector</key>
+	<string>canTransitionSubpixel</string>
+	<key>vertexinteraction</key>
+	<string>prismaticconsumption</string>
+</dict>
+</plist>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>catalystFeedback</key>
+	<string>anchorFacade</string>
+	<key>ephemeralCurve</key>
+	<string>smallTexture</string>
+	<key>factoryCenter</key>
+	<string>unscheduleLoop</string>
+	<key>isExponent</key>
+	<string>layerPadding</string>
+	<key>moduleOrigin</key>
+	<string>displayableStack</string>
+	<key>removebitrate</key>
+	<string>staticRemainder</string>
+	<key>responsiveCombiner</key>
+	<string>matrixoperationvisible</string>
+	<key>sinechainstate</key>
+	<string>similarLoss</string>
+	<key>standaloneMediaQuery</key>
+	<string>validateobserver</string>
+	<key>statelesspressure</key>
+	<string>unscheduleInjection</string>
+</dict>
+</plist>

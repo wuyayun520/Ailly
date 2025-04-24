@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>channelsbesideprocess</key>
+	<string>fixedEfficiency</string>
+	<key>firstAwait</key>
+	<string>activatedDropdownButton</string>
+	<key>grainoffset</key>
+	<string>constructTitle</string>
+	<key>logarithmBound</key>
+	<string>shouldSerializeScreen</string>
+	<key>optimizerbrightness</key>
+	<string>functionalExpanded</string>
+	<key>otherSprite</key>
+	<string>precisionmodestyle</string>
+	<key>temporaryLayout</key>
+	<string>seamlessSelector</string>
+	<key>videoindex</key>
+	<string>newestEvent</string>
+</dict>
+</plist>

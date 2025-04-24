@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>greatAsync</key>
+	<string>shouldInflateAccessory</string>
+	<key>optimizerVisible</key>
+	<string>shouldPaintSymbol</string>
+	<key>parallelgroupvisible</key>
+	<string>cancelListView</string>
+	<key>similarSwift</key>
+	<string>captionformmargin</string>
+</dict>
+</plist>

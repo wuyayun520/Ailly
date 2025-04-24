@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>boxshadowaboutprototype</key>
+	<string>oldSegue</string>
+	<key>customProtocol</key>
+	<string>densetextfieldtint</string>
+	<key>hyperbolicStore</key>
+	<string>touchVisible</string>
+	<key>pinchableReplica</key>
+	<string>constantTop</string>
+	<key>shouldPersistMobile</key>
+	<string>yieldGraphic</string>
+</dict>
+</plist>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>assetBottom</key>
+	<string>groupspacing</string>
+	<key>compositionalNib</key>
+	<string>retainedStamp</string>
+	<key>contrastKind</key>
+	<string>selectedCatalyst</string>
+	<key>interactionBrightness</key>
+	<string>shouldDetachExtension</string>
+	<key>precisionversuscommand</key>
+	<string>disabledFuture</string>
+	<key>shouldBindMobile</key>
+	<string>notifyAxis</string>
+	<key>shouldProcessListView</key>
+	<string>validateGesture</string>
+	<key>shouldYieldThread</key>
+	<string>enhanceEntity</string>
+	<key>tablevideo</key>
+	<string>specifierMode</string>
+</dict>
+</plist>

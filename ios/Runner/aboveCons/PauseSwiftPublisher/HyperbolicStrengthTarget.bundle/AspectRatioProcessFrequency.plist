@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>petbinder</key>
+	<string>agileLayer</string>
+	<key>presentaspectratio</key>
+	<string>consumeButton</string>
+	<key>processrole</key>
+	<string>eagerAlignment</string>
+	<key>stepHue</key>
+	<string>subtleLog</string>
+</dict>
+</plist>

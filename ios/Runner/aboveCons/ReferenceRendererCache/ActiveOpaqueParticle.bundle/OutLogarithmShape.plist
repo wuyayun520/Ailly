@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>callbackFlags</key>
+	<string>synchronousSignature</string>
+	<key>channelhead</key>
+	<string>bindresource</string>
+	<key>initiatorsreducer</key>
+	<string>shouldEncodeCoordinator</string>
+	<key>mediumFuture</key>
+	<string>canPushProvider</string>
+	<key>nextShape</key>
+	<string>responseopacity</string>
+	<key>shouldEndMovement</key>
+	<string>heapType</string>
+	<key>shouldFormatOverlay</key>
+	<string>schemaType</string>
+	<key>shouldValidateSubpixel</key>
+	<string>endIndicator</string>
+	<key>shouldpublishobserver</key>
+	<string>lossconfiguration</string>
+</dict>
+</plist>

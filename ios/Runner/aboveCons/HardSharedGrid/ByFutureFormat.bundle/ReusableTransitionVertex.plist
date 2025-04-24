@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>dependencyAppearance</key>
+	<string>polyfillVisible</string>
+	<key>oldModule</key>
+	<string>nodeChain</string>
+	<key>retainedCupertino</key>
+	<string>limitaspectratio</string>
+	<key>shouldFetchImage</key>
+	<string>pushlabel</string>
+</dict>
+</plist>

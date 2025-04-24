@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>explicitScreen</key>
+	<string>isdimension</string>
+	<key>immutableFlex</key>
+	<string>flexiblenorm</string>
+	<key>inactiveSlider</key>
+	<string>usecaseBottom</string>
+	<key>pivotalModulus</key>
+	<string>informationTheme</string>
+	<key>resourcespacing</key>
+	<string>substantialGram</string>
+	<key>semantictexturefeedback</key>
+	<string>isdropdownbutton</string>
+	<key>shouldSetStateGesture</key>
+	<string>permanentScaffold</string>
+</dict>
+</plist>

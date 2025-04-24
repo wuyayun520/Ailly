@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>bitrateaspect</key>
+	<string>alignmentSize</string>
+	<key>disparatespritevalidation</key>
+	<string>completerPattern</string>
+	<key>hardFilter</key>
+	<string>evaluationfrequency</string>
+	<key>inkwellindex</key>
+	<string>grainBridge</string>
+	<key>missedLoss</key>
+	<string>nextPopup</string>
+	<key>tangentCoord</key>
+	<string>exceptionEdge</string>
+</dict>
+</plist>

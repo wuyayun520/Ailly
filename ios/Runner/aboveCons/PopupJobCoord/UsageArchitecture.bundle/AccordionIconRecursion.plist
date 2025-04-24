@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>concurrentDelegate</key>
+	<string>switchSpeed</string>
+	<key>immutableScaffold</key>
+	<string>bloctaxonomy</string>
+	<key>meshCount</key>
+	<string>rebuildSample</string>
+	<key>retainednotificationspacing</key>
+	<string>containerTint</string>
+	<key>seamlessbehaviordepth</key>
+	<string>efficiencyCoord</string>
+	<key>secondDialogs</key>
+	<string>disposehash</string>
+	<key>shouldDecodePlayback</key>
+	<string>dismissCurve</string>
+	<key>shouldDetachNavigator</key>
+	<string>canPersistCursor</string>
+	<key>shouldEndMovement</key>
+	<string>reflecttween</string>
+	<key>specifierTint</key>
+	<string>subpixelleft</string>
+</dict>
+</plist>

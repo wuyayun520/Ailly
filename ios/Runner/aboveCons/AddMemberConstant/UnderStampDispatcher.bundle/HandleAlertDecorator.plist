@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>asyncspacing</key>
+	<string>shouldMountedScreen</string>
+	<key>encapsulatestorage</key>
+	<string>rebuildAnimatedContainer</string>
+	<key>missedRenderer</key>
+	<string>localizationshader</string>
+	<key>relationalprotocolinteraction</key>
+	<string>canAttachMonster</string>
+	<key>reusableSprite</key>
+	<string>featurestateright</string>
+	<key>shouldNavigateProtocol</key>
+	<string>cardPressure</string>
+	<key>shouldValidateAperture</key>
+	<string>invisibleGrayscale</string>
+	<key>singleTicker</key>
+	<string>encodeDimension</string>
+	<key>slashduringnumber</key>
+	<string>uniqueAscent</string>
+</dict>
+</plist>

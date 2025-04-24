@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>basicDuration</key>
+	<string>disposeMedia</string>
+	<key>displayableTable</key>
+	<string>divideIntensity</string>
+	<key>petRate</key>
+	<string>documentuntilstate</string>
+	<key>smallPager</key>
+	<string>tabbarComposite</string>
+	<key>uniqueCubit</key>
+	<string>intensityType</string>
+</dict>
+</plist>

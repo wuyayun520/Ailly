@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>autoSlash</key>
+	<string>dispatchGesture</string>
+	<key>basedistance</key>
+	<string>unbindTask</string>
+	<key>channelsSaturation</key>
+	<string>canPersistBatch</string>
+	<key>texttrajectory</key>
+	<string>canSaveProtocol</string>
+	<key>transformercyclemargin</key>
+	<string>graphHead</string>
+</dict>
+</plist>

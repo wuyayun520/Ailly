@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>audioMomentum</key>
+	<string>currentTernary</string>
+	<key>capacitiesEdge</key>
+	<string>draggableTimer</string>
+	<key>tickerDuration</key>
+	<string>sortedResource</string>
+</dict>
+</plist>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>baselinekind</key>
+	<string>resizableBorder</string>
+	<key>cosineFormat</key>
+	<string>shouldstarttouch</string>
+	<key>labelLeft</key>
+	<string>alertframe</string>
+	<key>parallelPublisher</key>
+	<string>subsequentIcon</string>
+	<key>positionIndex</key>
+	<string>persistentBuffer</string>
+	<key>scopeHue</key>
+	<string>statefulDescent</string>
+</dict>
+</plist>

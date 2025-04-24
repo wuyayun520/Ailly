@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>behaviorortype</key>
+	<string>geometricSprite</string>
+	<key>cellpatternkind</key>
+	<string>lastClipper</string>
+	<key>cupertinoMember</key>
+	<string>seamlessUsage</string>
+	<key>easyStore</key>
+	<string>shouldEndAnimation</string>
+	<key>overlaySpeed</key>
+	<string>shouldKeepCatalyst</string>
+	<key>staticLayout</key>
+	<string>transitionCube</string>
+	<key>viewalongbridge</key>
+	<string>criticalMetrics</string>
+</dict>
+</plist>

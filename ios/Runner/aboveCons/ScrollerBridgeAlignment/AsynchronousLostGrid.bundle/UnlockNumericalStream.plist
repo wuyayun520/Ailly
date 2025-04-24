@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>beginnerCollection</key>
+	<string>reconcileprovider</string>
+	<key>concatenateprovider</key>
+	<string>lostStatus</string>
+	<key>criticalSlider</key>
+	<string>axisProxy</string>
+	<key>cupertinoCompletion</key>
+	<string>mobilevarcolor</string>
+	<key>iterativecard</key>
+	<string>associatedConfiguration</string>
+	<key>layoutinterval</key>
+	<string>shouldNavigateSlider</string>
+	<key>relationalSymbol</key>
+	<string>gramCoord</string>
+	<key>sliderinset</key>
+	<string>canObserveFuture</string>
+	<key>trianglesDistance</key>
+	<string>trajectoryAcceleration</string>
+</dict>
+</plist>

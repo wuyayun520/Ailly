@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>asynchronousEvolution</key>
+	<string>hashAppearance</string>
+	<key>euclideanProvider</key>
+	<string>annotateChart</string>
+	<key>lastRemainder</key>
+	<string>shouldPopInterpolation</string>
+	<key>symmetricReducer</key>
+	<string>directLabel</string>
+</dict>
+</plist>

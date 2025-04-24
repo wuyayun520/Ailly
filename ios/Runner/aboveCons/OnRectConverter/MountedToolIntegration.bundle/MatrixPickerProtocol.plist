@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>intermediateRemediation</key>
+	<string>usecaseJob</string>
+	<key>normalCompleter</key>
+	<string>discoverQueue</string>
+	<key>optimizercolor</key>
+	<string>declarativeFragments</string>
+	<key>protocolInterval</key>
+	<string>debugInjection</string>
+	<key>referencemenu</key>
+	<string>shouldFetchBehavior</string>
+	<key>shouldPushMember</key>
+	<string>bulletAppearance</string>
+	<key>signFrequency</key>
+	<string>taskChain</string>
+	<key>titlestructurespacing</key>
+	<string>popappbar</string>
+</dict>
+</plist>

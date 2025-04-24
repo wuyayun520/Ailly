@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>attachcycle</key>
+	<string>saveMusic</string>
+	<key>binaryTop</key>
+	<string>immutableVertex</string>
+	<key>finderBorder</key>
+	<string>invisibleFinder</string>
+	<key>framequaternion</key>
+	<string>resolverAlignment</string>
+	<key>hierarchicalCoordinator</key>
+	<string>shouldListenChallenge</string>
+	<key>immediateevaluation</key>
+	<string>canDisconnectMovement</string>
+	<key>mediaTransparency</key>
+	<string>utilinitiative</string>
+	<key>permanentHash</key>
+	<string>shouldObserveMaterial</string>
+</dict>
+</plist>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animatedcontainerBottom</key>
+	<string>iterativeContraction</string>
+	<key>fixedModule</key>
+	<string>interfacetail</string>
+	<key>reliabilityVelocity</key>
+	<string>renderCapsule</string>
+	<key>resilientroute</key>
+	<string>mediumTimer</string>
+	<key>sharedOverlay</key>
+	<string>painterdetector</string>
+	<key>shoulddispatchmember</key>
+	<string>wrapPopup</string>
+	<key>sophisticatedalignmentrate</key>
+	<string>rendererTint</string>
+	<key>statefulGroup</key>
+	<string>scaleValidation</string>
+	<key>unactivatedRange</key>
+	<string>minProject</string>
+</dict>
+</plist>

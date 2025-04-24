@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>adjustdependency</key>
+	<string>brushmediatorcount</string>
+	<key>benchmarkwidget</key>
+	<string>ignoredTechnique</string>
+	<key>disabledSample</key>
+	<string>arithmeticGraph</string>
+	<key>discardedScene</key>
+	<string>shouldUnmountedGradient</string>
+	<key>onstepchanged</key>
+	<string>globalButton</string>
+	<key>requiredInfo</key>
+	<string>missedDimension</string>
+	<key>uniformmobile</key>
+	<string>protectedReceiver</string>
+</dict>
+</plist>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>advancedContrast</key>
+	<string>statefulResource</string>
+	<key>commonAlpha</key>
+	<string>progressbartaskskewx</string>
+	<key>crudeDrawer</key>
+	<string>tweenSize</string>
+	<key>histogramRotation</key>
+	<string>canAnimateMission</string>
+	<key>shouldRenderStateful</key>
+	<string>intuitiveShader</string>
+	<key>tickerfactory</key>
+	<string>usedNavigator</string>
+	<key>trajectoryBorder</key>
+	<string>completedCard</string>
+</dict>
+</plist>

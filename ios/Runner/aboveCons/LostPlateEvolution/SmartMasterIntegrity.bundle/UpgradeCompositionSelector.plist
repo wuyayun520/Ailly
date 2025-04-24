@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>canceltexture</key>
+	<string>backwardDuration</string>
+	<key>capacitiesTail</key>
+	<string>deployRouter</string>
+	<key>convertmetadata</key>
+	<string>lastGradient</string>
+	<key>extensionmomentum</key>
+	<string>animateFragment</string>
+	<key>shouldTrainSymbol</key>
+	<string>shouldSaveCapsule</string>
+	<key>threadpolyfill</key>
+	<string>opaqueAsset</string>
+	<key>visualizevector</key>
+	<string>movementInset</string>
+</dict>
+</plist>

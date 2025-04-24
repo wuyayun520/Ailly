@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animatedobserver</key>
+	<string>activeTabBar</string>
+	<key>cartesianPosition</key>
+	<string>exceptionHue</string>
+	<key>combinecurve</key>
+	<string>canHandleMobile</string>
+	<key>newestShader</key>
+	<string>cleanResolver</string>
+	<key>scaleenvironmentposition</key>
+	<string>draggableStorage</string>
+	<key>shouldPublishSpecifier</key>
+	<string>spritespeed</string>
+	<key>shouldSerializePromise</key>
+	<string>multiClipper</string>
+	<key>shouldYieldCosine</key>
+	<string>skipNotification</string>
+	<key>significantFuture</key>
+	<string>encapsulateException</string>
+	<key>visibleCard</key>
+	<string>normalDialogs</string>
+</dict>
+</plist>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>allocatescale</key>
+	<string>streamstamp</string>
+	<key>heroMomentum</key>
+	<string>canDismissGesture</string>
+	<key>liteTransformer</key>
+	<string>onnotificationchanged</string>
+	<key>originalLoss</key>
+	<string>rebuildbinary</string>
+	<key>visiblePainter</key>
+	<string>challengeScale</string>
+</dict>
+</plist>

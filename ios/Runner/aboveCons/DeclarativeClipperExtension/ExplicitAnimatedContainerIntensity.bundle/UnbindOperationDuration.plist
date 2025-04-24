@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>createticker</key>
+	<string>serializeTexture</string>
+	<key>nativeservice</key>
+	<string>metricsTail</string>
+	<key>rapidEffect</key>
+	<string>rowDelay</string>
+	<key>samplequeue</key>
+	<string>publicAnalyzer</string>
+</dict>
+</plist>

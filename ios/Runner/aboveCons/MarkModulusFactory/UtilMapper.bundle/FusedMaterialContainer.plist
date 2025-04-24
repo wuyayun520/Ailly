@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>declarativeGraph</key>
+	<string>intuitiveSubscription</string>
+	<key>ignoredSwitch</key>
+	<string>exponentSize</string>
+	<key>inheritedRange</key>
+	<string>imageFrequency</string>
+	<key>mobileTable</key>
+	<string>computePosition</string>
+	<key>scrollableconverter</key>
+	<string>lostCanvas</string>
+	<key>storevelocity</key>
+	<string>accessibleContainer</string>
+	<key>substantialDocument</key>
+	<string>destroyresource</string>
+	<key>synchronousRoute</key>
+	<string>sinkbrightness</string>
+	<key>tappablePolygon</key>
+	<string>canReplaceOperation</string>
+</dict>
+</plist>

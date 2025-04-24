@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>canvastail</key>
+	<string>significantFinder</string>
+	<key>customUseCase</key>
+	<string>routerDirection</string>
+	<key>ontooltap</key>
+	<string>concreteRepository</string>
+	<key>segueVelocity</key>
+	<string>activeCharacter</string>
+	<key>shouldpublishcapacities</key>
+	<string>canPublishConstraint</string>
+	<key>webSwitch</key>
+	<string>localizationVelocity</string>
+</dict>
+</plist>

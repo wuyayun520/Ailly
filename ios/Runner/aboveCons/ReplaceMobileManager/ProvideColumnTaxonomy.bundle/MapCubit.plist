@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cubitLeft</key>
+	<string>scaffoldState</string>
+	<key>invisibleinitiatorsmomentum</key>
+	<string>imperativePainter</string>
+	<key>navigatormethodresponse</key>
+	<string>textbound</string>
+	<key>oldcaptionvisibility</key>
+	<string>restrictionSize</string>
+	<key>protectedEntity</key>
+	<string>receiverPadding</string>
+	<key>seamlessGrain</key>
+	<string>otherSubpixel</string>
+	<key>statefulconvolutionalignment</key>
+	<string>synchronizeDelegate</string>
+	<key>textureFlags</key>
+	<string>canEmitImage</string>
+	<key>uniqueZone</key>
+	<string>shouldDecodeResource</string>
+</dict>
+</plist>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animatedMenu</key>
+	<string>matrixSystem</string>
+	<key>diffableSingleton</key>
+	<string>newestConfiguration</string>
+	<key>interactiveError</key>
+	<string>integrityDuration</string>
+	<key>rebuildtouch</key>
+	<string>sharedDescriptor</string>
+	<key>resizableCoordinator</key>
+	<string>independentAnimation</string>
+	<key>seekpreview</key>
+	<string>dedicatedInteractor</string>
+	<key>similarInteraction</key>
+	<string>intermediateButton</string>
+	<key>subtleOffset</key>
+	<string>canRestartCube</string>
+	<key>textparammomentum</key>
+	<string>cachetolerance</string>
+	<key>uniqueNotation</key>
+	<string>haslog</string>
+</dict>
+</plist>

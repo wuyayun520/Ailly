@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>challengecenter</key>
+	<string>subscriberTag</string>
+	<key>displayableSlider</key>
+	<string>shouldUpdateTextField</string>
+	<key>elementStyle</key>
+	<string>radiusColor</string>
+	<key>hyperbolicTolerance</key>
+	<string>updateController</string>
+	<key>sustainableTrajectory</key>
+	<string>persistentThroughput</string>
+</dict>
+</plist>

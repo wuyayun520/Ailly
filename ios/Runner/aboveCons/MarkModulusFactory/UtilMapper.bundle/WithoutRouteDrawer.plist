@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>completioninsidechain</key>
+	<string>behaviorFacade</string>
+	<key>hardDropdownButton</key>
+	<string>processBehavior</string>
+	<key>notifyprotocol</key>
+	<string>rangeFeedback</string>
+	<key>repositoryMomentum</key>
+	<string>comprehensiveSlider</string>
+</dict>
+</plist>

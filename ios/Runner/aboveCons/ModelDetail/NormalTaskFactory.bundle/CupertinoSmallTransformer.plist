@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activatedResilience</key>
+	<string>canSkipBuilder</string>
+	<key>activeTransformer</key>
+	<string>amortizationVisibility</string>
+	<key>easyBuilder</key>
+	<string>cancelLogarithm</string>
+	<key>eventaslevel</key>
+	<string>shouldResumeScreen</string>
+	<key>firstPrecision</key>
+	<string>replicaColor</string>
+	<key>fusedAlpha</key>
+	<string>saveRichText</string>
+	<key>shouldBuildGridView</key>
+	<string>consumeInterface</string>
+	<key>shouldSubscribeStack</key>
+	<string>parallelReducer</string>
+</dict>
+</plist>

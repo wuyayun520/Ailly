@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>defaultcaption</key>
+	<string>switchTint</string>
+	<key>independentButton</key>
+	<string>popSubpixel</string>
+	<key>independentSplitter</key>
+	<string>newestEntity</string>
+	<key>interactionEdge</key>
+	<string>enhanceEntity</string>
+	<key>presenteramongkind</key>
+	<string>evaluateDecoration</string>
+	<key>pushoffset</key>
+	<string>bindCollection</string>
+</dict>
+</plist>

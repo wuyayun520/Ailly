@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>navigationstream</key>
+	<string>robustAsset</string>
+	<key>normimage</key>
+	<string>undertakestorage</string>
+	<key>protectedMend</key>
+	<string>nativeScale</string>
+	<key>spritecapacity</key>
+	<string>resumeAxis</string>
+	<key>unsortedMetadata</key>
+	<string>metricsType</string>
+</dict>
+</plist>

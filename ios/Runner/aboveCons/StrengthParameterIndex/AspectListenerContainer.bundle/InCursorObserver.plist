@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>draggableProvider</key>
+	<string>emitterfrequency</string>
+	<key>materialmomentumresponse</key>
+	<string>rebuildGradient</string>
+	<key>multiHash</key>
+	<string>ignoredBase</string>
+	<key>pivotalGrid</key>
+	<string>tappableRect</string>
+	<key>processorOrientation</key>
+	<string>canNavigateMission</string>
+	<key>shouldfinishicon</key>
+	<string>painterFramework</string>
+	<key>standaloneFrame</key>
+	<string>canRouteCapsule</string>
+	<key>standaloneShape</key>
+	<string>navigatorCycle</string>
+</dict>
+</plist>

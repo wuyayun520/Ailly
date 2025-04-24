@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accordionService</key>
+	<string>notationSaturation</string>
+	<key>advancedRange</key>
+	<string>skirtscalability</string>
+	<key>completionrate</key>
+	<string>euclideanAspectRatio</string>
+	<key>detectorEdge</key>
+	<string>previewFlyweight</string>
+	<key>newestRoute</key>
+	<string>toolContext</string>
+	<key>normalNavigation</key>
+	<string>toleranceSpeed</string>
+	<key>polygonInteraction</key>
+	<string>localConfidentiality</string>
+	<key>sequentialListView</key>
+	<string>reducerBuffer</string>
+	<key>shouldStopSpine</key>
+	<string>futureTension</string>
+	<key>subsequentService</key>
+	<string>renderPageView</string>
+</dict>
+</plist>

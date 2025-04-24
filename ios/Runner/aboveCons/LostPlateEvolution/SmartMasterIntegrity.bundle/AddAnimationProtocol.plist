@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>appbarFrequency</key>
+	<string>canValidateGesture</string>
+	<key>configurationSpacing</key>
+	<string>shouldAttachEntropy</string>
+	<key>difficultProcessor</key>
+	<string>canUpdateCycle</string>
+	<key>progressbarCoord</key>
+	<string>bindDimension</string>
+	<key>shouldListenMomentum</key>
+	<string>shouldCacheCapsule</string>
+	<key>shouldcachecompletion</key>
+	<string>unscheduleChannel</string>
+</dict>
+</plist>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>arithmeticgramopacity</key>
+	<string>usecasefeedback</string>
+	<key>compilelayout</key>
+	<string>comprehensiveGrayscale</string>
+	<key>curveTint</key>
+	<string>updateChecklist</string>
+	<key>defaultOptimizer</key>
+	<string>eagerRect</string>
+	<key>hyperbolictextfield</key>
+	<string>explicitInfrastructure</string>
+	<key>locatewidget</key>
+	<string>permissiveCycle</string>
+	<key>nativeUsage</key>
+	<string>shouldDecodeScreen</string>
+	<key>popupaspect</key>
+	<string>streamSlider</string>
+	<key>statefulbesidephase</key>
+	<string>scaleuntiltask</string>
+	<key>timerType</key>
+	<string>pointShade</string>
+</dict>
+</plist>

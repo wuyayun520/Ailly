@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>catalystreducer</key>
+	<string>defaultbuilder</string>
+	<key>controllerbottom</key>
+	<string>freeTitle</string>
+	<key>detectorDuration</key>
+	<string>currentConfidentiality</string>
+	<key>mobileInitiative</key>
+	<string>shouldEncodeRadio</string>
+	<key>priorSample</key>
+	<string>smartpresenterappearance</string>
+	<key>roleSaturation</key>
+	<string>finderInterval</string>
+	<key>selectorTransparency</key>
+	<string>allocatorvertex</string>
+	<key>similarCluster</key>
+	<string>assetContrast</string>
+</dict>
+</plist>

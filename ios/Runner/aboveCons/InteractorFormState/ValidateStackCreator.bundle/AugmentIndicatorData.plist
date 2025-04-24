@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>flexibleVideo</key>
+	<string>immediategrayscale</string>
+	<key>hierarchicalRouter</key>
+	<string>gramofproxy</string>
+	<key>newestTrigger</key>
+	<string>singleProject</string>
+	<key>nodeSpeed</key>
+	<string>finishMonster</string>
+	<key>resizableAudio</key>
+	<string>scrollableConfiguration</string>
+	<key>shouldUnmountedBrush</key>
+	<string>resizableSignature</string>
+	<key>sophisticatedconstraintformat</key>
+	<string>permutationbrightness</string>
+</dict>
+</plist>

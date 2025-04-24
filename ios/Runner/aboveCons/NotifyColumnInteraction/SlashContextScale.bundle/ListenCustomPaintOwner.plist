@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>composableInitiators</key>
+	<string>shouldValidateModulus</string>
+	<key>convolutionconfidentiality</key>
+	<string>imagetint</string>
+	<key>descriptionamongform</key>
+	<string>decorationformdistance</string>
+	<key>initiatorsformat</key>
+	<string>rapidTraversal</string>
+	<key>layoutSkewY</key>
+	<string>interpolationRotation</string>
+	<key>projectionpainter</key>
+	<string>pageviewAcceleration</string>
+	<key>textconnector</key>
+	<string>continueNotifier</string>
+	<key>transposeinterface</key>
+	<string>canBuildDialogs</string>
+	<key>videoInteraction</key>
+	<string>newestCreator</string>
+</dict>
+</plist>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>beginnercurve</key>
+	<string>checkboxOpacity</string>
+	<key>crudeRenderer</key>
+	<string>rebuildEffect</string>
+	<key>directstate</key>
+	<string>shouldDeserializeMobile</string>
+	<key>evolutionValidation</key>
+	<string>reactiveSlash</string>
+	<key>labelAlignment</key>
+	<string>shouldhandlebase</string>
+	<key>publicLoop</key>
+	<string>trainCursor</string>
+	<key>rapidHero</key>
+	<string>semanticservice</string>
+	<key>secondStateless</key>
+	<string>lossJob</string>
+	<key>shouldUnbindNorm</key>
+	<string>finderTension</string>
+</dict>
+</plist>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>basicUnary</key>
+	<string>rowcycleresponse</string>
+	<key>exponentTension</key>
+	<string>copySink</string>
+	<key>factorybehavior</key>
+	<string>shouldEmitDocument</string>
+	<key>smallDescriptor</key>
+	<string>signatureStrategy</string>
+	<key>tickervalueedge</key>
+	<string>setupStream</string>
+	<key>unsortedTitle</key>
+	<string>continueCaption</string>
+</dict>
+</plist>

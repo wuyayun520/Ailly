@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accessibleSound</key>
+	<string>persistawait</string>
+	<key>accordionDispatcher</key>
+	<string>sceneAdapter</string>
+	<key>basicMusic</key>
+	<string>eagerconfigurationalignment</string>
+	<key>challengeusecase</key>
+	<string>resumeEqualization</string>
+	<key>controllerBorder</key>
+	<string>sortedscenetag</string>
+	<key>currentSegment</key>
+	<string>anchorLayer</string>
+	<key>interfaceofchain</key>
+	<string>primaryConstant</string>
+	<key>requeststamp</key>
+	<string>disabledInterpolation</string>
+	<key>standaloneMatrix</key>
+	<string>initializeAlert</string>
+	<key>visualizemomentum</key>
+	<string>unregisterFactory</string>
+</dict>
+</plist>

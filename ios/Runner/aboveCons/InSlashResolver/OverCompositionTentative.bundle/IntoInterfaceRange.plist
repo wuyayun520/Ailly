@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>euclideanNorm</key>
+	<string>rapidcheckbox</string>
+	<key>exponentPosition</key>
+	<string>multiDialogs</string>
+	<key>shouldBuildStamp</key>
+	<string>shouldStartAnimation</string>
+	<key>shouldResumeListView</key>
+	<string>symmetricAscent</string>
+	<key>subtleLoader</key>
+	<string>shouldresumechallenge</string>
+</dict>
+</plist>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>invisibleFinder</key>
+	<string>synchronousLoss</string>
+	<key>lostTextField</key>
+	<string>behaviorTag</string>
+	<key>robustMenu</key>
+	<string>onentropychanged</string>
+	<key>statelessExponent</key>
+	<string>canDisconnectMediaQuery</string>
+</dict>
+</plist>

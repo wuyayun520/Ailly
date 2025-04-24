@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>bandwidthTension</key>
+	<string>asynchronousScaffold</string>
+	<key>baseorproxy</key>
+	<string>uniformInjection</string>
+	<key>consumerlikefacade</key>
+	<string>shouldYieldRemainder</string>
+	<key>draggableTheme</key>
+	<string>enhanceListener</string>
+	<key>globalAlpha</key>
+	<string>defaultAlpha</string>
+	<key>histogramAlignment</key>
+	<string>priorPager</string>
+	<key>multiAudio</key>
+	<string>unmountWorkflow</string>
+	<key>replicaInset</key>
+	<string>canDismissClipper</string>
+	<key>shouldListenDimension</key>
+	<string>renameManager</string>
+	<key>sortedInteractor</key>
+	<string>coordinatorShade</string>
+</dict>
+</plist>

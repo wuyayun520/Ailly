@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>contrastOffset</key>
+	<string>canUpdateScroll</string>
+	<key>descriptionbeyondparam</key>
+	<string>geometricFragment</string>
+	<key>missionorlevel</key>
+	<string>nextFragment</string>
+	<key>paintcallback</key>
+	<string>liteAppBar</string>
+	<key>pivotalStoryboard</key>
+	<string>granularHeap</string>
+	<key>shouldDismissNorm</key>
+	<string>eraseTexture</string>
+	<key>validatecache</key>
+	<string>oninstructiontap</string>
+</dict>
+</plist>

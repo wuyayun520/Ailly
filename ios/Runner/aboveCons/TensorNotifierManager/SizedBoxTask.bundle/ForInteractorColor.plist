@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>entropyBrightness</key>
+	<string>prismaticoption</string>
+	<key>interactiveEvolution</key>
+	<string>aggregateGraph</string>
+	<key>priorCluster</key>
+	<string>usedPager</string>
+	<key>prismaticReference</key>
+	<string>dialogsVisibility</string>
+	<key>responsiveFilter</key>
+	<string>behavioragainstjob</string>
+</dict>
+</plist>

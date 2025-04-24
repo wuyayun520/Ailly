@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>dedicatedModule</key>
+	<string>shouldDispatchCosine</string>
+	<key>entityDirection</key>
+	<string>containerSaturation</string>
+	<key>pinchableThread</key>
+	<string>processAsync</string>
+	<key>queueSkewY</key>
+	<string>tensorReference</string>
+	<key>textureTop</key>
+	<string>subscribeStack</string>
+</dict>
+</plist>

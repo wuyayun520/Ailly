@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>blocinsidevalue</key>
+	<string>equalizationOrientation</string>
+	<key>dimensionDepth</key>
+	<string>concurrentzonestate</string>
+	<key>elasticSchema</key>
+	<string>musicMargin</string>
+	<key>inactiveObserver</key>
+	<string>shouldStopPadding</string>
+	<key>prismaticOperation</key>
+	<string>interpolationEdge</string>
+	<key>shouldstopcustompaint</key>
+	<string>shouldSetStateReference</string>
+	<key>textureprocesscenter</key>
+	<string>disposeProtocol</string>
+</dict>
+</plist>

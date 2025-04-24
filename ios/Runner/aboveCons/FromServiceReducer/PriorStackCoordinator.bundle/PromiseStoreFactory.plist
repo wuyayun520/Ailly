@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>createvariant</key>
+	<string>explicitMatrix</string>
+	<key>functionalFragment</key>
+	<string>playbackLayer</string>
+	<key>reactivePadding</key>
+	<string>processRow</string>
+	<key>scrollSkewX</key>
+	<string>shouldDisposeTechnique</string>
+</dict>
+</plist>

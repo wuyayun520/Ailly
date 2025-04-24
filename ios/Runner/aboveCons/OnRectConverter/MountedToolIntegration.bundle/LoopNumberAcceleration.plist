@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accordionGraphic</key>
+	<string>hierarchicalTexture</string>
+	<key>basicPicker</key>
+	<string>selectedconvolution</string>
+	<key>blocDuration</key>
+	<string>wrapconsumer</string>
+	<key>hyperbolicStream</key>
+	<string>scaleFramework</string>
+	<key>nodeawaycontext</key>
+	<string>composableClipper</string>
+	<key>sliderVisible</key>
+	<string>shouldAnimateSwitch</string>
+</dict>
+</plist>

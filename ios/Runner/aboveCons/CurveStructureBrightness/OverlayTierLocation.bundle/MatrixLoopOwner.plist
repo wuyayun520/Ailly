@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activatedProvision</key>
+	<string>customSplitter</string>
+	<key>containerShape</key>
+	<string>shouldCreateCatalyst</string>
+	<key>criticalMedia</key>
+	<string>retrievePreview</string>
+	<key>customizedAperture</key>
+	<string>activatedRichText</string>
+	<key>evaluationFormat</key>
+	<string>documentFormat</string>
+	<key>filterTheme</key>
+	<string>aspectmargin</string>
+	<key>matrixhue</key>
+	<string>asynchronousDescription</string>
+	<key>shouldShowExpanded</key>
+	<string>sanitizeConfiguration</string>
+	<key>shouldStartDocument</key>
+	<string>numericalSubscriber</string>
+</dict>
+</plist>

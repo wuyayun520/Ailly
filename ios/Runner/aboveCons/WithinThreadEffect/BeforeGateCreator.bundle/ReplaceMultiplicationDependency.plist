@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>alignmentAlignment</key>
+	<string>emitterIndex</string>
+	<key>defaultLogarithm</key>
+	<string>usecasebinder</string>
+	<key>oldAlert</key>
+	<string>publicResult</string>
+	<key>retainedCube</key>
+	<string>advancedPosition</string>
+	<key>specifierTheme</key>
+	<string>interpolateGraph</string>
+	<key>stateMomentum</key>
+	<string>shouldSerializeInstruction</string>
+</dict>
+</plist>

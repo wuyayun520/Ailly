@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accessibleRecursion</key>
+	<string>spriteStage</string>
+	<key>cubitpolyfill</key>
+	<string>boxshadowHue</string>
+	<key>difficultDropdownButton</key>
+	<string>featuremediatorposition</string>
+	<key>elasticityName</key>
+	<string>keyGrid</string>
+	<key>musicdespiteparameter</key>
+	<string>unscheduleGrid</string>
+	<key>unsortedContainer</key>
+	<string>isolateviatier</string>
+</dict>
+</plist>

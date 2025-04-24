@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>advancedBandwidth</key>
+	<string>currentTextField</string>
+	<key>firstGrayscale</key>
+	<string>observeOffset</string>
+	<key>iterativeAnalogy</key>
+	<string>symbolCycle</string>
+	<key>meshShape</key>
+	<string>draggableProvider</string>
+	<key>reusableDialogs</key>
+	<string>nextinteractor</string>
+	<key>selectorAppearance</key>
+	<string>cartesianSlider</string>
+	<key>sortedNib</key>
+	<string>spotTint</string>
+	<key>spineinmethod</key>
+	<string>propagateDescription</string>
+	<key>usecaseandcommand</key>
+	<string>bundleSlider</string>
+</dict>
+</plist>

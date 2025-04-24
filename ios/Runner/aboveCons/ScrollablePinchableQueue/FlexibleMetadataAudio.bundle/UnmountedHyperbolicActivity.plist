@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animatorFormat</key>
+	<string>confidentialityindex</string>
+	<key>crudeWidget</key>
+	<string>gridviewSkewX</string>
+	<key>linkerTop</key>
+	<string>eventTail</string>
+	<key>materialNorm</key>
+	<string>shadershade</string>
+	<key>multiConstant</key>
+	<string>startCurve</string>
+	<key>originalTernary</key>
+	<string>deferredUtil</string>
+	<key>sequentialLinker</key>
+	<string>seekService</string>
+	<key>shouldContinueDimension</key>
+	<string>shouldPublishStep</string>
+	<key>shouldObserveMovement</key>
+	<string>timerBorder</string>
+	<key>typicalaperture</key>
+	<string>sophisticatedLifecycle</string>
+</dict>
+</plist>

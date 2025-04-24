@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>criticalprojection</key>
+	<string>iterativegroupkind</string>
+	<key>flexibleInitiative</key>
+	<string>inkwellName</string>
+	<key>holdfeature</key>
+	<string>textfieldCoord</string>
+	<key>shaderforce</key>
+	<string>seguePressure</string>
+	<key>shouldSerializeStamp</key>
+	<string>declarativeTentative</string>
+	<key>singletoncluster</key>
+	<string>shouldInflateOperation</string>
+	<key>touchdespiteflyweight</key>
+	<string>dismissNotifier</string>
+</dict>
+</plist>

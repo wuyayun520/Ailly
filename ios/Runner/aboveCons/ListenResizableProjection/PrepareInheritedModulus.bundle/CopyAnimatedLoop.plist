@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>denseData</key>
+	<string>effectFramework</string>
+	<key>enumeratetitle</key>
+	<string>eventspeed</string>
+	<key>reactiveCache</key>
+	<string>animatedcontainergrid</string>
+	<key>skipcycle</key>
+	<string>channelsBorder</string>
+	<key>tabbarIndex</key>
+	<string>sizedboxStyle</string>
+</dict>
+</plist>

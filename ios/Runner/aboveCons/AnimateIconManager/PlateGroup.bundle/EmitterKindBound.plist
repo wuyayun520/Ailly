@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>profileValidation</key>
+	<string>staticAnimation</string>
+	<key>protectedtransitiondistance</key>
+	<string>colorFlags</string>
+	<key>sequentialRectangle</key>
+	<string>shouldskipexpanded</string>
+	<key>shouldBindCollection</key>
+	<string>channelNumber</string>
+</dict>
+</plist>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>hasNotifier</key>
+	<string>animateExpanded</string>
+	<key>lazyBandwidth</key>
+	<string>shouldSetStateBullet</string>
+	<key>mediumcallback</key>
+	<string>unactivatedThroughput</string>
+	<key>resultVelocity</key>
+	<string>iterativeCurve</string>
+	<key>semanticsvisibility</key>
+	<string>completerSkewX</string>
+</dict>
+</plist>

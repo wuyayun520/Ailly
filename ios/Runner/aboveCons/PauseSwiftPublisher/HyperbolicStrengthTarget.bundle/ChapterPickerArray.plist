@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>aspectSkewX</key>
+	<string>repositorySize</string>
+	<key>currentMember</key>
+	<string>criticalRect</string>
+	<key>defaultGate</key>
+	<string>offsetVisible</string>
+	<key>presenterslider</key>
+	<string>crudegrayscale</string>
+	<key>thresholdoffset</key>
+	<string>canResumeAlert</string>
+</dict>
+</plist>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accordionController</key>
+	<string>easyElement</string>
+	<key>deferredVideo</key>
+	<string>subsequentprogressbar</string>
+	<key>lazyplaybackindex</key>
+	<string>rectangleTag</string>
+	<key>shaderOrientation</key>
+	<string>adaptivePresenter</string>
+	<key>shouldSerializeSpot</key>
+	<string>regulateCallback</string>
+	<key>sinecoordinator</key>
+	<string>navigateRichText</string>
+	<key>symmetricmodelrotation</key>
+	<string>accordionObject</string>
+</dict>
+</plist>

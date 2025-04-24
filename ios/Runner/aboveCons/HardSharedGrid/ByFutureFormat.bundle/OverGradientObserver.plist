@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>appbarprototypescale</key>
+	<string>shouldListenChecklist</string>
+	<key>missedWorkflow</key>
+	<string>bitrateDelay</string>
+	<key>newestcallbackbound</key>
+	<string>numericalImage</string>
+	<key>operationbutton</key>
+	<string>respondprogressbar</string>
+</dict>
+</plist>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activatedReducer</key>
+	<string>desktopreceiver</string>
+	<key>activityDensity</key>
+	<string>canSetStateBinary</string>
+	<key>fragmentsspacing</key>
+	<string>unsortedComponent</string>
+	<key>oldComposition</key>
+	<string>pagerinterval</string>
+	<key>providerContrast</key>
+	<string>visitConstraint</string>
+	<key>queueawaystyle</key>
+	<string>rapidDetector</string>
+	<key>respectiveSegment</key>
+	<string>fixedPromise</string>
+	<key>sequentialnormrotation</key>
+	<string>encapsulateCurve</string>
+	<key>specifierShade</key>
+	<string>channelborder</string>
+</dict>
+</plist>

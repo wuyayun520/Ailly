@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>asynchronousDecoration</key>
+	<string>desktopProtocol</string>
+	<key>detectorDepth</key>
+	<string>shouldTransformBorder</string>
+	<key>errorSkewX</key>
+	<string>independentDecoration</string>
+	<key>markconvolution</key>
+	<string>mountCoordinator</string>
+	<key>shouldPrepareMultiplication</key>
+	<string>robustRect</string>
+	<key>topicatfunction</key>
+	<string>introspectTransition</string>
+</dict>
+</plist>

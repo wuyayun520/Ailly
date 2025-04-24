@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>clusterpadding</key>
+	<string>sustainableGram</string>
+	<key>denseStep</key>
+	<string>shouldFinishNotifier</string>
+	<key>initiatorsactivitybehavior</key>
+	<string>parallelEfficiency</string>
+	<key>routeFlags</key>
+	<string>bindBase</string>
+	<key>shouldMountCapsule</key>
+	<string>serializeConvolution</string>
+</dict>
+</plist>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>directFragment</key>
+	<string>modelpressure</string>
+	<key>invisibleSize</key>
+	<string>listenerBrightness</string>
+	<key>largeSplitter</key>
+	<string>nodeoperationinteraction</string>
+	<key>queueformat</key>
+	<string>basicReducer</string>
+	<key>sharedSink</key>
+	<string>iterativePageView</string>
+</dict>
+</plist>

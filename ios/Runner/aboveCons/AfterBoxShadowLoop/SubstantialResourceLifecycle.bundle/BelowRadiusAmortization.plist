@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>compositionalMaterial</key>
+	<string>parallelAmortization</string>
+	<key>customDelegate</key>
+	<string>resilientFactory</string>
+	<key>evaluateobserver</key>
+	<string>decodeSize</string>
+	<key>injectionSkewY</key>
+	<string>inheritedTimeline</string>
+	<key>pagerKind</key>
+	<string>usedBatch</string>
+	<key>shouldCancelGestureDetector</key>
+	<string>discardedMetadata</string>
+	<key>shouldDismissNib</key>
+	<string>flexIndex</string>
+	<key>shouldUnmountStep</key>
+	<string>dedicatedSymbol</string>
+	<key>shouldtrainsensor</key>
+	<string>reusableOperation</string>
+</dict>
+</plist>

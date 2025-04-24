@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>composablegridviewvisibility</key>
+	<string>canPauseMovement</string>
+	<key>difficultLayer</key>
+	<string>shouldDecodeSpine</string>
+	<key>elementMode</key>
+	<string>cleanmediaquery</string>
+	<key>geometricDialogs</key>
+	<string>globalCertificate</string>
+	<key>ismobile</key>
+	<string>canStreamGestureDetector</string>
+	<key>routecertificate</key>
+	<string>strengthRight</string>
+	<key>screenSize</key>
+	<string>primaryslider</string>
+	<key>smartRange</key>
+	<string>validateCard</string>
+</dict>
+</plist>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>boxcontainvariable</key>
+	<string>detachActivity</string>
+	<key>cubitFeedback</key>
+	<string>detachbloc</string>
+	<key>menucontaininterpreter</key>
+	<string>modelOpacity</string>
+	<key>primaryproject</key>
+	<string>canBindPoint</string>
+	<key>subtleMargin</key>
+	<string>canFormatListView</string>
+	<key>temporaryProvider</key>
+	<string>shearlabel</string>
+</dict>
+</plist>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>controllerBehavior</key>
+	<string>protectedRouter</string>
+	<key>cosinebeyondfacade</key>
+	<string>functionalAlpha</string>
+	<key>customizedTitle</key>
+	<string>touchrect</string>
+	<key>intermediateMargin</key>
+	<string>canCreateTernary</string>
+	<key>kernelType</key>
+	<string>shouldTransitionScale</string>
+	<key>oldScalability</key>
+	<string>deactivateResponse</string>
+	<key>priorGestureDetector</key>
+	<string>currentroute</string>
+	<key>respectiveDescent</key>
+	<string>consultativeSorter</string>
+	<key>shouldProcessTabView</key>
+	<string>positionMomentum</string>
+	<key>singleEvolution</key>
+	<string>stateActivity</string>
+</dict>
+</plist>

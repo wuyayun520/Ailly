@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>associateddetail</key>
+	<string>augmentcheckbox</string>
+	<key>constraintpadding</key>
+	<string>tickerbuilder</string>
+	<key>immutableThread</key>
+	<string>pushScreen</string>
+	<key>interactionMomentum</key>
+	<string>canRebuildAnchor</string>
+	<key>persistentSensor</key>
+	<string>canPushHeap</string>
+	<key>singleGroup</key>
+	<string>rectSystem</string>
+	<key>stopbaseline</key>
+	<string>disclaimerStyle</string>
+	<key>trainlistener</key>
+	<string>consultativeActivity</string>
+</dict>
+</plist>

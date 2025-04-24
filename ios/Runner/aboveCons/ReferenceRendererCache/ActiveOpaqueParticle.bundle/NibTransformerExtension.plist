@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>consultativeCursor</key>
+	<string>similarIsolate</string>
+	<key>displayableElement</key>
+	<string>animatedGrain</string>
+	<key>hasaxis</key>
+	<string>mobileTemple</string>
+	<key>lostSkin</key>
+	<string>advancedLatency</string>
+	<key>responsiveMap</key>
+	<string>transformerCount</string>
+	<key>shouldSkipScroll</key>
+	<string>symmetricMetrics</string>
+	<key>shouldValidateCapsule</key>
+	<string>alignmentValidation</string>
+	<key>storeAppearance</key>
+	<string>permanentCluster</string>
+	<key>timerAlignment</key>
+	<string>replicaName</string>
+</dict>
+</plist>

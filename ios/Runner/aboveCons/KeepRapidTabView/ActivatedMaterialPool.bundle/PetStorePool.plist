@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>behaviorstrategycolor</key>
+	<string>consultativeGraph</string>
+	<key>draggableExponent</key>
+	<string>heapTransparency</string>
+	<key>ephemerallistviewshade</key>
+	<string>nativeContainer</string>
+	<key>hierarchicalTimer</key>
+	<string>architectureVisible</string>
+	<key>inheritedListener</key>
+	<string>loopborder</string>
+	<key>sequentialShader</key>
+	<string>transposeDecoration</string>
+	<key>shouldCreateNotifier</key>
+	<string>setupOffset</string>
+	<key>shouldDetachMobile</key>
+	<string>statefulText</string>
+	<key>streamorigin</key>
+	<string>lifecycleSpeed</string>
+	<key>symbolleft</key>
+	<string>performDecoration</string>
+</dict>
+</plist>

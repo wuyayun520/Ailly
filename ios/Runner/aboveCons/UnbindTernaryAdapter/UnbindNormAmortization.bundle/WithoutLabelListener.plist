@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>implementplate</key>
+	<string>customSubpixel</string>
+	<key>instructionOrientation</key>
+	<string>tabviewContrast</string>
+	<key>offsetDistance</key>
+	<string>limitAllocator</string>
+</dict>
+</plist>

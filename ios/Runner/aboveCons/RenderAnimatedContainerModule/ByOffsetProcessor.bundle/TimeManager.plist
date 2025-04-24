@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>dedicatedbitratefeedback</key>
+	<string>annotatedropdownbutton</string>
+	<key>priorGrid</key>
+	<string>synchronousWorkflow</string>
+	<key>progressbarandvariable</key>
+	<string>yieldSegue</string>
+	<key>sequentialTimeline</key>
+	<string>activatedRadio</string>
+	<key>shouldMountedCursor</key>
+	<string>autoCompleter</string>
+	<key>sophisticatedDistinction</key>
+	<string>ignoredMerger</string>
+	<key>subscriberForce</key>
+	<string>updateProgressBar</string>
+</dict>
+</plist>

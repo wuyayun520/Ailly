@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>hardThreshold</key>
+	<string>deferredResilience</string>
+	<key>hierarchicalVertex</key>
+	<string>autoSelector</string>
+	<key>requestLeft</key>
+	<string>relationalBuilder</string>
+	<key>skippreview</key>
+	<string>tablephaselocation</string>
+	<key>storagewithflyweight</key>
+	<string>aspectratioWork</string>
+</dict>
+</plist>

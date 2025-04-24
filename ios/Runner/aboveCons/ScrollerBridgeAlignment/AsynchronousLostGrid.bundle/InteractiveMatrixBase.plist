@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>asynchronousNotation</key>
+	<string>shouldReplaceComposition</string>
+	<key>draggablePolyfill</key>
+	<string>declarativeDrawer</string>
+	<key>gradientdistance</key>
+	<string>pageviewLocation</string>
+	<key>inactiveDescent</key>
+	<string>subscriptionLayer</string>
+	<key>scaleperstructure</key>
+	<string>intuitiveChart</string>
+	<key>sequentialextensionstatus</key>
+	<string>prismaticSchema</string>
+	<key>sharedDrawer</key>
+	<string>shouldAnimateGraphic</string>
+	<key>similarSegment</key>
+	<string>activeAmortization</string>
+	<key>statefulCosine</key>
+	<string>currentOccasion</string>
+	<key>unbindprogressbar</key>
+	<string>prepareSlider</string>
+</dict>
+</plist>

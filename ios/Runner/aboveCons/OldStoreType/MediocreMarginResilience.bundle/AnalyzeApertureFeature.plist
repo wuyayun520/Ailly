@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>missedUtil</key>
+	<string>sizesubscriber</string>
+	<key>previewvisitorvalidation</key>
+	<string>concreteProfile</string>
+	<key>segueAcceleration</key>
+	<string>bulletProxy</string>
+	<key>streamVisible</key>
+	<string>enabledOverlay</string>
+</dict>
+</plist>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>currentaxis</key>
+	<string>fetchFragment</string>
+	<key>kernelSpeed</key>
+	<string>newestBinder</string>
+	<key>mitigatedecoration</key>
+	<string>multiConstraint</string>
+	<key>protocolgroup</key>
+	<string>canceltask</string>
+	<key>scrollsensor</key>
+	<string>animateerror</string>
+	<key>shouldValidateSymbol</key>
+	<string>isolateDirection</string>
+	<key>shouldlayoutpet</key>
+	<string>canUpdateAlert</string>
+</dict>
+</plist>

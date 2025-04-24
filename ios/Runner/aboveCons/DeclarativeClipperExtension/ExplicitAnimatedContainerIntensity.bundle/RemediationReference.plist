@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>asyncTransparency</key>
+	<string>materialTask</string>
+	<key>capacityType</key>
+	<string>platePattern</string>
+	<key>difficultPolygon</key>
+	<string>webvideo</string>
+	<key>distinctionPadding</key>
+	<string>eagerAppBar</string>
+	<key>enabledInfrastructure</key>
+	<string>shouldCacheTheme</string>
+	<key>heroBehavior</key>
+	<string>bitrateStatus</string>
+	<key>pinchabledocument</key>
+	<string>consumeListener</string>
+	<key>scaffoldAcceleration</key>
+	<string>tangentOrigin</string>
+	<key>topicdetector</key>
+	<string>storagewithvar</string>
+</dict>
+</plist>

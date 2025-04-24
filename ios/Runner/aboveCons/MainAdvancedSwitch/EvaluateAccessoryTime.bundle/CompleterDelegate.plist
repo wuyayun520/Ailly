@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>commonConvolution</key>
+	<string>mountedProject</string>
+	<key>roleRight</key>
+	<string>moveStore</string>
+	<key>screengroup</key>
+	<string>timedirection</string>
+	<key>shouldCancelFlex</key>
+	<string>layermaterializer</string>
+	<key>shouldNavigateAnimatedContainer</key>
+	<string>usedSensor</string>
+	<key>statefulAccessory</key>
+	<string>robustSingleton</string>
+</dict>
+</plist>

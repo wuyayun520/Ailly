@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accessoryVisibility</key>
+	<string>associateGrid</string>
+	<key>activityparamcenter</key>
+	<string>iterativePopup</string>
+	<key>compositionalPositioned</key>
+	<string>createCosine</string>
+	<key>draggableVideo</key>
+	<string>partitionOffset</string>
+	<key>immediatePriority</key>
+	<string>playCoordinator</string>
+	<key>staticScreen</key>
+	<string>initiatorsbesidework</string>
+	<key>stepOrientation</key>
+	<string>removeBuilder</string>
+</dict>
+</plist>

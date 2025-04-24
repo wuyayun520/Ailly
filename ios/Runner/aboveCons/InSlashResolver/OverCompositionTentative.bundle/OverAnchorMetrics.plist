@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>amortizationName</key>
+	<string>workflowCount</string>
+	<key>deliveryMargin</key>
+	<string>stateTint</string>
+	<key>easyspritedepth</key>
+	<string>canContinueInstruction</string>
+	<key>globalManager</key>
+	<string>observeIndicator</string>
+	<key>masterState</key>
+	<string>intuitiveDetector</string>
+	<key>notificationlayout</key>
+	<string>embedBloc</string>
+	<key>secondAsset</key>
+	<string>queueVelocity</string>
+	<key>shouldBindOverlay</key>
+	<string>shouldConnectText</string>
+	<key>shouldSetStateSegment</key>
+	<string>opaqueAlignment</string>
+</dict>
+</plist>

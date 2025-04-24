@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>channelequivalent</key>
+	<string>clipperright</string>
+	<key>dynamicModal</key>
+	<string>unactivatedReference</string>
+	<key>filterPosition</key>
+	<string>displayText</string>
+	<key>gridviewKind</key>
+	<string>serviceValidation</string>
+	<key>rapidEffect</key>
+	<string>resizableSine</string>
+	<key>shouldTrainBuilder</key>
+	<string>shouldFetchEqualization</string>
+	<key>smarthero</key>
+	<string>accessibleInformation</string>
+</dict>
+</plist>

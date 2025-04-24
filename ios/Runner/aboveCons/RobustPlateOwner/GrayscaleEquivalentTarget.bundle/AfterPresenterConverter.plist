@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>shouldObserveCupertino</key>
+	<string>consultativeConverter</string>
+	<key>statelessSpacing</key>
+	<string>asynchronousScreen</string>
+	<key>unactivatedbaselinehead</key>
+	<string>largeAwait</string>
+	<key>webnib</key>
+	<string>computestamp</string>
+</dict>
+</plist>

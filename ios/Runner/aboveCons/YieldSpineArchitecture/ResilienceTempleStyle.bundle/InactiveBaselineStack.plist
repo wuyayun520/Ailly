@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>consumptionState</key>
+	<string>evolutionBrightness</string>
+	<key>disclaimerAcceleration</key>
+	<string>iterativeJoiner</string>
+	<key>hierarchicalInformation</key>
+	<string>oldTransition</string>
+	<key>mediaqueryValidation</key>
+	<string>flexibleFilter</string>
+	<key>nodeLeft</key>
+	<string>stringifyReducer</string>
+	<key>permissiveFragment</key>
+	<string>cupertinoResolver</string>
+	<key>responsiveResolver</key>
+	<string>mobilestatus</string>
+	<key>topicasvalue</key>
+	<string>currentnotifier</string>
+</dict>
+</plist>

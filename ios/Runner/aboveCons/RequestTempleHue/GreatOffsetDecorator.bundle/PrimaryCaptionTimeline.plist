@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>entityFrequency</key>
+	<string>buildCharacter</string>
+	<key>gesturedetectorDistance</key>
+	<string>bitrateSkewX</string>
+	<key>immutableTechnique</key>
+	<string>scrollablePublisher</string>
+	<key>listenerindex</key>
+	<string>richtextType</string>
+	<key>priorTimeline</key>
+	<string>timerVelocity</string>
+	<key>shouldConnectButton</key>
+	<string>switchVisitor</string>
+	<key>storeInset</key>
+	<string>displayableBandwidth</string>
+	<key>vectortop</key>
+	<string>taskBrightness</string>
+</dict>
+</plist>

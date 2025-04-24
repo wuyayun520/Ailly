@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>gateshader</key>
+	<string>requestStream</string>
+	<key>interfaceSkewX</key>
+	<string>themeDelay</string>
+	<key>permanentAmortization</key>
+	<string>executelog</string>
+	<key>pivotalView</key>
+	<string>observeMedia</string>
+	<key>singleGradient</key>
+	<string>buttonAlignment</string>
+	<key>singleRadius</key>
+	<string>functionalEntity</string>
+	<key>smartTransformer</key>
+	<string>protocolpopup</string>
+</dict>
+</plist>

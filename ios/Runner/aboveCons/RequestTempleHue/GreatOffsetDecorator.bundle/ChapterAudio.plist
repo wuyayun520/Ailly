@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>alignmentsorter</key>
+	<string>consultativeInterpolation</string>
+	<key>greatStamp</key>
+	<string>inkwelltypefeedback</string>
+	<key>groupbystage</key>
+	<string>sensorVar</string>
+	<key>lastSwift</key>
+	<string>destroyAsync</string>
+	<key>permissiveIcon</key>
+	<string>publisherInteraction</string>
+	<key>semanticCell</key>
+	<string>semanticcheckboxalignment</string>
+	<key>shouldAttachNotifier</key>
+	<string>processSegue</string>
+	<key>shouldFetchCurve</key>
+	<string>storageVelocity</string>
+	<key>usedSpecifier</key>
+	<string>shouldDetachExpanded</string>
+</dict>
+</plist>

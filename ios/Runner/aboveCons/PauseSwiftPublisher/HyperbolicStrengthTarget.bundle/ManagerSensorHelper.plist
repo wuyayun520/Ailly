@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>appendstorage</key>
+	<string>permissiveTexture</string>
+	<key>catalystForce</key>
+	<string>bitrateSkewY</string>
+	<key>compositionDirection</key>
+	<string>offsetSprite</string>
+	<key>independentComponent</key>
+	<string>layermode</string>
+	<key>navigationVisible</key>
+	<string>originalCustomPaint</string>
+	<key>persistentsearcher</key>
+	<string>statefulStroke</string>
+	<key>sinkHead</key>
+	<string>queueVisibility</string>
+	<key>subscriptionTint</key>
+	<string>characterconverter</string>
+</dict>
+</plist>

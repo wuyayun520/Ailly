@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>automanager</key>
+	<string>scaleDelay</string>
+	<key>fragmentsVisible</key>
+	<string>descriptionBottom</string>
+	<key>hierarchicalGrayscale</key>
+	<string>draggableOperation</string>
+	<key>loadcontainer</key>
+	<string>canListenObserver</string>
+	<key>materialSkin</key>
+	<string>sustainableInterface</string>
+	<key>playbackparticle</key>
+	<string>shouldPublishModal</string>
+	<key>requestasshape</key>
+	<string>scheduleLocalization</string>
+	<key>sharedMetrics</key>
+	<string>animatestamp</string>
+	<key>shouldDisposeScreen</key>
+	<string>canTransformMonster</string>
+	<key>statefulAsset</key>
+	<string>shouldLayoutIcon</string>
+</dict>
+</plist>

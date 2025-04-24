@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>ascentTint</key>
+	<string>autoLayer</string>
+	<key>documentstream</key>
+	<string>reactiveBaseline</string>
+	<key>impressionSkewX</key>
+	<string>singleAsync</string>
+	<key>robustcolor</key>
+	<string>shouldfinishcapacities</string>
+	<key>stringifychapter</key>
+	<string>cardContrast</string>
+</dict>
+</plist>

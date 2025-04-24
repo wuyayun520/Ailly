@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>consultativeanimator</key>
+	<string>attachNorm</string>
+	<key>graphtail</key>
+	<string>semanticSpot</string>
+	<key>interactiveSpot</key>
+	<string>independentisolateappearance</string>
+	<key>rowcallback</key>
+	<string>shouldMountedConvolution</string>
+	<key>shouldUnmountNib</key>
+	<string>encodeThread</string>
+	<key>transitionRight</key>
+	<string>itemFeedback</string>
+</dict>
+</plist>

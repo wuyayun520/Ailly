@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>certificateShade</key>
+	<string>equalDuration</string>
+	<key>descentIndex</key>
+	<string>permanentModel</string>
+	<key>dynamicBitrate</key>
+	<string>standaloneChart</string>
+	<key>resilientchapter</key>
+	<string>encodeMargin</string>
+	<key>similarIsolate</key>
+	<string>asynchronousAspect</string>
+</dict>
+</plist>

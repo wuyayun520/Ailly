@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>basicBuffer</key>
+	<string>agileOption</string>
+	<key>channelsBorder</key>
+	<string>indicatorOpacity</string>
+	<key>matrixSkewY</key>
+	<string>persistCube</string>
+	<key>sustainableMultiplication</key>
+	<string>streammethod</string>
+</dict>
+</plist>

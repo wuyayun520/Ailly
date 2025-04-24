@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>alertlinker</key>
+	<string>handlesprite</string>
+	<key>alphatransformer</key>
+	<string>configurePreview</string>
+	<key>desktopChapter</key>
+	<string>permanentgraph</string>
+	<key>dynamicInfrastructure</key>
+	<string>renameConstraint</string>
+	<key>geometricPoint</key>
+	<string>interactiveFrame</string>
+	<key>interpolationInteraction</key>
+	<string>canPrepareCatalyst</string>
+	<key>maintainmomentum</key>
+	<string>webResponder</string>
+	<key>mediocreMomentum</key>
+	<string>canPauseStateless</string>
+	<key>rendercomposition</key>
+	<string>canUpdateCharacter</string>
+	<key>shouldRouteGestureDetector</key>
+	<string>dispatchTextField</string>
+</dict>
+</plist>

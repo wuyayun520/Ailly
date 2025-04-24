@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>easyLoop</key>
+	<string>hardCache</string>
+	<key>fusedState</key>
+	<string>boxBottom</string>
+	<key>granularVariant</key>
+	<string>permissiveBuilder</string>
+	<key>kernelAcceleration</key>
+	<string>smalltooldensity</string>
+	<key>shouldListenSizedBox</key>
+	<string>isswitch</string>
+</dict>
+</plist>

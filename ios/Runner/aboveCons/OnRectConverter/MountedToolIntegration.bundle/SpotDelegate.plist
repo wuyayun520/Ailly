@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>basicSpot</key>
+	<string>quantizerGraph</string>
+	<key>customSpecifier</key>
+	<string>canSkipCursor</string>
+	<key>intuitiveEquipment</key>
+	<string>specifiertentative</string>
+	<key>listviewHead</key>
+	<string>completionMode</string>
+	<key>poplocalization</key>
+	<string>shouldTransformCurve</string>
+	<key>prevConsumption</key>
+	<string>updatePrecision</string>
+	<key>scenevisibility</key>
+	<string>divideLoop</string>
+	<key>shouldreplaceinstruction</key>
+	<string>resilientSlash</string>
+	<key>usageflyweightstate</key>
+	<string>triggerDensity</string>
+</dict>
+</plist>

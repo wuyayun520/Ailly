@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>draggablecontraction</key>
+	<string>uniqueHistogram</string>
+	<key>listenerawayform</key>
+	<string>unsortedDrawer</string>
+	<key>onmultiplicationchanged</key>
+	<string>drawtitle</string>
+	<key>petAlignment</key>
+	<string>streamSignature</string>
+	<key>shouldLayoutRemainder</key>
+	<string>immediateInjection</string>
+</dict>
+</plist>

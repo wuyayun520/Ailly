@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>fixedMap</key>
+	<string>sineStructure</string>
+	<key>hardtechnique</key>
+	<string>curvePlatform</string>
+	<key>mapShade</key>
+	<string>canContinueUsage</string>
+	<key>selectedPlayback</key>
+	<string>canPauseTabView</string>
+	<key>serviceSaturation</key>
+	<string>shouldObserveBitrate</string>
+</dict>
+</plist>

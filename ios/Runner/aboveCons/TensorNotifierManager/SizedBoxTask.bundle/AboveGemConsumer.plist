@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>equipmentsingletonvalidation</key>
+	<string>draggableSlider</string>
+	<key>geometricscope</key>
+	<string>labelbyproxy</string>
+	<key>onpaddingtap</key>
+	<string>declarativeRouter</string>
+	<key>previewindex</key>
+	<string>drawTransformer</string>
+	<key>reusablecompleterformat</key>
+	<string>pivotalResilience</string>
+	<key>scrollablePoint</key>
+	<string>captionDirection</string>
+	<key>shouldFinishLoss</key>
+	<string>shouldUnmountButton</string>
+	<key>shouldPresentComposition</key>
+	<string>diffablescenario</string>
+</dict>
+</plist>

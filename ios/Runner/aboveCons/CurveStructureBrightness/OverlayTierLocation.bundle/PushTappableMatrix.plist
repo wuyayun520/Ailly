@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>collectionrepository</key>
+	<string>persistchapter</string>
+	<key>containermode</key>
+	<string>shoulddetachinstruction</string>
+	<key>efficiencyBound</key>
+	<string>canNotifyIndicator</string>
+	<key>equipmentusecase</key>
+	<string>canCacheCharacter</string>
+	<key>granularDimension</key>
+	<string>agileDetector</string>
+	<key>resourcerectangle</key>
+	<string>persistentmaterial</string>
+	<key>textureState</key>
+	<string>appendAsset</string>
+	<key>unmountedproject</key>
+	<string>explicitReplica</string>
+</dict>
+</plist>

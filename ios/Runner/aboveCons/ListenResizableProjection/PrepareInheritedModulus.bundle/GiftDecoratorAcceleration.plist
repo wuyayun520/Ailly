@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>capsuleloader</key>
+	<string>enabledEffect</string>
+	<key>defaultpageview</key>
+	<string>pointMode</string>
+	<key>directScenario</key>
+	<string>denseScalability</string>
+	<key>diversifiedAudio</key>
+	<string>skipHeap</string>
+	<key>scrollableView</key>
+	<string>canStreamOption</string>
+	<key>smartCanvas</key>
+	<string>channelsbeyondchain</string>
+	<key>tappableRequest</key>
+	<string>rowInset</string>
+</dict>
+</plist>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>autoResilience</key>
+	<string>canSkipInstruction</string>
+	<key>collectionnumberhead</key>
+	<string>capacityFlags</string>
+	<key>eagerRichText</key>
+	<string>mediumDetail</string>
+	<key>independentAnalogy</key>
+	<string>marshalState</string>
+	<key>prepareposition</key>
+	<string>shouldEndAspectRatio</string>
+	<key>shouldHandleSpine</key>
+	<string>composableservicetop</string>
+</dict>
+</plist>

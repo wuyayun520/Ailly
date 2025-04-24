@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>disparateresponder</key>
+	<string>yieldcompletion</string>
+	<key>logarithminset</key>
+	<string>vectorizeView</string>
+	<key>primaryProfile</key>
+	<string>labelDecorator</string>
+	<key>relationalReceiver</key>
+	<string>shaderActivity</string>
+	<key>shouldDetachCharacter</key>
+	<string>tabviewJob</string>
+	<key>shouldRestartGram</key>
+	<string>assetcolor</string>
+	<key>shouldTransformTernary</key>
+	<string>seamlessAsync</string>
+	<key>shouldTransitionCard</key>
+	<string>attachPainter</string>
+	<key>statusFlags</key>
+	<string>numericalProject</string>
+	<key>ternaryDuration</key>
+	<string>canFormatIcon</string>
+</dict>
+</plist>

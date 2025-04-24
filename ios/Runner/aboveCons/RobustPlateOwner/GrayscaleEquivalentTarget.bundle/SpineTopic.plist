@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>axisvisibility</key>
+	<string>textureSingleton</string>
+	<key>chooserRate</key>
+	<string>smartAwait</string>
+	<key>difficultScalability</key>
+	<string>scalabilitysaturation</string>
+	<key>draggableAspectRatio</key>
+	<string>shouldPushHistogram</string>
+	<key>prismaticNorm</key>
+	<string>insteadQueue</string>
+	<key>shouldUpdateTask</key>
+	<string>staticConfiguration</string>
+</dict>
+</plist>

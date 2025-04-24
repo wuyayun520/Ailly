@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cyclecontainvisitor</key>
+	<string>subtleGroup</string>
+	<key>invisibleCompletion</key>
+	<string>constructDuration</string>
+	<key>kernelpercomposite</key>
+	<string>emitGrain</string>
+	<key>mutablePainter</key>
+	<string>aspectratioorigin</string>
+	<key>streamforsingleton</key>
+	<string>gramFlyweight</string>
+</dict>
+</plist>

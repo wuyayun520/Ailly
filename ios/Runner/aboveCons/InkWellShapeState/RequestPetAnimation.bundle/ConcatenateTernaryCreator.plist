@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>responseprototypeinteraction</key>
+	<string>shouldPushFuture</string>
+	<key>restartframe</key>
+	<string>controllerutil</string>
+	<key>shouldDisposeCatalyst</key>
+	<string>presenterFunction</string>
+	<key>throughputBound</key>
+	<string>logMemento</string>
+</dict>
+</plist>

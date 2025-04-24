@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>densetransition</key>
+	<string>connectorAppearance</string>
+	<key>materialMap</key>
+	<string>injectionTheme</string>
+	<key>measureasset</key>
+	<string>canTrainMusic</string>
+	<key>missedHash</key>
+	<string>cubitStrategy</string>
+	<key>shouldTransformReduction</key>
+	<string>displayResource</string>
+</dict>
+</plist>

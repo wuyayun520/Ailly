@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>chapterversustier</key>
+	<string>pageviewCenter</string>
+	<key>hardCombiner</key>
+	<string>navigateallocator</string>
+	<key>pageviewAcceleration</key>
+	<string>hierarchicalBuffer</string>
+	<key>parallelPlate</key>
+	<string>interfaceTop</string>
+	<key>sequentialTextField</key>
+	<string>disparatepaintercolor</string>
+	<key>sharedAxis</key>
+	<string>hardAllocator</string>
+	<key>shouldPrepareRemainder</key>
+	<string>oldInitiative</string>
+	<key>taxonomyappearance</key>
+	<string>expandedPressure</string>
+</dict>
+</plist>

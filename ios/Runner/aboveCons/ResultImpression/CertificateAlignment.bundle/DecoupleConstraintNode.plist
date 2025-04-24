@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>coordinatorlayerfeedback</key>
+	<string>hardStatus</string>
+	<key>flexibleSlider</key>
+	<string>streamRow</string>
+	<key>invisibleBloc</key>
+	<string>secondPosition</string>
+	<key>iterativeAnimation</key>
+	<string>inactiveEquivalent</string>
+	<key>movementtitle</key>
+	<string>minStamp</string>
+	<key>resizableStream</key>
+	<string>copyNode</string>
+	<key>singleDependency</key>
+	<string>canInflateExtension</string>
+	<key>unactivatedTitle</key>
+	<string>attachbinary</string>
+	<key>vertexBrightness</key>
+	<string>clearSubscription</string>
+</dict>
+</plist>

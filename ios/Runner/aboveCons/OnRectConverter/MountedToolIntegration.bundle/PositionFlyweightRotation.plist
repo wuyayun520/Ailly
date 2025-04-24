@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>amortizationStyle</key>
+	<string>shouldNotifyDrawer</string>
+	<key>consumerdensity</key>
+	<string>bindbloc</string>
+	<key>inactivestreamduration</key>
+	<string>basicLifecycle</string>
+	<key>injectcurve</key>
+	<string>materializeConstraint</string>
+	<key>secondFrame</key>
+	<string>respectiveFuture</string>
+	<key>shouldDetachImage</key>
+	<string>trianglesdelay</string>
+	<key>singleSine</key>
+	<string>mitigateZone</string>
+	<key>transformerbesidetask</key>
+	<string>deflateBuilder</string>
+	<key>transpiletransition</key>
+	<string>hyperbolicImpression</string>
+</dict>
+</plist>

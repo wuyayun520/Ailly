@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>chapterAppearance</key>
+	<string>impactRate</string>
+	<key>chooserfeedback</key>
+	<string>decoupleTween</string>
+	<key>customizedDrawer</key>
+	<string>desktopconstraint</string>
+	<key>decorationandlayer</key>
+	<string>capsuleNumber</string>
+	<key>evolutionAppearance</key>
+	<string>presenterColor</string>
+	<key>lastCursor</key>
+	<string>shouldTrainEffect</string>
+	<key>navigateinstruction</key>
+	<string>canTransformCursor</string>
+	<key>optimizersensor</key>
+	<string>analogyFeedback</string>
+</dict>
+</plist>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>concretecreator</key>
+	<string>robustCubit</string>
+	<key>debugclipper</key>
+	<string>staticLoader</string>
+	<key>fixedFactory</key>
+	<string>prismaticProject</string>
+	<key>nodetimeline</key>
+	<string>decorationBottom</string>
+	<key>responsiveRestriction</key>
+	<string>evaluateProgressBar</string>
+	<key>shouldInflateAnchor</key>
+	<string>mutableStroke</string>
+	<key>singletondespitecycle</key>
+	<string>singleLatency</string>
+	<key>slashsink</key>
+	<string>canHandleMedia</string>
+	<key>swiftopacity</key>
+	<string>baseRight</string>
+	<key>tensorCollection</key>
+	<string>unmountBullet</string>
+</dict>
+</plist>

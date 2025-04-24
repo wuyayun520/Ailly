@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>flexibleTransformer</key>
+	<string>interactorMediator</string>
+	<key>hierarchicalkernelposition</key>
+	<string>layoutCard</string>
+	<key>interfaceFrequency</key>
+	<string>dialogsofactivity</string>
+	<key>keyVariant</key>
+	<string>loopInteraction</string>
+	<key>streamTransparency</key>
+	<string>platebuffer</string>
+	<key>temporaryTransition</key>
+	<string>restoreLayout</string>
+</dict>
+</plist>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>dedicatedGrain</key>
+	<string>unmountedBase</string>
+	<key>nativeUtil</key>
+	<string>shouldFinishBuilder</string>
+	<key>reactiveSpot</key>
+	<string>descriptionState</string>
+	<key>responsiveMetadata</key>
+	<string>sampleskewx</string>
+	<key>restartmenu</key>
+	<string>sanitizeStore</string>
+	<key>retainedAlignment</key>
+	<string>themeBound</string>
+	<key>robustThreshold</key>
+	<string>embedinterpolation</string>
+	<key>usedDescription</key>
+	<string>reduceLocalization</string>
+	<key>zoneskewx</key>
+	<string>shouldCacheWidget</string>
+</dict>
+</plist>

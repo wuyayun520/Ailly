@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>geometricTolerance</key>
+	<string>interactorstatemode</string>
+	<key>mutableusage</key>
+	<string>resumeAspectRatio</string>
+	<key>prevBinary</key>
+	<string>createStateful</string>
+	<key>semanticoperation</key>
+	<string>enabledTask</string>
+	<key>storestrength</key>
+	<string>dispatchGestureDetector</string>
+</dict>
+</plist>

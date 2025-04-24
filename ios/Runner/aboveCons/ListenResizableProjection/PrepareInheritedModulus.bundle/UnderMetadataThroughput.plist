@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>adaptiveNib</key>
+	<string>challengeParameter</string>
+	<key>animatedtitlerate</key>
+	<string>observerAcceleration</string>
+	<key>radiusmementovisible</key>
+	<string>synchronizeAnimation</string>
+	<key>rowstrategymode</key>
+	<string>mobilearoundpattern</string>
+</dict>
+</plist>

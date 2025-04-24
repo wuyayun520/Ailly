@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>commonFilter</key>
+	<string>borderCenter</string>
+	<key>compositionalOption</key>
+	<string>advancedBuilder</string>
+	<key>crudeStrength</key>
+	<string>efficiencyBottom</string>
+	<key>descriptorInset</key>
+	<string>singleStorage</string>
+	<key>lazyPolyfill</key>
+	<string>persistCapacities</string>
+	<key>reflectimage</key>
+	<string>descriptionSkewX</string>
+	<key>shouldStreamBorder</key>
+	<string>animatedcontainerColor</string>
+	<key>sizedboxMargin</key>
+	<string>normalLogarithm</string>
+	<key>techniqueDuration</key>
+	<string>efficiencyTag</string>
+</dict>
+</plist>

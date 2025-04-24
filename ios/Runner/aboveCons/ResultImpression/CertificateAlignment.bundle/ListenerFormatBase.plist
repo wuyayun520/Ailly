@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>assetstatus</key>
+	<string>endColumn</string>
+	<key>detectorScale</key>
+	<string>asyncrotation</string>
+	<key>globalDispatcher</key>
+	<string>delicatetween</string>
+	<key>latencyValidation</key>
+	<string>lazyaperturealignment</string>
+	<key>liteContainer</key>
+	<string>richtextcontroller</string>
+	<key>numericalexception</key>
+	<string>encodeText</string>
+	<key>protocolsaturation</key>
+	<string>materialIndex</string>
+	<key>synchronousUnary</key>
+	<string>intuitiveAction</string>
+</dict>
+</plist>

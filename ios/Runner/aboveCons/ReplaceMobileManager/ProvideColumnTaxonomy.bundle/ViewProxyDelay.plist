@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>capsulestyleorigin</key>
+	<string>numericalBandwidth</string>
+	<key>contractionpolygon</key>
+	<string>resilientPlayback</string>
+	<key>finderalignment</key>
+	<string>shouldhandlemodal</string>
+	<key>graphMomentum</key>
+	<string>draggableChooser</string>
+	<key>liteFragments</key>
+	<string>movementHead</string>
+	<key>multiConverter</key>
+	<string>concatenateHandler</string>
+	<key>parallelReliability</key>
+	<string>symbolTransparency</string>
+	<key>seamlessColumn</key>
+	<string>shouldCancelCapacities</string>
+	<key>shouldConnectAnchor</key>
+	<string>visitDependency</string>
+</dict>
+</plist>

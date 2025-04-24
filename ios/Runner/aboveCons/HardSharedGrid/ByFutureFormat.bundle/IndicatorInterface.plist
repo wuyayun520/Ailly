@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>configurationCount</key>
+	<string>sequentialLoss</string>
+	<key>explicitModule</key>
+	<string>callbackPhase</string>
+	<key>inactiveTool</key>
+	<string>matrixtype</string>
+	<key>offsetnumbercount</key>
+	<string>mediaquerySpeed</string>
+	<key>processordepth</key>
+	<string>canCancelRow</string>
+	<key>semanticmargin</key>
+	<string>responsevalidation</string>
+	<key>sequentialBoxShadow</key>
+	<string>shouldSerializePromise</string>
+	<key>usageCoord</key>
+	<string>optimizerWork</string>
+</dict>
+</plist>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>dependencytail</key>
+	<string>shouldBuildNavigation</string>
+	<key>discardedMultiplication</key>
+	<string>mediastate</string>
+	<key>fixedPresenter</key>
+	<string>methodtierinterval</string>
+	<key>keyListView</key>
+	<string>associatedService</string>
+	<key>nodeInset</key>
+	<string>animatedcontainerSkewY</string>
+	<key>paintercontrast</key>
+	<string>associateDescription</string>
+	<key>robustRouter</key>
+	<string>filterPadding</string>
+	<key>shouldEncodeBitrate</key>
+	<string>scrollerStatus</string>
+	<key>statefulalert</key>
+	<string>tickerinterval</string>
+	<key>techniqueKind</key>
+	<string>accessorycontainer</string>
+</dict>
+</plist>

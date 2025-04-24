@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activatedDescriptor</key>
+	<string>smallStateful</string>
+	<key>attachcontainer</key>
+	<string>sinelevelbrightness</string>
+	<key>columnobject</key>
+	<string>scrollableProject</string>
+	<key>concreteConsumer</key>
+	<string>shouldPushAnchor</string>
+	<key>controllerposition</key>
+	<string>optionStyle</string>
+	<key>curveCenter</key>
+	<string>loopTail</string>
+	<key>entityFeedback</key>
+	<string>exitRect</string>
+	<key>onaspectratiochanged</key>
+	<string>shouldPresentWidget</string>
+</dict>
+</plist>

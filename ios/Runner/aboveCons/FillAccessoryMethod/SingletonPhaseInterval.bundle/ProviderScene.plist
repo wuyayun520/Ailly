@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>alignmentAlignment</key>
+	<string>shouldCacheCursor</string>
+	<key>diversifiedDetail</key>
+	<string>progressbarInset</string>
+	<key>handlerfeedback</key>
+	<string>spriteForce</string>
+	<key>sophisticatedOffset</key>
+	<string>directSize</string>
+</dict>
+</plist>

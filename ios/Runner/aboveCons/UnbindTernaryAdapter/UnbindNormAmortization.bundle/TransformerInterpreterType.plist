@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>allocatoranimation</key>
+	<string>globalFrame</string>
+	<key>animationHead</key>
+	<string>semanticsstageresponse</string>
+	<key>imperativeCombiner</key>
+	<string>canAnimateCertificate</string>
+	<key>inactiveEfficiency</key>
+	<string>optimizerparampressure</string>
+	<key>precisionSkewX</key>
+	<string>reduceredge</string>
+	<key>schedulerFormat</key>
+	<string>canProcessGesture</string>
+	<key>statelessContainer</key>
+	<string>latencyAcceleration</string>
+	<key>typicalEquivalent</key>
+	<string>subtleslashorigin</string>
+</dict>
+</plist>

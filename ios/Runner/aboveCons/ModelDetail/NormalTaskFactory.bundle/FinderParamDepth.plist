@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>adaptiveTentative</key>
+	<string>unsortedPolygon</string>
+	<key>crudeInfrastructure</key>
+	<string>composableGestureDetector</string>
+	<key>draggableObserver</key>
+	<string>prevInteger</string>
+	<key>secondchallenge</key>
+	<string>unmarshalController</string>
+	<key>smartConsumer</key>
+	<string>mainConnector</string>
+</dict>
+</plist>

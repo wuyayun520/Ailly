@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>channelsRate</key>
+	<string>visitSlider</string>
+	<key>datatension</key>
+	<string>shouldUnmountSubpixel</string>
+	<key>flexibleSize</key>
+	<string>shouldDismissCache</string>
+	<key>shouldTransformController</key>
+	<string>pivotalBase</string>
+	<key>shouldpaintreduction</key>
+	<string>transformContainer</string>
+</dict>
+</plist>

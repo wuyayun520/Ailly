@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>descriptionDensity</key>
+	<string>dedicatedLinker</string>
+	<key>menupolyfill</key>
+	<string>erroraroundmemento</string>
+	<key>mutableOffset</key>
+	<string>shouldSubscribeAspectRatio</string>
+	<key>queueSaturation</key>
+	<string>gridInteraction</string>
+	<key>relationalStep</key>
+	<string>canProcessTouch</string>
+	<key>scaleTransparency</key>
+	<string>canCancelPageView</string>
+	<key>scrollFormat</key>
+	<string>batchFeedback</string>
+	<key>sensorOffset</key>
+	<string>crucialsink</string>
+	<key>swiftEdge</key>
+	<string>basestorage</string>
+	<key>usedLifecycle</key>
+	<string>normalItem</string>
+</dict>
+</plist>

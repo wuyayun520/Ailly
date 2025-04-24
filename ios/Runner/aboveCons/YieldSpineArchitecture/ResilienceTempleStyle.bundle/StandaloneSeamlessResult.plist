@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activeConstraint</key>
+	<string>unmountedHistogram</string>
+	<key>inkwellpopup</key>
+	<string>reflectAlignment</string>
+	<key>intermediateVolume</key>
+	<string>canAttachMember</string>
+	<key>lazyconstraintappearance</key>
+	<string>cleanRequest</string>
+	<key>nodeschema</key>
+	<string>aspectratioforce</string>
+	<key>primaryInteger</key>
+	<string>emitterSaturation</string>
+	<key>priorclipper</key>
+	<string>customtransformerspeed</string>
+	<key>shouldEmitWorkflow</key>
+	<string>componentRight</string>
+	<key>skiptitle</key>
+	<string>criticalChannels</string>
+	<key>subsequentprotocol</key>
+	<string>pinchableExpanded</string>
+</dict>
+</plist>

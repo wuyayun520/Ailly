@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>chaptervaluetype</key>
+	<string>criticalDetail</string>
+	<key>concreteRichText</key>
+	<string>tappableInitiators</string>
+	<key>concreteVertex</key>
+	<string>pushThread</string>
+	<key>nodemementodelay</key>
+	<string>shouldMountChecklist</string>
+	<key>progressbarmatrix</key>
+	<string>createGem</string>
+	<key>specifyCreator</key>
+	<string>easyCollection</string>
+	<key>statelessObject</key>
+	<string>primaryBloc</string>
+</dict>
+</plist>

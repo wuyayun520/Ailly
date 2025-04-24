@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>displayableModulus</key>
+	<string>independentcosinefeedback</string>
+	<key>fragmentprovider</key>
+	<string>customTitle</string>
+	<key>moduluspresenter</key>
+	<string>advancedPriority</string>
+	<key>nextTaxonomy</key>
+	<string>positionacceleration</string>
+	<key>originalAspect</key>
+	<string>ternarysensor</string>
+	<key>shouldBindCoordinator</key>
+	<string>graphFlyweight</string>
+	<key>shouldEndInterpolation</key>
+	<string>firstConnector</string>
+	<key>themeoperationinteraction</key>
+	<string>holdAsync</string>
+</dict>
+</plist>

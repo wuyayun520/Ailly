@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>pageviewBrightness</key>
+	<string>presentCharacter</string>
+	<key>resizableScheduler</key>
+	<string>resizableMultiplication</string>
+	<key>seamlessAnimatedContainer</key>
+	<string>subtleMechanism</string>
+	<key>shouldCacheMomentum</key>
+	<string>binaryDistance</string>
+</dict>
+</plist>

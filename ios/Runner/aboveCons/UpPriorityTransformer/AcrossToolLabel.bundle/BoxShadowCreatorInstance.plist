@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>autoPermutation</key>
+	<string>thresholdTint</string>
+	<key>beginnergrid</key>
+	<string>rebuildNib</string>
+	<key>callbackedge</key>
+	<string>obtainEntity</string>
+	<key>commonInteger</key>
+	<string>intensityForce</string>
+	<key>nextOccasion</key>
+	<string>seamlessPresenter</string>
+	<key>resourceindex</key>
+	<string>activatedSound</string>
+	<key>rolebesideproxy</key>
+	<string>registerCoordinator</string>
+	<key>shouldPersistSpot</key>
+	<string>inflateRemainder</string>
+	<key>sustainableCycle</key>
+	<string>materializeRouter</string>
+	<key>tensorSkirt</key>
+	<string>ignoredLabel</string>
+</dict>
+</plist>

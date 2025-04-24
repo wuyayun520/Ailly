@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>entityvelocity</key>
+	<string>creatorSkewX</string>
+	<key>ignoredpreviewindex</key>
+	<string>iconContext</string>
+	<key>immediateStream</key>
+	<string>completeragainstkind</string>
+	<key>impressionScale</key>
+	<string>accessibleContraction</string>
+	<key>modelSize</key>
+	<string>cacheleft</string>
+	<key>shouldListenMobile</key>
+	<string>canPrepareUsage</string>
+</dict>
+</plist>

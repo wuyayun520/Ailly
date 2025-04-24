@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>acceleraterouter</key>
+	<string>ternarynumberdensity</string>
+	<key>cacheatoperation</key>
+	<string>shouldBindEqualization</string>
+	<key>fragmentAppearance</key>
+	<string>canCreateDialogs</string>
+	<key>largelooppadding</key>
+	<string>shouldAnimateSample</string>
+	<key>liteFormat</key>
+	<string>pushSine</string>
+	<key>managerpadding</key>
+	<string>shouldObserveTabView</string>
+	<key>shouldShowTangent</key>
+	<string>encodeBehavior</string>
+	<key>shoulddisposeoverlay</key>
+	<string>errorWork</string>
+</dict>
+</plist>

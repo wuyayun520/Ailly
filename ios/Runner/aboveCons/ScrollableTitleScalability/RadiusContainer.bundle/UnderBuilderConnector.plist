@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>bufferandcontext</key>
+	<string>shouldConnectConsumer</string>
+	<key>cacheevaluation</key>
+	<string>concurrentMonster</string>
+	<key>columnAppearance</key>
+	<string>eventconverter</string>
+	<key>inkwellContrast</key>
+	<string>wrapIsolate</string>
+	<key>shouldUnbindNavigation</key>
+	<string>accessoryScale</string>
+	<key>singleScalability</key>
+	<string>statelessCaption</string>
+	<key>videoRight</key>
+	<string>heapColor</string>
+</dict>
+</plist>

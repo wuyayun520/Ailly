@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activeConverter</key>
+	<string>canMountedStep</string>
+	<key>adaptivebuffer</key>
+	<string>hyperbolicOperation</string>
+	<key>constraintalongactivity</key>
+	<string>composableCubit</string>
+	<key>decorationShade</key>
+	<string>instructionschema</string>
+	<key>eagerEvent</key>
+	<string>asyncMediator</string>
+	<key>semanticArchitecture</key>
+	<string>associatedDimension</string>
+	<key>shouldDisposeMatrix</key>
+	<string>publishIcon</string>
+	<key>shouldListenPet</key>
+	<string>yieldMovement</string>
+	<key>temporaryReducer</key>
+	<string>priorityCycle</string>
+</dict>
+</plist>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>gateShape</key>
+	<string>alertaction</string>
+	<key>geometricInfo</key>
+	<string>associatepainter</string>
+	<key>ignoredException</key>
+	<string>injectionInset</string>
+	<key>provisionScale</key>
+	<string>encapsulateController</string>
+	<key>rectpadding</key>
+	<string>draggableChannel</string>
+	<key>smallfragments</key>
+	<string>desktopView</string>
+	<key>statefulAspect</key>
+	<string>linkerDensity</string>
+</dict>
+</plist>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>crudechooser</key>
+	<string>uniqueformat</string>
+	<key>modelStyle</key>
+	<string>canDisconnectInterpolation</string>
+	<key>priorLocalization</key>
+	<string>intuitivebinary</string>
+	<key>prismaticResource</key>
+	<string>firstSubscription</string>
+	<key>requiredPicker</key>
+	<string>addLayout</string>
+	<key>shouldNavigateHero</key>
+	<string>geometricReducer</string>
+	<key>sinkpressure</key>
+	<string>sequentialCapsule</string>
+	<key>tensorcoordinator</key>
+	<string>semanticConsumer</string>
+</dict>
+</plist>

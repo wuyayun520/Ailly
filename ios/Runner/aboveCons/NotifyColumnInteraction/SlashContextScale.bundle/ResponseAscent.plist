@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>displayableEffect</key>
+	<string>unmarshalUseCase</string>
+	<key>normalMediaQuery</key>
+	<string>providerfilter</string>
+	<key>smartDrawer</key>
+	<string>shouldHandlePlayback</string>
+	<key>sophisticatedTool</key>
+	<string>cubitRight</string>
+	<key>unsortedThread</key>
+	<string>scaleSkewY</string>
+	<key>wrapcomposition</key>
+	<string>paddingAlignment</string>
+</dict>
+</plist>

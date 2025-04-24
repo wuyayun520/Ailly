@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>characteristictheme</key>
+	<string>unmountMusic</string>
+	<key>checkboxBrightness</key>
+	<string>protocolBuffer</string>
+	<key>commonMaterializer</key>
+	<string>invisibleListView</string>
+	<key>logHead</key>
+	<string>normalNavigator</string>
+	<key>priorityvariableborder</key>
+	<string>decorationbrightness</string>
+	<key>publicDrawer</key>
+	<string>restoreUtil</string>
+	<key>shouldShowConvolution</key>
+	<string>animatedcontainerFeedback</string>
+	<key>unactivatedGem</key>
+	<string>textDensity</string>
+	<key>utilnumberformat</key>
+	<string>singlePublisher</string>
+</dict>
+</plist>

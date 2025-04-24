@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>dataStatus</key>
+	<string>catalystelasticity</string>
+	<key>declarativeCard</key>
+	<string>displayableChooser</string>
+	<key>discardedAction</key>
+	<string>interpolateHandler</string>
+	<key>materialinset</key>
+	<string>disabledText</string>
+	<key>petenvironmentspacing</key>
+	<string>layoutInstruction</string>
+	<key>repositorytint</key>
+	<string>publicMetadata</string>
+	<key>shouldFinishCycle</key>
+	<string>protectedBullet</string>
+	<key>shouldUnmountedEquipment</key>
+	<string>resolverBridge</string>
+	<key>typicalBehavior</key>
+	<string>baseCommand</string>
+	<key>usecasewithtier</key>
+	<string>ephemeralSlash</string>
+</dict>
+</plist>

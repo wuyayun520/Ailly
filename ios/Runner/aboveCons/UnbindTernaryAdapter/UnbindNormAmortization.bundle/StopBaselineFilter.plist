@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cancelunary</key>
+	<string>uniformScenario</string>
+	<key>descentShape</key>
+	<string>requiredrequest</string>
+	<key>intermediateGraph</key>
+	<string>compositionalasync</string>
+	<key>layoutwidget</key>
+	<string>timelineDepth</string>
+	<key>mainArithmetic</key>
+	<string>spinRoute</string>
+	<key>materialAccessory</key>
+	<string>endtexture</string>
+	<key>tappablepositiontheme</key>
+	<string>documentStrategy</string>
+	<key>usedModule</key>
+	<string>canYieldModal</string>
+</dict>
+</plist>

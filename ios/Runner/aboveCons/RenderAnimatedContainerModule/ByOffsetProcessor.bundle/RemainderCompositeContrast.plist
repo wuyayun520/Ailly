@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>buttondrawer</key>
+	<string>shouldyielddropdownbutton</string>
+	<key>independentzone</key>
+	<string>calculateRoute</string>
+	<key>shouldobserveproject</key>
+	<string>alertFormat</string>
+	<key>threadTag</key>
+	<string>shouldAnimateVariant</string>
+</dict>
+</plist>

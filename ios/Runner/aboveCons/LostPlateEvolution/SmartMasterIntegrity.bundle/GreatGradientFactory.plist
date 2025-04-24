@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cartesianActivity</key>
+	<string>disabledInformation</string>
+	<key>materialTextField</key>
+	<string>shouldPopOverlay</string>
+	<key>mediaqueryIndex</key>
+	<string>geometricScenario</string>
+	<key>numericalLogarithm</key>
+	<string>mountedSegue</string>
+	<key>pagerMode</key>
+	<string>remainderwithoutprocess</string>
+	<key>primaryappbarinset</key>
+	<string>canPaintTabView</string>
+	<key>seguebound</key>
+	<string>subsequentGroup</string>
+	<key>shouldNavigateMap</key>
+	<string>endTransition</string>
+	<key>specifyColor</key>
+	<string>granularDisclaimer</string>
+</dict>
+</plist>

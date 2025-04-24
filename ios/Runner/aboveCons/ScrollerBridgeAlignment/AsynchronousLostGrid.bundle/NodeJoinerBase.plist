@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>methodBorder</key>
+	<string>associatedManager</string>
+	<key>previewSize</key>
+	<string>shouldSubscribeCursor</string>
+	<key>requestDistance</key>
+	<string>canPaintMusic</string>
+	<key>seamlessModel</key>
+	<string>scenestrength</string>
+	<key>shouldStartTransition</key>
+	<string>listenStamp</string>
+	<key>tentativeShape</key>
+	<string>layerDepth</string>
+</dict>
+</plist>

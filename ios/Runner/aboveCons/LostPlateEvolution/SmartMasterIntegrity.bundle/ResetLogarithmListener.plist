@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>grapharoundfacade</key>
+	<string>compositiondetail</string>
+	<key>imperativeScroll</key>
+	<string>cardDistance</string>
+	<key>materializerBorder</key>
+	<string>shouldSaveController</string>
+	<key>mobileGradient</key>
+	<string>easyInstruction</string>
+	<key>resourcefunctionname</key>
+	<string>logCommand</string>
+	<key>shouldConnectLabel</key>
+	<string>curveHead</string>
+	<key>specifyPager</key>
+	<string>checkboxalignment</string>
+</dict>
+</plist>

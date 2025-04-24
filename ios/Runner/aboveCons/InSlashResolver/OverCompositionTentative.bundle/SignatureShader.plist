@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accessibleStrength</key>
+	<string>activatedDispatcher</string>
+	<key>inflatedelegate</key>
+	<string>onsignchanged</string>
+	<key>lastConfidentiality</key>
+	<string>shouldSkipAxis</string>
+	<key>lazyAlignment</key>
+	<string>offsetMargin</string>
+	<key>onnotificationtap</key>
+	<string>canCancelSession</string>
+	<key>uniformSignature</key>
+	<string>shouldUpdatePlayback</string>
+</dict>
+</plist>

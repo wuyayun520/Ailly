@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>alertindex</key>
+	<string>newestTentative</string>
+	<key>arithmeticResilience</key>
+	<string>comprehensivesizescale</string>
+	<key>displayrouter</key>
+	<string>positionstate</string>
+	<key>draggableImpact</key>
+	<string>shouldtransformexpanded</string>
+	<key>eagerDecoration</key>
+	<string>resultDirection</string>
+	<key>mediocreResponse</key>
+	<string>shouldLayoutSign</string>
+	<key>shouldLoadPriority</key>
+	<string>radiusProcess</string>
+	<key>shouldMountedContraction</key>
+	<string>featureFacade</string>
+</dict>
+</plist>

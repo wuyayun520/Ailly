@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>autoGram</key>
+	<string>maxGate</string>
+	<key>impressiondirection</key>
+	<string>streamlineEvent</string>
+	<key>lazyfragment</key>
+	<string>iconLeft</string>
+	<key>routeName</key>
+	<string>routerEdge</string>
+	<key>sequentialeffect</key>
+	<string>nodeVelocity</string>
+	<key>shouldLoadRole</key>
+	<string>easyLatency</string>
+	<key>shouldPushCosine</key>
+	<string>serializeflex</string>
+	<key>skinDuration</key>
+	<string>desktopIntensity</string>
+	<key>sophisticatedInkWell</key>
+	<string>shouldPublishCapacities</string>
+</dict>
+</plist>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>associatedeventtheme</key>
+	<string>elasticityRight</string>
+	<key>cardResponse</key>
+	<string>stringifyInteractor</string>
+	<key>enabledHandler</key>
+	<string>deactivateNode</string>
+	<key>grayscaleacceleration</key>
+	<string>deactivategroup</string>
+	<key>rapidInjection</key>
+	<string>declarativeConsumption</string>
+	<key>resultHue</key>
+	<string>statefulTool</string>
+	<key>reusablerequestsize</key>
+	<string>bindSignature</string>
+	<key>visualizerow</key>
+	<string>respectivePadding</string>
+</dict>
+</plist>

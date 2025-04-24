@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activeModule</key>
+	<string>storageKind</string>
+	<key>consultativeOption</key>
+	<string>displayableCapacities</string>
+	<key>inactiveradiusleft</key>
+	<string>heapStructure</string>
+	<key>polyfillPosition</key>
+	<string>showTask</string>
+	<key>servicePressure</key>
+	<string>aspectmodule</string>
+	<key>smartMaterializer</key>
+	<string>switchValue</string>
+</dict>
+</plist>

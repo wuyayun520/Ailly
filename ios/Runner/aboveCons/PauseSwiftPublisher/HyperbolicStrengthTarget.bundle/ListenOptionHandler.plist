@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>asynchronousHandler</key>
+	<string>inactiveBatch</string>
+	<key>draggableappbarposition</key>
+	<string>canFetchSwitch</string>
+	<key>gridviewalongmode</key>
+	<string>canTransitionMobile</string>
+	<key>nextGradient</key>
+	<string>fillBloc</string>
+	<key>protocolSkewX</key>
+	<string>interceptIntensity</string>
+	<key>similarText</key>
+	<string>projectDistance</string>
+	<key>tensorRadius</key>
+	<string>dynamicTimeline</string>
+	<key>wrappertype</key>
+	<string>mobilecharacter</string>
+</dict>
+</plist>

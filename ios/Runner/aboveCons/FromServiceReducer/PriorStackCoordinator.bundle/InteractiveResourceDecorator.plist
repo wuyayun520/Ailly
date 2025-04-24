@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>allocatortaskvalidation</key>
+	<string>monsterLevel</string>
+	<key>customizedPositioned</key>
+	<string>canMountedBuilder</string>
+	<key>delegateAcceleration</key>
+	<string>shouldStreamBox</string>
+	<key>descriptionduringlayer</key>
+	<string>geometricSlash</string>
+	<key>eagerSkin</key>
+	<string>trajectoryForce</string>
+	<key>mediocreResource</key>
+	<string>shouldFinishBaseline</string>
+	<key>pinchableAllocator</key>
+	<string>storeName</string>
+	<key>providerLeft</key>
+	<string>immediateIntensity</string>
+	<key>standaloneStatus</key>
+	<string>mediumElasticity</string>
+</dict>
+</plist>

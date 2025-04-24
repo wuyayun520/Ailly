@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>beginnerMetadata</key>
+	<string>limitPosition</string>
+	<key>polyfillSkewX</key>
+	<string>robusthandler</string>
+	<key>profileHead</key>
+	<string>nodeFeedback</string>
+	<key>samplechart</key>
+	<string>emitprojection</string>
+	<key>shouldStopSample</key>
+	<string>canDecodeStateful</string>
+	<key>unmountresult</key>
+	<string>handledrawer</string>
+</dict>
+</plist>

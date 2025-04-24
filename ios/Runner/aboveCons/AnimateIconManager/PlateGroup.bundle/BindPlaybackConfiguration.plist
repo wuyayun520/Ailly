@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>materialAscent</key>
+	<string>listenFrame</string>
+	<key>modaltentative</key>
+	<string>basicgestureappearance</string>
+	<key>prismaticCluster</key>
+	<string>associatedPlayback</string>
+	<key>shouldBindExtension</key>
+	<string>popupTheme</string>
+	<key>shouldSkipRow</key>
+	<string>bindDropdownButton</string>
+	<key>shouldsetstatetask</key>
+	<string>canRestartSkirt</string>
+</dict>
+</plist>

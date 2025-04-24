@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cursorBehavior</key>
+	<string>cardScale</string>
+	<key>customizedPainter</key>
+	<string>concreteOverlay</string>
+	<key>endallocator</key>
+	<string>directMultiplication</string>
+	<key>layoutduringtask</key>
+	<string>clearDuration</string>
+	<key>modalflyweightlocation</key>
+	<string>priorityBottom</string>
+	<key>publicnavigator</key>
+	<string>shouldContinueMomentum</string>
+	<key>storeamortization</key>
+	<string>accelerateAlignment</string>
+</dict>
+</plist>

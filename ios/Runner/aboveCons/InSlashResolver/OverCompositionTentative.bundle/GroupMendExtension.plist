@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>disabledaspect</key>
+	<string>canCacheCell</string>
+	<key>embraceexponent</key>
+	<string>canStopMap</string>
+	<key>gestureflags</key>
+	<string>brushPattern</string>
+	<key>seamlesswidgetforce</key>
+	<string>robustEvent</string>
+</dict>
+</plist>

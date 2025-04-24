@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>fixedScale</key>
+	<string>cubitforce</string>
+	<key>instantiatematerial</key>
+	<string>grainTension</string>
+	<key>rowFrequency</key>
+	<string>overlayOrigin</string>
+	<key>schemaName</key>
+	<string>tooloutsidestrategy</string>
+</dict>
+</plist>

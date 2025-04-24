@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>discardedResponse</key>
+	<string>alphaTransparency</string>
+	<key>drawerprogressbar</key>
+	<string>inflateMaster</string>
+	<key>intermediatecontroller</key>
+	<string>specifysignaturetag</string>
+	<key>notificationthanmediator</key>
+	<string>delicateTexture</string>
+	<key>resourceinterval</key>
+	<string>agileScroller</string>
+	<key>scrollabledependency</key>
+	<string>canTrainProfile</string>
+	<key>segueEdge</key>
+	<string>initializelistener</string>
+	<key>shouldUnmountScale</key>
+	<string>renderreducer</string>
+	<key>unsortedProjection</key>
+	<string>dispatcherDepth</string>
+</dict>
+</plist>

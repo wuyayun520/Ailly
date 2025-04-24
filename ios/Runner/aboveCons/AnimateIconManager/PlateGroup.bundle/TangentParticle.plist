@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accessoryInteraction</key>
+	<string>createkernel</string>
+	<key>accordionFilter</key>
+	<string>uniqueBitrate</string>
+	<key>buildercontrast</key>
+	<string>managerLayer</string>
+	<key>currentcontroller</key>
+	<string>remaindertint</string>
+	<key>delicateProgressBar</key>
+	<string>shouldBuildTernary</string>
+	<key>embedbloc</key>
+	<string>backwardNotification</string>
+	<key>missedError</key>
+	<string>compositionalStep</string>
+	<key>positionedprogressbar</key>
+	<string>shouldDecodeNavigator</string>
+	<key>respectiveExtension</key>
+	<string>arithmeticIndex</string>
+</dict>
+</plist>

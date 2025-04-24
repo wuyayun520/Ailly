@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>directlylabel</key>
+	<string>tabviewFeedback</string>
+	<key>layoutDirection</key>
+	<string>resilientInfo</string>
+	<key>lifecycleOrientation</key>
+	<string>shouldrenderalert</string>
+	<key>listenpadding</key>
+	<string>canConnectCheckbox</string>
+	<key>retainedController</key>
+	<string>usageObserver</string>
+	<key>shouldCreateAspectRatio</key>
+	<string>materialParameter</string>
+</dict>
+</plist>

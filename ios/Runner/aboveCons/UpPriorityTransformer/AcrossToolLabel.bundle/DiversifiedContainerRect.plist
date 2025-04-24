@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>alertDelay</key>
+	<string>yieldProjection</string>
+	<key>elasticChecklist</key>
+	<string>canBuildBitrate</string>
+	<key>equipmentOrientation</key>
+	<string>builderStyle</string>
+	<key>intuitiveService</key>
+	<string>crudeTabView</string>
+	<key>numericalEntropy</key>
+	<string>semanticStore</string>
+	<key>processorStyle</key>
+	<string>canParseKernel</string>
+	<key>tappablePromise</key>
+	<string>tentativeFormat</string>
+</dict>
+</plist>

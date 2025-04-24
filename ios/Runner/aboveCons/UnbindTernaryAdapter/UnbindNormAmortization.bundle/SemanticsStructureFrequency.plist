@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>coordinatorSpeed</key>
+	<string>prismatictopicoffset</string>
+	<key>difficultAmortization</key>
+	<string>modalSystem</string>
+	<key>matrixscroller</key>
+	<string>customizedReduction</string>
+	<key>mobileStream</key>
+	<string>beginnerMesh</string>
+	<key>nodeHead</key>
+	<string>shaderValue</string>
+	<key>shouldNavigatePainter</key>
+	<string>sequentialRange</string>
+	<key>shoulddeserializethread</key>
+	<string>listenChannel</string>
+</dict>
+</plist>

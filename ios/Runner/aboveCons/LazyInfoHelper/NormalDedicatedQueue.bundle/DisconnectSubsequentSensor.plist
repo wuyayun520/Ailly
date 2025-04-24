@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>arithmeticDescriptor</key>
+	<string>navigatorradius</string>
+	<key>baselinedescription</key>
+	<string>lostButton</string>
+	<key>histogramhue</key>
+	<string>loopType</string>
+	<key>parallelgridorigin</key>
+	<string>sizedboxFlags</string>
+	<key>positionedcontainlevel</key>
+	<string>materializerMode</string>
+	<key>reusableLoader</key>
+	<string>opaqueTentative</string>
+	<key>scrollerindex</key>
+	<string>shouldProcessModulus</string>
+	<key>shouldDisconnectNavigator</key>
+	<string>sessionParam</string>
+	<key>shouldRestartIcon</key>
+	<string>integerComposite</string>
+	<key>unarycenter</key>
+	<string>flexiblePainter</string>
+</dict>
+</plist>

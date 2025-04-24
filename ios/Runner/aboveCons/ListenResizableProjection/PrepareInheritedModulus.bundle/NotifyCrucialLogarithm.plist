@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>contractionFormat</key>
+	<string>canListenDialogs</string>
+	<key>defaultBorder</key>
+	<string>animationalongplatform</string>
+	<key>mediumModal</key>
+	<string>sequentialLayer</string>
+	<key>statefulopacity</key>
+	<string>copyMetadata</string>
+	<key>touchSkewX</key>
+	<string>momentumkind</string>
+</dict>
+</plist>

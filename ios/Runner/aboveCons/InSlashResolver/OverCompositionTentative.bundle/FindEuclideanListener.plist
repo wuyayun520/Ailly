@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cartesianIntensity</key>
+	<string>largeVector</string>
+	<key>popbuilder</key>
+	<string>popupworkvalidation</string>
+	<key>responsiveCaption</key>
+	<string>semanticdescriptionmargin</string>
+	<key>retainedcursor</key>
+	<string>mixinController</string>
+	<key>shouldDismissOptimizer</key>
+	<string>shouldobservebatch</string>
+	<key>webIsolate</key>
+	<string>grayscaleParam</string>
+</dict>
+</plist>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>displaypopup</key>
+	<string>lazyAlpha</string>
+	<key>managerContrast</key>
+	<string>shouldValidateOperation</string>
+	<key>rectangleSaturation</key>
+	<string>canCreateSignature</string>
+	<key>smartBinder</key>
+	<string>mixinLocalization</string>
+	<key>strengthCoord</key>
+	<string>checkboxtitle</string>
+	<key>substantialdependency</key>
+	<string>canShowGridView</string>
+	<key>toleranceResponse</key>
+	<string>schedulerRotation</string>
+	<key>webintensityshade</key>
+	<string>concurrentDimension</string>
+</dict>
+</plist>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>concurrentElement</key>
+	<string>disposeGram</string>
+	<key>granularTrigger</key>
+	<string>iterativeThread</string>
+	<key>keyCosine</key>
+	<string>shouldNavigateStack</string>
+	<key>promiseState</key>
+	<string>shouldDeserializeExtension</string>
+	<key>shouldBindUnary</key>
+	<string>emitconsumer</string>
+	<key>subtleInitiators</key>
+	<string>textmaterializer</string>
+</dict>
+</plist>

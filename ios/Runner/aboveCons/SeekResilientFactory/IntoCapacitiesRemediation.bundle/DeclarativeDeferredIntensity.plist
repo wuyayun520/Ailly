@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>adaptiveEfficiency</key>
+	<string>routerLeft</string>
+	<key>concurrentinterpolation</key>
+	<string>fixedEffect</string>
+	<key>effectShade</key>
+	<string>petEnvironment</string>
+	<key>functionalEfficiency</key>
+	<string>sophisticatedCreator</string>
+	<key>mobileProcessor</key>
+	<string>unscheduleScene</string>
+	<key>shouldRouteCycle</key>
+	<string>skipMonster</string>
+</dict>
+</plist>

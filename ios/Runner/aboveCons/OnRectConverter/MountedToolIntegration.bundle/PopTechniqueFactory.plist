@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>asynchronousconsumer</key>
+	<string>isGesture</string>
+	<key>defaultwidget</key>
+	<string>imperativeConnector</string>
+	<key>reusableSearcher</key>
+	<string>dissociateDelegate</string>
+	<key>shouldparsepromise</key>
+	<string>imperativeCaption</string>
+	<key>statefulEntropy</key>
+	<string>priorStorage</string>
+	<key>visibleStroke</key>
+	<string>lastAwait</string>
+</dict>
+</plist>

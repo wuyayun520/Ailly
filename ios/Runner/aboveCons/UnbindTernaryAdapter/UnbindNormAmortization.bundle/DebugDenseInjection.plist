@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>asynchronousSingleton</key>
+	<string>invisibleSlash</string>
+	<key>graphicinsidecontext</key>
+	<string>pagerAcceleration</string>
+	<key>histogramInset</key>
+	<string>pettitle</string>
+	<key>immutableMethod</key>
+	<string>imperativeElasticity</string>
+	<key>latencyDistance</key>
+	<string>crucialGradient</string>
+	<key>retainedOption</key>
+	<string>popSpine</string>
+</dict>
+</plist>

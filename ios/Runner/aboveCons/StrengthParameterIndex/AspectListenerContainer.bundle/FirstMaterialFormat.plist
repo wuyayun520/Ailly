@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>certificatecontrast</key>
+	<string>canUnmountedPoint</string>
+	<key>delegatelifecycle</key>
+	<string>issizedbox</string>
+	<key>largemenu</key>
+	<string>columnMethod</string>
+	<key>lazyTriangles</key>
+	<string>automodeltype</string>
+	<key>newestMission</key>
+	<string>significantBox</string>
+	<key>pivotaltitleindex</key>
+	<string>presenterContrast</string>
+	<key>profilestack</key>
+	<string>coordinatorRate</string>
+	<key>sizeSkewX</key>
+	<string>shouldStartCapacities</string>
+	<key>yieldfeature</key>
+	<string>differentiateHash</string>
+</dict>
+</plist>

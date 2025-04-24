@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accessoryCenter</key>
+	<string>activeTrajectory</string>
+	<key>consumerDelay</key>
+	<string>explicitSplitter</string>
+	<key>originaltimer</key>
+	<string>baselineFeedback</string>
+	<key>primaryChooser</key>
+	<string>textfieldmodel</string>
+	<key>robustMesh</key>
+	<string>explicitPolyfill</string>
+	<key>scaleMargin</key>
+	<string>routeNib</string>
+</dict>
+</plist>

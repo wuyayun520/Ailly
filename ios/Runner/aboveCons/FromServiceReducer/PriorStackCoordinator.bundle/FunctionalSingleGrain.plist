@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>controllerproxyspacing</key>
+	<string>polygonPadding</string>
+	<key>projectionspeed</key>
+	<string>propagateAsset</string>
+	<key>retainsingleton</key>
+	<string>protocolComposite</string>
+	<key>shaderaboutstage</key>
+	<string>synchronousElasticity</string>
+	<key>shaderscroller</key>
+	<string>presentContraction</string>
+	<key>shouldcreatemedia</key>
+	<string>shouldInflateBitrate</string>
+	<key>shouldrendercapacities</key>
+	<string>pickerDistance</string>
+	<key>tabviewresolver</key>
+	<string>showanimatedcontainer</string>
+</dict>
+</plist>

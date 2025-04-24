@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>advancedConfiguration</key>
+	<string>asynchronousArithmetic</string>
+	<key>audioCount</key>
+	<string>backwardDecoration</string>
+	<key>composableTable</key>
+	<string>allocatorinteraction</string>
+	<key>customizedBuilder</key>
+	<string>animatedcontainerborder</string>
+	<key>protectedPolyfill</key>
+	<string>entityVar</string>
+	<key>resolverInset</key>
+	<string>controllerBound</string>
+</dict>
+</plist>

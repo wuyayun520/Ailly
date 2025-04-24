@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>agileGraph</key>
+	<string>mapContrast</string>
+	<key>composableTopic</key>
+	<string>hierarchicalSession</string>
+	<key>enabledshaderoffset</key>
+	<string>missedTimeline</string>
+	<key>reactiveStore</key>
+	<string>wrapperMomentum</string>
+	<key>resizableBinary</key>
+	<string>embracePopup</string>
+	<key>respectiveGesture</key>
+	<string>prevSkin</string>
+	<key>shouldDecodeOverlay</key>
+	<string>saveTabView</string>
+</dict>
+</plist>

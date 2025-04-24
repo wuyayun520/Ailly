@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>crucialLocalization</key>
+	<string>channelsAlignment</string>
+	<key>elementRotation</key>
+	<string>currentStream</string>
+	<key>newestMatrix</key>
+	<string>anchorWork</string>
+	<key>publicCheckbox</key>
+	<string>shouldPresentMatrix</string>
+	<key>shouldReplaceSegment</key>
+	<string>detachCurve</string>
+</dict>
+</plist>

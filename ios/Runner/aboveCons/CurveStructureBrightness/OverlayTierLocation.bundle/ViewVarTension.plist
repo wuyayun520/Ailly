@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>controllershade</key>
+	<string>tappableStore</string>
+	<key>graphVelocity</key>
+	<string>mountedcustompaint</string>
+	<key>measuremodal</key>
+	<string>elasticProvider</string>
+	<key>missedAlpha</key>
+	<string>opaqueAspectRatio</string>
+	<key>overlayContrast</key>
+	<string>canDisposeCharacter</string>
+	<key>requestresponse</key>
+	<string>shouldListenChecklist</string>
+	<key>sortedSorter</key>
+	<string>pageviewLevel</string>
+</dict>
+</plist>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cupertinoSound</key>
+	<string>currentwidgetbrightness</string>
+	<key>fragmentmechanism</key>
+	<string>replicateDecoration</string>
+	<key>listviewTension</key>
+	<string>capacitiesMethod</string>
+	<key>segueBottom</key>
+	<string>subtlenavigatorposition</string>
+	<key>topicamongvalue</key>
+	<string>significantConsumer</string>
+</dict>
+</plist>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accordionQueue</key>
+	<string>transformCapsule</string>
+	<key>alignmenttag</key>
+	<string>pinchableCaption</string>
+	<key>architectureAlignment</key>
+	<string>customizedSearcher</string>
+	<key>permanentslash</key>
+	<string>scrollableCombiner</string>
+	<key>primaryRoute</key>
+	<string>extendFactory</string>
+	<key>scrollableCatalyst</key>
+	<string>shouldNavigateEqualization</string>
+	<key>sharedHandler</key>
+	<string>dynamicException</string>
+	<key>tabviewwithvisitor</key>
+	<string>appendFactory</string>
+</dict>
+</plist>

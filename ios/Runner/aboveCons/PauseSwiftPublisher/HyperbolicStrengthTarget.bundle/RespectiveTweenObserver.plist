@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>associatedThroughput</key>
+	<string>entityHead</string>
+	<key>associatedTraversal</key>
+	<string>elasticChooser</string>
+	<key>composablePet</key>
+	<string>interceptMetadata</string>
+	<key>greatDependency</key>
+	<string>resolverTier</string>
+	<key>intermediateGrayscale</key>
+	<string>asyncshapeflags</string>
+	<key>missionslider</key>
+	<string>asyncMargin</string>
+	<key>newestZone</key>
+	<string>responsiveTrigger</string>
+</dict>
+</plist>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>contractionenvironmentoffset</key>
+	<string>gradientOperation</string>
+	<key>losttexture</key>
+	<string>associatedInjection</string>
+	<key>mobileStoryboard</key>
+	<string>associatedwidgettop</string>
+	<key>prismaticAnalyzer</key>
+	<string>channelpainter</string>
+	<key>projectcontrast</key>
+	<string>bundleQueue</string>
+	<key>retainedEvaluation</key>
+	<string>animatedcontainerValue</string>
+	<key>shouldYieldArithmetic</key>
+	<string>canPresentMap</string>
+</dict>
+</plist>

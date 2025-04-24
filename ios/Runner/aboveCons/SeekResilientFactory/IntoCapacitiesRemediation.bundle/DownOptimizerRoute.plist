@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>basiccontroller</key>
+	<string>histogramSpacing</string>
+	<key>distinctionSpacing</key>
+	<string>shouldRouteLog</string>
+	<key>itemForce</key>
+	<string>crudeController</string>
+	<key>pivotalItem</key>
+	<string>cacheController</string>
+	<key>shouldHandleTechnique</key>
+	<string>toleranceOrientation</string>
+</dict>
+</plist>

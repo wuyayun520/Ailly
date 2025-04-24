@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>autoPoint</key>
+	<string>quaternionalignment</string>
+	<key>buttonaction</key>
+	<string>replicateMetadata</string>
+	<key>cardCount</key>
+	<string>composableLocalization</string>
+	<key>gesturedetectorOffset</key>
+	<string>canPrepareCupertino</string>
+	<key>infrastructureMode</key>
+	<string>canLoadCupertino</string>
+	<key>methodMomentum</key>
+	<string>catalystLayer</string>
+	<key>shouldCacheAppBar</key>
+	<string>retainDuration</string>
+	<key>shouldInflateTouch</key>
+	<string>joinerCount</string>
+	<key>themeamongfacade</key>
+	<string>canPrepareMovement</string>
+</dict>
+</plist>

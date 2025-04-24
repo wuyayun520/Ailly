@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>aspectratiountilvar</key>
+	<string>assetvideo</string>
+	<key>litecontainer</key>
+	<string>usecasestateright</string>
+	<key>objectStatus</key>
+	<string>currentHero</string>
+	<key>specifysize</key>
+	<string>eraseSprite</string>
+</dict>
+</plist>

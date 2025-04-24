@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>interactorEdge</key>
+	<string>invisiblePolygon</string>
+	<key>playobserver</key>
+	<string>aggregatecompletion</string>
+	<key>prevFinder</key>
+	<string>canLoadDocument</string>
+	<key>respectiveDelivery</key>
+	<string>floatInteractor</string>
+	<key>responseShape</key>
+	<string>createInterface</string>
+	<key>semanticsFrequency</key>
+	<string>flexibleDuration</string>
+	<key>shouldAnimateGift</key>
+	<string>providerShape</string>
+	<key>substantialAnimatedContainer</key>
+	<string>sophisticatedSearcher</string>
+</dict>
+</plist>

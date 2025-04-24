@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>augmentsprite</key>
+	<string>memberBottom</string>
+	<key>crudeStorage</key>
+	<string>interpolationAppearance</string>
+	<key>difficultskirtinterval</key>
+	<string>priorAxis</string>
+	<key>equalizationtweak</key>
+	<string>shouldDecodeSegment</string>
+	<key>fragmentType</key>
+	<string>bitratebrightness</string>
+	<key>materializerMargin</key>
+	<string>hardLabel</string>
+	<key>sequentialView</key>
+	<string>shoulddisposeaspect</string>
+	<key>shouldDisconnectProjection</key>
+	<string>buildChannels</string>
+</dict>
+</plist>

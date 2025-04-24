@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>benchmarkinstruction</key>
+	<string>compositionalBaseline</string>
+	<key>consultativecapacities</key>
+	<string>canLayoutMatrix</string>
+	<key>lostSign</key>
+	<string>navigateTernary</string>
+	<key>moduleOffset</key>
+	<string>shouldUpdateView</string>
+	<key>protocolBottom</key>
+	<string>shouldContinueSlider</string>
+	<key>retainedBinary</key>
+	<string>canPushSwift</string>
+	<key>sceneState</key>
+	<string>canLoadListView</string>
+	<key>shouldPopGrayscale</key>
+	<string>immutableBuilder</string>
+	<key>shouldparseslash</key>
+	<string>serializeEqualization</string>
+	<key>singleSprite</key>
+	<string>shouldTrainStep</string>
+</dict>
+</plist>

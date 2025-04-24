@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>displayableError</key>
+	<string>scheduleSize</string>
+	<key>draggableInfrastructure</key>
+	<string>dedicatedStore</string>
+	<key>durationVisibility</key>
+	<string>cubitaroundframework</string>
+	<key>invisibleCard</key>
+	<string>segueAdapter</string>
+	<key>mainUnary</key>
+	<string>showMusic</string>
+	<key>shouldPublishListView</key>
+	<string>storeCount</string>
+</dict>
+</plist>

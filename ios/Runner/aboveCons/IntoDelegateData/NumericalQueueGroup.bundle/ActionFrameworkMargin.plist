@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>coordinatorStatus</key>
+	<string>nativeCompleter</string>
+	<key>cursorincludeparam</key>
+	<string>canFormatChecklist</string>
+	<key>elementBorder</key>
+	<string>lazyScenario</string>
+	<key>filterTheme</key>
+	<string>substantialgroup</string>
+	<key>robustlistviewlocation</key>
+	<string>shouldDisposeListView</string>
+	<key>shouldFetchProject</key>
+	<string>defaultGridView</string>
+	<key>shouldSaveSwift</key>
+	<string>movementValue</string>
+	<key>shouldencodeindicator</key>
+	<string>resilientResponse</string>
+</dict>
+</plist>

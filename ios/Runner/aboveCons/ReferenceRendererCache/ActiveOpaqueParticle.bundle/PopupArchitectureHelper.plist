@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>coordinatorperstructure</key>
+	<string>cancelGridView</string>
+	<key>fixedMenu</key>
+	<string>shouldDismissAnimation</string>
+	<key>mediumCapsule</key>
+	<string>subsequentDetector</string>
+	<key>notificationTail</key>
+	<string>shouldShowNorm</string>
+	<key>paintercolor</key>
+	<string>multitangent</string>
+	<key>publishdialogs</key>
+	<string>accessibleUtil</string>
+</dict>
+</plist>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cardstyledepth</key>
+	<string>autoMapper</string>
+	<key>combinerContrast</key>
+	<string>protectedAnchor</string>
+	<key>globalGem</key>
+	<string>disconnectBase</string>
+	<key>infrastructureState</key>
+	<string>rectifyProvider</string>
+	<key>isGestureDetector</key>
+	<string>nativeAnalogy</string>
+	<key>responsiveBaseline</key>
+	<string>componentStatus</string>
+	<key>rowenvironmentresponse</key>
+	<string>resultinteraction</string>
+</dict>
+</plist>

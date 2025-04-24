@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>concurrentBuilder</key>
+	<string>localizationShade</string>
+	<key>criticalResource</key>
+	<string>profilenumberscale</string>
+	<key>deferredRequest</key>
+	<string>exceptionDensity</string>
+	<key>dispatcherCenter</key>
+	<string>variantTop</string>
+	<key>instructionindex</key>
+	<string>activeSchema</string>
+	<key>interactivenode</key>
+	<string>accordionPageView</string>
+	<key>prevImage</key>
+	<string>shouldResumeCustomPaint</string>
+	<key>publicGraph</key>
+	<string>hyperbolicswitch</string>
+	<key>scrollableAnalogy</key>
+	<string>discardedSpine</string>
+	<key>uniqueScaffold</key>
+	<string>materialVertex</string>
+</dict>
+</plist>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>globalThread</key>
+	<string>monsterprototypespeed</string>
+	<key>mediocreStroke</key>
+	<string>shouldResumeCell</string>
+	<key>requiredUtil</key>
+	<string>canDispatchArithmetic</string>
+	<key>shouldEmitAppBar</key>
+	<string>assetOrientation</string>
+</dict>
+</plist>

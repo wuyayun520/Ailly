@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animatorDuration</key>
+	<string>catalystTheme</string>
+	<key>baselinevisibility</key>
+	<string>graphbychain</string>
+	<key>channelsHue</key>
+	<string>canInflateGridView</string>
+	<key>discardedDelivery</key>
+	<string>destroyMetadata</string>
+	<key>enabledMovement</key>
+	<string>hardTween</string>
+	<key>largeEfficiency</key>
+	<string>seamlessPicker</string>
+	<key>shouldShowGestureDetector</key>
+	<string>shouldStreamDocument</string>
+	<key>titleforce</key>
+	<string>shouldPopBorder</string>
+	<key>webAwait</key>
+	<string>statelessPattern</string>
+</dict>
+</plist>

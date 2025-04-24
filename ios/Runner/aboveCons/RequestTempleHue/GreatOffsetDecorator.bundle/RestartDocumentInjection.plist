@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>advancedAwait</key>
+	<string>defaultternary</string>
+	<key>connectorOpacity</key>
+	<string>createRichText</string>
+	<key>hierarchicalResult</key>
+	<string>cupertinoScalability</string>
+	<key>liteController</key>
+	<string>schedulerSkewX</string>
+	<key>nextProfile</key>
+	<string>swiftVar</string>
+	<key>shouldPushExponent</key>
+	<string>permutationAppearance</string>
+	<key>transformerofmemento</key>
+	<string>draggableWrapper</string>
+</dict>
+</plist>

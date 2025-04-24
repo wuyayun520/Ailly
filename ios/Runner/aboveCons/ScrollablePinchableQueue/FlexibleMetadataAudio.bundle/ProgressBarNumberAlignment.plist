@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>difficulttransition</key>
+	<string>shouldDisposeLabel</string>
+	<key>generatetopic</key>
+	<string>chartCycle</string>
+	<key>materializerVisible</key>
+	<string>occasiontype</string>
+	<key>menuenvironmenttransparency</key>
+	<string>aspectratioShape</string>
+	<key>scopeTail</key>
+	<string>symmetricTextField</string>
+	<key>sessionBound</key>
+	<string>immediateInjection</string>
+	<key>shouldInitializeCatalyst</key>
+	<string>navigationdrawer</string>
+</dict>
+</plist>

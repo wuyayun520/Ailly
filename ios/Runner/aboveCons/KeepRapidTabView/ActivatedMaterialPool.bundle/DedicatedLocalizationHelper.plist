@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animationfacadehue</key>
+	<string>canMountedCube</string>
+	<key>borderState</key>
+	<string>canTransformSymbol</string>
+	<key>delegateofbuffer</key>
+	<string>sensorChain</string>
+	<key>permissiveNavigation</key>
+	<string>canDismissStamp</string>
+	<key>resilientSubpixel</key>
+	<string>routerstyle</string>
+	<key>shouldEmitButton</key>
+	<string>constraintInterpreter</string>
+	<key>statelessEqualization</key>
+	<string>singletoninterval</string>
+	<key>taskhue</key>
+	<string>shouldAttachInteger</string>
+	<key>transitionAcceleration</key>
+	<string>insteadFactory</string>
+</dict>
+</plist>

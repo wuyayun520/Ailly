@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>disparateShape</key>
+	<string>delicateRow</string>
+	<key>parallelRoute</key>
+	<string>taskMode</string>
+	<key>refreshusecase</key>
+	<string>rebuildDescriptor</string>
+	<key>shouldHandleSegue</key>
+	<string>smartStateless</string>
+	<key>shouldTransitionAspect</key>
+	<string>discoverAsset</string>
+	<key>shoulddeserializematerial</key>
+	<string>numericalTrajectory</string>
+</dict>
+</plist>

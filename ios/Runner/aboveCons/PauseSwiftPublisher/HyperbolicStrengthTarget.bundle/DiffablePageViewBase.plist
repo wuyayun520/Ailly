@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cubitanimator</key>
+	<string>canMountedColumn</string>
+	<key>debugprogressbar</key>
+	<string>noderesilience</string>
+	<key>draggableEvent</key>
+	<string>subscriptionOffset</string>
+	<key>eagerWidget</key>
+	<string>nextInteger</string>
+	<key>latencyHue</key>
+	<string>materialbufferstatus</string>
+	<key>shouldBuildShader</key>
+	<string>canResumeInstruction</string>
+	<key>sizedboxInteraction</key>
+	<string>ternaryValidation</string>
+</dict>
+</plist>

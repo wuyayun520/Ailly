@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accessibleborder</key>
+	<string>intuitiveThreshold</string>
+	<key>agileMetrics</key>
+	<string>assetJob</string>
+	<key>filterforce</key>
+	<string>equipmentVar</string>
+	<key>inkwellevent</key>
+	<string>blocspeed</string>
+	<key>managerinsidefunction</key>
+	<string>routeTool</string>
+	<key>mapFeedback</key>
+	<string>canPaintExtension</string>
+	<key>nextAwait</key>
+	<string>handlerstatus</string>
+	<key>viewState</key>
+	<string>concurrentCompleter</string>
+</dict>
+</plist>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>euclideanMerger</key>
+	<string>oldGroup</string>
+	<key>shouldHandleProtocol</key>
+	<string>nativeRadius</string>
+	<key>unmountedspot</key>
+	<string>resizableAsset</string>
+</dict>
+</plist>

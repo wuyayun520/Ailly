@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>asynchronousHistogram</key>
+	<string>masterInterpreter</string>
+	<key>clonemetadata</key>
+	<string>sharedAspect</string>
+	<key>geometricGraph</key>
+	<string>shouldtransitionremainder</string>
+	<key>geometricHero</key>
+	<string>sensortransparency</string>
+	<key>granularLayout</key>
+	<string>selectedDimension</string>
+	<key>invisibleGift</key>
+	<string>immutablevariantresponse</string>
+	<key>shouldNotifySegue</key>
+	<string>exitPopup</string>
+	<key>subscriptionbufferpressure</key>
+	<string>insteadWidget</string>
+	<key>workflowFrequency</key>
+	<string>upgradeBloc</string>
+</dict>
+</plist>

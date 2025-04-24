@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>priorRemediation</key>
+	<string>permissiveSwitch</string>
+	<key>sustainableTexture</key>
+	<string>switchstructurecount</string>
+	<key>techniquephasecolor</key>
+	<string>shouldPauseInitiators</string>
+	<key>zoneparamindex</key>
+	<string>stringifyTween</string>
+</dict>
+</plist>

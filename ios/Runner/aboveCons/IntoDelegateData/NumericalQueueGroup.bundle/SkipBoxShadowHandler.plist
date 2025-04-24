@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>basicSubscriber</key>
+	<string>shouldRebuildNorm</string>
+	<key>enhancesample</key>
+	<string>shouldValidateGraphic</string>
+	<key>filterOrigin</key>
+	<string>initializeScene</string>
+	<key>iterativeTentative</key>
+	<string>visibleStack</string>
+	<key>labelvarfrequency</key>
+	<string>buttonatcommand</string>
+	<key>pivotaldelivery</key>
+	<string>configurationPattern</string>
+	<key>receiveresource</key>
+	<string>groupMediator</string>
+	<key>unsortedBox</key>
+	<string>presenterPhase</string>
+</dict>
+</plist>

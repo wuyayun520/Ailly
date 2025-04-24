@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>iconName</key>
+	<string>deferredcardtail</string>
+	<key>insteadticker</key>
+	<string>timeAcceleration</string>
+	<key>ontransitionchanged</key>
+	<string>nibalongoperation</string>
+	<key>smartStatus</key>
+	<string>requestService</string>
+	<key>statefulCaption</key>
+	<string>assettentative</string>
+	<key>temporaryRecursion</key>
+	<string>mountedsignature</string>
+	<key>utiltimeline</key>
+	<string>indicatorShape</string>
+</dict>
+</plist>

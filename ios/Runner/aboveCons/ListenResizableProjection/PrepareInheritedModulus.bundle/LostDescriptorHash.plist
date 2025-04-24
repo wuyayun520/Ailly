@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>modalTop</key>
+	<string>paintBullet</string>
+	<key>nativeComponent</key>
+	<string>connectorLeft</string>
+	<key>prevInteractor</key>
+	<string>startAlpha</string>
+	<key>savebloc</key>
+	<string>callbackduration</string>
+	<key>shouldStreamTouch</key>
+	<string>tableHue</string>
+	<key>statefulcubit</key>
+	<string>makeSize</string>
+	<key>unsortedCubit</key>
+	<string>selectedgem</string>
+	<key>upgradeindicator</key>
+	<string>rendereroffset</string>
+</dict>
+</plist>

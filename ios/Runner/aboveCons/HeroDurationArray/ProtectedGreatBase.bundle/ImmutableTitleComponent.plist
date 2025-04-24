@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>customizedSink</key>
+	<string>mutableCompletion</string>
+	<key>draggablenotation</key>
+	<string>shouldValidatePriority</string>
+	<key>easyZone</key>
+	<string>shouldEndSpot</string>
+	<key>mapHue</key>
+	<string>findConfiguration</string>
+	<key>offsettiershape</key>
+	<string>notifyReference</string>
+	<key>prevDetail</key>
+	<string>topicMargin</string>
+	<key>reducerinterpreterrate</key>
+	<string>deprecateController</string>
+	<key>scenetheme</key>
+	<string>graphtension</string>
+	<key>significantTabView</key>
+	<string>commonSpine</string>
+</dict>
+</plist>

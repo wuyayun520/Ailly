@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>allocatorDuration</key>
+	<string>priorcache</string>
+	<key>descentvelocity</key>
+	<string>vectorizeText</string>
+	<key>heapTail</key>
+	<string>curverestriction</string>
+	<key>mobileSession</key>
+	<string>scrollableCurve</string>
+	<key>navigatorMode</key>
+	<string>nativeNode</string>
+	<key>priorProgressBar</key>
+	<string>shouldencodedescriptor</string>
+	<key>protocolerror</key>
+	<string>spinAwait</string>
+	<key>sinkenvironmentstatus</key>
+	<string>invokeCurve</string>
+</dict>
+</plist>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>criticalProtocol</key>
+	<string>efficiencyDensity</string>
+	<key>deferredPriority</key>
+	<string>cycleCenter</string>
+	<key>globalInterpolation</key>
+	<string>matrixTier</string>
+	<key>resolverLocation</key>
+	<string>crudeCatalyst</string>
+	<key>seamlessCompleter</key>
+	<string>progressbarForm</string>
+	<key>shouldEncodeRadio</key>
+	<string>canRestartCapsule</string>
+	<key>smartSemantics</key>
+	<string>frameCount</string>
+	<key>spineconfiguration</key>
+	<string>deserializeCupertino</string>
+	<key>techniqueleveloffset</key>
+	<string>canYieldScroll</string>
+</dict>
+</plist>

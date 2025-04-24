@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>denseLatency</key>
+	<string>uniqueDuration</string>
+	<key>dependencyscale</key>
+	<string>futureValidation</string>
+	<key>equivalentDensity</key>
+	<string>shouldDeserializeStep</string>
+	<key>globalConnector</key>
+	<string>adaptiveImpression</string>
+	<key>lossSkewX</key>
+	<string>processModel</string>
+	<key>plateefficiency</key>
+	<string>shouldSerializeCapacities</string>
+	<key>storageBound</key>
+	<string>inactiveoperation</string>
+	<key>webMethod</key>
+	<string>canKeepStamp</string>
+</dict>
+</plist>

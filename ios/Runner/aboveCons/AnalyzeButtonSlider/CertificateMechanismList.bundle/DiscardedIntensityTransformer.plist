@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>asynchronousPlayback</key>
+	<string>sustainableTolerance</string>
+	<key>checkboxFrequency</key>
+	<string>accordionInfrastructure</string>
+	<key>enabledSizedBox</key>
+	<string>reflectStore</string>
+	<key>inactiveInstruction</key>
+	<string>shouldRebuildAccessory</string>
+	<key>mapperduration</key>
+	<string>loadProfile</string>
+	<key>mediumgrayscaleborder</key>
+	<string>shouldEncodeSlider</string>
+	<key>shouldEmitTask</key>
+	<string>canUnmountAnchor</string>
+	<key>shoulddeserializecard</key>
+	<string>transformTheme</string>
+</dict>
+</plist>

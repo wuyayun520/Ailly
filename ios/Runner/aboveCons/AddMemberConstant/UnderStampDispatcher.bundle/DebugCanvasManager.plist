@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accordionbatch</key>
+	<string>defaultalert</string>
+	<key>curvebycommand</key>
+	<string>freeBuilder</string>
+	<key>flexsingletonvalidation</key>
+	<string>relationalFrame</string>
+	<key>opaqueText</key>
+	<string>canSubscribePriority</string>
+	<key>receivertype</key>
+	<string>formatTransition</string>
+	<key>shouldLayoutCompletion</key>
+	<string>shouldDetachNorm</string>
+	<key>shouldSetStateGridView</key>
+	<string>resizeButton</string>
+	<key>splittertransparency</key>
+	<string>constraintpicker</string>
+</dict>
+</plist>

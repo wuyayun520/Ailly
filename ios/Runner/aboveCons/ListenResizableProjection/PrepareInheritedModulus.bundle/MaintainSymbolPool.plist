@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>boxshadowinparameter</key>
+	<string>mediaqueryBottom</string>
+	<key>concurrenttabbar</key>
+	<string>cartesianModule</string>
+	<key>deferredbutton</key>
+	<string>gridviewshape</string>
+	<key>discardedBinder</key>
+	<string>responseRate</string>
+	<key>entityTheme</key>
+	<string>intuitivescene</string>
+	<key>modelviavalue</key>
+	<string>minContraction</string>
+	<key>permanentRouter</key>
+	<string>intensityParameter</string>
+</dict>
+</plist>

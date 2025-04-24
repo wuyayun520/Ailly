@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>adaptiveTransition</key>
+	<string>effecthead</string>
+	<key>commonRequest</key>
+	<string>inflateManager</string>
+	<key>constantDirection</key>
+	<string>touchRow</string>
+	<key>delegateResponse</key>
+	<string>canLayoutBoxShadow</string>
+	<key>draggableExtension</key>
+	<string>canAnimateSwift</string>
+	<key>notifierstagedelay</key>
+	<string>hyperbolicSegue</string>
+	<key>provideexpanded</key>
+	<string>timelinedensity</string>
+	<key>shouldEmitAccessory</key>
+	<string>memberFunction</string>
+	<key>textparameterinteraction</key>
+	<string>criticalContraction</string>
+</dict>
+</plist>

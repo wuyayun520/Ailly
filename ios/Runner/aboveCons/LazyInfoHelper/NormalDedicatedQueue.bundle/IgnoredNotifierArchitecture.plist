@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>consumerScale</key>
+	<string>backwardSorter</string>
+	<key>deferredstroke</key>
+	<string>widgetParam</string>
+	<key>geometricOverlay</key>
+	<string>buttonSize</string>
+	<key>gradientRotation</key>
+	<string>shouldRestartGram</string>
+	<key>histogramDirection</key>
+	<string>eagerChooser</string>
+	<key>observercapacity</key>
+	<string>primaryParticle</string>
+	<key>usageCenter</key>
+	<string>hyperbolicPoint</string>
+</dict>
+</plist>

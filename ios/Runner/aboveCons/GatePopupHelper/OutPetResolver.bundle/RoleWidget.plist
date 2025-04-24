@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cachesincestructure</key>
+	<string>clearTicker</string>
+	<key>callbackleft</key>
+	<string>tolerancedensity</string>
+	<key>globalEqualization</key>
+	<string>dispatchCycle</string>
+	<key>handlerfeedback</key>
+	<string>labelscale</string>
+	<key>imperativeNotifier</key>
+	<string>alignmentstageskewx</string>
+	<key>lastTicker</key>
+	<string>canStopAppBar</string>
+	<key>sensoroutsidevisitor</key>
+	<string>shouldCacheSlider</string>
+	<key>specifiercount</key>
+	<string>descriptionversuscontext</string>
+	<key>tappableInstruction</key>
+	<string>tappableCupertino</string>
+</dict>
+</plist>

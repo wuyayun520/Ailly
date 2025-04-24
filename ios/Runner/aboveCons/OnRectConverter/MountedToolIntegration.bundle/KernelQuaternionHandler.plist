@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>channeldespiteoperation</key>
+	<string>canHandleBullet</string>
+	<key>globalmesh</key>
+	<string>shouldHandleFuture</string>
+	<key>remainderStyle</key>
+	<string>sizedboxconsumer</string>
+	<key>shouldPublishPrecision</key>
+	<string>shouldSerializeFlex</string>
+	<key>shouldTrainCanvas</key>
+	<string>typicalAspect</string>
+	<key>shoulddecodecapacities</key>
+	<string>pivotalMargin</string>
+</dict>
+</plist>

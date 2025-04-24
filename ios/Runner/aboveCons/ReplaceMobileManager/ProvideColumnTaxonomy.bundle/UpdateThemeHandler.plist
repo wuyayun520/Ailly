@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>characterAppearance</key>
+	<string>usedLogarithm</string>
+	<key>directlyInjection</key>
+	<string>firstappbar</string>
+	<key>resilientActivity</key>
+	<string>composableCreator</string>
+	<key>sequentialSegue</key>
+	<string>trainGraphic</string>
+	<key>shouldDetachNavigation</key>
+	<string>comprehensiveExpanded</string>
+	<key>shouldSetStateDialogs</key>
+	<string>assetStatus</string>
+	<key>statelessDelivery</key>
+	<string>canDispatchUnary</string>
+	<key>webEfficiency</key>
+	<string>deferredAscent</string>
+</dict>
+</plist>

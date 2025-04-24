@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>associatedPager</key>
+	<string>indicatorDuration</string>
+	<key>directlymatrix</key>
+	<string>continueexception</string>
+	<key>elasticSession</key>
+	<string>viewtierright</string>
+	<key>immediateChart</key>
+	<string>dynamicAsync</string>
+	<key>multiframetype</key>
+	<string>fetchSkin</string>
+	<key>shouldendnorm</key>
+	<string>shouldResumeAppBar</string>
+	<key>splitterCount</key>
+	<string>shouldNotifyTabView</string>
+	<key>spriteinsystem</key>
+	<string>stampLocation</string>
+	<key>subsequentrouter</key>
+	<string>statefulPosition</string>
+</dict>
+</plist>

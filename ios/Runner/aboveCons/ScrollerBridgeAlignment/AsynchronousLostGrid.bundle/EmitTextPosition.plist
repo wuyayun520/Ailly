@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>agileRemainder</key>
+	<string>canCreateStream</string>
+	<key>baseBound</key>
+	<string>consumptionVisibility</string>
+	<key>componentSize</key>
+	<string>tweenPosition</string>
+	<key>heroStatus</key>
+	<string>shouldDecodeAspect</string>
+	<key>interactiveRow</key>
+	<string>multiplyprogressbar</string>
+	<key>observeticker</key>
+	<string>shouldRestartUsage</string>
+	<key>screenuntilplatform</key>
+	<string>initializeAnchor</string>
+	<key>shadervisible</key>
+	<string>vectorObserver</string>
+	<key>shoulddismissspot</key>
+	<string>visibleCheckbox</string>
+	<key>uniqueSize</key>
+	<string>axisFeedback</string>
+</dict>
+</plist>

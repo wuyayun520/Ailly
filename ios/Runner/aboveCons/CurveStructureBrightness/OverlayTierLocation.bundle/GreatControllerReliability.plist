@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>agilespotalignment</key>
+	<string>elasticAlert</string>
+	<key>disparateConfiguration</key>
+	<string>stringifyLoop</string>
+	<key>locateoverlay</key>
+	<string>resolvermethodinset</string>
+	<key>reactiveMethod</key>
+	<string>cellAction</string>
+	<key>selectednotifier</key>
+	<string>assetRate</string>
+	<key>smartIntegrity</key>
+	<string>canValidateCurve</string>
+</dict>
+</plist>

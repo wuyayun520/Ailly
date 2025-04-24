@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>beginnerNotifier</key>
+	<string>shouldReplaceNotification</string>
+	<key>mapperIndex</key>
+	<string>detachrouter</string>
+	<key>methodTag</key>
+	<string>canTransformMedia</string>
+	<key>notificationlayout</key>
+	<string>shouldRouteText</string>
+	<key>shouldPublishOperation</key>
+	<string>zonefrompattern</string>
+</dict>
+</plist>

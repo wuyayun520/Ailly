@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>associatetouch</key>
+	<string>widgetandbuffer</string>
+	<key>dedicatedSorter</key>
+	<string>shouldStartTool</string>
+	<key>granularTween</key>
+	<string>retainedGestureDetector</string>
+	<key>interfaceorigin</key>
+	<string>selectedmomentum</string>
+	<key>nextSearcher</key>
+	<string>navigatorfacadetension</string>
+	<key>shouldAttachSignature</key>
+	<string>serializeCell</string>
+	<key>singleChallenge</key>
+	<string>mobilestructurekind</string>
+	<key>storagebuffershape</key>
+	<string>popCaption</string>
+</dict>
+</plist>

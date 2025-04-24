@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>currentscene</key>
+	<string>modalOperation</string>
+	<key>flexibleReplica</key>
+	<string>layoutSpeed</string>
+	<key>inheritedGridView</key>
+	<string>subsequentAnimation</string>
+	<key>localizationbeyondcomposite</key>
+	<string>resourcebehavior</string>
+	<key>relationalDescription</key>
+	<string>draggableDimension</string>
+	<key>secondAwait</key>
+	<string>shouldUnmountOperation</string>
+</dict>
+</plist>

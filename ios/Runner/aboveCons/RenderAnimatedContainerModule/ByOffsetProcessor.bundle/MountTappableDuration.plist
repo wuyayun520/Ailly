@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cupertinoMetrics</key>
+	<string>euclideanTicker</string>
+	<key>elementpressure</key>
+	<string>elasticityBehavior</string>
+	<key>interactiveStatus</key>
+	<string>logarithmShade</string>
+	<key>materialSkin</key>
+	<string>progressbarstatus</string>
+	<key>otherClipper</key>
+	<string>shouldCancelCustomPaint</string>
+</dict>
+</plist>

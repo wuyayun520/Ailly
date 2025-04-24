@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>completionMargin</key>
+	<string>hardRect</string>
+	<key>gateduration</key>
+	<string>resizableRect</string>
+	<key>multiplicationDirection</key>
+	<string>unscheduleGraph</string>
+	<key>mutabletitle</key>
+	<string>tabbarFlyweight</string>
+	<key>navigatorbeyondproxy</key>
+	<string>spinHash</string>
+	<key>newestAudio</key>
+	<string>skipScale</string>
+	<key>originalResponse</key>
+	<string>queueJob</string>
+	<key>persistframe</key>
+	<string>mapResponse</string>
+	<key>shouldpushcompletion</key>
+	<string>shouldTransformMember</string>
+</dict>
+</plist>

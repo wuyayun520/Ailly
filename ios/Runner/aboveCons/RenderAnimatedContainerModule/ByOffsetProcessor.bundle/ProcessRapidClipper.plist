@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>directlyArchitecture</key>
+	<string>transitionCosine</string>
+	<key>hierarchicalevolution</key>
+	<string>subpixelAcceleration</string>
+	<key>invisibleListView</key>
+	<string>shouldCreateActivity</string>
+	<key>lazyCurve</key>
+	<string>permissiveCatalyst</string>
+	<key>positionsincevisitor</key>
+	<string>ignoredRange</string>
+	<key>seamlessTimeline</key>
+	<string>remainderEdge</string>
+	<key>shouldNavigateSkin</key>
+	<string>activeChooser</string>
+	<key>usedMerger</key>
+	<string>assetmode</string>
+</dict>
+</plist>

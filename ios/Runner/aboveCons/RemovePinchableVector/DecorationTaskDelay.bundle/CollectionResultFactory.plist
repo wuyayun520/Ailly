@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animationinformation</key>
+	<string>routerborder</string>
+	<key>descriptionDelay</key>
+	<string>handleCurve</string>
+	<key>detailFeedback</key>
+	<string>canFormatGesture</string>
+	<key>ephemeralLayer</key>
+	<string>readController</string>
+	<key>localBehavior</key>
+	<string>featurescope</string>
+	<key>permanentHero</key>
+	<string>emitOffset</string>
+	<key>stackBottom</key>
+	<string>taxonomyTension</string>
+	<key>timelineOrientation</key>
+	<string>binderHue</string>
+</dict>
+</plist>

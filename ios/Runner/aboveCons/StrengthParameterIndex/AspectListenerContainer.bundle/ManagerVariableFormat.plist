@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accessibleBrush</key>
+	<string>relationalInterface</string>
+	<key>descriptorName</key>
+	<string>shouldRebuildSensor</string>
+	<key>fixedBitrate</key>
+	<string>flexCoord</string>
+	<key>interactiveCell</key>
+	<string>invisiblesubscriptionformat</string>
+	<key>keysubpixeltheme</key>
+	<string>shouldLayoutDescriptor</string>
+	<key>promiserate</key>
+	<string>listviewvartransparency</string>
+	<key>shouldSubscribeBrush</key>
+	<string>disposeimage</string>
+</dict>
+</plist>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>directlossinterval</key>
+	<string>deserializeAlert</string>
+	<key>functionalTabBar</key>
+	<string>histograminset</string>
+	<key>largeConsumer</key>
+	<string>equalizationLocation</string>
+	<key>lostAlignment</key>
+	<string>canKeepStateful</string>
+	<key>shouldRouteSine</key>
+	<string>videopressure</string>
+	<key>spinemetadata</key>
+	<string>variantVisitor</string>
+	<key>visibleinfrastructure</key>
+	<string>arithmeticSpeed</string>
+</dict>
+</plist>

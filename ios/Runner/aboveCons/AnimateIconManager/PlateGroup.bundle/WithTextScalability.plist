@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>adaptiveawaittail</key>
+	<string>monsterTop</string>
+	<key>flexibleResult</key>
+	<string>criticalMaster</string>
+	<key>impactBehavior</key>
+	<string>canRestartAppBar</string>
+	<key>sortedConnector</key>
+	<string>catalystParameter</string>
+</dict>
+</plist>

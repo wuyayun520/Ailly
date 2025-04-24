@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>discardedInitiators</key>
+	<string>pageviewAlignment</string>
+	<key>firstCombiner</key>
+	<string>sophisticatedVector</string>
+	<key>gridviewFrequency</key>
+	<string>ternaryalignment</string>
+	<key>overlayCoord</key>
+	<string>touchuntilscope</string>
+</dict>
+</plist>

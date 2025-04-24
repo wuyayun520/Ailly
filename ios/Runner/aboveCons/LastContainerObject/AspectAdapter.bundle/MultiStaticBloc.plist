@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>draggableVolume</key>
+	<string>entityValue</string>
+	<key>intuitiveTweak</key>
+	<string>semanticsFormat</string>
+	<key>loopforprototype</key>
+	<string>geometricStateful</string>
+	<key>notificationsprite</key>
+	<string>pointCycle</string>
+	<key>otherStateful</key>
+	<string>serializeActivity</string>
+	<key>resultmargin</key>
+	<string>respondmap</string>
+	<key>shouldPersistWorkflow</key>
+	<string>notifyAxis</string>
+	<key>tensorPosition</key>
+	<string>gridfromaction</string>
+	<key>themeSkewY</key>
+	<string>sophisticatedTask</string>
+</dict>
+</plist>

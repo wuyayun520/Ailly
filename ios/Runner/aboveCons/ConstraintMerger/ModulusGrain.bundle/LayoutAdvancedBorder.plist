@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>assethead</key>
+	<string>sophisticatedMend</string>
+	<key>certificateOpacity</key>
+	<string>rowLevel</string>
+	<key>integrationType</key>
+	<string>reactiveCapacities</string>
+	<key>momentumparametershade</key>
+	<string>titlefeedback</string>
+	<key>optionamongactivity</key>
+	<string>shouldStreamMomentum</string>
+	<key>smartTabBar</key>
+	<string>smallNotifier</string>
+</dict>
+</plist>

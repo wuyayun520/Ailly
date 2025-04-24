@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>associatedanimation</key>
+	<string>contractionResponse</string>
+	<key>concreteStoryboard</key>
+	<string>disposeAlert</string>
+	<key>intermediateHero</key>
+	<string>shouldPersistSwitch</string>
+	<key>navigationDuration</key>
+	<string>substantialassetposition</string>
+	<key>prismaticFinder</key>
+	<string>asynchronousZone</string>
+	<key>shouldEncodeStamp</key>
+	<string>effectLevel</string>
+	<key>shouldLayoutModulus</key>
+	<string>shouldValidateSpecifier</string>
+	<key>shouldNotifyCaption</key>
+	<string>layoutslider</string>
+	<key>significantReference</key>
+	<string>hardNib</string>
+</dict>
+</plist>

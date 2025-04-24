@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cursorSpacing</key>
+	<string>onimagechanged</string>
+	<key>denseObserver</key>
+	<string>syncLayout</string>
+	<key>intuitiveScroll</key>
+	<string>symbolPadding</string>
+	<key>metricsVelocity</key>
+	<string>indicatorCenter</string>
+	<key>responsivebulletstyle</key>
+	<string>substantialpreview</string>
+	<key>retainedfutureshape</key>
+	<string>smartProjection</string>
+	<key>shouldUnmountStamp</key>
+	<string>geometricGate</string>
+	<key>sinkhead</key>
+	<string>initializeAccessory</string>
+</dict>
+</plist>

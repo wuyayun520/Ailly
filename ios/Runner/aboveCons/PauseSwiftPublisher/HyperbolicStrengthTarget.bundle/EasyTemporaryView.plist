@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>elementRight</key>
+	<string>clearRect</string>
+	<key>fusedrectsize</key>
+	<string>animateSymbol</string>
+	<key>introspectpreview</key>
+	<string>semanticMetrics</string>
+	<key>modalradius</key>
+	<string>layoutState</string>
+	<key>subscriptionContrast</key>
+	<string>oldDecoration</string>
+</dict>
+</plist>

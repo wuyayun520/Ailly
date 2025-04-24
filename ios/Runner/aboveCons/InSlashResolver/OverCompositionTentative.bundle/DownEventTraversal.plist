@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>apertureFeedback</key>
+	<string>deployRoute</string>
+	<key>builderKind</key>
+	<string>primaryBuilder</string>
+	<key>listeneraspect</key>
+	<string>aspectType</string>
+	<key>shouldStreamTouch</key>
+	<string>shouldObserveGradient</string>
+	<key>sineOpacity</key>
+	<string>cloneSingleton</string>
+	<key>sustainableAsync</key>
+	<string>diversifiedOperation</string>
+	<key>tangentVelocity</key>
+	<string>subsequentModel</string>
+	<key>tappableVertex</key>
+	<string>gridviewTint</string>
+</dict>
+</plist>

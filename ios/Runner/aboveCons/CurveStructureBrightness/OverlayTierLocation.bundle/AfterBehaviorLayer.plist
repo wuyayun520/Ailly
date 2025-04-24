@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>futureselector</key>
+	<string>canCreateSkirt</string>
+	<key>graphicsubscription</key>
+	<string>clipTimer</string>
+	<key>lostNotation</key>
+	<string>shouldLoadCharacter</string>
+	<key>nextConstraint</key>
+	<string>missedCurve</string>
+	<key>normalcapacities</key>
+	<string>latencyBottom</string>
+	<key>parallelComponent</key>
+	<string>unsortedOperation</string>
+	<key>plateTheme</key>
+	<string>shouldPushDocument</string>
+	<key>shouldRebuildOperation</key>
+	<string>shouldDecodeCoordinator</string>
+	<key>webIntegration</key>
+	<string>canDismissText</string>
+</dict>
+</plist>

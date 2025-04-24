@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>directIndicator</key>
+	<string>handlerDistance</string>
+	<key>intermediateConstant</key>
+	<string>canDismissSemantics</string>
+	<key>notifypopup</key>
+	<string>requestsystemtint</string>
+	<key>primaryChapter</key>
+	<string>mobileData</string>
+</dict>
+</plist>

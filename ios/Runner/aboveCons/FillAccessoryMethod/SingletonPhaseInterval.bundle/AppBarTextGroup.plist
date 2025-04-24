@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>binaryEdge</key>
+	<string>transformerBrightness</string>
+	<key>buttonAppearance</key>
+	<string>debugException</string>
+	<key>discardedsceneinteraction</key>
+	<string>canObserveCollection</string>
+	<key>nodeforce</key>
+	<string>prevTrajectory</string>
+	<key>staticRoute</key>
+	<string>basiccontrollerinset</string>
+	<key>sustainableInfo</key>
+	<string>originaltimerspeed</string>
+</dict>
+</plist>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>directlyAnimator</key>
+	<string>monsterDelay</string>
+	<key>eagerSession</key>
+	<string>arithmeticAxis</string>
+	<key>shouldCreateWidget</key>
+	<string>asyncDirection</string>
+	<key>shouldKeepSlash</key>
+	<string>obtainException</string>
+	<key>shouldResumeSlider</key>
+	<string>regulateCubit</string>
+	<key>shouldSubscribeUsage</key>
+	<string>explicitMenu</string>
+</dict>
+</plist>

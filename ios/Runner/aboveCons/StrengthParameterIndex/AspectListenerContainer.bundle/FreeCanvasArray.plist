@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cartesianActivity</key>
+	<string>materialinteraction</string>
+	<key>immediateConstant</key>
+	<string>shouldhandlesemantics</string>
+	<key>independentUseCase</key>
+	<string>capacitiesInset</string>
+	<key>mutableProvider</key>
+	<string>canKeepNotifier</string>
+	<key>publicExtension</key>
+	<string>shouldRouteCatalyst</string>
+	<key>semanticconsumer</key>
+	<string>shouldBuildTextField</string>
+	<key>shouldEmitPromise</key>
+	<string>injectManager</string>
+	<key>tweakSpacing</key>
+	<string>itemName</string>
+</dict>
+</plist>

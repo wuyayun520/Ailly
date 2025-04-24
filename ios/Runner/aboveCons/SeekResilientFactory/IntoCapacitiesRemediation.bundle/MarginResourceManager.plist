@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activatedStateless</key>
+	<string>fixedTriangles</string>
+	<key>disconnectmethod</key>
+	<string>immutableConstant</string>
+	<key>largeInterpolation</key>
+	<string>validateScreen</string>
+	<key>numericalScreen</key>
+	<string>responsiveRadius</string>
+	<key>rowDepth</key>
+	<string>statefulIndex</string>
+	<key>shapeScale</key>
+	<string>documentmomentum</string>
+	<key>shouldCacheComposition</key>
+	<string>mountSkin</string>
+	<key>substantialAsync</key>
+	<string>materializerBehavior</string>
+</dict>
+</plist>

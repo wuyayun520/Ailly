@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activeRadius</key>
+	<string>protectedMap</string>
+	<key>configurationVisible</key>
+	<string>presentSwift</string>
+	<key>discardedMargin</key>
+	<string>timeForce</string>
+	<key>expandedqueue</key>
+	<string>endDelegate</string>
+	<key>largeData</key>
+	<string>numericalSemantics</string>
+	<key>materialrequest</key>
+	<string>dropdownbuttonOrientation</string>
+	<key>normmementotop</key>
+	<string>routeCoordinator</string>
+	<key>numericalcurveskewx</key>
+	<string>criticalInterpolation</string>
+	<key>optimizerSkewY</key>
+	<string>shouldSubscribeCheckbox</string>
+</dict>
+</plist>

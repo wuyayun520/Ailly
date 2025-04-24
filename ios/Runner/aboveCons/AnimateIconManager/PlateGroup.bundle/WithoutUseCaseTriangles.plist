@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>clippersaturation</key>
+	<string>volumeright</string>
+	<key>conformchannels</key>
+	<string>reactiveGridView</string>
+	<key>detachcubit</key>
+	<string>offsetvisibility</string>
+	<key>labelincludeprocess</key>
+	<string>matrixContext</string>
+	<key>nibInset</key>
+	<string>actiondelay</string>
+	<key>publicStream</key>
+	<string>smallChooser</string>
+	<key>publishtask</key>
+	<string>priorSkin</string>
+	<key>shouldTrainStep</key>
+	<string>evaluationFrequency</string>
+	<key>shouldattachmusic</key>
+	<string>canParseOptimizer</string>
+	<key>threadSpeed</key>
+	<string>saveSwift</string>
+</dict>
+</plist>

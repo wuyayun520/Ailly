@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>binaryContrast</key>
+	<string>triggerTint</string>
+	<key>dynamicThroughput</key>
+	<string>pushTabBar</string>
+	<key>exceptionpressure</key>
+	<string>activatedSize</string>
+	<key>publicStamp</key>
+	<string>detectorName</string>
+	<key>shouldUnbindPositioned</key>
+	<string>loadLoss</string>
+	<key>statefulGram</key>
+	<string>invisiblelistenervisibility</string>
+	<key>volumeMode</key>
+	<string>globalmanagerhead</string>
+</dict>
+</plist>

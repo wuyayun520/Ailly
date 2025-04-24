@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animationtop</key>
+	<string>dropdownbuttonProcess</string>
+	<key>custombutton</key>
+	<string>shouldPersistModal</string>
+	<key>declarativeCollection</key>
+	<string>behaviorpressure</string>
+	<key>optionaboutadapter</key>
+	<string>canEncodeSegue</string>
+	<key>overlayvarleft</key>
+	<string>maintainFrame</string>
+	<key>polyfillright</key>
+	<string>canRouteNotification</string>
+	<key>shouldFinishPlate</key>
+	<string>gemvisibility</string>
+	<key>shouldPublishMargin</key>
+	<string>overridecube</string>
+</dict>
+</plist>

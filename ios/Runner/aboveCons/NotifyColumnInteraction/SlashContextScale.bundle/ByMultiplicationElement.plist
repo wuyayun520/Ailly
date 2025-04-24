@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>diffableExponent</key>
+	<string>reusableDelivery</string>
+	<key>displayableGraph</key>
+	<string>skipSlider</string>
+	<key>gradientskewx</key>
+	<string>hashFlags</string>
+	<key>logLocation</key>
+	<string>concurrentRange</string>
+	<key>metricsScale</key>
+	<string>globalTexture</string>
+	<key>multiconsumer</key>
+	<string>hardconstraint</string>
+	<key>shouldPersistStep</key>
+	<string>concreteBullet</string>
+	<key>shouldrestartlog</key>
+	<string>buttoncenter</string>
+	<key>uniqueSpecifier</key>
+	<string>accessoryCenter</string>
+</dict>
+</plist>

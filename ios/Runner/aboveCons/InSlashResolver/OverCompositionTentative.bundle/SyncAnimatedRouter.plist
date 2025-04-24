@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>filtercenter</key>
+	<string>aggregatebuilder</string>
+	<key>neweststoreedge</key>
+	<string>bundleslash</string>
+	<key>robustsensor</key>
+	<string>streamparamforce</string>
+	<key>shouldPrepareClipper</key>
+	<string>missedObject</string>
+	<key>shouldUnmountStack</key>
+	<string>fetchTool</string>
+	<key>shouldUnmountedNotifier</key>
+	<string>smartLog</string>
+</dict>
+</plist>

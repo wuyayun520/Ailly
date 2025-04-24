@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>agileTicker</key>
+	<string>shouldDetachTechnique</string>
+	<key>displayableaperture</key>
+	<string>updateNib</string>
+	<key>enabledVector</key>
+	<string>benchmarkAction</string>
+	<key>fixedCell</key>
+	<string>primaryMedia</string>
+	<key>invisibleStrength</key>
+	<string>pickerMargin</string>
+	<key>relationalSizedBox</key>
+	<string>shouldDisposeSlash</string>
+</dict>
+</plist>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>discardedMerger</key>
+	<string>shouldNotifyInterpolation</string>
+	<key>inheritedBitrate</key>
+	<string>rebuildlayer</string>
+	<key>presenterprocesskind</key>
+	<string>shouldContinueVariant</string>
+	<key>shouldResumeText</key>
+	<string>webVector</string>
+	<key>stateprocessstatus</key>
+	<string>characterDuration</string>
+	<key>storedecoration</key>
+	<string>shouldNotifyFuture</string>
+</dict>
+</plist>

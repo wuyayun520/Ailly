@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cartesianmembercontrast</key>
+	<string>variantVar</string>
+	<key>detachequalization</key>
+	<string>compositionScale</string>
+	<key>grainTail</key>
+	<string>referenceMediator</string>
+	<key>shouldPaintMaterial</key>
+	<string>finderInset</string>
+	<key>showcurve</key>
+	<string>conformLayer</string>
+</dict>
+</plist>

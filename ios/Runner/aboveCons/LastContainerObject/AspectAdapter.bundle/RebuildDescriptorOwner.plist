@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>bordernavigator</key>
+	<string>computeObserver</string>
+	<key>builderfunctionrotation</key>
+	<string>uniformprecision</string>
+	<key>granularInformation</key>
+	<string>permanentAccessory</string>
+	<key>smartDependency</key>
+	<string>protectedAnchor</string>
+	<key>tappableParticle</key>
+	<string>shouldMountInkWell</string>
+</dict>
+</plist>

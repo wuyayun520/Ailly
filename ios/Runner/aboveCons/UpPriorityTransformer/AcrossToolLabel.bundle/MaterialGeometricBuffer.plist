@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>analogyOrientation</key>
+	<string>scrollableCompletion</string>
+	<key>diffableListView</key>
+	<string>shouldPresentTabBar</string>
+	<key>hyperbolicpicker</key>
+	<string>unmarshalprojection</string>
+	<key>inactiveDocument</key>
+	<string>asynchronousJoiner</string>
+	<key>oldGradient</key>
+	<string>euclideanObserver</string>
+	<key>shouldAttachScaffold</key>
+	<string>granularCharacter</string>
+	<key>shouldPauseMonster</key>
+	<string>cosineObserver</string>
+</dict>
+</plist>

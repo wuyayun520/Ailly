@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>elasticitySpeed</key>
+	<string>resizableTool</string>
+	<key>explicitResolver</key>
+	<string>canCancelModulus</string>
+	<key>petScale</key>
+	<string>localTimeline</string>
+	<key>unmountedstorage</key>
+	<string>custompaintPrototype</string>
+</dict>
+</plist>

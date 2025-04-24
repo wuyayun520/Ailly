@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>backwardLoop</key>
+	<string>makeMetadata</string>
+	<key>cacheticker</key>
+	<string>shoulddisposeaperture</string>
+	<key>creatorEdge</key>
+	<string>marginFeedback</string>
+	<key>processobserver</key>
+	<string>aspectAlignment</string>
+	<key>robustStorage</key>
+	<string>inflateTextField</string>
+	<key>secondTolerance</key>
+	<string>reactivePositioned</string>
+	<key>shouldTrainProjection</key>
+	<string>keeptimer</string>
+	<key>singleResponder</key>
+	<string>keyReference</string>
+	<key>substantialEvaluation</key>
+	<string>mediocrePromise</string>
+</dict>
+</plist>

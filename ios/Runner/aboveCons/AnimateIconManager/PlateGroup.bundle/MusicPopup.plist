@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>masterShape</key>
+	<string>flexibleTable</string>
+	<key>modelrate</key>
+	<string>listenerProxy</string>
+	<key>playbackcontextshade</key>
+	<string>shearModel</string>
+	<key>shouldFormatGradient</key>
+	<string>canMountedMobile</string>
+	<key>tensorVector</key>
+	<string>canInflateBitrate</string>
+</dict>
+</plist>

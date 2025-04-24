@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>detectorTransparency</key>
+	<string>missedChooser</string>
+	<key>isroute</key>
+	<string>fixedTicker</string>
+	<key>promiseincludescope</key>
+	<string>relationalrect</string>
+	<key>shouldPushOverlay</key>
+	<string>storeDuration</string>
+	<key>shouldShowSemantics</key>
+	<string>previewinformation</string>
+</dict>
+</plist>

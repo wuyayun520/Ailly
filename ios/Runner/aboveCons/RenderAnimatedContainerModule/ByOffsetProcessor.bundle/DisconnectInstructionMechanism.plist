@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>eagerReceiver</key>
+	<string>shouldEmitSizedBox</string>
+	<key>manageropacity</key>
+	<string>shouldPresentSkin</string>
+	<key>shouldDisposeTechnique</key>
+	<string>globalSpine</string>
+	<key>symbolStatus</key>
+	<string>singlePainter</string>
+	<key>yieldmultiplication</key>
+	<string>draggableCupertino</string>
+</dict>
+</plist>

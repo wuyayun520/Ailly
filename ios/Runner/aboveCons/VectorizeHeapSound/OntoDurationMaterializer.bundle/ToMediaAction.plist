@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>certificateVelocity</key>
+	<string>seekReducer</string>
+	<key>commonGraph</key>
+	<string>shouldCacheHeap</string>
+	<key>composabledescription</key>
+	<string>canDisconnectDropdownButton</string>
+	<key>custompaintorigin</key>
+	<string>specifyPainter</string>
+	<key>durationTail</key>
+	<string>endTangent</string>
+	<key>granularMethod</key>
+	<string>interactorcount</string>
+	<key>imperativeTheme</key>
+	<string>cellBridge</string>
+	<key>sequentialLayer</key>
+	<string>frameOpacity</string>
+</dict>
+</plist>

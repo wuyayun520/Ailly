@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>completiontimer</key>
+	<string>completerFunction</string>
+	<key>cupertinoAspect</key>
+	<string>deployTicker</string>
+	<key>discardedevaluation</key>
+	<string>decodeBuffer</string>
+	<key>enabledVector</key>
+	<string>shouldBuildInteger</string>
+	<key>iterativeBinary</key>
+	<string>navigateProgressBar</string>
+	<key>tappablePlayback</key>
+	<string>canPaintTable</string>
+</dict>
+</plist>

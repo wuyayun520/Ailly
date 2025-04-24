@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activatedAsync</key>
+	<string>inactivePopup</string>
+	<key>assetcombiner</key>
+	<string>protectedTimer</string>
+	<key>disparateGate</key>
+	<string>sharedtexture</string>
+	<key>menupermutation</key>
+	<string>canTrainOperation</string>
+	<key>modulusValidation</key>
+	<string>shouldKeepCell</string>
+	<key>oldMesh</key>
+	<string>shouldAnimateGraphic</string>
+	<key>shouldMountedFuture</key>
+	<string>dismissMethod</string>
+	<key>shouldProcessStep</key>
+	<string>functionalParticle</string>
+</dict>
+</plist>

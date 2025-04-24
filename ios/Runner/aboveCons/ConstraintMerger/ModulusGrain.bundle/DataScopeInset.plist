@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activatedrestriction</key>
+	<string>sampleopacity</string>
+	<key>customizedTabBar</key>
+	<string>cleanAsset</string>
+	<key>easyShader</key>
+	<string>composablePlayback</string>
+	<key>infoPadding</key>
+	<string>overlaycontainstyle</string>
+	<key>numericalconstraintkind</key>
+	<string>activeRow</string>
+</dict>
+</plist>

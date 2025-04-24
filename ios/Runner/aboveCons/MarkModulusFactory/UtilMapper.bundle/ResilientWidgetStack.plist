@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accessibleInteger</key>
+	<string>componentSkewY</string>
+	<key>shouldinitializesine</key>
+	<string>intermediateNotation</string>
+	<key>statelessEmitter</key>
+	<string>shouldTransformClipper</string>
+	<key>transitionFrequency</key>
+	<string>canBindCustomPaint</string>
+	<key>vertexOrientation</key>
+	<string>serializePopup</string>
+</dict>
+</plist>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>featurewithouttier</key>
+	<string>enhanceScene</string>
+	<key>heroaboutproxy</key>
+	<string>oldPicker</string>
+	<key>imageDelay</key>
+	<string>tweakSkewX</string>
+	<key>mobilematrixrate</key>
+	<string>transitiontexture</string>
+	<key>selectedcursor</key>
+	<string>hasextension</string>
+	<key>shouldTransitionPrecision</key>
+	<string>deferredEntropy</string>
+	<key>tabviewOpacity</key>
+	<string>relationalPlate</string>
+</dict>
+</plist>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>listviewFeedback</key>
+	<string>validateMap</string>
+	<key>mediocreInstruction</key>
+	<string>displayableCoordinator</string>
+	<key>missedsplitter</key>
+	<string>cleanutil</string>
+	<key>tappableDescription</key>
+	<string>providerkind</string>
+</dict>
+</plist>

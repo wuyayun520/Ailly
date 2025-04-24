@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>autoCollection</key>
+	<string>managerScale</string>
+	<key>desktopProcessor</key>
+	<string>syncrouter</string>
+	<key>hasComposition</key>
+	<string>rectmodecolor</string>
+	<key>interpolationtop</key>
+	<string>composableException</string>
+	<key>shouldPublishAccessory</key>
+	<string>timelineBottom</string>
+</dict>
+</plist>

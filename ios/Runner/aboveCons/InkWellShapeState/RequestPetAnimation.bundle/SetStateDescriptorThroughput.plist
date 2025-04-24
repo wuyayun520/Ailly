@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>actionpolygon</key>
+	<string>nativeChooser</string>
+	<key>dedicatedbinder</key>
+	<string>desktopThreshold</string>
+	<key>efficiencyDistance</key>
+	<string>multiUtil</string>
+	<key>enhancecube</key>
+	<string>prismaticClipper</string>
+	<key>liteVector</key>
+	<string>agilemodel</string>
+</dict>
+</plist>

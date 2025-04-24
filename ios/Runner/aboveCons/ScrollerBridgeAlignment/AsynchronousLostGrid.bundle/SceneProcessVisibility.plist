@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>difficultArchitecture</key>
+	<string>publishnotification</string>
+	<key>discoverpositioned</key>
+	<string>clipperCommand</string>
+	<key>hardChecklist</key>
+	<string>canDisposeTheme</string>
+	<key>materialReceiver</key>
+	<string>finishResource</string>
+	<key>queuedecoratorstate</key>
+	<string>scrollableCaption</string>
+	<key>responseaboutfunction</key>
+	<string>shouldObserveNavigation</string>
+	<key>secondCurve</key>
+	<string>displayableAction</string>
+	<key>shouldReplaceScroll</key>
+	<string>scenarioStyle</string>
+	<key>shouldlayoutchecklist</key>
+	<string>shouldNavigateNib</string>
+	<key>statefulaxisdelay</key>
+	<string>renderPlate</string>
+</dict>
+</plist>

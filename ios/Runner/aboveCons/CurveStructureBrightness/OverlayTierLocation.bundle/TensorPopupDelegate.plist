@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>connectreduction</key>
+	<string>materializeRequest</string>
+	<key>discardedConfiguration</key>
+	<string>appbarLevel</string>
+	<key>fixedGrain</key>
+	<string>accessibleDetail</string>
+	<key>largeInitiative</key>
+	<string>positionBottom</string>
+	<key>mediaqueryexceptvar</key>
+	<string>priorMethod</string>
+	<key>mutablelistview</key>
+	<string>mediumResource</string>
+	<key>specifyinkwellinterval</key>
+	<string>canTrainInterpolation</string>
+	<key>tabviewsplitter</key>
+	<string>missedVector</string>
+</dict>
+</plist>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>basicCertificate</key>
+	<string>standaloneBorder</string>
+	<key>channelamongaction</key>
+	<string>dependencyOperation</string>
+	<key>lostCustomPaint</key>
+	<string>activatedFactory</string>
+	<key>nextSample</key>
+	<string>directTriangles</string>
+	<key>nextUseCase</key>
+	<string>slashorcontext</string>
+	<key>sharedpromisecoord</key>
+	<string>diffableDetector</string>
+	<key>substantialDetector</key>
+	<string>combineIsolate</string>
+	<key>temporaryEffect</key>
+	<string>canConnectSample</string>
+</dict>
+</plist>

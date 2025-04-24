@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>basicSemantics</key>
+	<string>animatedSemantics</string>
+	<key>crucialTweak</key>
+	<string>mainTriangles</string>
+	<key>currentcontraction</key>
+	<string>statefullabel</string>
+	<key>shouldDispatchDecoration</key>
+	<string>unmountTabBar</string>
+	<key>shouldPublishCatalyst</key>
+	<string>relationalGridView</string>
+	<key>unactivatedLayer</key>
+	<string>originalResponse</string>
+</dict>
+</plist>

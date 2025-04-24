@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>descentState</key>
+	<string>draggableResilience</string>
+	<key>inheritedResponder</key>
+	<string>semanticmodal</string>
+	<key>navigationlocation</key>
+	<string>themeEnvironment</string>
+	<key>saveresource</key>
+	<string>shouldPauseTabBar</string>
+	<key>specifierRotation</key>
+	<string>otherChecklist</string>
+	<key>staticTopic</key>
+	<string>disparateAccessory</string>
+	<key>staticquaternion</key>
+	<string>canYieldSample</string>
+	<key>unactivatedError</key>
+	<string>canFinishSpot</string>
+</dict>
+</plist>

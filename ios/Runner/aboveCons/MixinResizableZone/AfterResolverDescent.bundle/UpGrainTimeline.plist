@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animationtypetop</key>
+	<string>cancelEqualization</string>
+	<key>elasticThreshold</key>
+	<string>permissiveBinder</string>
+	<key>managershape</key>
+	<string>continuecollection</string>
+	<key>newestMobile</key>
+	<string>resumeColumn</string>
+</dict>
+</plist>

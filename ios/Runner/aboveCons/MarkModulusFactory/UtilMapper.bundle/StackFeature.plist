@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>adaptiveConnector</key>
+	<string>animatedResponse</string>
+	<key>gramconnector</key>
+	<string>canUpdatePainter</string>
+	<key>inflatetransformer</key>
+	<string>accelerateAction</string>
+	<key>iterativeState</key>
+	<string>semanticController</string>
+	<key>modelSpeed</key>
+	<string>navigateoptimizer</string>
+	<key>scenearoundmode</key>
+	<string>discoverResource</string>
+	<key>singleImpact</key>
+	<string>imperativeSegue</string>
+	<key>storyboardtask</key>
+	<string>backwardCompletion</string>
+</dict>
+</plist>

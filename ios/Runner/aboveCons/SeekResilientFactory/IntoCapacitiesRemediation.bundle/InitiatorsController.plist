@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>architectureDistance</key>
+	<string>canStartRichText</string>
+	<key>canvasFrequency</key>
+	<string>baseStatus</string>
+	<key>capacitiesOffset</key>
+	<string>actionparameterborder</string>
+	<key>offsetpadding</key>
+	<string>bufferPadding</string>
+	<key>primarySprite</key>
+	<string>timerFacade</string>
+	<key>synchronousChart</key>
+	<string>sineHue</string>
+	<key>tensorSensor</key>
+	<string>otherIntensity</string>
+</dict>
+</plist>

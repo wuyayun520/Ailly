@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>publicSubscription</key>
+	<string>interfaceinteraction</string>
+	<key>shouldCancelMedia</key>
+	<string>challengeasproxy</string>
+	<key>similartaskdepth</key>
+	<string>computeConstraint</string>
+	<key>sophisticatedCatalyst</key>
+	<string>shouldRestartRichText</string>
+</dict>
+</plist>

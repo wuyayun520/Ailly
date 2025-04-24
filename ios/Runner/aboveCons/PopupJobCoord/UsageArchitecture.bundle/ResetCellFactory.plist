@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>disabledPainter</key>
+	<string>shouldInflateGesture</string>
+	<key>emitterBehavior</key>
+	<string>connectOperation</string>
+	<key>exceptionPressure</key>
+	<string>completerDelay</string>
+	<key>kernelperfunction</key>
+	<string>interpolateCompleter</string>
+	<key>otherFormat</key>
+	<string>cardHead</string>
+	<key>resilientVolume</key>
+	<string>apertureRotation</string>
+	<key>shouldMountedDropdownButton</key>
+	<string>customCertificate</string>
+</dict>
+</plist>

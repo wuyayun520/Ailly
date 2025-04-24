@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>asyncTransparency</key>
+	<string>advancedRestriction</string>
+	<key>denseMission</key>
+	<string>locatesubscription</string>
+	<key>disposebatch</key>
+	<string>primarySizedBox</string>
+	<key>emitterorientation</key>
+	<string>sharedMetadata</string>
+	<key>granularlayout</key>
+	<string>richtextMode</string>
+	<key>shouldPushAppBar</key>
+	<string>unsortedstateless</string>
+</dict>
+</plist>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>agileSprite</key>
+	<string>selectedCapsule</string>
+	<key>dedicatedFlex</key>
+	<string>serviceShade</string>
+	<key>drawerValidation</key>
+	<string>cubitMemento</string>
+	<key>playbackStyle</key>
+	<string>shouldUnmountCollection</string>
+	<key>publishevent</key>
+	<string>textfieldRotation</string>
+	<key>reactiveQuaternion</key>
+	<string>positionedMemento</string>
+	<key>storeName</key>
+	<string>destroyController</string>
+	<key>syncdescription</key>
+	<string>shoulddecodecatalyst</string>
+</dict>
+</plist>

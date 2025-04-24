@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>alignmentvelocity</key>
+	<string>listenTopic</string>
+	<key>crucialMetrics</key>
+	<string>painterStatus</string>
+	<key>interactionAppearance</key>
+	<string>fixedEquivalent</string>
+	<key>seamlessManager</key>
+	<string>shoulddisposegrayscale</string>
+	<key>shouldNotifyPlayback</key>
+	<string>mediaquerySkewY</string>
+	<key>shouldStartEffect</key>
+	<string>releaseFrame</string>
+	<key>streamlineprogressbar</key>
+	<string>crucialChapter</string>
+</dict>
+</plist>

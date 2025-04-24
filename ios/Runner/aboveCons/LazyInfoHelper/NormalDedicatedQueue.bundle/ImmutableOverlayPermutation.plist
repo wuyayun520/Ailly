@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>compositionalListener</key>
+	<string>shouldTransformSwift</string>
+	<key>emitterState</key>
+	<string>flexiblecharacterbrightness</string>
+	<key>immediatehashmomentum</key>
+	<string>commonSound</string>
+	<key>presenterStatus</key>
+	<string>visibleFrame</string>
+	<key>reactiveswitchvisibility</key>
+	<string>shouldHandleGridView</string>
+	<key>shouldSetStateLog</key>
+	<string>exitMetadata</string>
+	<key>statelessvalidation</key>
+	<string>shouldrestartsign</string>
+	<key>storeinteraction</key>
+	<string>responsiveInteraction</string>
+	<key>streamwithoutvariable</key>
+	<string>shouldDismissButton</string>
+</dict>
+</plist>

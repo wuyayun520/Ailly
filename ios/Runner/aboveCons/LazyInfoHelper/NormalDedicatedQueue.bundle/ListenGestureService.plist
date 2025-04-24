@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>agileallocator</key>
+	<string>processConsumer</string>
+	<key>animatedDescent</key>
+	<string>interactiveTool</string>
+	<key>controllerposition</key>
+	<string>shouldKeepNotifier</string>
+	<key>kernelitem</key>
+	<string>shoulddisconnectvariant</string>
+	<key>rowcreator</key>
+	<string>fusedZone</string>
+	<key>sequentialAperture</key>
+	<string>nextContrast</string>
+	<key>splitterLeft</key>
+	<string>priorityFunction</string>
+	<key>unmountgrid</key>
+	<string>quaternionShape</string>
+</dict>
+</plist>

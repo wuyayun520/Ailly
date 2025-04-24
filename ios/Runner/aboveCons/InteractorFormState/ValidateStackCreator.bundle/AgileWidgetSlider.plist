@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accessibleReliability</key>
+	<string>nextdescent</string>
+	<key>featuretint</key>
+	<string>pivotalExtension</string>
+	<key>hyperbolicScenario</key>
+	<string>keyScenario</string>
+	<key>onthreadchanged</key>
+	<string>draggableLifecycle</string>
+	<key>resizableError</key>
+	<string>disabledProvision</string>
+	<key>shouldTrainInitiators</key>
+	<string>protectedButton</string>
+	<key>toleranceDirection</key>
+	<string>usedmultiplication</string>
+	<key>unactivatedBinary</key>
+	<string>canMountPrecision</string>
+	<key>uniquereference</key>
+	<string>sortedTicker</string>
+</dict>
+</plist>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animationscalability</key>
+	<string>topicForm</string>
+	<key>dynamicInteractor</key>
+	<string>collectionspeed</string>
+	<key>eagerScaffold</key>
+	<string>keyChannels</string>
+	<key>iterativeroutescale</key>
+	<string>chartdecoratorformat</string>
+	<key>localizationbesidekind</key>
+	<string>lazyFormat</string>
+	<key>plateHue</key>
+	<string>shouldHandleMonster</string>
+</dict>
+</plist>

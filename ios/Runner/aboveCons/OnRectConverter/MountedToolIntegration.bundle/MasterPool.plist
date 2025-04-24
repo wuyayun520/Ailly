@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>consultativepoint</key>
+	<string>comprehensivetexture</string>
+	<key>crudesymbol</key>
+	<string>statefulAnimation</string>
+	<key>dynamicInstruction</key>
+	<string>criticalReceiver</string>
+	<key>easybuffer</key>
+	<string>topicformat</string>
+	<key>indicatoragainstvalue</key>
+	<string>labelState</string>
+	<key>invisibleCheckbox</key>
+	<string>sinkProxy</string>
+	<key>loaderbound</key>
+	<string>showdependency</string>
+	<key>shouldConnectGraphic</key>
+	<string>shouldPrepareRoute</string>
+	<key>slidertentative</key>
+	<string>playResource</string>
+</dict>
+</plist>

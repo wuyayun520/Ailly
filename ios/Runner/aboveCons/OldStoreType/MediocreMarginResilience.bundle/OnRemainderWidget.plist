@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>buttonincludelevel</key>
+	<string>tangentSingleton</string>
+	<key>descriptorSkewY</key>
+	<string>desktopInjection</string>
+	<key>displayableTernary</key>
+	<string>visibleInstruction</string>
+	<key>providerTint</key>
+	<string>canInflateCell</string>
+	<key>publicArithmetic</key>
+	<string>transitionmode</string>
+	<key>swiftvalidation</key>
+	<string>pendingBloc</string>
+</dict>
+</plist>

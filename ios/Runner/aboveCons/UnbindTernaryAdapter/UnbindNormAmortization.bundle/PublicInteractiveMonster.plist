@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>defaultPoint</key>
+	<string>permanentTicker</string>
+	<key>geometricBuilder</key>
+	<string>shouldPaintStack</string>
+	<key>globalLog</key>
+	<string>immutablecapacities</string>
+	<key>isLoss</key>
+	<string>implementCoordinator</string>
+	<key>permissiveBorder</key>
+	<string>errorshade</string>
+	<key>resizableEntropy</key>
+	<string>staticJoiner</string>
+	<key>usedStream</key>
+	<string>layoutOrientation</string>
+</dict>
+</plist>

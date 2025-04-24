@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>adaptiveDetector</key>
+	<string>currentgate</string>
+	<key>consultativeConsumer</key>
+	<string>enumeratelayer</string>
+	<key>createposition</key>
+	<string>conformObserver</string>
+	<key>declarativeaudio</key>
+	<string>borderMemento</string>
+	<key>shouldEndEquipment</key>
+	<string>deferredTopic</string>
+	<key>temporaryConstraint</key>
+	<string>accordionMatrix</string>
+	<key>trianglesDirection</key>
+	<string>accessibleDelegate</string>
+</dict>
+</plist>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>effectstate</key>
+	<string>immediateCapacities</string>
+	<key>globalReference</key>
+	<string>methodparamtail</string>
+	<key>listenertype</key>
+	<string>builderFacade</string>
+	<key>routeVisibility</key>
+	<string>mobileflags</string>
+	<key>serializeanchor</key>
+	<string>draggableDelivery</string>
+	<key>shouldFinishBullet</key>
+	<string>refactorZone</string>
+	<key>shouldSubscribeBinary</key>
+	<string>criticalFactory</string>
+</dict>
+</plist>

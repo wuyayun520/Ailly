@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>buffercoord</key>
+	<string>cardkindcenter</string>
+	<key>navigationHue</key>
+	<string>animatedSign</string>
+	<key>secondTimeline</key>
+	<string>canPushChannels</string>
+	<key>shouldprocessscaffold</key>
+	<string>fixedSplitter</string>
+	<key>storespeed</key>
+	<string>eagerUnary</string>
+</dict>
+</plist>

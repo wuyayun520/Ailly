@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activatedtweenappearance</key>
+	<string>normalProcessor</string>
+	<key>dedicatedAction</key>
+	<string>callbackPressure</string>
+	<key>grambufferpressure</key>
+	<string>pivotalDescription</string>
+	<key>graphicInteraction</key>
+	<string>disabledEntity</string>
+	<key>ignoredFilter</key>
+	<string>prevAnimatedContainer</string>
+	<key>opaqueChannels</key>
+	<string>flexiblesymbol</string>
+	<key>resilientPoint</key>
+	<string>mediumCubit</string>
+	<key>schedulerLeft</key>
+	<string>unsortedShape</string>
+	<key>shouldDisconnectInkWell</key>
+	<string>shouldEmitStamp</string>
+</dict>
+</plist>

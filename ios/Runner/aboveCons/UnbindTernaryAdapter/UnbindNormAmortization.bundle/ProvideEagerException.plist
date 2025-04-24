@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>autoColor</key>
+	<string>liteSprite</string>
+	<key>chaptertail</key>
+	<string>resultinset</string>
+	<key>retainedImage</key>
+	<string>materialResult</string>
+	<key>tabviewIndex</key>
+	<string>shouldSkipNorm</string>
+	<key>transposesprite</key>
+	<string>transformerDensity</string>
+</dict>
+</plist>

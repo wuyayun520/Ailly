@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>arithmeticCompleter</key>
+	<string>compositiontheme</string>
+	<key>commonFinder</key>
+	<string>canSkipPriority</string>
+	<key>composableGram</key>
+	<string>shouldSkipBorder</string>
+	<key>geometricTolerance</key>
+	<string>containerSkewX</string>
+	<key>ignoredSelector</key>
+	<string>navigateInstruction</string>
+	<key>lifecycleLocation</key>
+	<string>responsivePositioned</string>
+	<key>shouldPauseTabBar</key>
+	<string>lostFinder</string>
+	<key>significantIntegration</key>
+	<string>resolverborder</string>
+	<key>uniformSpot</key>
+	<string>compositionalEqualization</string>
+</dict>
+</plist>

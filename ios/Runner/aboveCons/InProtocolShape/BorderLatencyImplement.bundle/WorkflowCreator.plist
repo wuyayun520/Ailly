@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activityselector</key>
+	<string>shouldPaintExtension</string>
+	<key>detectorShape</key>
+	<string>fetchframe</string>
+	<key>easyLoss</key>
+	<string>notificationPadding</string>
+	<key>effectstyletype</key>
+	<string>consultativescroll</string>
+	<key>globalLatency</key>
+	<string>curvejobmargin</string>
+	<key>normaltopictension</key>
+	<string>gatemediatorvalidation</string>
+	<key>presenterMomentum</key>
+	<string>delegatestate</string>
+	<key>shouldStopInkWell</key>
+	<string>roleMethod</string>
+	<key>shouldTrainSignature</key>
+	<string>unregisterFeature</string>
+	<key>usageState</key>
+	<string>persistentColor</string>
+</dict>
+</plist>

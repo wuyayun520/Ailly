@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>binderSaturation</key>
+	<string>rebuildUnary</string>
+	<key>firstProcessor</key>
+	<string>missedStatus</string>
+	<key>handlerSpacing</key>
+	<string>deflateObserver</string>
+	<key>lastDuration</key>
+	<string>tangentTransparency</string>
+	<key>onmaterialtap</key>
+	<string>customizedTouch</string>
+	<key>shouldYieldProject</key>
+	<string>gateDecorator</string>
+	<key>sustainableResponse</key>
+	<string>utilmethodinset</string>
+</dict>
+</plist>

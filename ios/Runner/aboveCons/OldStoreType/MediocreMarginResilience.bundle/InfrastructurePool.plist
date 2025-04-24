@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>boxFormat</key>
+	<string>mainSwift</string>
+	<key>groupdelay</key>
+	<string>animationwithoutmediator</string>
+	<key>hardhash</key>
+	<string>dedicatedEfficiency</string>
+	<key>informationStatus</key>
+	<string>responsiveError</string>
+	<key>mediaqueryDepth</key>
+	<string>shouldEmitCursor</string>
+	<key>momentumName</key>
+	<string>shouldFetchStep</string>
+	<key>shouldpresentlog</key>
+	<string>flexObserver</string>
+	<key>stacktitle</key>
+	<string>endsymbol</string>
+	<key>vectorbottom</key>
+	<string>arithmeticgesturedensity</string>
+</dict>
+</plist>

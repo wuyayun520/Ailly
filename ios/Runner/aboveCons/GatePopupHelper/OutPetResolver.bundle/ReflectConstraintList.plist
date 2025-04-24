@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>isRemainder</key>
+	<string>visibleComponent</string>
+	<key>shouldSetStateTask</key>
+	<string>configureCallback</string>
+	<key>smartQueue</key>
+	<string>shouldShowChallenge</string>
+	<key>touchleft</key>
+	<string>materialController</string>
+</dict>
+</plist>

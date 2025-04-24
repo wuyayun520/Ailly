@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>labelLeft</key>
+	<string>lifecycletype</string>
+	<key>scrollableserviceright</key>
+	<string>provideprogressbar</string>
+	<key>stackIndex</key>
+	<string>optionMargin</string>
+	<key>symmetricInterpolation</key>
+	<string>sharedProfile</string>
+</dict>
+</plist>

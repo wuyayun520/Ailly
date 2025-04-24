@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activatedLayout</key>
+	<string>animatedcontainerBridge</string>
+	<key>localizationvelocity</key>
+	<string>sineSpacing</string>
+	<key>newestMember</key>
+	<string>renderCharacter</string>
+	<key>shouldPaintBinary</key>
+	<string>canSaveNavigator</string>
+	<key>sinkScale</key>
+	<string>statefulExtension</string>
+	<key>taskRotation</key>
+	<string>canBindEffect</string>
+</dict>
+</plist>

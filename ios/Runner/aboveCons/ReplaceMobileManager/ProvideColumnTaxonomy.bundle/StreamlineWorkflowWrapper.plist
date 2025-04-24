@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>completionPressure</key>
+	<string>delegateKind</string>
+	<key>directlyCreator</key>
+	<string>beginnernodecount</string>
+	<key>reducerscale</key>
+	<string>shouldUpdateCurve</string>
+	<key>singleWorkflow</key>
+	<string>associatedPopup</string>
+	<key>yieldcontroller</key>
+	<string>maxSign</string>
+</dict>
+</plist>

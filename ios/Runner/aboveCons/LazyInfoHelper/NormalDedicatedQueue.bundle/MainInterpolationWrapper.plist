@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>apertureSpeed</key>
+	<string>triggerTransparency</string>
+	<key>appbarLeft</key>
+	<string>encodebitrate</string>
+	<key>asynchronousNavigator</key>
+	<string>directlynode</string>
+	<key>convolutionIndex</key>
+	<string>isfuture</string>
+	<key>extensiondecoratorshape</key>
+	<string>elementRotation</string>
+	<key>shouldNavigateGestureDetector</key>
+	<string>rebuildTask</string>
+	<key>shouldPublishOverlay</key>
+	<string>persistentOperation</string>
+</dict>
+</plist>

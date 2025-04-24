@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>asynchronousAnalyzer</key>
+	<string>pageviewValue</string>
+	<key>containerreplica</key>
+	<string>continueCanvas</string>
+	<key>directBuilder</key>
+	<string>diffableSine</string>
+	<key>mapSize</key>
+	<string>shouldRestartContainer</string>
+	<key>popuppolygon</key>
+	<string>sensorRight</string>
+	<key>shouldendpet</key>
+	<string>touchspeed</string>
+	<key>temporaryAlpha</key>
+	<string>durationoflevel</string>
+</dict>
+</plist>

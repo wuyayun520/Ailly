@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>beginnerMedia</key>
+	<string>backwardCombiner</string>
+	<key>configureerror</key>
+	<string>pinchableTopic</string>
+	<key>lostDescription</key>
+	<string>subscribeTransition</string>
+	<key>mainAnimator</key>
+	<string>pageviewInteraction</string>
+	<key>shouldSavePriority</key>
+	<string>unscheduleRouter</string>
+	<key>tensortabviewtag</key>
+	<string>pagerCoord</string>
+	<key>unactivatedExponent</key>
+	<string>observeAsync</string>
+	<key>unbindsink</key>
+	<string>collectionNumber</string>
+</dict>
+</plist>

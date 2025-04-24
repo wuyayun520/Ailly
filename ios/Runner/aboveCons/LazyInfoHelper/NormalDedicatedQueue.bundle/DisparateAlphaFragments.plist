@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>drawerresolver</key>
+	<string>rapidSpot</string>
+	<key>equivalentHead</key>
+	<string>tentativeAlignment</string>
+	<key>filterSpeed</key>
+	<string>unscheduleStream</string>
+	<key>keyStateful</key>
+	<string>controllerframe</string>
+	<key>listenhash</key>
+	<string>defaultchecklist</string>
+	<key>liteTernary</key>
+	<string>coordinatorStage</string>
+	<key>movementHue</key>
+	<string>consumeDependency</string>
+	<key>optionSpacing</key>
+	<string>navigatorstyleacceleration</string>
+	<key>tableinjection</key>
+	<string>searcherBrightness</string>
+</dict>
+</plist>

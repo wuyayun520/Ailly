@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>boxshadowprocessor</key>
+	<string>canSubscribeObserver</string>
+	<key>currentLoader</key>
+	<string>restartScale</string>
+	<key>dimensionState</key>
+	<string>setupresource</string>
+	<key>keyUseCase</key>
+	<string>euclideanSingleton</string>
+	<key>promisefrombuffer</key>
+	<string>shouldRenderProjection</string>
+	<key>providerBrightness</key>
+	<string>pinchablePromise</string>
+	<key>retainedIndicator</key>
+	<string>criticalMaster</string>
+	<key>spotRight</key>
+	<string>alignmentBorder</string>
+	<key>spritedetector</key>
+	<string>searchEvent</string>
+	<key>tabviewShape</key>
+	<string>lockmomentum</string>
+</dict>
+</plist>

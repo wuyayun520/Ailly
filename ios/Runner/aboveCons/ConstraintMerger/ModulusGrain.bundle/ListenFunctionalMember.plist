@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>consultativegraphicvisible</key>
+	<string>actionsingletoncount</string>
+	<key>lazyAction</key>
+	<string>disconnectAsync</string>
+	<key>primarySelector</key>
+	<string>compositionalInteraction</string>
+	<key>publicRenderer</key>
+	<string>orchestrateLayer</string>
+	<key>receivemenu</key>
+	<string>finishIndicator</string>
+	<key>responsiveInteraction</key>
+	<string>appendHash</string>
+	<key>shouldPauseGift</key>
+	<string>mediumMedia</string>
+	<key>unactivatedTask</key>
+	<string>containerWork</string>
+</dict>
+</plist>

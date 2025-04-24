@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>mediocreOverlay</key>
+	<string>convolutioninbridge</string>
+	<key>publicConverter</key>
+	<string>animatedstream</string>
+	<key>remainderMode</key>
+	<string>createOption</string>
+	<key>shouldInflateEqualization</key>
+	<string>keyArithmetic</string>
+	<key>shouldTransitionDropdownButton</key>
+	<string>canRestartDropdownButton</string>
+	<key>subscriptionparamstatus</key>
+	<string>plateLayer</string>
+	<key>tensorThreshold</key>
+	<string>intermediateGem</string>
+	<key>topicSkewY</key>
+	<string>respondBuilder</string>
+	<key>usagebottom</key>
+	<string>canLayoutMovement</string>
+</dict>
+</plist>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>diffableTool</key>
+	<string>tweenlayerorigin</string>
+	<key>documentradius</key>
+	<string>divideView</string>
+	<key>fixedtimeline</key>
+	<string>memberHue</string>
+	<key>overlayresponder</key>
+	<string>canPaintColumn</string>
+	<key>shouldNavigateTouch</key>
+	<string>setupDependency</string>
+	<key>shouldProcessSpine</key>
+	<string>painterDensity</string>
+	<key>taxonomyCoord</key>
+	<string>respondAwait</string>
+</dict>
+</plist>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>graphicframeworkappearance</key>
+	<string>offsetrect</string>
+	<key>hierarchicalTrajectory</key>
+	<string>cubeOrientation</string>
+	<key>intermediateTernary</key>
+	<string>deserializeListener</string>
+	<key>smallAnimation</key>
+	<string>precisionOrigin</string>
+	<key>symbolFlags</key>
+	<string>significantPromise</string>
+	<key>tentativelocation</key>
+	<string>canRestartGridView</string>
+</dict>
+</plist>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>publicSemantics</key>
+	<string>unlockChannel</string>
+	<key>queuedispatcher</key>
+	<string>optimizerRotation</string>
+	<key>semanticsaction</key>
+	<string>specifyGem</string>
+	<key>synchronousStoryboard</key>
+	<string>sharedTimer</string>
+	<key>themesysteminterval</key>
+	<string>subsequentPageView</string>
+	<key>unactivatedSegue</key>
+	<string>prismaticdispatcher</string>
+</dict>
+</plist>

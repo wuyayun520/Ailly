@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>arithmeticTouch</key>
+	<string>fusedBrush</string>
+	<key>beginnerGesture</key>
+	<string>largeTimer</string>
+	<key>shouldDeserializeMovement</key>
+	<string>heroLeft</string>
+	<key>shouldUnmountStream</key>
+	<string>mountText</string>
+</dict>
+</plist>

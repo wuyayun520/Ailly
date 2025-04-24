@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>batchCenter</key>
+	<string>currentgrayscale</string>
+	<key>independentExtension</key>
+	<string>alphaTemple</string>
+	<key>integrationresponse</key>
+	<string>shouldAttachGate</string>
+	<key>intermediateOverlay</key>
+	<string>resetCurve</string>
+	<key>invisibleActivity</key>
+	<string>missionMediator</string>
+	<key>largeQueue</key>
+	<string>profilecolor</string>
+	<key>providerrenderer</key>
+	<string>inactiveGestureDetector</string>
+	<key>respectiveAspectRatio</key>
+	<string>emitterOffset</string>
+	<key>subscribesize</key>
+	<string>evaluateMenu</string>
+</dict>
+</plist>

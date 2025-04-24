@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>checkboxvisitorspeed</key>
+	<string>mainscenario</string>
+	<key>intuitiveFinder</key>
+	<string>unmountedlocalization</string>
+	<key>permissiveSearcher</key>
+	<string>mediocreFeature</string>
+	<key>shouldMountedBox</key>
+	<string>lifecycleRate</string>
+	<key>shouldSaveView</key>
+	<string>iterativeAscent</string>
+</dict>
+</plist>

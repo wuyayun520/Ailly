@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>consumeinteractor</key>
+	<string>statefulsubscriber</string>
+	<key>dataBrightness</key>
+	<string>replaceInterpolation</string>
+	<key>equipmentasbuffer</key>
+	<string>quantizationLayout</string>
+	<key>originalstream</key>
+	<string>accordionChecklist</string>
+	<key>parallelRole</key>
+	<string>iterativeVariant</string>
+	<key>shouldInflateEffect</key>
+	<string>persistslider</string>
+	<key>shouldSaveMaterial</key>
+	<string>protectedRoute</string>
+	<key>significantBrush</key>
+	<string>hashColor</string>
+</dict>
+</plist>

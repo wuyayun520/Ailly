@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>aspectDistance</key>
+	<string>flexibleCluster</string>
+	<key>ignoredTriangles</key>
+	<string>observeService</string>
+	<key>instructionMomentum</key>
+	<string>shouldRestartRow</string>
+	<key>isolateacceleration</key>
+	<string>pageviewStyle</string>
+	<key>momentumstatus</key>
+	<string>colorTint</string>
+	<key>shouldUpdateCharacter</key>
+	<string>skinnumberbehavior</string>
+	<key>smallPet</key>
+	<string>strokeHue</string>
+</dict>
+</plist>

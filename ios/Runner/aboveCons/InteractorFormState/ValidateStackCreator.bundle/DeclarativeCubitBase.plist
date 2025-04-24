@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>defaultloss</key>
+	<string>customizedInformation</string>
+	<key>keepticker</key>
+	<string>canTrainAxis</string>
+	<key>listenerwithscope</key>
+	<string>canDismissExponent</string>
+	<key>multiplicationresource</key>
+	<string>labelParam</string>
+	<key>screenStyle</key>
+	<string>immediateInitiative</string>
+	<key>sortedEmitter</key>
+	<string>cosineCenter</string>
+</dict>
+</plist>

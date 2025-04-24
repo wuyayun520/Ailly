@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accessibleFrame</key>
+	<string>associatedchannels</string>
+	<key>connectorDensity</key>
+	<string>stopNavigation</string>
+	<key>consumerposition</key>
+	<string>concatenateModel</string>
+	<key>handlerthroughcontext</key>
+	<string>shouldTrainCache</string>
+	<key>listenerstyle</key>
+	<string>resumeMission</string>
+	<key>repositoryversusactivity</key>
+	<string>reconcileMetadata</string>
+	<key>sharedmethodbehavior</key>
+	<string>storageversusnumber</string>
+	<key>shouldRestartDimension</key>
+	<string>crucialOperation</string>
+	<key>textContrast</key>
+	<string>multiplyFactory</string>
+</dict>
+</plist>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>aspectType</key>
+	<string>canEncodePainter</string>
+	<key>concurrentlocalization</key>
+	<string>requestNavigator</string>
+	<key>dedicatedFlex</key>
+	<string>responseFacade</string>
+	<key>disparatepreviewcenter</key>
+	<string>flexibletween</string>
+	<key>intermediateData</key>
+	<string>resultType</string>
+	<key>marshalcompleter</key>
+	<string>interactivemenuoffset</string>
+	<key>priorAlignment</key>
+	<string>canSkipLoss</string>
+	<key>shouldTransitionIcon</key>
+	<string>denseTweak</string>
+	<key>signlocation</key>
+	<string>createGesture</string>
+</dict>
+</plist>

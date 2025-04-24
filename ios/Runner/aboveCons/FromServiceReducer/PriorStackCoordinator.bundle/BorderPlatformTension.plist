@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>contractionpreview</key>
+	<string>unsortedSubscription</string>
+	<key>dismissgraph</key>
+	<string>materializerBorder</string>
+	<key>schedulerorientation</key>
+	<string>animationobject</string>
+	<key>segmentdirection</key>
+	<string>draggableSubscriber</string>
+	<key>shouldAnimateExponent</key>
+	<string>canAttachStateless</string>
+	<key>shouldInflateMusic</key>
+	<string>popLoss</string>
+	<key>similarcheckboxinterval</key>
+	<string>canEmitBloc</string>
+	<key>temporaryScroll</key>
+	<string>statefuloffset</string>
+	<key>workflowInterval</key>
+	<string>rotateCompleter</string>
+</dict>
+</plist>

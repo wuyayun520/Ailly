@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>deferredUtil</key>
+	<string>mergerLeft</string>
+	<key>initiatorsCount</key>
+	<string>progressbarStage</string>
+	<key>parallelBullet</key>
+	<string>heapSpacing</string>
+	<key>replicaVelocity</key>
+	<string>liteBitrate</string>
+	<key>shouldBuildBoxShadow</key>
+	<string>interpolationBound</string>
+	<key>shouldBuildDimension</key>
+	<string>handleContainer</string>
+	<key>slashTension</key>
+	<string>unmountSlash</string>
+	<key>unactivatedStateful</key>
+	<string>stopSignature</string>
+</dict>
+</plist>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>adaptiveFlex</key>
+	<string>directCube</string>
+	<key>addskin</key>
+	<string>shearDuration</string>
+	<key>discardedAlignment</key>
+	<string>mapstyle</string>
+	<key>ephemeralError</key>
+	<string>primaryStrength</string>
+	<key>eventBottom</key>
+	<string>prepareThread</string>
+	<key>invisibleTouch</key>
+	<string>pushLoop</string>
+	<key>lostNorm</key>
+	<string>denseInitiators</string>
+	<key>precisionAppearance</key>
+	<string>canDisposeSkin</string>
+	<key>retainedModal</key>
+	<string>streambesideprototype</string>
+</dict>
+</plist>

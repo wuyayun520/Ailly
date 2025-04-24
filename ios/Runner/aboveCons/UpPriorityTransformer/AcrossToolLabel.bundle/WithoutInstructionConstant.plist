@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activatedTitle</key>
+	<string>largetickerleft</string>
+	<key>agileService</key>
+	<string>extensionOperation</string>
+	<key>firstTimeline</key>
+	<string>canCancelBatch</string>
+	<key>inactiveconfidentiality</key>
+	<string>concatenateallocator</string>
+	<key>invisibleAspect</key>
+	<string>marginslider</string>
+	<key>invisibleThroughput</key>
+	<string>asyncName</string>
+	<key>isflex</key>
+	<string>deflateChart</string>
+	<key>semanticProtocol</key>
+	<string>desktopAlignment</string>
+	<key>tappableText</key>
+	<string>accessibleSpine</string>
+	<key>widgettraversal</key>
+	<string>layoutShader</string>
+</dict>
+</plist>

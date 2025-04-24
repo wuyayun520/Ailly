@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>crucialWidget</key>
+	<string>interactiveVideo</string>
+	<key>declarativeListView</key>
+	<string>fixedCreator</string>
+	<key>elasticEvolution</key>
+	<string>canCacheThread</string>
+	<key>loopTag</key>
+	<string>inflateException</string>
+	<key>persistentHash</key>
+	<string>basicVector</string>
+	<key>unlocktabbar</key>
+	<string>advancedStack</string>
+</dict>
+</plist>

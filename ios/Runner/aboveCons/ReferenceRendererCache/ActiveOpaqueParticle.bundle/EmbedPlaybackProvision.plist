@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>desktopPadding</key>
+	<string>missedzoneflags</string>
+	<key>difficultEntropy</key>
+	<string>allocateWidget</string>
+	<key>fixedDescription</key>
+	<string>transformdescription</string>
+	<key>holdview</key>
+	<string>concreteelement</string>
+	<key>intermediateinteractorformat</key>
+	<string>paintcell</string>
+	<key>rectorientation</key>
+	<string>checkboxBorder</string>
+	<key>shouldContinueMovement</key>
+	<string>mechanismResponse</string>
+	<key>writebuffer</key>
+	<string>confidentialityValidation</string>
+</dict>
+</plist>

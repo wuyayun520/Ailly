@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>restrictionForce</key>
+	<string>gramMargin</string>
+	<key>shouldPrepareButton</key>
+	<string>drawerInterval</string>
+	<key>shouldStopHero</key>
+	<string>unmountTheme</string>
+	<key>specifyResponse</key>
+	<string>consultativeTabBar</string>
+	<key>trainkernel</key>
+	<string>advancedInterpolation</string>
+</dict>
+</plist>

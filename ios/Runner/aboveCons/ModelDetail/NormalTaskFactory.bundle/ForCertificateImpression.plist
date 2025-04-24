@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>aperturemomentum</key>
+	<string>loopTop</string>
+	<key>cachescoperotation</key>
+	<string>equipmentTask</string>
+	<key>cubitColor</key>
+	<string>pageviewrectangle</string>
+	<key>elasticChart</key>
+	<string>selectororigin</string>
+	<key>hyperbolicSprite</key>
+	<string>progressbarStrategy</string>
+	<key>iterativeLoss</key>
+	<string>shouldpersiststack</string>
+	<key>pinchableStateless</key>
+	<string>presentGradient</string>
+	<key>publicPolygon</key>
+	<string>initializeOperation</string>
+	<key>visibleBoxShadow</key>
+	<string>brushStyle</string>
+</dict>
+</plist>

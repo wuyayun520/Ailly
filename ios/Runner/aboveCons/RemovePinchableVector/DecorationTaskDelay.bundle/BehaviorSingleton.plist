@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>colorRotation</key>
+	<string>smartSlider</string>
+	<key>crucialCycle</key>
+	<string>canDisposeStream</string>
+	<key>defaultGesture</key>
+	<string>beginnertaxonomy</string>
+	<key>heapversuscontext</key>
+	<string>nativeRequest</string>
+	<key>iterativeBinder</key>
+	<string>buttondensity</string>
+	<key>missedPager</key>
+	<string>listviewChain</string>
+	<key>profiletaxonomy</key>
+	<string>aggregateTexture</string>
+	<key>shouldProcessCaption</key>
+	<string>protocolColor</string>
+	<key>significantRouter</key>
+	<string>implementInteractor</string>
+	<key>uniformtickershade</key>
+	<string>disconnectAllocator</string>
+</dict>
+</plist>

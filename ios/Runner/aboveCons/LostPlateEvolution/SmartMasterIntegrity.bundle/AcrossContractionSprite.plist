@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>fetcheffect</key>
+	<string>precisioncontrast</string>
+	<key>metricsDepth</key>
+	<string>sceneaboutbridge</string>
+	<key>sequentialMaterial</key>
+	<string>canFetchShader</string>
+	<key>tablejobdensity</key>
+	<string>shouldShowAppBar</string>
+</dict>
+</plist>

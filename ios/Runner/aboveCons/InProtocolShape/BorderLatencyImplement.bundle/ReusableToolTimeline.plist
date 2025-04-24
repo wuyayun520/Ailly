@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>characteristicType</key>
+	<string>directResponse</string>
+	<key>consumerShape</key>
+	<string>currentListener</string>
+	<key>delicateChannel</key>
+	<string>standalonelayout</string>
+	<key>firstResolver</key>
+	<string>geometricSkirt</string>
+	<key>shouldPauseImage</key>
+	<string>resilientLayer</string>
+</dict>
+</plist>

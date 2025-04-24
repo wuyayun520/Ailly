@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>dependencyawaybuffer</key>
+	<string>publicpositionedsize</string>
+	<key>displayableAspectRatio</key>
+	<string>mobileRenderer</string>
+	<key>freenotifier</key>
+	<string>pushBuffer</string>
+	<key>listenalpha</key>
+	<string>greatSlider</string>
+	<key>scopeAcceleration</key>
+	<string>sizedboxEdge</string>
+	<key>shouldEmitMediaQuery</key>
+	<string>receiveTopic</string>
+	<key>shoulddeserializetextfield</key>
+	<string>offsetOrientation</string>
+</dict>
+</plist>

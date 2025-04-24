@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>controllerperstate</key>
+	<string>switchexception</string>
+	<key>draggableModule</key>
+	<string>arithmeticPlate</string>
+	<key>requiredDescent</key>
+	<string>crudeChecklist</string>
+	<key>shouldDismissCube</key>
+	<string>usageScale</string>
+</dict>
+</plist>

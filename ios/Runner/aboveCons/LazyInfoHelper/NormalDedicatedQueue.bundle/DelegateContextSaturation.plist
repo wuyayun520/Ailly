@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>capacitiesTransparency</key>
+	<string>createGate</string>
+	<key>colorInset</key>
+	<string>shouldDispatchImage</string>
+	<key>entityvelocity</key>
+	<string>functionalAnimator</string>
+	<key>firstBinary</key>
+	<string>shouldPersistCache</string>
+	<key>interactionBrightness</key>
+	<string>hyperbolicProgressBar</string>
+	<key>interfaceResponse</key>
+	<string>clippertop</string>
+	<key>progressbarorigin</key>
+	<string>canRestartProjection</string>
+	<key>shouldSerializeSubpixel</key>
+	<string>similarScroller</string>
+	<key>smallMusic</key>
+	<string>animateSample</string>
+</dict>
+</plist>

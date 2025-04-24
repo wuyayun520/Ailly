@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>composableProcessor</key>
+	<string>canDecodeTextField</string>
+	<key>compositionalMetrics</key>
+	<string>diversifiedSelector</string>
+	<key>containercontrast</key>
+	<string>concurrentpublisher</string>
+	<key>localElasticity</key>
+	<string>saveDocument</string>
+	<key>modelthroughbuffer</key>
+	<string>liteStep</string>
+	<key>prevService</key>
+	<string>shouldStartCoordinator</string>
+	<key>semanticFeature</key>
+	<string>showPainter</string>
+	<key>visiblesubscriber</key>
+	<string>elasticobject</string>
+</dict>
+</plist>

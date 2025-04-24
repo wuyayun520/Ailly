@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cancelshader</key>
+	<string>singletonProxy</string>
+	<key>colorVisible</key>
+	<string>shouldSerializeModulus</string>
+	<key>commonResolver</key>
+	<string>canUnmountedCupertino</string>
+	<key>crucialEfficiency</key>
+	<string>similarLoader</string>
+	<key>permutationAlignment</key>
+	<string>dynamicTheme</string>
+	<key>shouldFormatMovement</key>
+	<string>gridviewSaturation</string>
+	<key>statefulTopic</key>
+	<string>canProcessTextField</string>
+</dict>
+</plist>

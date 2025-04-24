@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>independentSign</key>
+	<string>inflateListener</string>
+	<key>mainSpine</key>
+	<string>canSkipLayout</string>
+	<key>shouldCreateWidget</key>
+	<string>concreteModal</string>
+	<key>shouldFinishPrecision</key>
+	<string>animatedcontainerscene</string>
+	<key>sophisticatedSubscription</key>
+	<string>canBindNavigation</string>
+	<key>unbindconfiguration</key>
+	<string>overlayPadding</string>
+</dict>
+</plist>

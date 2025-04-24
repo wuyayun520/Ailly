@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>beginnerCompleter</key>
+	<string>materialZone</string>
+	<key>boxKind</key>
+	<string>primaryTrigger</string>
+	<key>directState</key>
+	<string>cubeTint</string>
+	<key>directlyScroll</key>
+	<string>flexibleEfficiency</string>
+	<key>largeGem</key>
+	<string>concurrentasset</string>
+	<key>onfuturetap</key>
+	<string>publicOperation</string>
+	<key>permissivemodelright</key>
+	<string>pagerContrast</string>
+</dict>
+</plist>

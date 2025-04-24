@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>boxInteraction</key>
+	<string>cellTransparency</string>
+	<key>processorEdge</key>
+	<string>webUseCase</string>
+	<key>shouldRouteActivity</key>
+	<string>shoulddecodetool</string>
+	<key>shouldSaveSample</key>
+	<string>enabledInitiators</string>
+	<key>timeraction</key>
+	<string>customizedProfile</string>
+	<key>unbindreference</key>
+	<string>buildProject</string>
+</dict>
+</plist>

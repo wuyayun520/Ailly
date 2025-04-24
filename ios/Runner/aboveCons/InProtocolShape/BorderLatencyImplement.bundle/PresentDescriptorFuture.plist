@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>debugchart</key>
+	<string>usageIndex</string>
+	<key>hardDialogs</key>
+	<string>observeIntensity</string>
+	<key>hyperbolicInterpolation</key>
+	<string>materialTheme</string>
+	<key>polygonTint</key>
+	<string>scaffoldInterval</string>
+	<key>shouldpopview</key>
+	<string>singletonpressure</string>
+	<key>transitionspeed</key>
+	<string>inflateevent</string>
+</dict>
+</plist>

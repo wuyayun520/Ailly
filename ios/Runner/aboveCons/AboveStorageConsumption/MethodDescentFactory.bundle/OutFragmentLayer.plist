@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cupertinoScreen</key>
+	<string>respectiveZone</string>
+	<key>dedicatedAlignment</key>
+	<string>checkRequest</string>
+	<key>impressionForce</key>
+	<string>decodeNib</string>
+	<key>scrollableBaseline</key>
+	<string>originalTransformer</string>
+	<key>shouldInitializeBatch</key>
+	<string>inflatedescription</string>
+	<key>shouldReplaceStoryboard</key>
+	<string>encodefeature</string>
+	<key>shouldSetStateSpot</key>
+	<string>lastInfrastructure</string>
+	<key>uniformZone</key>
+	<string>moduleDirection</string>
+</dict>
+</plist>

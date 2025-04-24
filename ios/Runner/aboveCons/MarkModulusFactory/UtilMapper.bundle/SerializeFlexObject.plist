@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>diffableProcessor</key>
+	<string>intermediateview</string>
+	<key>draggableMechanism</key>
+	<string>iconValidation</string>
+	<key>hardRow</key>
+	<string>decorationtheme</string>
+	<key>integrityDensity</key>
+	<string>interpolationObserver</string>
+	<key>persistentshader</key>
+	<string>tickerscopeforce</string>
+	<key>popupwithbuffer</key>
+	<string>combineAlignment</string>
+	<key>searcherDistance</key>
+	<string>decodeCycle</string>
+</dict>
+</plist>

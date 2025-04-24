@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>challengeFeedback</key>
+	<string>pushObserver</string>
+	<key>effectEdge</key>
+	<string>canContinueRichText</string>
+	<key>ephemeralGrayscale</key>
+	<string>partitionEvent</string>
+	<key>observertype</key>
+	<string>serviceDensity</string>
+	<key>optimizebuilder</key>
+	<string>onscalechanged</string>
+	<key>reductionshade</key>
+	<string>toolbehavior</string>
+	<key>shouldHandleArithmetic</key>
+	<string>expandedShade</string>
+	<key>shouldemitmap</key>
+	<string>basicdata</string>
+</dict>
+</plist>

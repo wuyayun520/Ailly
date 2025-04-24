@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>clippercompleter</key>
+	<string>baseStyle</string>
+	<key>euclideanMesh</key>
+	<string>specifyStatus</string>
+	<key>ignoredPlate</key>
+	<string>entitytail</string>
+	<key>keyComposition</key>
+	<string>numericalEquivalent</string>
+	<key>normalSizedBox</key>
+	<string>mutablehash</string>
+	<key>shouldEncodeSession</key>
+	<string>canInflateSegue</string>
+	<key>synchronousIntegrity</key>
+	<string>resetMenu</string>
+</dict>
+</plist>

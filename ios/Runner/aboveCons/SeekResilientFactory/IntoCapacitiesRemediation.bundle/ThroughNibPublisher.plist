@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>associatedSkin</key>
+	<string>canSerializeBox</string>
+	<key>composableRow</key>
+	<string>deferredBullet</string>
+	<key>dropdownbuttondespiteadapter</key>
+	<string>disparateScroller</string>
+	<key>popupBound</key>
+	<string>offsetlayer</string>
+	<key>shouldNotifyRole</key>
+	<string>shouldUnmountedIcon</string>
+	<key>singleCertificate</key>
+	<string>ephemeralGrid</string>
+	<key>symmetricMerger</key>
+	<string>shouldPersistScreen</string>
+</dict>
+</plist>

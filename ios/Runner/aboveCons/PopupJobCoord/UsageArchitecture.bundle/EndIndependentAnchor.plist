@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>conformrect</key>
+	<string>consultativeAsync</string>
+	<key>dimensionitem</key>
+	<string>canAttachReduction</string>
+	<key>displayableintegration</key>
+	<string>appbarPhase</string>
+	<key>fusedTentative</key>
+	<string>streamLoss</string>
+	<key>independentthroughput</key>
+	<string>completionfilter</string>
+	<key>synchronousBandwidth</key>
+	<string>flexibleSingleton</string>
+	<key>topicsize</key>
+	<string>workflowdecoratorleft</string>
+</dict>
+</plist>

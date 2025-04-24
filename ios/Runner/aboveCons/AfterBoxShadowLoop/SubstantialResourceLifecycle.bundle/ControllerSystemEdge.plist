@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>builderduringsingleton</key>
+	<string>canReplaceAppBar</string>
+	<key>connectsize</key>
+	<string>actiondensity</string>
+	<key>defaulttool</key>
+	<string>processDelegate</string>
+	<key>usedLinker</key>
+	<string>spritename</string>
+</dict>
+</plist>

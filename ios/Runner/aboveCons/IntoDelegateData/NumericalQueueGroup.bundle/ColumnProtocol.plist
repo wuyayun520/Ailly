@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>associatedVolume</key>
+	<string>associatedEmitter</string>
+	<key>declarativeMember</key>
+	<string>canStartStateful</string>
+	<key>eagerExtension</key>
+	<string>transformMap</string>
+	<key>integrationOrigin</key>
+	<string>reduceranimation</string>
+	<key>pageviewMomentum</key>
+	<string>hardMonster</string>
+	<key>permanentScope</key>
+	<string>shouldMountedUnary</string>
+	<key>setstatestep</key>
+	<string>criticalSpine</string>
+	<key>shouldDismissEquipment</key>
+	<string>priorGroup</string>
+	<key>shouldStreamButton</key>
+	<string>onmobiletap</string>
+	<key>smartActivity</key>
+	<string>detachradius</string>
+</dict>
+</plist>

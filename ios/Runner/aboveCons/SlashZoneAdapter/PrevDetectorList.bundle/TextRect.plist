@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cardcontextmomentum</key>
+	<string>parallelColumn</string>
+	<key>compositiondelegate</key>
+	<string>isolatestatus</string>
+	<key>discardedFormat</key>
+	<string>sophisticatedCluster</string>
+	<key>inheritedmargin</key>
+	<string>kernelinenvironment</string>
+	<key>intuitivegraph</key>
+	<string>textContrast</string>
+	<key>permanentMetadata</key>
+	<string>cartesianCompleter</string>
+	<key>projectionTop</key>
+	<string>shouldConnectListView</string>
+	<key>sinkmechanism</key>
+	<string>dynamicProtocol</string>
+	<key>storeresource</key>
+	<string>streamRichText</string>
+</dict>
+</plist>

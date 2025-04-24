@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>autoPager</key>
+	<string>globalMember</string>
+	<key>discardedChecklist</key>
+	<string>permissiveItem</string>
+	<key>filtershape</key>
+	<string>iterativeintegrity</string>
+	<key>geometricCaption</key>
+	<string>radiusKind</string>
+	<key>shouldSkipCertificate</key>
+	<string>ephemeralChapter</string>
+	<key>shouldTransitionBrush</key>
+	<string>previewBridge</string>
+</dict>
+</plist>

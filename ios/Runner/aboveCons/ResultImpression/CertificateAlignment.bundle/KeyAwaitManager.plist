@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>delicateLoss</key>
+	<string>exitUseCase</string>
+	<key>frameTheme</key>
+	<string>transitionNorm</string>
+	<key>ignoredresultmargin</key>
+	<string>protectedTimer</string>
+	<key>shouldSubscribeGestureDetector</key>
+	<string>priorityBottom</string>
+	<key>similarTimer</key>
+	<string>primarydescriptionscale</string>
+	<key>storagedata</key>
+	<string>displayableTicker</string>
+</dict>
+</plist>

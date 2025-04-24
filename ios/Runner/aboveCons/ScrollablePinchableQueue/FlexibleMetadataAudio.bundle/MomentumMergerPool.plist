@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>allocatestoryboard</key>
+	<string>extensionStructure</string>
+	<key>decorationDelay</key>
+	<string>interactiveScene</string>
+	<key>dialogsbehavior</key>
+	<string>immutableFlex</string>
+	<key>shaderborder</key>
+	<string>commonLoss</string>
+	<key>shouldTransformMusic</key>
+	<string>intuitiveFilter</string>
+	<key>typicalColumn</key>
+	<string>samplelistener</string>
+</dict>
+</plist>

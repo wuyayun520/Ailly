@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>densenode</key>
+	<string>singletonoperationtype</string>
+	<key>easySubscription</key>
+	<string>defaultkernel</string>
+	<key>nativeLayout</key>
+	<string>shouldObserveOption</string>
+	<key>pivotalMenu</key>
+	<string>sampleTask</string>
+	<key>robustVector</key>
+	<string>shouldRebuildMonster</string>
+	<key>shouldCancelSegue</key>
+	<string>backwardProcessor</string>
+	<key>singleMonster</key>
+	<string>compositionalAllocator</string>
+	<key>statefulType</key>
+	<string>bitratename</string>
+	<key>typicalMusic</key>
+	<string>iterativeMesh</string>
+</dict>
+</plist>

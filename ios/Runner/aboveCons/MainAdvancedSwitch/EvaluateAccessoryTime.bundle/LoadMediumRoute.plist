@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cacheVisible</key>
+	<string>shouldDismissSegue</string>
+	<key>euclideansymbolinteraction</key>
+	<string>mutableRole</string>
+	<key>fragmentFeedback</key>
+	<string>toolMargin</string>
+	<key>nibScale</key>
+	<string>variantDepth</string>
+	<key>otherProject</key>
+	<string>repositoryprototypetheme</string>
+</dict>
+</plist>

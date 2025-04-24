@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>capacitiesOrientation</key>
+	<string>interactivePresenter</string>
+	<key>comprehensiveGate</key>
+	<string>canFinishStep</string>
+	<key>consultativeDuration</key>
+	<string>backwardKernel</string>
+	<key>layerAcceleration</key>
+	<string>completedMember</string>
+	<key>mechanismkind</key>
+	<string>usecasestyle</string>
+	<key>mediumNode</key>
+	<string>canUpdateMomentum</string>
+	<key>mutableStream</key>
+	<string>handlePet</string>
+	<key>notifierBehavior</key>
+	<string>characterBridge</string>
+	<key>shouldUnbindSensor</key>
+	<string>groupType</string>
+</dict>
+</plist>

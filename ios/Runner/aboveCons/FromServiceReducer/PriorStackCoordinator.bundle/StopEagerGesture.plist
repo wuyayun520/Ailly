@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>crudewidgetappearance</key>
+	<string>concurrentReliability</string>
+	<key>delicateScheduler</key>
+	<string>staticPriority</string>
+	<key>inactivecoordinator</key>
+	<string>discardedAscent</string>
+	<key>interactorType</key>
+	<string>updatePadding</string>
+	<key>rowInterval</key>
+	<string>onappbarchanged</string>
+	<key>sharedexceptionskewx</key>
+	<string>inheritedError</string>
+	<key>shouldCacheCube</key>
+	<string>replaceprofile</string>
+	<key>tabviewuntilprototype</key>
+	<string>composableGraph</string>
+	<key>tappableSegment</key>
+	<string>pendingProvider</string>
+	<key>timerSaturation</key>
+	<string>delicateswitch</string>
+</dict>
+</plist>

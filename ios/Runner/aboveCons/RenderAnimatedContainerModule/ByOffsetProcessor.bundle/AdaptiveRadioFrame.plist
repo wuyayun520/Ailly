@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>nativeEvent</key>
+	<string>coordinatorInset</string>
+	<key>polyfillRotation</key>
+	<string>optimizeInterface</string>
+	<key>resilientNotation</key>
+	<string>encapsulatetimer</string>
+	<key>shouldCacheStamp</key>
+	<string>staticImage</string>
+	<key>shouldSubscribeProjection</key>
+	<string>loadactivity</string>
+	<key>shouldTrainCache</key>
+	<string>completionLeft</string>
+	<key>subscriberInteraction</key>
+	<string>shouldUnmountRemainder</string>
+	<key>transformerpolyfill</key>
+	<string>bulletParam</string>
+</dict>
+</plist>

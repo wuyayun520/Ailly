@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>capacityTheme</key>
+	<string>animationpatternvalidation</string>
+	<key>iterativeConnector</key>
+	<string>animatedReducer</string>
+	<key>numericalTernary</key>
+	<string>orchestraterect</string>
+	<key>positionskewy</key>
+	<string>pinchableStateful</string>
+	<key>remediationAcceleration</key>
+	<string>lossShape</string>
+	<key>resizableMerger</key>
+	<string>webChart</string>
+	<key>shouldMountedNavigator</key>
+	<string>initializeVariant</string>
+</dict>
+</plist>

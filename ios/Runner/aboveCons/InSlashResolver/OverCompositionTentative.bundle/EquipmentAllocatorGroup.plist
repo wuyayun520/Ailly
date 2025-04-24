@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>advancedTrigger</key>
+	<string>canEndRole</string>
+	<key>arithmeticPublisher</key>
+	<string>mergerSpeed</string>
+	<key>mixincapsule</key>
+	<string>canBindSpot</string>
+	<key>secondDisclaimer</key>
+	<string>desktopDescent</string>
+	<key>shouldnotifysession</key>
+	<string>immediateKernel</string>
+</dict>
+</plist>

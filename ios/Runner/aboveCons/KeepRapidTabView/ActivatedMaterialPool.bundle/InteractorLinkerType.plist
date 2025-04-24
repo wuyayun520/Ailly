@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cycleOrigin</key>
+	<string>buildSine</string>
+	<key>hierarchicalVideo</key>
+	<string>temporaryResource</string>
+	<key>prevAnchor</key>
+	<string>canPrepareCursor</string>
+	<key>reliabilityAppearance</key>
+	<string>deserializeTabView</string>
+	<key>savenavigator</key>
+	<string>shouldKeepHeap</string>
+	<key>shouldFetchUsage</key>
+	<string>stateSpacing</string>
+	<key>stateMomentum</key>
+	<string>initiatorsqueue</string>
+	<key>transformchart</key>
+	<string>canDismissMission</string>
+</dict>
+</plist>

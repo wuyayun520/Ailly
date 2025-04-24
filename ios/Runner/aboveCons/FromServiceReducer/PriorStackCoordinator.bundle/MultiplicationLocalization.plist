@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animationpopup</key>
+	<string>denseInitiative</string>
+	<key>easydescriptor</key>
+	<string>canFetchTouch</string>
+	<key>erasefuture</key>
+	<string>iterativeProgressBar</string>
+	<key>greatPrecision</key>
+	<string>tabviewLevel</string>
+	<key>interpolationSpeed</key>
+	<string>remainderTier</string>
+	<key>mergername</key>
+	<string>canFinishBrush</string>
+	<key>sequentialTernary</key>
+	<string>crudeTrigger</string>
+	<key>shouldRouteCosine</key>
+	<string>overrideFeature</string>
+	<key>shouldSerializeKernel</key>
+	<string>alignmentVar</string>
+	<key>skirtSaturation</key>
+	<string>resizableSlider</string>
+</dict>
+</plist>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animatedsingletonorigin</key>
+	<string>layoutMusic</string>
+	<key>appbarAlignment</key>
+	<string>shouldMountMomentum</string>
+	<key>granularCoordinator</key>
+	<string>instructionChain</string>
+	<key>largeIndicator</key>
+	<string>canFetchLayout</string>
+	<key>metadataVelocity</key>
+	<string>semanticPrecision</string>
+	<key>semanticsBehavior</key>
+	<string>backwardProgressBar</string>
+	<key>shouldCacheBoxShadow</key>
+	<string>diffableTextField</string>
+	<key>uniqueModulus</key>
+	<string>workflowInteraction</string>
+</dict>
+</plist>

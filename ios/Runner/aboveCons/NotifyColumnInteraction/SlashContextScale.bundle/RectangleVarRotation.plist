@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>computeparticle</key>
+	<string>customizedview</string>
+	<key>crudeAnimatedContainer</key>
+	<string>shouldProcessBinary</string>
+	<key>listviewSpacing</key>
+	<string>shouldObserveDocument</string>
+	<key>opaqueArchitecture</key>
+	<string>retainedModel</string>
+	<key>utilcontainshape</key>
+	<string>canConnectButton</string>
+</dict>
+</plist>

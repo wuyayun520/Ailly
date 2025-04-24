@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>defaulttabview</key>
+	<string>pushanchor</string>
+	<key>desktoppositioned</key>
+	<string>missedProject</string>
+	<key>detailInset</key>
+	<string>retainedbulletdistance</string>
+	<key>hasnavigation</key>
+	<string>shouldNavigateMatrix</string>
+	<key>managerFrequency</key>
+	<string>canCreateButton</string>
+	<key>mediumEfficiency</key>
+	<string>globalCollection</string>
+	<key>sheararithmetic</key>
+	<string>animatedcontainerDelay</string>
+	<key>shouldCacheSwift</key>
+	<string>matrixSize</string>
+	<key>statefulFrequency</key>
+	<string>oldEvent</string>
+</dict>
+</plist>

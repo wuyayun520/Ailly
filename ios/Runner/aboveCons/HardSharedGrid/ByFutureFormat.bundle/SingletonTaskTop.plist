@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>combinerRotation</key>
+	<string>reduceListener</string>
+	<key>hashinsidelayer</key>
+	<string>routeratchain</string>
+	<key>navigatorbehavior</key>
+	<string>symmetricElement</string>
+	<key>publicState</key>
+	<string>shouldsaveusage</string>
+	<key>seamlessVideo</key>
+	<string>normalAmortization</string>
+	<key>semanticsDelay</key>
+	<string>localizationposition</string>
+	<key>shouldPresentTangent</key>
+	<string>consultativestatus</string>
+	<key>subsequentZone</key>
+	<string>shouldPersistBaseline</string>
+</dict>
+</plist>

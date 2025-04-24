@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>arithmeticCluster</key>
+	<string>masterPlatform</string>
+	<key>moduleName</key>
+	<string>accessibleVertex</string>
+	<key>processorFrequency</key>
+	<string>denseSignature</string>
+	<key>publicActivity</key>
+	<string>symmetricThread</string>
+	<key>scrollPadding</key>
+	<string>clusterFormat</string>
+	<key>scrollableMerger</key>
+	<string>synchronousconfidentiality</string>
+</dict>
+</plist>

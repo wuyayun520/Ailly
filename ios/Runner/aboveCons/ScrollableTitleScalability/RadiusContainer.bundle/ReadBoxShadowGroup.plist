@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activatedunary</key>
+	<string>commonTolerance</string>
+	<key>interpolationstyle</key>
+	<string>replacemanager</string>
+	<key>lastSegment</key>
+	<string>canUnmountedHero</string>
+	<key>pushdocument</key>
+	<string>storeconstraint</string>
+	<key>retainedReplica</key>
+	<string>operationCount</string>
+	<key>unscheduleprovider</key>
+	<string>cupertinoSlash</string>
+	<key>visibledependency</key>
+	<string>canLayoutHero</string>
+	<key>webPosition</key>
+	<string>originalPolyfill</string>
+</dict>
+</plist>

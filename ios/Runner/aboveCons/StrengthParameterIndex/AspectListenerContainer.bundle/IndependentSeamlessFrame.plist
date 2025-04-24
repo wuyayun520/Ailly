@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>globalTrigger</key>
+	<string>monsterName</string>
+	<key>mobileZone</key>
+	<string>mediocreCache</string>
+	<key>newestIcon</key>
+	<string>pickerMode</string>
+	<key>shouldPauseConvolution</key>
+	<string>animatedConnector</string>
+	<key>subtleCharacter</key>
+	<string>spriteBrightness</string>
+	<key>tensorAnimatedContainer</key>
+	<string>directTime</string>
+	<key>textconfiguration</key>
+	<string>appendMethod</string>
+</dict>
+</plist>

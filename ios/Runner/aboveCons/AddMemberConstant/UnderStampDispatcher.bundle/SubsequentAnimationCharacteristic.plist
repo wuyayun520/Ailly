@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>borderchannel</key>
+	<string>interpolateTopic</string>
+	<key>criticalHandler</key>
+	<string>grayscaledistance</string>
+	<key>desktopMargin</key>
+	<string>currentSensor</string>
+	<key>hardCluster</key>
+	<string>primarySubpixel</string>
+	<key>iterativeReduction</key>
+	<string>decoupleLabel</string>
+	<key>radiustimeline</key>
+	<string>symmetricReliability</string>
+	<key>subtleTriangles</key>
+	<string>sophisticatedRemainder</string>
+	<key>triggerTail</key>
+	<string>createTouch</string>
+</dict>
+</plist>

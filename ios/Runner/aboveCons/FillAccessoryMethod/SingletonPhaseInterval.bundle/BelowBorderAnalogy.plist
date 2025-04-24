@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>difficultAllocator</key>
+	<string>bitratescalability</string>
+	<key>directMedia</key>
+	<string>skipText</string>
+	<key>firstConvolution</key>
+	<string>canPublishBuilder</string>
+	<key>newestStamp</key>
+	<string>keyCard</string>
+	<key>preparefeature</key>
+	<string>disabledRoute</string>
+	<key>promiseDirection</key>
+	<string>visualizeRoute</string>
+	<key>shouldFinishCapacities</key>
+	<string>repositorydetail</string>
+	<key>tensorAspect</key>
+	<string>restartcatalyst</string>
+</dict>
+</plist>

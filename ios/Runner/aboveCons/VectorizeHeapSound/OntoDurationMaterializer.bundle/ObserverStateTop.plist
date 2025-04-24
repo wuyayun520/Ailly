@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>alertStatus</key>
+	<string>canFinishConvolution</string>
+	<key>associatedProjection</key>
+	<string>signCycle</string>
+	<key>delegateColor</key>
+	<string>functionalvector</string>
+	<key>nibRotation</key>
+	<string>commonController</string>
+	<key>semanticsOrigin</key>
+	<string>updatecheckbox</string>
+	<key>shouldAnimateAlert</key>
+	<string>touchError</string>
+	<key>shouldYieldCell</key>
+	<string>difficultSprite</string>
+	<key>statelessMetrics</key>
+	<string>petKind</string>
+</dict>
+</plist>

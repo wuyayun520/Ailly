@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>constraintskewx</key>
+	<string>deliverymargin</string>
+	<key>factorystyle</key>
+	<string>canvasTop</string>
+	<key>listenerRate</key>
+	<string>mediumParticle</string>
+	<key>mountaxis</key>
+	<string>freeswift</string>
+	<key>presentervisitorappearance</key>
+	<string>embraceLoop</string>
+	<key>protectedCaption</key>
+	<string>challengebound</string>
+	<key>shouldYieldBaseline</key>
+	<string>smallEvaluation</string>
+	<key>trianglesstatus</key>
+	<string>shouldFetchNib</string>
+</dict>
+</plist>

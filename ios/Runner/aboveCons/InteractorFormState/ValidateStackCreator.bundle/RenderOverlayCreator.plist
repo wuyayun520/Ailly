@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>fusedDispatcher</key>
+	<string>delicateCheckbox</string>
+	<key>ignoredrectinterval</key>
+	<string>persistentloss</string>
+	<key>propagatelog</key>
+	<string>shouldDisposeCycle</string>
+	<key>reusablePainter</key>
+	<string>canRestartAnimation</string>
+	<key>shouldTransitionGradient</key>
+	<string>remainderFramework</string>
+	<key>shoulddeserializeconstraint</key>
+	<string>managerBridge</string>
+	<key>stackPressure</key>
+	<string>blocduringstrategy</string>
+	<key>subsequentComponent</key>
+	<string>alphaVelocity</string>
+	<key>subsequentScope</key>
+	<string>shouldYieldStream</string>
+</dict>
+</plist>

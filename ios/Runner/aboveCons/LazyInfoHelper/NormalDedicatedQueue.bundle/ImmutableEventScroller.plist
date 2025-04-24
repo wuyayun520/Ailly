@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>buildmethod</key>
+	<string>offsetProxy</string>
+	<key>crucialProject</key>
+	<string>gesturenode</string>
+	<key>directinitiatorsdensity</key>
+	<string>pagerStyle</string>
+	<key>isWidget</key>
+	<string>canCacheBox</string>
+	<key>largegrain</key>
+	<string>capsuleright</string>
+	<key>richtextBrightness</key>
+	<string>clipListener</string>
+	<key>rowDuration</key>
+	<string>renameTask</string>
+	<key>shouldSubscribeUsage</key>
+	<string>exponentEdge</string>
+	<key>sortedcanvaspressure</key>
+	<string>compositionHue</string>
+	<key>specifyData</key>
+	<string>behaviorrate</string>
+</dict>
+</plist>

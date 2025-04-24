@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>elasticityOrigin</key>
+	<string>diversifiedHash</string>
+	<key>opaqueShader</key>
+	<string>cupertinoisolate</string>
+	<key>reactivemend</key>
+	<string>canTrainSpecifier</string>
+	<key>seamlessEmitter</key>
+	<string>liteNorm</string>
+	<key>shouldAttachChannels</key>
+	<string>shouldResumeOperation</string>
+	<key>shouldConnectAppBar</key>
+	<string>sharedAppBar</string>
+	<key>shouldLoadLog</key>
+	<string>customPriority</string>
+	<key>usagetimeline</key>
+	<string>mountGift</string>
+</dict>
+</plist>

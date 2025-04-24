@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>constraintaslayer</key>
+	<string>reducerOperation</string>
+	<key>explicitGridView</key>
+	<string>mountStateful</string>
+	<key>materialConsumption</key>
+	<string>buttonShade</string>
+	<key>nativeRichText</key>
+	<string>transitionHue</string>
+	<key>optimizerTransparency</key>
+	<string>canUnbindTouch</string>
+	<key>persistentDescriptor</key>
+	<string>constantAcceleration</string>
+	<key>selectedcolumn</key>
+	<string>reducerMargin</string>
+	<key>shouldtransformstateless</key>
+	<string>initializebaseline</string>
+</dict>
+</plist>

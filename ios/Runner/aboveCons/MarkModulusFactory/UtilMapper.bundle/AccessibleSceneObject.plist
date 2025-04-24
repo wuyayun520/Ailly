@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>diversifiedRectangle</key>
+	<string>textOrigin</string>
+	<key>immutableTicker</key>
+	<string>shouldProcessMediaQuery</string>
+	<key>isBrush</key>
+	<string>loopInteraction</string>
+	<key>shouldTransformStep</key>
+	<string>cloneAnimation</string>
+	<key>temporaryAperture</key>
+	<string>writeConfiguration</string>
+</dict>
+</plist>

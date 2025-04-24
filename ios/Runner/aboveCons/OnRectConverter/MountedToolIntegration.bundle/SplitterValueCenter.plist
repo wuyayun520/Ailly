@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>allocatordetector</key>
+	<string>projectionPattern</string>
+	<key>enabledController</key>
+	<string>sliderlistener</string>
+	<key>functionalDescription</key>
+	<string>publisherSkewY</string>
+	<key>gridviewgraph</key>
+	<string>allocateAllocator</string>
+	<key>lostImage</key>
+	<string>setstateModal</string>
+	<key>shouldBuildStack</key>
+	<string>animationAcceleration</string>
+</dict>
+</plist>

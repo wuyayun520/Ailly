@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>converterHead</key>
+	<string>timeFormat</string>
+	<key>cycleDensity</key>
+	<string>largechannelleft</string>
+	<key>deferredgesture</key>
+	<string>publishGradient</string>
+	<key>exceptionevent</key>
+	<string>storerotation</string>
+	<key>ismember</key>
+	<string>combinerorigin</string>
+	<key>sharedRouter</key>
+	<string>advancedService</string>
+	<key>uniqueInfrastructure</key>
+	<string>canDecodeCapacities</string>
+</dict>
+</plist>

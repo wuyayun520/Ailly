@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>channelTransparency</key>
+	<string>iconSize</string>
+	<key>destroycertificate</key>
+	<string>deferredfactory</string>
+	<key>disabledmodel</key>
+	<string>discardedSegue</string>
+	<key>rowRotation</key>
+	<string>objectspeed</string>
+	<key>shouldUnmountGrayscale</key>
+	<string>anchorChain</string>
+	<key>shouldsavesignature</key>
+	<string>futureOpacity</string>
+	<key>streamRight</key>
+	<string>nodeOrigin</string>
+	<key>utildespitecontext</key>
+	<string>memberInterval</string>
+</dict>
+</plist>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>baselineeffect</key>
+	<string>gestureTransparency</string>
+	<key>cacheFlags</key>
+	<string>diversifiedBrush</string>
+	<key>currentflex</key>
+	<string>opaqueView</string>
+	<key>onunarytap</key>
+	<string>shouldPopMedia</string>
+	<key>requiredActivity</key>
+	<string>unbindFragment</string>
+	<key>tablePosition</key>
+	<string>createModal</string>
+</dict>
+</plist>

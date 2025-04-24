@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>copyborder</key>
+	<string>liteDuration</string>
+	<key>explicitEntity</key>
+	<string>accordionChannels</string>
+	<key>memberintegrity</key>
+	<string>statusOffset</string>
+	<key>painteffect</key>
+	<string>canLoadSymbol</string>
+	<key>retainedMetadata</key>
+	<string>storagePadding</string>
+	<key>shouldSubscribeSignature</key>
+	<string>shouldFetchBase</string>
+	<key>shouldendgesturedetector</key>
+	<string>gramDuration</string>
+	<key>substantialMusic</key>
+	<string>connectCapsule</string>
+	<key>substantialSkin</key>
+	<string>unsortedtheme</string>
+</dict>
+</plist>

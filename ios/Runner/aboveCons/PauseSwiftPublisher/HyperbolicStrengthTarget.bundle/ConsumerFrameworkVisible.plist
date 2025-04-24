@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>assetAppearance</key>
+	<string>startmovement</string>
+	<key>cartesianRadio</key>
+	<string>objectPadding</string>
+	<key>continuehero</key>
+	<string>listenSpot</string>
+	<key>finderAppearance</key>
+	<string>interpolateStream</string>
+	<key>immediateCubit</key>
+	<string>pivotalMetadata</string>
+	<key>keyfactory</key>
+	<string>canUpdateEffect</string>
+	<key>largeOffset</key>
+	<string>hardDescent</string>
+	<key>mobileJoiner</key>
+	<string>shouldrebuildscroll</string>
+	<key>shouldStartAppBar</key>
+	<string>revisitBuffer</string>
+	<key>sophisticatedDetector</key>
+	<string>secondInteger</string>
+</dict>
+</plist>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>concurrentStatus</key>
+	<string>assetInterpreter</string>
+	<key>liteModal</key>
+	<string>evolutionTop</string>
+	<key>overridecurve</key>
+	<string>independentCharacteristic</string>
+	<key>requestresponse</key>
+	<string>updateThread</string>
+	<key>stepMode</key>
+	<string>numericalSlash</string>
+</dict>
+</plist>

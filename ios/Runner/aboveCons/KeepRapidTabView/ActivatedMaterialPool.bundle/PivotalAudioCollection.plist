@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>chapteroffset</key>
+	<string>analyzerhead</string>
+	<key>dynamicNotation</key>
+	<string>loadTouch</string>
+	<key>listviewbysingleton</key>
+	<string>mutablestate</string>
+	<key>paintcache</key>
+	<string>cycleVariable</string>
+	<key>promiseBehavior</key>
+	<string>colorInset</string>
+	<key>shouldPrepareCapacities</key>
+	<string>decorationStage</string>
+	<key>shouldresumetask</key>
+	<string>processorMode</string>
+</dict>
+</plist>

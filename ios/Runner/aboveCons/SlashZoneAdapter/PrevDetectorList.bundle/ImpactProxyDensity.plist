@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>concreteConstant</key>
+	<string>replicateStream</string>
+	<key>denseResponder</key>
+	<string>sampleSpacing</string>
+	<key>nextBullet</key>
+	<string>tweakPressure</string>
+	<key>oncatalystchanged</key>
+	<string>progressbarShade</string>
+	<key>permanentTitle</key>
+	<string>canKeepLoss</string>
+	<key>shouldInflateGradient</key>
+	<string>shouldEndObserver</string>
+	<key>splitterMargin</key>
+	<string>activitywithoutfacade</string>
+	<key>statelessinset</key>
+	<string>presenterPressure</string>
+</dict>
+</plist>

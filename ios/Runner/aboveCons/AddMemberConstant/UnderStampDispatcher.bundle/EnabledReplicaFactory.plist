@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>comprehensivePopup</key>
+	<string>baselinerate</string>
+	<key>currentcard</key>
+	<string>scrollableTool</string>
+	<key>disparateMechanism</key>
+	<string>dynamicPoint</string>
+	<key>evaluationVisibility</key>
+	<string>rotateConfiguration</string>
+	<key>graphinformation</key>
+	<string>cartesianInteractor</string>
+	<key>gridviewSkewY</key>
+	<string>statelessType</string>
+	<key>inheritedFragment</key>
+	<string>interpolationVariable</string>
+	<key>unactivatedMission</key>
+	<string>canRenderGraphic</string>
+</dict>
+</plist>

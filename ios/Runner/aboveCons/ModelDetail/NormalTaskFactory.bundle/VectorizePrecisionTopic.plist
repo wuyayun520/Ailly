@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activeAperture</key>
+	<string>typicalTrigger</string>
+	<key>channelsLocation</key>
+	<string>mobileTentative</string>
+	<key>globalstrength</key>
+	<string>semanticsStrategy</string>
+	<key>shouldAnimateBloc</key>
+	<string>loaderBehavior</string>
+	<key>shouldPushSign</key>
+	<string>pinchableRequest</string>
+	<key>trianglesTag</key>
+	<string>tweenTask</string>
+</dict>
+</plist>

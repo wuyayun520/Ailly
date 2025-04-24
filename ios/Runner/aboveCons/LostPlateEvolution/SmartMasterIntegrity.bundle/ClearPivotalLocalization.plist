@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>independentRange</key>
+	<string>calculatestorage</string>
+	<key>introspectmap</key>
+	<string>hasinstruction</string>
+	<key>latencyDistance</key>
+	<string>symbolCommand</string>
+	<key>shouldDeserializeSkirt</key>
+	<string>destroyMethod</string>
+	<key>tensorStatus</key>
+	<string>tangentSpacing</string>
+</dict>
+</plist>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>buttonsystemorientation</key>
+	<string>routeLevel</string>
+	<key>gridviewpadding</key>
+	<string>trainResource</string>
+	<key>progressbarmaterial</key>
+	<string>ternaryObserver</string>
+	<key>similartransformer</key>
+	<string>retainedEntity</string>
+	<key>sortedRadius</key>
+	<string>queueOrigin</string>
+</dict>
+</plist>

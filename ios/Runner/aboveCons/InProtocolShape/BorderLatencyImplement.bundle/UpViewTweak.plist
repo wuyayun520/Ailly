@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accessiblezonecontrast</key>
+	<string>canEndComposition</string>
+	<key>asynchronousprogressbar</key>
+	<string>replicateState</string>
+	<key>beginnerEffect</key>
+	<string>shouldRouteContraction</string>
+	<key>hyperbolicText</key>
+	<string>destroyGrain</string>
+	<key>retainedLoop</key>
+	<string>lostBitrate</string>
+	<key>shouldDetachText</key>
+	<string>canEncodeBloc</string>
+</dict>
+</plist>

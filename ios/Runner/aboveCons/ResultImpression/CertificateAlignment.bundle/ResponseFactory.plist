@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>binderInteraction</key>
+	<string>rectifysingleton</string>
+	<key>descriptorinsidedecorator</key>
+	<string>obtaincompletion</string>
+	<key>directTask</key>
+	<string>minTransition</string>
+	<key>notifierbychain</key>
+	<string>typicalArchitecture</string>
+	<key>paintershader</key>
+	<string>shapeVisible</string>
+	<key>persistentArithmetic</key>
+	<string>profileSize</string>
+	<key>scrollabledescriptiontint</key>
+	<string>detachError</string>
+	<key>setstaterepository</key>
+	<string>schemaBehavior</string>
+	<key>standalonePadding</key>
+	<string>listenTopic</string>
+</dict>
+</plist>

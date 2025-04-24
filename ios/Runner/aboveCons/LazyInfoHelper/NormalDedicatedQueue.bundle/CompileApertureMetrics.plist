@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>clusterIndex</key>
+	<string>shouldUpdateRadio</string>
+	<key>mediocreDocument</key>
+	<string>shouldFinishStep</string>
+	<key>remainderalignment</key>
+	<string>shouldDisconnectCurve</string>
+	<key>requiredMap</key>
+	<string>descriptionFormat</string>
+	<key>shaderMargin</key>
+	<string>animateBehavior</string>
+	<key>variantCenter</key>
+	<string>lockLabel</string>
+</dict>
+</plist>

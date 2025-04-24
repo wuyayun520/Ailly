@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>disabledAudio</key>
+	<string>shouldTrainLayout</string>
+	<key>discardedSprite</key>
+	<string>fusedScalability</string>
+	<key>initializebitrate</key>
+	<string>mergerForce</string>
+	<key>momentumtail</key>
+	<string>shouldCacheContainer</string>
+	<key>nativecollectionacceleration</key>
+	<string>semanticEvaluation</string>
+	<key>shouldMountedNib</key>
+	<string>difficultSubpixel</string>
+</dict>
+</plist>

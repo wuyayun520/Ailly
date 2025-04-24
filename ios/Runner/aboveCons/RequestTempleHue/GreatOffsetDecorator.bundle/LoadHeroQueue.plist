@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>draggableAsync</key>
+	<string>awaitslider</string>
+	<key>durationPosition</key>
+	<string>pushTransition</string>
+	<key>globalCapacity</key>
+	<string>ephemeralInteger</string>
+	<key>logarithmFrequency</key>
+	<string>interceptView</string>
+	<key>paddingphasesize</key>
+	<string>euclideanStep</string>
+	<key>retainedCosine</key>
+	<string>shouldCacheSubpixel</string>
+	<key>sampletypeshape</key>
+	<string>rectifyOffset</string>
+	<key>shouldProcessArithmetic</key>
+	<string>storeHash</string>
+	<key>skintop</key>
+	<string>quitTransformer</string>
+	<key>subscriptionuntilvalue</key>
+	<string>agileNavigator</string>
+</dict>
+</plist>

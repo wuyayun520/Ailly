@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>arithmeticImpression</key>
+	<string>canSaveConstraint</string>
+	<key>mobileCard</key>
+	<string>disconnectInterpolation</string>
+	<key>presentinitiators</key>
+	<string>rectangleEdge</string>
+	<key>reusableInteractor</key>
+	<string>shouldFormatComposition</string>
+	<key>shouldDetachVariant</key>
+	<string>shouldEncodeNib</string>
+	<key>symbolShade</key>
+	<string>shouldFetchAppBar</string>
+	<key>tweenSpacing</key>
+	<string>bufferSpeed</string>
+</dict>
+</plist>

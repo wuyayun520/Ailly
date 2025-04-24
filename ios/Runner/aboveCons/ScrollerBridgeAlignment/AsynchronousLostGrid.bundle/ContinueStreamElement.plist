@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>captionmomentum</key>
+	<string>oldreducer</string>
+	<key>chartCount</key>
+	<string>directChapter</string>
+	<key>customConverter</key>
+	<string>ephemeralAspectRatio</string>
+	<key>largeNib</key>
+	<string>shouldPauseGrayscale</string>
+	<key>maincoordinatorskewy</key>
+	<string>retainedRouter</string>
+	<key>shouldCancelView</key>
+	<string>floatHandler</string>
+	<key>sliderimpression</key>
+	<string>adaptivePolygon</string>
+	<key>synchronousTentative</key>
+	<string>rowleveltheme</string>
+</dict>
+</plist>

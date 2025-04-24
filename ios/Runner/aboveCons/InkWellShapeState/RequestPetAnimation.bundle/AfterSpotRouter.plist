@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>ascentTransparency</key>
+	<string>layoutSensor</string>
+	<key>criticalcompleter</key>
+	<string>bufferProcess</string>
+	<key>cupertinoBuilder</key>
+	<string>interactiveFinder</string>
+	<key>gridBehavior</key>
+	<string>concurrentAxis</string>
+	<key>optimizerColor</key>
+	<string>deserializepreview</string>
+	<key>quaternionAppearance</key>
+	<string>createSubpixel</string>
+	<key>smallHash</key>
+	<string>channelinsidemode</string>
+</dict>
+</plist>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>alphaawaydecorator</key>
+	<string>directDecoration</string>
+	<key>customizedSpine</key>
+	<string>animatorTail</string>
+	<key>frameContrast</key>
+	<string>arithmeticshader</string>
+	<key>mainBuilder</key>
+	<string>previewRate</string>
+	<key>shouldAnimateMatrix</key>
+	<string>documentType</string>
+	<key>stateleft</key>
+	<string>remainderbutton</string>
+	<key>synchronousUnary</key>
+	<string>trianglesCount</string>
+</dict>
+</plist>

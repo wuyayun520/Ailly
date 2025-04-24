@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activatedReducer</key>
+	<string>explicitStatus</string>
+	<key>ascentMargin</key>
+	<string>localizationconverter</string>
+	<key>desktopDescription</key>
+	<string>globalScale</string>
+	<key>disabledConstant</key>
+	<string>immutableConstraint</string>
+	<key>histogramdescent</key>
+	<string>singletonHead</string>
+	<key>immutableWorkflow</key>
+	<string>geometricsubscriptiondepth</string>
+	<key>rapidStore</key>
+	<string>shouldCancelAnimatedContainer</string>
+	<key>rectifydropdownbutton</key>
+	<string>deflateCurve</string>
+	<key>saveplate</key>
+	<string>discardedsearcher</string>
+	<key>semanticRadio</key>
+	<string>metadataStyle</string>
+</dict>
+</plist>

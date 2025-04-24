@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>ascentSaturation</key>
+	<string>shouldShowSine</string>
+	<key>compositionalFinder</key>
+	<string>shouldDispatchTextField</string>
+	<key>lostTable</key>
+	<string>storyboardStatus</string>
+	<key>matrixofframework</key>
+	<string>customizedScene</string>
+	<key>offsetStatus</key>
+	<string>shouldProcessMobile</string>
+	<key>scaleRate</key>
+	<string>discoverZone</string>
+	<key>schedulerSpacing</key>
+	<string>canValidateProject</string>
+</dict>
+</plist>

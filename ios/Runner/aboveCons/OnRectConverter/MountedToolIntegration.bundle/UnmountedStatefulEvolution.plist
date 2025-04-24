@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>allocatorOpacity</key>
+	<string>normshape</string>
+	<key>orchestrateheap</key>
+	<string>inactiveController</string>
+	<key>recursionForce</key>
+	<string>compositionSkewY</string>
+	<key>respectiveInstruction</key>
+	<string>triggerRate</string>
+</dict>
+</plist>

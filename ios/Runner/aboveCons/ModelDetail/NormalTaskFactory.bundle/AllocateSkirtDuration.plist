@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>hierarchicalOptimizer</key>
+	<string>priorUnary</string>
+	<key>invisiblerow</key>
+	<string>disposePainter</string>
+	<key>localizationStatus</key>
+	<string>canPopGem</string>
+	<key>notificationCount</key>
+	<string>requestcycleshape</string>
+	<key>resilienceBottom</key>
+	<string>canTransformTextField</string>
+	<key>scrollerDensity</key>
+	<string>canRenderOptimizer</string>
+	<key>shouldLoadTable</key>
+	<string>primaryDisclaimer</string>
+	<key>shouldPersistMovement</key>
+	<string>navigationStage</string>
+	<key>standaloneEvolution</key>
+	<string>freePopup</string>
+</dict>
+</plist>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>advancedScene</key>
+	<string>touchFrame</string>
+	<key>dedicatedRoute</key>
+	<string>enabledWorkflow</string>
+	<key>mediocreMember</key>
+	<string>relationalSplitter</string>
+	<key>nativeBitrate</key>
+	<string>quantizationStore</string>
+	<key>scaffoldcycletint</key>
+	<string>reusableAspect</string>
+	<key>shouldcreateview</key>
+	<string>combineChart</string>
+	<key>singleSlash</key>
+	<string>canContinueBuilder</string>
+</dict>
+</plist>

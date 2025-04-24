@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>checkboxDepth</key>
+	<string>mediaqueryForce</string>
+	<key>gemBrightness</key>
+	<string>stampValidation</string>
+	<key>metricscolor</key>
+	<string>stringifymediaquery</string>
+	<key>reconcilelistener</key>
+	<string>deserializeSlash</string>
+	<key>shouldNavigateScale</key>
+	<string>shouldReplaceCharacter</string>
+	<key>unsortedSymbol</key>
+	<string>reactiveReducer</string>
+</dict>
+</plist>

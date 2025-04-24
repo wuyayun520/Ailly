@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>discardedManager</key>
+	<string>localizationLayer</string>
+	<key>granularDimension</key>
+	<string>specifyTweak</string>
+	<key>hardDistinction</key>
+	<string>permissiveReplica</string>
+	<key>hasChallenge</key>
+	<string>keepchannel</string>
+	<key>opaqueRange</key>
+	<string>fusedentitytail</string>
+	<key>pointFeedback</key>
+	<string>shouldUnmountedSegue</string>
+	<key>replaceticker</key>
+	<string>unactivatedshader</string>
+	<key>secondAnalogy</key>
+	<string>mainlayout</string>
+	<key>touchPressure</key>
+	<string>cacheName</string>
+</dict>
+</plist>

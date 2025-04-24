@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>commonSemantics</key>
+	<string>responsiveMomentum</string>
+	<key>creatorspeed</key>
+	<string>animategrain</string>
+	<key>firstCache</key>
+	<string>prepareConsumer</string>
+	<key>firstresulttension</key>
+	<string>popGridView</string>
+	<key>onmultiplicationchanged</key>
+	<string>missedLayer</string>
+	<key>overlayRotation</key>
+	<string>emitSegment</string>
+	<key>richtextmodealignment</key>
+	<string>retainConfiguration</string>
+	<key>semanticsTag</key>
+	<string>tensorLatency</string>
+</dict>
+</plist>

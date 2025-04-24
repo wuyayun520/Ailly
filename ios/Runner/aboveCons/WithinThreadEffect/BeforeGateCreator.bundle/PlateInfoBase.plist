@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>clipcustompaint</key>
+	<string>canPauseText</string>
+	<key>createoption</key>
+	<string>temporaryConstant</string>
+	<key>hierarchicalParticle</key>
+	<string>canRenderLabel</string>
+	<key>iterativeComposition</key>
+	<string>canStartListView</string>
+	<key>providerStyle</key>
+	<string>largeVertex</string>
+	<key>publicresource</key>
+	<string>handleNorm</string>
+	<key>shouldEncodeSkirt</key>
+	<string>elasticUtil</string>
+	<key>shouldPresentEntropy</key>
+	<string>streamDensity</string>
+	<key>shouldStopGestureDetector</key>
+	<string>canPresentDocument</string>
+</dict>
+</plist>

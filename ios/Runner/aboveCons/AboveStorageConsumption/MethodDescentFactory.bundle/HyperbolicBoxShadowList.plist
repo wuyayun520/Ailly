@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cacheprovider</key>
+	<string>consumerRate</string>
+	<key>desktopStatus</key>
+	<string>substantialSession</string>
+	<key>extensionpadding</key>
+	<string>consumeDelegate</string>
+	<key>resizableMetadata</key>
+	<string>mediaqueryComposite</string>
+	<key>shouldInflateDimension</key>
+	<string>canSaveDrawer</string>
+	<key>smartCustomPaint</key>
+	<string>inflategesture</string>
+</dict>
+</plist>

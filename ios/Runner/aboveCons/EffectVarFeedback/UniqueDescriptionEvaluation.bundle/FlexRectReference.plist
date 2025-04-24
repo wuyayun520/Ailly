@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>imperativeTitle</key>
+	<string>immutableMultiplication</string>
+	<key>loaderTension</key>
+	<string>textsprite</string>
+	<key>modelStatus</key>
+	<string>deserializeSpecifier</string>
+	<key>popcontainer</key>
+	<string>eventBound</string>
+	<key>similarSchema</key>
+	<string>compositionwithoutstrategy</string>
+</dict>
+</plist>

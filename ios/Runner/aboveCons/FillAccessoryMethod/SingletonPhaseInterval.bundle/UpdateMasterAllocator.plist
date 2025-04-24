@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>adaptiveBuffer</key>
+	<string>enabledPager</string>
+	<key>euclideanComponent</key>
+	<string>rectifyequalization</string>
+	<key>popcurve</key>
+	<string>smartDialogs</string>
+	<key>shouldPauseOperation</key>
+	<string>crucialEvolution</string>
+	<key>shouldUnbindDocument</key>
+	<string>protocolInterpreter</string>
+</dict>
+</plist>

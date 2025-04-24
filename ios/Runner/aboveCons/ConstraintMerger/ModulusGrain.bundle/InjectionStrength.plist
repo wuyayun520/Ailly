@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cellBehavior</key>
+	<string>backwardInstruction</string>
+	<key>globalInfo</key>
+	<string>delegateawayobserver</string>
+	<key>intuitiveCache</key>
+	<string>transformasync</string>
+	<key>presenterlocation</key>
+	<string>hashVariable</string>
+	<key>responderLeft</key>
+	<string>setupAnimation</string>
+	<key>routerFlags</key>
+	<string>canContinueCursor</string>
+	<key>shouldParseDescriptor</key>
+	<string>secondView</string>
+</dict>
+</plist>

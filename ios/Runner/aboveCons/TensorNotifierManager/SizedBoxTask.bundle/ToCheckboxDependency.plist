@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>baselineHead</key>
+	<string>maxBullet</string>
+	<key>channelCoord</key>
+	<string>canPaintOption</string>
+	<key>radioValidation</key>
+	<string>localizationEnvironment</string>
+	<key>rowInteraction</key>
+	<string>stepTheme</string>
+	<key>shouldMountTangent</key>
+	<string>shouldRenderEqualization</string>
+	<key>statefulSplitter</key>
+	<string>storeCenter</string>
+	<key>transformerFlags</key>
+	<string>propagateCallback</string>
+</dict>
+</plist>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>compositionTension</key>
+	<string>shapeDirection</string>
+	<key>difficultConfiguration</key>
+	<string>embraceMenu</string>
+	<key>geometricPlayback</key>
+	<string>roleFunction</string>
+	<key>numericalCache</key>
+	<string>toolInterval</string>
+	<key>secondListView</key>
+	<string>shouldInitializeCard</string>
+	<key>shouldInitializeCompletion</key>
+	<string>quitController</string>
+	<key>shouldPopNib</key>
+	<string>enabledReceiver</string>
+	<key>shouldStartGestureDetector</key>
+	<string>visualizeParticle</string>
+	<key>synchronousProtocol</key>
+	<string>renderPoint</string>
+</dict>
+</plist>

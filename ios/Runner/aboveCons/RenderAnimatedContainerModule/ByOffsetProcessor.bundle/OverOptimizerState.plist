@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>currenttabview</key>
+	<string>requestaroundsingleton</string>
+	<key>documentOpacity</key>
+	<string>multiGrayscale</string>
+	<key>eventwithcommand</key>
+	<string>shouldUnmountBase</string>
+	<key>greatTime</key>
+	<string>reductionType</string>
+	<key>independentCupertino</key>
+	<string>quitMethod</string>
+	<key>parallelFormat</key>
+	<string>activeConstant</string>
+	<key>shouldEndThread</key>
+	<string>delegateMomentum</string>
+	<key>shouldInflateView</key>
+	<string>sustainableLayout</string>
+	<key>shouldPublishMonster</key>
+	<string>vectorizeswitch</string>
+	<key>shouldTrainRemainder</key>
+	<string>optimizerColor</string>
+</dict>
+</plist>

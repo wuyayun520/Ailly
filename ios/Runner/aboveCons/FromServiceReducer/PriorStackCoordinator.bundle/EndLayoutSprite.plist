@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>consumerTail</key>
+	<string>reusableDrawer</string>
+	<key>fusedCubit</key>
+	<string>listviewNumber</string>
+	<key>isUsage</key>
+	<string>canNavigateContainer</string>
+	<key>masterBottom</key>
+	<string>navigatorSize</string>
+	<key>missedView</key>
+	<string>substantialDescriptor</string>
+	<key>pivotalOffset</key>
+	<string>responsiveduration</string>
+	<key>synchronousLoader</key>
+	<string>shouldValidateSpecifier</string>
+</dict>
+</plist>

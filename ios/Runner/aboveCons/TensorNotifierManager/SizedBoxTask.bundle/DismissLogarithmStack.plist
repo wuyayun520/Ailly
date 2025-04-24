@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accordionGradient</key>
+	<string>setstateframe</string>
+	<key>delegateBorder</key>
+	<string>respectiveTask</string>
+	<key>functionalEffect</key>
+	<string>sharedConverter</string>
+	<key>mobileTechnique</key>
+	<string>catalystScale</string>
+	<key>pointrect</key>
+	<string>canRebuildTransition</string>
+	<key>shouldSaveSession</key>
+	<string>originalCoordinator</string>
+</dict>
+</plist>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>disclaimerCount</key>
+	<string>publishTool</string>
+	<key>hierarchicalManager</key>
+	<string>analogyRate</string>
+	<key>protectedInstruction</key>
+	<string>apertureCycle</string>
+	<key>rangefeedback</key>
+	<string>radioShape</string>
+	<key>responsedensity</key>
+	<string>uniformLogarithm</string>
+	<key>shouldBuildSpine</key>
+	<string>drawerlistener</string>
+	<key>subsequentArithmetic</key>
+	<string>sequentialLatency</string>
+	<key>variantSaturation</key>
+	<string>canFormatStateful</string>
+	<key>webProtocol</key>
+	<string>defaultSlash</string>
+</dict>
+</plist>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>bufferactionshape</key>
+	<string>shouldDispatchCertificate</string>
+	<key>dynamicvector</key>
+	<string>canCacheTextField</string>
+	<key>publicSorter</key>
+	<string>graphexceptpattern</string>
+	<key>tappableUtil</key>
+	<string>videoTail</string>
+</dict>
+</plist>

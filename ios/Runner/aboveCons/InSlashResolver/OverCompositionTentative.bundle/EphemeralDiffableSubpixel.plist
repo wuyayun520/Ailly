@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>dynamicpager</key>
+	<string>attachrichtext</string>
+	<key>emitalert</key>
+	<string>smartPadding</string>
+	<key>extendbutton</key>
+	<string>cloneCompleter</string>
+	<key>hardThreshold</key>
+	<string>optionCount</string>
+	<key>intuitiveZone</key>
+	<string>temporaryInkWell</string>
+	<key>shouldDeserializeLog</key>
+	<string>observeconvolution</string>
+	<key>smartroutercontrast</key>
+	<string>reconcilevector</string>
+	<key>statefulMend</key>
+	<string>fixedCursor</string>
+	<key>subsequentPlayback</key>
+	<string>memberShade</string>
+	<key>uniformreferenceposition</key>
+	<string>directlyTicker</string>
+</dict>
+</plist>

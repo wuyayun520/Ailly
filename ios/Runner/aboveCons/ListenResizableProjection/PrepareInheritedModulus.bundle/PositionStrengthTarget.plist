@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activatedCapacity</key>
+	<string>streammomentum</string>
+	<key>delegatePadding</key>
+	<string>menuFacade</string>
+	<key>draggablebuffer</key>
+	<string>opaqueIcon</string>
+	<key>resizableoperationcolor</key>
+	<string>canStreamCell</string>
+	<key>resolverdecoratorrate</key>
+	<string>storeHue</string>
+	<key>statelessPicker</key>
+	<string>canSaveScaffold</string>
+	<key>unbinddecoration</key>
+	<string>denseSignature</string>
+</dict>
+</plist>

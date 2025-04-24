@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>callbackstroke</key>
+	<string>retrieveRoute</string>
+	<key>draggableContainer</key>
+	<string>debugCubit</string>
+	<key>efficiencyHue</key>
+	<string>unlockException</string>
+	<key>fetchpopup</key>
+	<string>explicitWrapper</string>
+	<key>holdvector</key>
+	<string>autoRoute</string>
+	<key>projectSpacing</key>
+	<string>flexibleWidget</string>
+	<key>providerparticle</key>
+	<string>shouldCancelCaption</string>
+	<key>shouldCacheCache</key>
+	<string>shouldReplaceSegment</string>
+	<key>shouldpopoptimizer</key>
+	<string>missedlistenercount</string>
+</dict>
+</plist>

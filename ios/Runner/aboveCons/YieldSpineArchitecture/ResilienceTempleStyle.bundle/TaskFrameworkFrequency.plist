@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activeconnector</key>
+	<string>functionaldecorationrotation</string>
+	<key>customInterpolation</key>
+	<string>integerContrast</string>
+	<key>custompaintaspattern</key>
+	<string>containeredge</string>
+	<key>equipmentjobfrequency</key>
+	<string>sorterHue</string>
+	<key>reductionDistance</key>
+	<string>canDismissInkWell</string>
+	<key>shouldValidateBox</key>
+	<string>canYieldThread</string>
+	<key>sustainableNavigator</key>
+	<string>ephemeralState</string>
+	<key>timeFormat</key>
+	<string>integrityResponse</string>
+	<key>unbindsegment</key>
+	<string>custommargincolor</string>
+</dict>
+</plist>

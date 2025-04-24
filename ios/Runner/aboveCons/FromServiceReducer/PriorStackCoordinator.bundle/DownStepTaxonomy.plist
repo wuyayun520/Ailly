@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>eagerDetail</key>
+	<string>eventColor</string>
+	<key>flexibleTitle</key>
+	<string>shouldContinueDialogs</string>
+	<key>immediateCard</key>
+	<string>draggableBrush</string>
+	<key>mutableColor</key>
+	<string>exitDependency</string>
+	<key>persistentDimension</key>
+	<string>progressbarBrightness</string>
+	<key>resultadaptertransparency</key>
+	<string>statelessBridge</string>
+	<key>shouldinitializescale</key>
+	<string>firstObserver</string>
+	<key>unsortedPermutation</key>
+	<string>usageSize</string>
+</dict>
+</plist>

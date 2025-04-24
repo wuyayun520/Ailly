@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>firstMesh</key>
+	<string>interfacestatus</string>
+	<key>mediawithoutstrategy</key>
+	<string>parseDropdownButton</string>
+	<key>mediumFinder</key>
+	<string>requiredAxis</string>
+	<key>mediumNavigation</key>
+	<string>eventOpacity</string>
+	<key>soundVelocity</key>
+	<string>canRenderBinary</string>
+	<key>viewDepth</key>
+	<string>normName</string>
+</dict>
+</plist>

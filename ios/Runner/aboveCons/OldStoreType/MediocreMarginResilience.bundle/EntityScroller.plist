@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>agileBandwidth</key>
+	<string>compositionalTrajectory</string>
+	<key>cleancontainer</key>
+	<string>rectobserver</string>
+	<key>directPageView</key>
+	<string>dispatchBase</string>
+	<key>firstObserver</key>
+	<string>canRestartStateless</string>
+	<key>grainmode</key>
+	<string>repositoryParam</string>
+	<key>keyStack</key>
+	<string>replaceActivity</string>
+	<key>missedText</key>
+	<string>notificationtransparency</string>
+	<key>mobileMedia</key>
+	<string>smallTrajectory</string>
+	<key>pageviewrenderer</key>
+	<string>evaluateDependency</string>
+	<key>paralleltentative</key>
+	<string>annotateListener</string>
+</dict>
+</plist>

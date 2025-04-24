@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>beginnerChecklist</key>
+	<string>crucialSubscription</string>
+	<key>channelschapter</key>
+	<string>indicatorBrightness</string>
+	<key>hardComposition</key>
+	<string>selectedPageView</string>
+	<key>priorCallback</key>
+	<string>shouldTransitionSkin</string>
+	<key>servicebesideprototype</key>
+	<string>musicHead</string>
+</dict>
+</plist>

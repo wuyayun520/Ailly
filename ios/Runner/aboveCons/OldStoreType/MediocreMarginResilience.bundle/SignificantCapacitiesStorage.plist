@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cupertinoNorm</key>
+	<string>cubeKind</string>
+	<key>enabledStatus</key>
+	<string>enabledPreview</string>
+	<key>greatsingletonspacing</key>
+	<string>errorenvironmentlocation</string>
+	<key>infoInteraction</key>
+	<string>stepCycle</string>
+	<key>mobileAnimatedContainer</key>
+	<string>canUnmountSensor</string>
+	<key>oldNavigator</key>
+	<string>latencyStyle</string>
+	<key>quantizeranimation</key>
+	<string>shouldProcessMap</string>
+</dict>
+</plist>

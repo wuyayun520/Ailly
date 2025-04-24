@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>arithmetickernelshade</key>
+	<string>usecaseBrightness</string>
+	<key>displayableDecoration</key>
+	<string>cubitmethoddelay</string>
+	<key>errorcapacity</key>
+	<string>curveParameter</string>
+	<key>flexibleReceiver</key>
+	<string>displayableAlpha</string>
+	<key>handlechannel</key>
+	<string>injectBloc</string>
+	<key>hierarchicalschema</key>
+	<string>moveSubscription</string>
+	<key>priorityFrequency</key>
+	<string>primarySorter</string>
+	<key>repositoryscopeoffset</key>
+	<string>convolutionSpeed</string>
+</dict>
+</plist>

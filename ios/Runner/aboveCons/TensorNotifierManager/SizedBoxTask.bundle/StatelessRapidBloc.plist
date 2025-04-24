@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>agileBrush</key>
+	<string>granularPicker</string>
+	<key>concurrentDelivery</key>
+	<string>tabbarCount</string>
+	<key>containerOrigin</key>
+	<string>reductionDepth</string>
+	<key>fusedOptimizer</key>
+	<string>textInset</string>
+	<key>sorterInterval</key>
+	<string>momentumforce</string>
+</dict>
+</plist>

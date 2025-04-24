@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cycleStyle</key>
+	<string>transitionIcon</string>
+	<key>dropoutreducer</key>
+	<string>disconnectAspect</string>
+	<key>fixedsound</key>
+	<string>activePicker</string>
+	<key>prismaticBullet</key>
+	<string>concatenateAllocator</string>
+	<key>shouldNavigateSubpixel</key>
+	<string>tensorIsolate</string>
+	<key>standaloneChart</key>
+	<string>adjustroute</string>
+	<key>trajectorytint</key>
+	<string>shoulddetachanimatedcontainer</string>
+</dict>
+</plist>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>discardedRenderer</key>
+	<string>movementDirection</string>
+	<key>granularcustompaintshade</key>
+	<string>shouldCacheBase</string>
+	<key>iconVisible</key>
+	<string>moveLocalization</string>
+	<key>indicatorMode</key>
+	<string>equipmentKind</string>
+	<key>shouldrestarteffect</key>
+	<string>durationanimation</string>
+	<key>tableMargin</key>
+	<string>animatorDelay</string>
+</dict>
+</plist>

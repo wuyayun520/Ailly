@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>equalizationBound</key>
+	<string>maxCaption</string>
+	<key>mediaframe</key>
+	<string>regulatePopup</string>
+	<key>resilientInjection</key>
+	<string>tickerTemple</string>
+</dict>
+</plist>

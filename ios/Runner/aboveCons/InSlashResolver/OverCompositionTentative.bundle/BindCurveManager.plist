@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accessibleconsumer</key>
+	<string>singleMerger</string>
+	<key>criticalMaterial</key>
+	<string>webBitrate</string>
+	<key>declarativeUseCase</key>
+	<string>resourceSingleton</string>
+	<key>parallelGram</key>
+	<string>delicateGraph</string>
+	<key>retainedResilience</key>
+	<string>independentDistinction</string>
+	<key>staticRow</key>
+	<string>textfieldSaturation</string>
+	<key>steprange</key>
+	<string>injectionmargin</string>
+</dict>
+</plist>

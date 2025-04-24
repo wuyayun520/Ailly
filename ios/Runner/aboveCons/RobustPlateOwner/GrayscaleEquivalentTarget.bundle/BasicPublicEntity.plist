@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>capacityPadding</key>
+	<string>usageVelocity</string>
+	<key>diffableCurve</key>
+	<string>activetabviewmode</string>
+	<key>lossdirection</key>
+	<string>analogySize</string>
+	<key>matrixScale</key>
+	<string>seekFactory</string>
+	<key>metadataFrequency</key>
+	<string>shouldresumetext</string>
+	<key>optionbound</key>
+	<string>shouldMountedBatch</string>
+	<key>retainedManager</key>
+	<string>graphicVisibility</string>
+	<key>reusablePositioned</key>
+	<string>shouldEndRoute</string>
+	<key>scenarioBehavior</key>
+	<string>exceptionstatus</string>
+	<key>subscribesignature</key>
+	<string>subtleModule</string>
+</dict>
+</plist>

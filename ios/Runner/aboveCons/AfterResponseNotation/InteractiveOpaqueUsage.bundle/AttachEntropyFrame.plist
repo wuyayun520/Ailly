@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>backwardPopup</key>
+	<string>priorModel</string>
+	<key>dependencySaturation</key>
+	<string>shouldEncodeAxis</string>
+	<key>dynamicsize</key>
+	<string>shouldSerializeExtension</string>
+	<key>modalDepth</key>
+	<string>extendTopic</string>
+	<key>segmentAlignment</key>
+	<string>quantizergesturedetector</string>
+	<key>shouldRestartFuture</key>
+	<string>shouldCreateSwitch</string>
+	<key>tentativevalidation</key>
+	<string>spineDecorator</string>
+</dict>
+</plist>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>crucialListView</key>
+	<string>canStartArithmetic</string>
+	<key>descentMargin</key>
+	<string>canKeepSample</string>
+	<key>displayableRouter</key>
+	<string>shouldFormatTouch</string>
+	<key>hardGroup</key>
+	<string>regulateflex</string>
+	<key>iterativeTicker</key>
+	<string>numericalEvent</string>
+	<key>multiSpot</key>
+	<string>defaultMomentum</string>
+	<key>parallelVariant</key>
+	<string>shouldTransformBatch</string>
+	<key>seamlessTweak</key>
+	<string>tickerSystem</string>
+	<key>shouldYieldSkin</key>
+	<string>transpileDependency</string>
+	<key>traversalStatus</key>
+	<string>removeAsync</string>
+</dict>
+</plist>

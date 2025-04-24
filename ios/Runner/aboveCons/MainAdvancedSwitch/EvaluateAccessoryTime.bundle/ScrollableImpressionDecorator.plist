@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>advancedMatrix</key>
+	<string>appendZone</string>
+	<key>easyCanvas</key>
+	<string>shouldSerializeProject</string>
+	<key>prevProgressBar</key>
+	<string>draggableAwait</string>
+	<key>semanticElasticity</key>
+	<string>shouldSkipUsage</string>
+	<key>strengthHead</key>
+	<string>canSkipCompletion</string>
+	<key>typicalmusic</key>
+	<string>canStopMediaQuery</string>
+	<key>usedtextureshape</key>
+	<string>heapVisitor</string>
+</dict>
+</plist>

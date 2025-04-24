@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>ephemeralScenario</key>
+	<string>directlyCharacter</string>
+	<key>shouldCacheRole</key>
+	<string>shouldTransformInstruction</string>
+	<key>shouldInflateWidget</key>
+	<string>paddingDirection</string>
+	<key>shouldSetStatePrecision</key>
+	<string>typicalProject</string>
+	<key>specifyGestureDetector</key>
+	<string>bitratename</string>
+</dict>
+</plist>

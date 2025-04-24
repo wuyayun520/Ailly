@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>euclideanCharacter</key>
+	<string>canTransitionClipper</string>
+	<key>oldSubscriber</key>
+	<string>columnRight</string>
+	<key>shouldHandleDialogs</key>
+	<string>cartesianContrast</string>
+	<key>shouldSerializeScale</key>
+	<string>loadRow</string>
+</dict>
+</plist>

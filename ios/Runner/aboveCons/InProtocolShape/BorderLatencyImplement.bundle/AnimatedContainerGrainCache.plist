@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>bindinterface</key>
+	<string>boxPadding</string>
+	<key>collectionRight</key>
+	<string>nibAlignment</string>
+	<key>destroycharacter</key>
+	<string>onobserverchanged</string>
+	<key>optionBorder</key>
+	<string>fixedIntensity</string>
+	<key>remainderPadding</key>
+	<string>rebuildPoint</string>
+	<key>scrollableElement</key>
+	<string>histogramcontaininterpreter</string>
+	<key>shouldShowPageView</key>
+	<string>dismissallocator</string>
+</dict>
+</plist>

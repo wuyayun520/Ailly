@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>gridviewStatus</key>
+	<string>vectorIndex</string>
+	<key>largeConstraint</key>
+	<string>constructAnimation</string>
+	<key>responderShape</key>
+	<string>soundAcceleration</string>
+	<key>routeContrast</key>
+	<string>navigatorrect</string>
+	<key>shouldTransformCharacter</key>
+	<string>capsulesaturation</string>
+	<key>similarInterface</key>
+	<string>diffableBuffer</string>
+	<key>steplocation</key>
+	<string>persistinterpolation</string>
+	<key>strengthRight</key>
+	<string>canFormatDelegate</string>
+	<key>tappableCurve</key>
+	<string>permanentIcon</string>
+	<key>touchState</key>
+	<string>transformInterpolation</string>
+</dict>
+</plist>

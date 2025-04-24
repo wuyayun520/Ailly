@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>anchorTension</key>
+	<string>standaloneResponse</string>
+	<key>checklistentity</key>
+	<string>containervariablemargin</string>
+	<key>cubitPosition</key>
+	<string>euclideanstatetransparency</string>
+	<key>integerlocation</key>
+	<string>entropyDecorator</string>
+	<key>managerBorder</key>
+	<string>heapCycle</string>
+	<key>shouldFetchNorm</key>
+	<string>handleScroll</string>
+	<key>shouldTransitionNotification</key>
+	<string>taskOffset</string>
+	<key>sortedExponent</key>
+	<string>notifyCycle</string>
+	<key>timerfragments</key>
+	<string>clipperForm</string>
+</dict>
+</plist>

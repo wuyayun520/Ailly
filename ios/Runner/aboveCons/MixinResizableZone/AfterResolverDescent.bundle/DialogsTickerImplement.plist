@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>customRadius</key>
+	<string>retainedThread</string>
+	<key>gesturestate</key>
+	<string>statefulLifecycle</string>
+	<key>independentGrid</key>
+	<string>infoCenter</string>
+	<key>interactorFrequency</key>
+	<string>layerParameter</string>
+	<key>visitalignment</key>
+	<string>logarithmappearance</string>
+</dict>
+</plist>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>contractionBrightness</key>
+	<string>shouldTransitionStoryboard</string>
+	<key>cosineShade</key>
+	<string>paintButton</string>
+	<key>declarativeDimension</key>
+	<string>currentresolverdelay</string>
+	<key>gradientTransparency</key>
+	<string>toolStrategy</string>
+	<key>webContainer</key>
+	<string>unlockStream</string>
+</dict>
+</plist>

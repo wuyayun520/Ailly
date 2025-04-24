@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>choosertransparency</key>
+	<string>concretebatchscale</string>
+	<key>currentEquipment</key>
+	<string>shouldStreamBitrate</string>
+	<key>deferredTheme</key>
+	<string>listenerSpacing</string>
+	<key>dropdownbuttonVisible</key>
+	<string>screenperstage</string>
+	<key>gridviewinsidestyle</key>
+	<string>resolverProcess</string>
+	<key>subscribeskin</key>
+	<string>playbackCycle</string>
+</dict>
+</plist>

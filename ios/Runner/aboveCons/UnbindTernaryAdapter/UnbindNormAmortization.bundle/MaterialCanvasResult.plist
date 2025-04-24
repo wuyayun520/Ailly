@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accordionTable</key>
+	<string>diffableAspectRatio</string>
+	<key>cartesianDimension</key>
+	<string>metadataState</string>
+	<key>dynamicChannel</key>
+	<string>drawresponse</string>
+	<key>profileFrequency</key>
+	<string>insteadTimer</string>
+	<key>shadertexture</key>
+	<string>labelHue</string>
+	<key>tappableFactory</key>
+	<string>characterduration</string>
+	<key>vertexFeedback</key>
+	<string>shouldEncodeMultiplication</string>
+</dict>
+</plist>

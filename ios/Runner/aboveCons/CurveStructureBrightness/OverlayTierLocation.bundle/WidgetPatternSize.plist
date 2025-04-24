@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>attachmusic</key>
+	<string>mediocreAnalogy</string>
+	<key>backwardPainter</key>
+	<string>norminterval</string>
+	<key>characterSpeed</key>
+	<string>shouldHandleLoss</string>
+	<key>layoutmend</key>
+	<string>musicLocation</string>
+	<key>pinchableTentative</key>
+	<string>fixedWrapper</string>
+	<key>reductionRate</key>
+	<string>shouldDispatchLayout</string>
+	<key>videoAcceleration</key>
+	<string>sortedPainter</string>
+</dict>
+</plist>

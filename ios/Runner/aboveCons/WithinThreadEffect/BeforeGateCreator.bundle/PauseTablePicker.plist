@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>anchorStyle</key>
+	<string>descriptorinproxy</string>
+	<key>aspectsorter</key>
+	<string>primaryPlayback</string>
+	<key>flexibletitlefeedback</key>
+	<string>mediumPicker</string>
+	<key>largeReducer</key>
+	<string>permissivereducer</string>
+	<key>relationalDispatcher</key>
+	<string>canKeepHero</string>
+	<key>shouldConnectTabBar</key>
+	<string>uniformModal</string>
+	<key>sustainableRoute</key>
+	<string>numericalAnalogy</string>
+	<key>themeDistance</key>
+	<string>lockRadius</string>
+	<key>visibleColor</key>
+	<string>shoulddispatchrole</string>
+</dict>
+</plist>

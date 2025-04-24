@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>asynchronousJoiner</key>
+	<string>bufferfromform</string>
+	<key>commonProfile</key>
+	<string>declarativeStoryboard</string>
+	<key>factorysize</key>
+	<string>joinerValidation</string>
+	<key>granularFactory</key>
+	<string>nativeScene</string>
+	<key>interactionOrigin</key>
+	<string>statefulMediaQuery</string>
+	<key>interfacecontextvalidation</key>
+	<string>minChallenge</string>
+	<key>newestScope</key>
+	<string>lostvectorfeedback</string>
+	<key>shoulddecodeprofile</key>
+	<string>strokespacing</string>
+	<key>subsequentPoint</key>
+	<string>grayscaletween</string>
+	<key>tensorClipper</key>
+	<string>shouldSkipSpecifier</string>
+</dict>
+</plist>

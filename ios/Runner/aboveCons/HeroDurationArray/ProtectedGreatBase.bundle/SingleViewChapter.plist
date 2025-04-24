@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>allocatorInterval</key>
+	<string>borderSkewX</string>
+	<key>beginnerIntegration</key>
+	<string>interceptSlider</string>
+	<key>completionForce</key>
+	<string>canTransitionOperation</string>
+	<key>liteQueue</key>
+	<string>elasticSound</string>
+	<key>nodeOffset</key>
+	<string>arithmeticMerger</string>
+	<key>respectiveGrid</key>
+	<string>disconnectmodulus</string>
+	<key>seamlessAnimatedContainer</key>
+	<string>segmentDensity</string>
+	<key>shouldInitializeConstraint</key>
+	<string>loadermomentum</string>
+	<key>singletonorientation</key>
+	<string>statelessGram</string>
+	<key>trajectoryHead</key>
+	<string>similarResilience</string>
+</dict>
+</plist>

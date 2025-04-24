@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>datarate</key>
+	<string>scrollableResolver</string>
+	<key>desktopEvent</key>
+	<string>rangebound</string>
+	<key>permissiveanimatedcontainerinteraction</key>
+	<string>canParseSensor</string>
+	<key>shouldMountedTransition</key>
+	<string>finishCupertino</string>
+	<key>sizeScale</key>
+	<string>minCapacities</string>
+	<key>skinandactivity</key>
+	<string>grainchooser</string>
+</dict>
+</plist>

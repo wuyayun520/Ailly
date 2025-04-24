@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>aspectratioVisibility</key>
+	<string>cupertinoStep</string>
+	<key>elasticityinterval</key>
+	<string>activeText</string>
+	<key>mergerfrequency</key>
+	<string>specifyInformation</string>
+	<key>metadataviafunction</key>
+	<string>tabviewFlags</string>
+	<key>repositoryparamspeed</key>
+	<string>ascentOrigin</string>
+	<key>reusableComponent</key>
+	<string>canDetachStep</string>
+</dict>
+</plist>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>currentNorm</key>
+	<string>deployProgressBar</string>
+	<key>fixedSubscriber</key>
+	<string>persistDropdownButton</string>
+	<key>localJoiner</key>
+	<string>obtainResource</string>
+	<key>normalMediaQuery</key>
+	<string>directlyInstruction</string>
+	<key>sharedTabBar</key>
+	<string>sharedCharacter</string>
+	<key>shouldParseMaterial</key>
+	<string>staticVariant</string>
+	<key>skipresource</key>
+	<string>freeReducer</string>
+	<key>smarthandler</key>
+	<string>cacheComposition</string>
+	<key>storageResponse</key>
+	<string>canPresentSine</string>
+	<key>substantialEntropy</key>
+	<string>shouldDisconnectMultiplication</string>
+</dict>
+</plist>

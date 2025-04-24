@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>behaviorticker</key>
+	<string>combinefuture</string>
+	<key>characterbridgeflags</key>
+	<string>fragmentInterval</string>
+	<key>isexpanded</key>
+	<string>shouldPrepareImage</string>
+	<key>petvisibility</key>
+	<string>navigatorflags</string>
+	<key>rapidMend</key>
+	<string>analyzeBuilder</string>
+	<key>sharedDescent</key>
+	<string>stepBridge</string>
+	<key>shouldUnmountCurve</key>
+	<string>promiseofstyle</string>
+	<key>subscriptionmargin</key>
+	<string>mobileThreshold</string>
+	<key>toleranceCenter</key>
+	<string>columnTension</string>
+</dict>
+</plist>

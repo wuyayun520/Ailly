@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>agileCycle</key>
+	<string>layoutVar</string>
+	<key>challengematrix</key>
+	<string>popupinshape</string>
+	<key>customizedModel</key>
+	<string>robustbinder</string>
+	<key>immutableElement</key>
+	<string>multiMultiplication</string>
+	<key>retainedDrawer</key>
+	<string>threaddrawer</string>
+</dict>
+</plist>

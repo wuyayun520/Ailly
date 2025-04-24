@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>behaviorcharacteristic</key>
+	<string>deactivateAsset</string>
+	<key>criticalStack</key>
+	<string>diffableMesh</string>
+	<key>deprecatefuture</key>
+	<string>emitEqualization</string>
+	<key>exceptionversusbuffer</key>
+	<string>canShowListView</string>
+	<key>seamlessMonster</key>
+	<string>desktopAsync</string>
+	<key>stepdespitestructure</key>
+	<string>shouldPrepareSemantics</string>
+	<key>uniqueChart</key>
+	<string>startBuilder</string>
+</dict>
+</plist>

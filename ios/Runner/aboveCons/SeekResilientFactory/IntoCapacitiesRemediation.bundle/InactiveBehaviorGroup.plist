@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>asyncCenter</key>
+	<string>debugTask</string>
+	<key>callbackStyle</key>
+	<string>findInteractor</string>
+	<key>cardCount</key>
+	<string>borderFeedback</string>
+	<key>densearithmetic</key>
+	<string>onswiftchanged</string>
+	<key>findervisibility</key>
+	<string>prevZone</string>
+	<key>grainMode</key>
+	<string>shouldConnectCheckbox</string>
+</dict>
+</plist>

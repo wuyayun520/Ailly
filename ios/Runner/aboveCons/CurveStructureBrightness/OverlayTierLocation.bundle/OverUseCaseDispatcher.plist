@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>behaviorMode</key>
+	<string>resilientTentative</string>
+	<key>missedMaterializer</key>
+	<string>rebuildExpanded</string>
+	<key>reusablelogtension</key>
+	<string>limitfuture</string>
+	<key>schemaBottom</key>
+	<string>desktopQuaternion</string>
+</dict>
+</plist>

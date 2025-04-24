@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>imperativeTrigger</key>
+	<string>substantialGrayscale</string>
+	<key>liteevent</key>
+	<string>shouldInitializePriority</string>
+	<key>lostPreview</key>
+	<string>dynamicScroller</string>
+	<key>materialModel</key>
+	<string>scalenearsingleton</string>
+	<key>rectanglevisibility</key>
+	<string>selectorValidation</string>
+	<key>semanticTextField</key>
+	<string>imageasync</string>
+	<key>shoulddetachlogarithm</key>
+	<string>coordinatortension</string>
+	<key>spotTension</key>
+	<string>criticalMenu</string>
+	<key>vertexValidation</key>
+	<string>exceptiontemplebrightness</string>
+</dict>
+</plist>

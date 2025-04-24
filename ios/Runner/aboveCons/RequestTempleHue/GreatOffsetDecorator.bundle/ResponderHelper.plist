@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>coordinatorsingletonrotation</key>
+	<string>painterVar</string>
+	<key>elasticityType</key>
+	<string>constructPosition</string>
+	<key>hierarchicalFeature</key>
+	<string>movementAlignment</string>
+	<key>isImage</key>
+	<string>petActivity</string>
+	<key>playlistener</key>
+	<string>canPopDecoration</string>
+	<key>unactivatedusecaseindex</key>
+	<string>statelessThreshold</string>
+	<key>webTolerance</key>
+	<string>observeTicker</string>
+</dict>
+</plist>

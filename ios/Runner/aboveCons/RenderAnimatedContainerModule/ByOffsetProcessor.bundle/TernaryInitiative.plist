@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>disclaimerSpacing</key>
+	<string>scrollableDelivery</string>
+	<key>displayableGrain</key>
+	<string>canTransformMultiplication</string>
+	<key>navigationtype</key>
+	<string>draggableGate</string>
+	<key>prevGestureDetector</key>
+	<string>agileLabel</string>
+	<key>radiusaroundprocess</key>
+	<string>smallExtension</string>
+	<key>subscriberCenter</key>
+	<string>shouldSubscribeUnary</string>
+</dict>
+</plist>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>associatedDialogs</key>
+	<string>resizableIsolate</string>
+	<key>connectorStyle</key>
+	<string>independentManager</string>
+	<key>dismissentity</key>
+	<string>canTransformSlider</string>
+	<key>eagerGift</key>
+	<string>hierarchicalSize</string>
+	<key>routeorbridge</key>
+	<string>listviewSystem</string>
+	<key>shouldLayoutPlayback</key>
+	<string>canFinishSensor</string>
+	<key>shouldlistennavigation</key>
+	<string>awaitdensity</string>
+	<key>uniqueAlert</key>
+	<string>touchAppearance</string>
+	<key>webJoiner</key>
+	<string>clonecheckbox</string>
+</dict>
+</plist>

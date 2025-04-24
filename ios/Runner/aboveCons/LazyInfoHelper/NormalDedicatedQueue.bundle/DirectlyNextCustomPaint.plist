@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>draggableMargin</key>
+	<string>shouldEncodeText</string>
+	<key>ignoredTechnique</key>
+	<string>refactorLocalization</string>
+	<key>interpolationPressure</key>
+	<string>shouldFetchLog</string>
+	<key>normaltweenhue</key>
+	<string>synchronousStroke</string>
+	<key>provisionSkewX</key>
+	<string>containerwrapper</string>
+	<key>sharedZone</key>
+	<string>partitionObserver</string>
+	<key>unaryBottom</key>
+	<string>customizedObserver</string>
+</dict>
+</plist>

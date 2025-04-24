@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>adaptiveIntegrity</key>
+	<string>awaitIndex</string>
+	<key>boxState</key>
+	<string>bindcontainer</string>
+	<key>comprehensiveSubscriber</key>
+	<string>canRouteProject</string>
+	<key>disabledStoryboard</key>
+	<string>shouldSkipWidget</string>
+	<key>explicitprioritytag</key>
+	<string>canSerializeScaffold</string>
+	<key>findercenter</key>
+	<string>enabledSlider</string>
+	<key>sequentialtool</key>
+	<string>respectiveTicker</string>
+	<key>sizeSpacing</key>
+	<string>nativeProgressBar</string>
+	<key>tappablePopup</key>
+	<string>discardedSensor</string>
+	<key>timerAlignment</key>
+	<string>ternaryTail</string>
+</dict>
+</plist>

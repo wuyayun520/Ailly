@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>flexibleConsumer</key>
+	<string>requestDepth</string>
+	<key>greatAudio</key>
+	<string>channelsDepth</string>
+	<key>hashBrightness</key>
+	<string>cursorreducer</string>
+	<key>hasstack</key>
+	<string>canCacheGraphic</string>
+	<key>immutableShader</key>
+	<string>responsiveContraction</string>
+	<key>radiusjoiner</key>
+	<string>projectionSpeed</string>
+	<key>shouldCacheNib</key>
+	<string>shouldPublishSemantics</string>
+	<key>sophisticatedElement</key>
+	<string>fixedHash</string>
+	<key>vectorizepromise</key>
+	<string>bulletBound</string>
+</dict>
+</plist>

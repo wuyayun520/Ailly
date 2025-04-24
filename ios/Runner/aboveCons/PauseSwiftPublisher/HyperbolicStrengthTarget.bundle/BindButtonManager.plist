@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>largeSound</key>
+	<string>parallelPosition</string>
+	<key>locatelayout</key>
+	<string>unlockRect</string>
+	<key>oldSemantics</key>
+	<string>smallTopic</string>
+	<key>shouldpublishreference</key>
+	<string>rendererTheme</string>
+	<key>statefulnavigatorformat</key>
+	<string>desktopBloc</string>
+	<key>ternarytag</key>
+	<string>shouldstopheap</string>
+</dict>
+</plist>

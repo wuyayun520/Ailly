@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>mutablemediainterval</key>
+	<string>shouldUpdateSpot</string>
+	<key>oldEquivalent</key>
+	<string>notifyFragment</string>
+	<key>ongemchanged</key>
+	<string>canInitializeActivity</string>
+	<key>popupright</key>
+	<string>buildFragment</string>
+	<key>prevPadding</key>
+	<string>tweenParam</string>
+	<key>scaffoldbuffer</key>
+	<string>releaseStream</string>
+	<key>selectorTail</key>
+	<string>shouldDetachSubpixel</string>
+	<key>shouldRebuildTextField</key>
+	<string>listviewPosition</string>
+	<key>statedespiteprocess</key>
+	<string>shouldEmitIndicator</string>
+</dict>
+</plist>

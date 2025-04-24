@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>concretemultiplication</key>
+	<string>entropyCount</string>
+	<key>normsound</key>
+	<string>shouldBuildBaseline</string>
+	<key>positionedTail</key>
+	<string>gateDuration</string>
+	<key>stopprofile</key>
+	<string>usageSpeed</string>
+</dict>
+</plist>

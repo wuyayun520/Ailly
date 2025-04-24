@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>difficultProjection</key>
+	<string>tentativeShade</string>
+	<key>heaphandler</key>
+	<string>resultRotation</string>
+	<key>ignoredCombiner</key>
+	<string>screenspeed</string>
+	<key>storyboardAlignment</key>
+	<string>shouldRouteRadio</string>
+	<key>storyboardState</key>
+	<string>onpromisechanged</string>
+	<key>themeStatus</key>
+	<string>multiImage</string>
+	<key>transitionjobmomentum</key>
+	<string>cardValidation</string>
+</dict>
+</plist>

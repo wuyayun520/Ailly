@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>allocatorDepth</key>
+	<string>mutableSplitter</string>
+	<key>associatedQuaternion</key>
+	<string>dispatchEntropy</string>
+	<key>cubitbystructure</key>
+	<string>restartgesturedetector</string>
+	<key>customConnector</key>
+	<string>interactoroperation</string>
+	<key>dynamicsubpixel</key>
+	<string>streamlineTransition</string>
+	<key>infoShade</key>
+	<string>heroAction</string>
+	<key>injectdialogs</key>
+	<string>createUnary</string>
+	<key>litecompletionforce</key>
+	<string>hashOffset</string>
+	<key>shouldBuildScroll</key>
+	<string>singleExponent</string>
+	<key>shouldReplaceHeap</key>
+	<string>labelversuslayer</string>
+</dict>
+</plist>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>explicitMonster</key>
+	<string>unscheduleManager</string>
+	<key>lazyTheme</key>
+	<string>transitionSkirt</string>
+	<key>newestBinary</key>
+	<string>customizedFuture</string>
+	<key>shouldPopSkin</key>
+	<string>tweaktension</string>
+	<key>showcoordinator</key>
+	<string>shouldPresentProject</string>
+	<key>streamSaturation</key>
+	<string>promiseChain</string>
+	<key>websignatureborder</key>
+	<string>startSymbol</string>
+</dict>
+</plist>

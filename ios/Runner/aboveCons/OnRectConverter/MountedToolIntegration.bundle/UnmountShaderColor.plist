@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>associatedExpanded</key>
+	<string>syncConstraint</string>
+	<key>layersize</key>
+	<string>canPopCanvas</string>
+	<key>notifywidget</key>
+	<string>nativerestriction</string>
+	<key>requestshape</key>
+	<string>lifecyclePosition</string>
+	<key>symmetricFeature</key>
+	<string>materialCharacteristic</string>
+</dict>
+</plist>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>ephemeralLoss</key>
+	<string>sustainableMobile</string>
+	<key>greatTolerance</key>
+	<string>segueContext</string>
+	<key>shouldEmitSensor</key>
+	<string>channelsconsumer</string>
+	<key>statelessMomentum</key>
+	<string>canBuildBatch</string>
+	<key>statelessrepository</key>
+	<string>reusableLoader</string>
+	<key>streambuilder</key>
+	<string>nextOverlay</string>
+	<key>taskadapterdistance</key>
+	<string>protectedCompleter</string>
+	<key>texturecolor</key>
+	<string>hierarchicalAsset</string>
+</dict>
+</plist>

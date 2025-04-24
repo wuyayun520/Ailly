@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>callbackamortization</key>
+	<string>canStopAppBar</string>
+	<key>chaptercount</key>
+	<string>axisTop</string>
+	<key>composableAsync</key>
+	<string>pinchableBrush</string>
+	<key>comprehensiveAllocator</key>
+	<string>othergrainbehavior</string>
+	<key>kernelForce</key>
+	<string>seektouch</string>
+	<key>restoreawait</key>
+	<string>uniqueTimeline</string>
+	<key>typicalButton</key>
+	<string>transitionincludestructure</string>
+</dict>
+</plist>

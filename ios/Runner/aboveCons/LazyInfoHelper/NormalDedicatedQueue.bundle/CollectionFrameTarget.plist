@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>criticalCallback</key>
+	<string>consumerofshape</string>
+	<key>explicitEffect</key>
+	<string>refactorDescription</string>
+	<key>pinchablecontroller</key>
+	<string>cartesianMedia</string>
+	<key>shouldSkipCosine</key>
+	<string>routeOption</string>
+	<key>stackStatus</key>
+	<string>detachGraph</string>
+	<key>uniformEntity</key>
+	<string>compositionalentity</string>
+</dict>
+</plist>

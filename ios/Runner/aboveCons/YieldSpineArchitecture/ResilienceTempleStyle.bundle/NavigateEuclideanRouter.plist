@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>advancedboxbottom</key>
+	<string>canPopVariant</string>
+	<key>customDisclaimer</key>
+	<string>dismissException</string>
+	<key>defaultpromise</key>
+	<string>newestmanager</string>
+	<key>effecttransparency</key>
+	<string>shouldObserveInkWell</string>
+	<key>gramCoord</key>
+	<string>numericalDrawer</string>
+	<key>shouldReplaceText</key>
+	<string>uniquematerialspeed</string>
+	<key>unsortedAction</key>
+	<string>shouldPaintTheme</string>
+	<key>unsortedInterface</key>
+	<string>canRebuildProvider</string>
+</dict>
+</plist>

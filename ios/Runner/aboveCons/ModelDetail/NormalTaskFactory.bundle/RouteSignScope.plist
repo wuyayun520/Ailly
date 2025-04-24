@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>arithmeticProjection</key>
+	<string>bufferOrigin</string>
+	<key>backwardMetadata</key>
+	<string>cosinePlatform</string>
+	<key>configureintensity</key>
+	<string>enabledSubscription</string>
+	<key>herocommandpadding</key>
+	<string>onoptimizertap</string>
+	<key>persistinitiators</key>
+	<string>materialBridge</string>
+	<key>registerdescriptor</key>
+	<string>shouldDisconnectMedia</string>
+	<key>shouldUnbindCoordinator</key>
+	<string>persistentResponse</string>
+</dict>
+</plist>

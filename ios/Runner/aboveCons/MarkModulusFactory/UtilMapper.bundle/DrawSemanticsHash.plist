@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>commonInterpolation</key>
+	<string>permissivePriority</string>
+	<key>cosineschema</key>
+	<string>criticalDispatcher</string>
+	<key>endgesturedetector</key>
+	<string>dependencyStrategy</string>
+	<key>globalInitiative</key>
+	<string>attachActivity</string>
+	<key>protectedSearcher</key>
+	<string>publicElasticity</string>
+	<key>specifierOrientation</key>
+	<string>permissiveMetrics</string>
+	<key>toolthreshold</key>
+	<string>shouldTransitionTechnique</string>
+	<key>usecaseFormat</key>
+	<string>ignoredIntensity</string>
+</dict>
+</plist>

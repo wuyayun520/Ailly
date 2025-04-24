@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>diversifiedAnimation</key>
+	<string>shouldRouteEquipment</string>
+	<key>erasebloc</key>
+	<string>dynamicLoss</string>
+	<key>intermediatescalability</key>
+	<string>shouldKeepAnimation</string>
+	<key>nativePreview</key>
+	<string>othermobileinterval</string>
+	<key>selectedstamp</key>
+	<string>normalInteractor</string>
+	<key>staticMend</key>
+	<string>ignoredAnimatedContainer</string>
+</dict>
+</plist>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>amortizationvisibility</key>
+	<string>pinchableBatch</string>
+	<key>bitrateTop</key>
+	<string>canCacheArithmetic</string>
+	<key>deprecatebehavior</key>
+	<string>modalMemento</string>
+	<key>extensionAlignment</key>
+	<string>cupertinoCheckbox</string>
+	<key>mitigateresponse</key>
+	<string>shouldRenderGift</string>
+	<key>profilestream</key>
+	<string>autoSubpixel</string>
+	<key>shouldResumeTask</key>
+	<string>descriptorFunction</string>
+	<key>subsequentMovement</key>
+	<string>groupCount</string>
+</dict>
+</plist>

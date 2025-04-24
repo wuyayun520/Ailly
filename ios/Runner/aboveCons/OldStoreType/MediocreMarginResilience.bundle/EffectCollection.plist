@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animatorTail</key>
+	<string>alignmentDepth</string>
+	<key>displayableCapacities</key>
+	<string>yieldUnary</string>
+	<key>ignoredconstraintdirection</key>
+	<string>widgetOffset</string>
+	<key>mediocreMend</key>
+	<string>canDismissBrush</string>
+	<key>resilientSpot</key>
+	<string>canLoadTask</string>
+	<key>sharedPlayback</key>
+	<string>readScene</string>
+	<key>shouldRestartRoute</key>
+	<string>observertransparency</string>
+	<key>statelessChannel</key>
+	<string>momentumInterval</string>
+	<key>sustainableBitrate</key>
+	<string>tappableSplitter</string>
+	<key>unactivatedTimeline</key>
+	<string>playbackvaluetint</string>
+</dict>
+</plist>

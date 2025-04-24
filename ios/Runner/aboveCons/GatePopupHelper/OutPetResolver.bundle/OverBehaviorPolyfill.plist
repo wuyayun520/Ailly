@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>multiDuration</key>
+	<string>painterOrientation</string>
+	<key>nextHeap</key>
+	<string>notifierCycle</string>
+	<key>particlephaselocation</key>
+	<string>uniformMaterializer</string>
+	<key>publicbuilderflags</key>
+	<string>iterativeScroller</string>
+	<key>resilientScreen</key>
+	<string>standaloneHandler</string>
+	<key>scaffoldstyleacceleration</key>
+	<string>convertContainer</string>
+	<key>shouldUpdateBuilder</key>
+	<string>tappableCubit</string>
+	<key>shouldlistendocument</key>
+	<string>chapterframeworkinteraction</string>
+	<key>webKernel</key>
+	<string>invokeRouter</string>
+</dict>
+</plist>

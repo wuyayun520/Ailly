@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>augmentbinary</key>
+	<string>otherGradient</string>
+	<key>easyResilience</key>
+	<string>gridTask</string>
+	<key>graindelay</key>
+	<string>paintGesture</string>
+	<key>graphicmethoddistance</key>
+	<string>dedicatedTrajectory</string>
+	<key>largeData</key>
+	<string>oldCharacteristic</string>
+	<key>largeTextField</key>
+	<string>tweakOffset</string>
+	<key>rangeTension</key>
+	<string>shouldInitializeCertificate</string>
+	<key>tensorCheckbox</key>
+	<string>appbarScope</string>
+</dict>
+</plist>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>callbackmediatorsize</key>
+	<string>materialbound</string>
+	<key>cartesianQuaternion</key>
+	<string>initializeMenu</string>
+	<key>collectionVisibility</key>
+	<string>canTrainBase</string>
+	<key>shouldMountRemainder</key>
+	<string>cartesianObserver</string>
+	<key>timelinePosition</key>
+	<string>canFinishHeap</string>
+</dict>
+</plist>

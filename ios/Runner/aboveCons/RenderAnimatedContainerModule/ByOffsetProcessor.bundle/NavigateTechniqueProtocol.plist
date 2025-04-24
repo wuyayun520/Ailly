@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>aspectratioformat</key>
+	<string>scaleHue</string>
+	<key>conformtouch</key>
+	<string>nativeEntity</string>
+	<key>discardedNavigation</key>
+	<string>deserializeGrain</string>
+	<key>fixedVector</key>
+	<string>histogramInteraction</string>
+	<key>globalMetadata</key>
+	<string>commonPadding</string>
+	<key>immediateRequest</key>
+	<string>usedIcon</string>
+	<key>insteadproject</key>
+	<string>shouldLayoutOverlay</string>
+	<key>resourceOrigin</key>
+	<string>statefulHero</string>
+	<key>reusablethreshold</key>
+	<string>declarativeselector</string>
+</dict>
+</plist>

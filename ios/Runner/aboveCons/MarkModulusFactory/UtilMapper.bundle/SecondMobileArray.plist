@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cursorMomentum</key>
+	<string>subsequentIndicator</string>
+	<key>immediateCursor</key>
+	<string>shouldPauseCupertino</string>
+	<key>intuitiveSubpixel</key>
+	<string>formatBullet</string>
+	<key>mountedmargin</key>
+	<string>hierarchicalCheckbox</string>
+	<key>opaqueTimeline</key>
+	<string>serializeOperation</string>
+	<key>permissiveMend</key>
+	<string>synchronousCaption</string>
+	<key>retainedAscent</key>
+	<string>swiftBehavior</string>
+	<key>sharedGridView</key>
+	<string>uniqueCapsule</string>
+	<key>shouldTrainActivity</key>
+	<string>custompainthead</string>
+</dict>
+</plist>

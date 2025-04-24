@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>agilenavigator</key>
+	<string>canNavigateGrayscale</string>
+	<key>litePager</key>
+	<string>routeopacity</string>
+	<key>nextEffect</key>
+	<string>segueOrigin</string>
+	<key>timerSkewY</key>
+	<string>requiredButton</string>
+</dict>
+</plist>

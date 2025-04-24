@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>checkboxstroke</key>
+	<string>shouldLoadGraphic</string>
+	<key>composableReliability</key>
+	<string>shouldYieldFragment</string>
+	<key>easyThread</key>
+	<string>animationFormat</string>
+	<key>hasmultiplication</key>
+	<string>timelineEdge</string>
+	<key>resilientTaxonomy</key>
+	<string>criticalMatrix</string>
+	<key>smartcharacterpadding</key>
+	<string>bundleFuture</string>
+	<key>temporaryMomentum</key>
+	<string>cancelcompleter</string>
+	<key>visibleFormat</key>
+	<string>executeOffset</string>
+</dict>
+</plist>

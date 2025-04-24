@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accessibleRect</key>
+	<string>rectifySingleton</string>
+	<key>disabledImpact</key>
+	<string>threadTop</string>
+	<key>plateInterval</key>
+	<string>tappableFinder</string>
+	<key>tableFrequency</key>
+	<string>canYieldDrawer</string>
+</dict>
+</plist>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>captionshape</key>
+	<string>evolutionValidation</string>
+	<key>commonAlignment</key>
+	<string>builderSkewX</string>
+	<key>cupertinoSpot</key>
+	<string>pivotalWidget</string>
+	<key>displayableManager</key>
+	<string>containerLevel</string>
+	<key>gemelasticity</key>
+	<string>statelessForm</string>
+	<key>shouldKeepEntropy</key>
+	<string>newestAxis</string>
+	<key>taskstatus</key>
+	<string>displayableUsage</string>
+	<key>usecasewrapper</key>
+	<string>refactorTitle</string>
+</dict>
+</plist>

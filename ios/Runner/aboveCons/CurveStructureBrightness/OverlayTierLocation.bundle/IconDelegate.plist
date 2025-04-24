@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cacheinitiators</key>
+	<string>attachLabel</string>
+	<key>cachelifecycle</key>
+	<string>transpileVector</string>
+	<key>customizedTicker</key>
+	<string>concurrentHash</string>
+	<key>particlePressure</key>
+	<string>shaderForm</string>
+	<key>shouldDisconnectCaption</key>
+	<string>annotateManager</string>
+	<key>shouldEncodeGestureDetector</key>
+	<string>staticBehavior</string>
+	<key>tickerAlignment</key>
+	<string>comprehensiveMusic</string>
+</dict>
+</plist>

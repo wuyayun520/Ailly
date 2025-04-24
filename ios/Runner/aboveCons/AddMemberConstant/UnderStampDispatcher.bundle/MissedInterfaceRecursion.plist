@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accordionAnalyzer</key>
+	<string>interceptIntensity</string>
+	<key>crucialSingleton</key>
+	<string>attachContraction</string>
+	<key>datasaturation</key>
+	<string>seamlessScene</string>
+	<key>paralleleffectstatus</key>
+	<string>shouldlayoutheap</string>
+	<key>shouldPauseCurve</key>
+	<string>shouldNavigateRemainder</string>
+</dict>
+</plist>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>boxshadowCount</key>
+	<string>uniqueOccasion</string>
+	<key>opaqueInkWell</key>
+	<string>reducerOrientation</string>
+	<key>shouldFormatBehavior</key>
+	<string>shouldCacheCustomPaint</string>
+	<key>symmetricPicker</key>
+	<string>listenlistener</string>
+</dict>
+</plist>

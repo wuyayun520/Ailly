@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>capacitiestension</key>
+	<string>activatedIcon</string>
+	<key>diffablepresenterdistance</key>
+	<string>exceptionValidation</string>
+	<key>pointprovider</key>
+	<string>firstMend</string>
+	<key>reductionhue</key>
+	<string>checklistspeed</string>
+	<key>schemaResponse</key>
+	<string>criticalSpine</string>
+	<key>shouldFinishFlex</key>
+	<string>activatedHandler</string>
+	<key>shouldKeepBehavior</key>
+	<string>shouldRestartNavigation</string>
+	<key>shouldPublishCollection</key>
+	<string>referenceContrast</string>
+	<key>timelineOrientation</key>
+	<string>deserializePriority</string>
+	<key>utilCenter</key>
+	<string>activatedConsumer</string>
+</dict>
+</plist>

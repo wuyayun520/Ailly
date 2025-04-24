@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>autoGate</key>
+	<string>dismissrouter</string>
+	<key>semanticIcon</key>
+	<string>tappableProfile</string>
+	<key>sophisticatedpopup</key>
+	<string>primaryModal</string>
+	<key>unbindlabel</key>
+	<string>canCancelMonster</string>
+	<key>zonesystembound</key>
+	<string>offsetQueue</string>
+</dict>
+</plist>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>elasticScope</key>
+	<string>equipmentDistance</string>
+	<key>mapinteractor</key>
+	<string>shouldPersistSizedBox</string>
+	<key>matrixleft</key>
+	<string>agileKernel</string>
+	<key>navigationSaturation</key>
+	<string>builderCount</string>
+	<key>staticBehavior</key>
+	<string>stopWorkflow</string>
+</dict>
+</plist>

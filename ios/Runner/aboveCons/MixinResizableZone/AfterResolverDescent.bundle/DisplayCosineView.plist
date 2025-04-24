@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>chooserOrigin</key>
+	<string>descriptorLevel</string>
+	<key>euclideanModule</key>
+	<string>containercompositepressure</string>
+	<key>groupTag</key>
+	<string>richtextTag</string>
+	<key>methodrate</key>
+	<string>profiletypesaturation</string>
+	<key>partitionbehavior</key>
+	<string>relationalTentative</string>
+	<key>shouldFormatDialogs</key>
+	<string>stopobserver</string>
+	<key>shouldPresentImage</key>
+	<string>imageVelocity</string>
+	<key>variantBottom</key>
+	<string>shouldStartMediaQuery</string>
+</dict>
+</plist>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>builderRate</key>
+	<string>disconnectStream</string>
+	<key>buttonAppearance</key>
+	<string>hierarchicalusecase</string>
+	<key>callbackScale</key>
+	<string>intermediateFrame</string>
+	<key>labelchaintheme</key>
+	<string>shouldFormatScroll</string>
+	<key>modulusarchitecture</key>
+	<string>touchShape</string>
+	<key>pageviewType</key>
+	<string>mediumUseCase</string>
+	<key>painterRate</key>
+	<string>defaultlistview</string>
+	<key>shouldMountedPrecision</key>
+	<string>declarativeCycle</string>
+</dict>
+</plist>

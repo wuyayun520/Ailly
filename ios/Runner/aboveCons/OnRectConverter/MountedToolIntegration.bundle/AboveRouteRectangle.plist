@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animatedComposition</key>
+	<string>webMonster</string>
+	<key>commonInteractor</key>
+	<string>inheritedReducer</string>
+	<key>criticalMovement</key>
+	<string>profileCurve</string>
+	<key>intermediateChart</key>
+	<string>elasticCheckbox</string>
+	<key>mapgroup</key>
+	<string>canEmitLayout</string>
+	<key>metadataDistance</key>
+	<string>textureTop</string>
+	<key>nexttextureresponse</key>
+	<string>interpolateContainer</string>
+	<key>reusableInteger</key>
+	<string>disposeCube</string>
+</dict>
+</plist>

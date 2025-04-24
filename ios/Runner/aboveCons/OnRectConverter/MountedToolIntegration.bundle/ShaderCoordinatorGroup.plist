@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>dispatcherLocation</key>
+	<string>associatedAlert</string>
+	<key>gramSaturation</key>
+	<string>tensorShader</string>
+	<key>inheritedButton</key>
+	<string>responseformat</string>
+	<key>prioritySkewY</key>
+	<string>mutableThreshold</string>
+	<key>relationalcatalystformat</key>
+	<string>shouldPopLayout</string>
+	<key>resizableVariant</key>
+	<string>modelBottom</string>
+	<key>thresholdTransparency</key>
+	<string>pageviewResponse</string>
+</dict>
+</plist>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animationRate</key>
+	<string>canListenAnchor</string>
+	<key>evaluateexception</key>
+	<string>canStopTool</string>
+	<key>featuresystemcoord</key>
+	<string>shouldLayoutProjection</string>
+	<key>repositorycycleformat</key>
+	<string>robustHero</string>
+	<key>robustCurve</key>
+	<string>directlyController</string>
+	<key>standalonePoint</key>
+	<string>encodematerial</string>
+</dict>
+</plist>

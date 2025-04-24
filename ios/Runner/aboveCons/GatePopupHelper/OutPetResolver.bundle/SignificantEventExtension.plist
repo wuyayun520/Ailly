@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>adaptiveEqualization</key>
+	<string>switchJob</string>
+	<key>beginnerdimension</key>
+	<string>benchmarkConstraint</string>
+	<key>explicitGroup</key>
+	<string>tappableSkirt</string>
+	<key>gesturespeed</key>
+	<string>boxshadowState</string>
+	<key>immutableContraction</key>
+	<string>accessibleResponse</string>
+	<key>preparetimer</key>
+	<string>onindicatortap</string>
+	<key>reusablePlate</key>
+	<string>skipArithmetic</string>
+	<key>sampledirection</key>
+	<string>parallelCycle</string>
+	<key>shouldDispatchMobile</key>
+	<string>thresholdPressure</string>
+	<key>shouldHandleCoordinator</key>
+	<string>requestkindappearance</string>
+</dict>
+</plist>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>hyperbolicGraphic</key>
+	<string>cellPadding</string>
+	<key>keyRect</key>
+	<string>canSkipNorm</string>
+	<key>matrixappearance</key>
+	<string>requestContrast</string>
+	<key>mobilescale</key>
+	<string>immutableCache</string>
+	<key>promiseevent</key>
+	<string>completerAppearance</string>
+	<key>selectedMonster</key>
+	<string>newestPosition</string>
+	<key>semanticslashdistance</key>
+	<string>shouldParseLogarithm</string>
+	<key>shouldfinishtangent</key>
+	<string>flexibleEvaluation</string>
+</dict>
+</plist>

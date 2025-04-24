@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>commonMovement</key>
+	<string>shouldObserveMobile</string>
+	<key>equivalentRate</key>
+	<string>keygemscale</string>
+	<key>requiredScheduler</key>
+	<string>filterLocation</string>
+	<key>shouldInitializeProjection</key>
+	<string>synchronousExpanded</string>
+	<key>topicShade</key>
+	<string>canListenBatch</string>
+</dict>
+</plist>

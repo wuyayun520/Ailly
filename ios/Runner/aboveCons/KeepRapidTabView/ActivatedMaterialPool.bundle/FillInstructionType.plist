@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animatedPolyfill</key>
+	<string>swiftSystem</string>
+	<key>defaultGesture</key>
+	<string>concurrentMaterial</string>
+	<key>fetchfactory</key>
+	<string>buildIndicator</string>
+	<key>publicPrecision</key>
+	<string>shouldInitializeObserver</string>
+	<key>selectorVisible</key>
+	<string>consumerInterval</string>
+	<key>startgrayscale</key>
+	<string>gridvideo</string>
+</dict>
+</plist>

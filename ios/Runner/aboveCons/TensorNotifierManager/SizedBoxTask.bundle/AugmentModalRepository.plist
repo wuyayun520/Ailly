@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>iconTension</key>
+	<string>displayableResolver</string>
+	<key>invisibleRectangle</key>
+	<string>searcherinterval</string>
+	<key>plateResponse</key>
+	<string>operationfacadetail</string>
+	<key>reliabilityAppearance</key>
+	<string>activeChannels</string>
+	<key>scalefacadeborder</key>
+	<string>futureInterval</string>
+	<key>shouldProcessSymbol</key>
+	<string>actionInterpreter</string>
+	<key>stepName</key>
+	<string>otherSegue</string>
+	<key>sustainableMedia</key>
+	<string>quantizationConstraint</string>
+	<key>toolreliability</key>
+	<string>semanticactivitytransparency</string>
+	<key>traversalValidation</key>
+	<string>createdimension</string>
+</dict>
+</plist>

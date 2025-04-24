@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>capacitiesSpeed</key>
+	<string>lostPolygon</string>
+	<key>flexibleManager</key>
+	<string>permissiveOffset</string>
+	<key>gradientLeft</key>
+	<string>globalStore</string>
+	<key>infoDuration</key>
+	<string>transposeInjection</string>
+	<key>nodeasoperation</key>
+	<string>invisibleInjection</string>
+	<key>removenib</key>
+	<string>controlleritem</string>
+	<key>sineDuration</key>
+	<string>resourceLevel</string>
+</dict>
+</plist>

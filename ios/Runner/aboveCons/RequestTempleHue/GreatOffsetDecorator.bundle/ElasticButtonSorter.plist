@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activeCallback</key>
+	<string>implementChart</string>
+	<key>directGesture</key>
+	<string>concreteJoiner</string>
+	<key>hierarchicalIsolate</key>
+	<string>temporaryComponent</string>
+	<key>independentbuffer</key>
+	<string>cloneunary</string>
+	<key>largeImpact</key>
+	<string>shouldUnmountConstraint</string>
+	<key>oldPicker</key>
+	<string>shouldTransitionOverlay</string>
+	<key>responsebrightness</key>
+	<string>shouldLayoutMonster</string>
+	<key>serviceBorder</key>
+	<string>profileacceleration</string>
+	<key>tweenPressure</key>
+	<string>tickerCoord</string>
+</dict>
+</plist>

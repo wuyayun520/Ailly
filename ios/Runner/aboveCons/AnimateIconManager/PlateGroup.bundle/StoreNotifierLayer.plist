@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>constraintrectangle</key>
+	<string>semanticResilience</string>
+	<key>movecontainer</key>
+	<string>canRestartPainter</string>
+	<key>pointdirection</key>
+	<string>shouldRebuildOption</string>
+	<key>shouldSaveBox</key>
+	<string>singletonFlags</string>
+	<key>touchpainter</key>
+	<string>shouldfinishcheckbox</string>
+</dict>
+</plist>

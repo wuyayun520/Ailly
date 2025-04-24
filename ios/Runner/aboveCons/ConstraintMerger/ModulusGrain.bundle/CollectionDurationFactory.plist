@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>assetType</key>
+	<string>interpolatespot</string>
+	<key>publicLinker</key>
+	<string>actionPrototype</string>
+	<key>quantizerdrawer</key>
+	<string>resizableComponent</string>
+	<key>scalemargin</key>
+	<string>mainSplitter</string>
+	<key>shouldEndGrayscale</key>
+	<string>difficultException</string>
+</dict>
+</plist>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>buttonstate</key>
+	<string>tensorMap</string>
+	<key>concretetolerance</key>
+	<string>canEncodeDescriptor</string>
+	<key>cubitbehavior</key>
+	<string>captionkindbrightness</string>
+	<key>listenerarchitecture</key>
+	<string>listenerprovider</string>
+	<key>shouldHandleLog</key>
+	<string>utilmatrix</string>
+	<key>spotPressure</key>
+	<string>rectifymethod</string>
+	<key>subscriptionbuilder</key>
+	<string>shouldEmitCell</string>
+</dict>
+</plist>

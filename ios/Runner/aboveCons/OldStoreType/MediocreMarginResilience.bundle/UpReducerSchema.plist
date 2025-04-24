@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>compositionAppearance</key>
+	<string>usageSaturation</string>
+	<key>dataBorder</key>
+	<string>scrollableExtension</string>
+	<key>heroRight</key>
+	<string>onflextap</string>
+	<key>materialdrawer</key>
+	<string>toolinsideactivity</string>
+	<key>occasionColor</key>
+	<string>dedicatedPageView</string>
+	<key>positionappearance</key>
+	<string>hashForm</string>
+	<key>resilientCosine</key>
+	<string>cycleBuffer</string>
+	<key>shouldDisposeSine</key>
+	<string>vectorizeFeature</string>
+	<key>similarbandwidth</key>
+	<string>cartesianArchitecture</string>
+</dict>
+</plist>

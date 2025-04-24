@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>bandwidthState</key>
+	<string>deployUtil</string>
+	<key>builderDistance</key>
+	<string>canStreamSlider</string>
+	<key>dispatchstream</key>
+	<string>setupConfiguration</string>
+	<key>flexibleCanvas</key>
+	<string>intuitiveSearcher</string>
+	<key>intensityscopeinterval</key>
+	<string>parseModulus</string>
+	<key>nativeAperture</key>
+	<string>granularDescent</string>
+	<key>protectedoptimizerhue</key>
+	<string>scenarioBorder</string>
+	<key>showreducer</key>
+	<string>textureAcceleration</string>
+</dict>
+</plist>

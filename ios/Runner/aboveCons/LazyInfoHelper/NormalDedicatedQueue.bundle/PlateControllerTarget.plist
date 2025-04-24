@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>entropyBrightness</key>
+	<string>dataBrightness</string>
+	<key>multiradiusmargin</key>
+	<string>delegateCycle</string>
+	<key>newestResponse</key>
+	<string>staticElement</string>
+	<key>shouldPublishExpanded</key>
+	<string>shouldPrepareUnary</string>
+	<key>techniqueKind</key>
+	<string>canDeserializeController</string>
+</dict>
+</plist>

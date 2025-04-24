@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>captionFormat</key>
+	<string>crucialAwait</string>
+	<key>encodecontroller</key>
+	<string>integrationRotation</string>
+	<key>hardLoop</key>
+	<string>usedButton</string>
+	<key>intuitiveTitle</key>
+	<string>detachBullet</string>
+	<key>permissiveCustomPaint</key>
+	<string>soundState</string>
+	<key>shouldConnectDropdownButton</key>
+	<string>retainedbehavior</string>
+	<key>shouldLayoutCollection</key>
+	<string>projectFlags</string>
+	<key>shouldSetStateSample</key>
+	<string>channelsEnvironment</string>
+	<key>spritebridgeedge</key>
+	<string>boxMode</string>
+</dict>
+</plist>

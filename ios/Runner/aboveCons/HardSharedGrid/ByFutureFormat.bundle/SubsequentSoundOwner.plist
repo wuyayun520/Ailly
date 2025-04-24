@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>contractionPadding</key>
+	<string>shouldUpdateSegment</string>
+	<key>largePlayback</key>
+	<string>shouldTransformCurve</string>
+	<key>methodAppearance</key>
+	<string>canDisposeWorkflow</string>
+	<key>saveasset</key>
+	<string>constantRight</string>
+	<key>shouldPrepareModulus</key>
+	<string>popupMode</string>
+	<key>shouldRebuildCustomPaint</key>
+	<string>prepareGridView</string>
+</dict>
+</plist>

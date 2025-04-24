@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>integercolor</key>
+	<string>taxonomyStatus</string>
+	<key>kernelColor</key>
+	<string>saveoperation</string>
+	<key>logarithminformation</key>
+	<string>provideMetadata</string>
+	<key>normalFlex</key>
+	<string>textCommand</string>
+	<key>shouldStreamAxis</key>
+	<string>rendererDirection</string>
+	<key>similarGestureDetector</key>
+	<string>creategrid</string>
+</dict>
+</plist>

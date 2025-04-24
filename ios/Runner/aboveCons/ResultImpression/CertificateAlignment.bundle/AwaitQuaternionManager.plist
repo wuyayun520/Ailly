@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>defaultStep</key>
+	<string>syncScene</string>
+	<key>enabledcaptionshade</key>
+	<string>rebuildChecklist</string>
+	<key>pageviewSpeed</key>
+	<string>projectkinddirection</string>
+	<key>subsequentSegue</key>
+	<string>gesturePlatform</string>
+</dict>
+</plist>

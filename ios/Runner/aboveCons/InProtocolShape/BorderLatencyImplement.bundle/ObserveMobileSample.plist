@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animatedcardmode</key>
+	<string>easyAnimation</string>
+	<key>concurrentloopduration</key>
+	<string>consumptionStyle</string>
+	<key>hasMap</key>
+	<string>shouldEncodeShader</string>
+	<key>staticBullet</key>
+	<string>promiseVelocity</string>
+	<key>temporaryInjection</key>
+	<string>yieldCharacter</string>
+	<key>tensorslidervelocity</key>
+	<string>shouldSubscribeProfile</string>
+</dict>
+</plist>

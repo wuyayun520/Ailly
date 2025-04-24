@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>crudeHeap</key>
+	<string>emitScaffold</string>
+	<key>interpolatebatch</key>
+	<string>uniformisolate</string>
+	<key>modelStatus</key>
+	<string>symmetricSprite</string>
+	<key>secondEvent</key>
+	<string>pinchableFragments</string>
+	<key>sustainablefactoryinterval</key>
+	<string>euclideanConfidentiality</string>
+	<key>symmetricOffset</key>
+	<string>timerStatus</string>
+</dict>
+</plist>

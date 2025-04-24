@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>commonCapacity</key>
+	<string>customizedRect</string>
+	<key>currentfragment</key>
+	<string>restartMobile</string>
+	<key>mainnib</key>
+	<string>containerVar</string>
+	<key>queuescopeinteraction</key>
+	<string>gridviewLeft</string>
+	<key>shouldDetachOperation</key>
+	<string>shouldPauseText</string>
+	<key>shouldRouteSpot</key>
+	<string>agileShader</string>
+	<key>shouldpaintresource</key>
+	<string>concurrentReceiver</string>
+	<key>tappableInteractor</key>
+	<string>compositionalText</string>
+	<key>uniformAspectRatio</key>
+	<string>primarydependencyvisibility</string>
+	<key>webclipperdirection</key>
+	<string>timerspacing</string>
+</dict>
+</plist>

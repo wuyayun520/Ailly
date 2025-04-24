@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>commonChooser</key>
+	<string>parseAccessory</string>
+	<key>diffablequeue</key>
+	<string>collectionPattern</string>
+	<key>dropdownbuttondistance</key>
+	<string>stopDescriptor</string>
+	<key>elasticsegue</key>
+	<string>layerleft</string>
+	<key>shouldNotifyMediaQuery</key>
+	<string>pendingRemainder</string>
+	<key>shouldTransitionNib</key>
+	<string>discardedButton</string>
+	<key>substantialMerger</key>
+	<string>canUnbindStep</string>
+</dict>
+</plist>

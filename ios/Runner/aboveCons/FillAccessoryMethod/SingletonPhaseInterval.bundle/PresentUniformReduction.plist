@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>anchornearscope</key>
+	<string>finishgrid</string>
+	<key>completerevaluation</key>
+	<string>finderInteraction</string>
+	<key>continuemethod</key>
+	<string>effectamongscope</string>
+	<key>listenaperture</key>
+	<string>accelerateexception</string>
+	<key>oldbuildertransparency</key>
+	<string>zonemapper</string>
+	<key>pinchableTentative</key>
+	<string>emitentity</string>
+	<key>resumedrawer</key>
+	<string>buildButton</string>
+</dict>
+</plist>

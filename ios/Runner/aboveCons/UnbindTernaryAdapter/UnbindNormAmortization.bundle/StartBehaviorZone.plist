@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>labelamongkind</key>
+	<string>desktopMapper</string>
+	<key>sampleBorder</key>
+	<string>materializeConstraint</string>
+	<key>shouldDecodeAnimatedContainer</key>
+	<string>transitionPositioned</string>
+	<key>shouldSerializeNavigation</key>
+	<string>defaultoptimizer</string>
+	<key>synchronousFlex</key>
+	<string>canInitializeAccessory</string>
+</dict>
+</plist>

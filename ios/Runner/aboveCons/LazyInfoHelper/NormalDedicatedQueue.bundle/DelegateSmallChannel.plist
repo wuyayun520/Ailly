@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>entityforce</key>
+	<string>shouldFormatCell</string>
+	<key>missedProcessor</key>
+	<string>basicReduction</string>
+	<key>paddingForce</key>
+	<string>shouldPresentAnimation</string>
+	<key>permissiveSkirt</key>
+	<string>contrastOffset</string>
+	<key>pinchableZone</key>
+	<string>releaseSize</string>
+	<key>priorpet</key>
+	<string>canDispatchStamp</string>
+	<key>robustBitrate</key>
+	<string>refactorException</string>
+	<key>routerInset</key>
+	<string>fetchBaseline</string>
+	<key>shouldMountSign</key>
+	<string>euclideanMechanism</string>
+	<key>sustainableRemainder</key>
+	<string>rotateTask</string>
+</dict>
+</plist>

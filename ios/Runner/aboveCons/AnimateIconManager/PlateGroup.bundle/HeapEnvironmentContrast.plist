@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>eventtrajectory</key>
+	<string>asynchronousProvision</string>
+	<key>handlestream</key>
+	<string>completedTask</string>
+	<key>persistentFilter</key>
+	<string>basicPresenter</string>
+	<key>rectcompositeorientation</key>
+	<string>mediocreIndicator</string>
+	<key>relationalBaseline</key>
+	<string>listviewFlags</string>
+	<key>routerbesidemethod</key>
+	<string>listenDropdownButton</string>
+	<key>shouldPauseAnimatedContainer</key>
+	<string>rebuildCatalyst</string>
+	<key>visibleConstraint</key>
+	<string>staticSorter</string>
+</dict>
+</plist>

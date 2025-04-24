@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>analyzerBound</key>
+	<string>backwardScheduler</string>
+	<key>appbarRotation</key>
+	<string>geometricTime</string>
+	<key>consultativerepositoryopacity</key>
+	<string>subscriberduration</string>
+	<key>criticalpositioned</key>
+	<string>mountLoss</string>
+	<key>hasoperation</key>
+	<string>shouldRenderBuilder</string>
+	<key>mainAllocator</key>
+	<string>workflowProxy</string>
+	<key>parallelreducerstate</key>
+	<string>storyboardtension</string>
+	<key>shoulddisconnectcaption</key>
+	<string>immediateTransition</string>
+	<key>usagefactory</key>
+	<string>usedBehavior</string>
+</dict>
+</plist>

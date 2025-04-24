@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>checklistMode</key>
+	<string>agilestrength</string>
+	<key>directlyAwait</key>
+	<string>semanticbinaryappearance</string>
+	<key>mapperAcceleration</key>
+	<string>canConnectEquipment</string>
+	<key>shouldValidateStack</key>
+	<string>canPresentMobile</string>
+</dict>
+</plist>

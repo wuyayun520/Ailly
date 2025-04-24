@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>disparateExpanded</key>
+	<string>composablenavigationcolor</string>
+	<key>draggableAxis</key>
+	<string>largesearcher</string>
+	<key>intensityContrast</key>
+	<string>diffableTask</string>
+	<key>movementShade</key>
+	<string>findAsync</string>
+	<key>shouldDisconnectProvider</key>
+	<string>constraintState</string>
+	<key>smallProcessor</key>
+	<string>tangenthue</string>
+	<key>substantialProcessor</key>
+	<string>offsetShade</string>
+	<key>trainoperation</key>
+	<string>trainsizedbox</string>
+</dict>
+</plist>

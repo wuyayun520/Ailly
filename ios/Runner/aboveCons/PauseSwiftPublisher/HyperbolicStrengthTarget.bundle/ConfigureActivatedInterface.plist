@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>independentExpanded</key>
+	<string>numericalLog</string>
+	<key>momentumaction</key>
+	<string>usedStateless</string>
+	<key>seamlessDescent</key>
+	<string>presentSymbol</string>
+	<key>smallMatrix</key>
+	<string>immediateMatrix</string>
+	<key>widgetAlignment</key>
+	<string>offsetChain</string>
+</dict>
+</plist>

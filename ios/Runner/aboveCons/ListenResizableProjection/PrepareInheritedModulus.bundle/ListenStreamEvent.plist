@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activityRight</key>
+	<string>prevdelegatebound</string>
+	<key>autoNotification</key>
+	<string>rowoffset</string>
+	<key>deferredMusic</key>
+	<string>similarHeap</string>
+	<key>mediumScene</key>
+	<string>replaceinstruction</string>
+	<key>shouldRouteGate</key>
+	<string>shouldPaintNavigator</string>
+	<key>textureDensity</key>
+	<string>easyaction</string>
+</dict>
+</plist>

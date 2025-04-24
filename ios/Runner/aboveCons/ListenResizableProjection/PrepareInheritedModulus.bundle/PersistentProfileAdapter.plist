@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>elasticWidget</key>
+	<string>compositionName</string>
+	<key>normalScalability</key>
+	<string>serializestack</string>
+	<key>pagerRate</key>
+	<string>nextSlash</string>
+	<key>protectedMesh</key>
+	<string>interactoredge</string>
+	<key>registerpainter</key>
+	<string>relationalInteraction</string>
+	<key>shouldResumeHero</key>
+	<string>materialGraph</string>
+	<key>statefulcoordinator</key>
+	<string>canSetStateSymbol</string>
+	<key>staticChannel</key>
+	<string>shouldDetachDialogs</string>
+	<key>unactivatedIsolate</key>
+	<string>customDelegate</string>
+</dict>
+</plist>

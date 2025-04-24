@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>delegateStyle</key>
+	<string>elasticShader</string>
+	<key>heapbottom</key>
+	<string>canBindCollection</string>
+	<key>recursioncoord</key>
+	<string>listviewalongenvironment</string>
+	<key>singleMetadata</key>
+	<string>tentativepressure</string>
+	<key>smallRichText</key>
+	<string>descriptionVisible</string>
+	<key>stampDuration</key>
+	<string>shouldNotifyProvider</string>
+</dict>
+</plist>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>difficultRestriction</key>
+	<string>equalcomposition</string>
+	<key>eagerCheckbox</key>
+	<string>viewBehavior</string>
+	<key>nibmargin</key>
+	<string>primaryParticle</string>
+	<key>opaqueAspectRatio</key>
+	<string>pivotalremainder</string>
+	<key>provisionsize</key>
+	<string>activesemanticsstatus</string>
+	<key>remediationvalidation</key>
+	<string>dimensionState</string>
+	<key>shouldBindAnimation</key>
+	<string>diversifiedCharacteristic</string>
+	<key>shouldResumeThread</key>
+	<string>canLoadDocument</string>
+	<key>statefulCustomPaint</key>
+	<string>canInitializeCompletion</string>
+</dict>
+</plist>

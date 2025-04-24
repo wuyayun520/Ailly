@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>agileCosine</key>
+	<string>seamlessThreshold</string>
+	<key>axisDensity</key>
+	<string>easyComposition</string>
+	<key>containerresilience</key>
+	<string>mapPressure</string>
+	<key>locatemodulus</key>
+	<string>setupBuffer</string>
+	<key>schedulerOrigin</key>
+	<string>animateGrain</string>
+	<key>shouldSerializeLogarithm</key>
+	<string>subpixelposition</string>
+	<key>shouldpaintrichtext</key>
+	<string>continueDocument</string>
+</dict>
+</plist>

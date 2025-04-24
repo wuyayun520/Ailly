@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>currentsensor</key>
+	<string>nextCaption</string>
+	<key>localNotification</key>
+	<string>deserializeChallenge</string>
+	<key>pivotalInteraction</key>
+	<string>introspectInteractor</string>
+	<key>routeshade</key>
+	<string>commonCombiner</string>
+	<key>shouldUpdateTool</key>
+	<string>elasticConsumption</string>
+</dict>
+</plist>

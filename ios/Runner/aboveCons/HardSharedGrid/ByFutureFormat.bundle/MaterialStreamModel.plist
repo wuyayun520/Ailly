@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>baselineDepth</key>
+	<string>unactivatedRichText</string>
+	<key>displayableRange</key>
+	<string>deferredMapper</string>
+	<key>inactiveProgressBar</key>
+	<string>storyboardSpeed</string>
+	<key>margingrid</key>
+	<string>originalCheckbox</string>
+	<key>opaqueGem</key>
+	<string>singleAnimation</string>
+	<key>opaquescroll</key>
+	<string>declarativeNavigator</string>
+	<key>processorDepth</key>
+	<string>slashComposite</string>
+	<key>shouldPresentStateless</key>
+	<string>accelerateLayer</string>
+	<key>shouldResumeIndicator</key>
+	<string>interactionHead</string>
+</dict>
+</plist>

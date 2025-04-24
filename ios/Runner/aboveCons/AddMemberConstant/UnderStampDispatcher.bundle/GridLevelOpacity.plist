@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>eagerMargin</key>
+	<string>desktopTouch</string>
+	<key>elasticModel</key>
+	<string>stateSize</string>
+	<key>methodtolerance</key>
+	<string>canvasmomentum</string>
+	<key>pivotalcurvestyle</key>
+	<string>currentradio</string>
+	<key>prismaticConfiguration</key>
+	<string>pushDimension</string>
+	<key>relationalCosine</key>
+	<string>seamlesssubpixel</string>
+	<key>shouldDismissCache</key>
+	<string>mitigateView</string>
+</dict>
+</plist>

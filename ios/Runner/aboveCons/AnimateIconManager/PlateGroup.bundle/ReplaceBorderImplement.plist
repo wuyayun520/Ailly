@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>attachactivity</key>
+	<string>shouldSkipRadio</string>
+	<key>desktopZone</key>
+	<string>calculateCompleter</string>
+	<key>originalReceiver</key>
+	<string>tappableEfficiency</string>
+	<key>positionContrast</key>
+	<string>directlypreview</string>
+	<key>primaryManager</key>
+	<string>callbacksincekind</string>
+</dict>
+</plist>

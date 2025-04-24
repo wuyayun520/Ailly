@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>liteCertificate</key>
+	<string>shouldInitializeExponent</string>
+	<key>mediaquerystructurescale</key>
+	<string>playInteractor</string>
+	<key>processorInset</key>
+	<string>draggablecapsuledistance</string>
+	<key>requiredSegue</key>
+	<string>animationOperation</string>
+	<key>semanticinfrastructure</key>
+	<string>concretedelegatevalidation</string>
+	<key>shouldParseDuration</key>
+	<string>constraintFlyweight</string>
+	<key>shouldStreamArithmetic</key>
+	<string>consumeNavigator</string>
+	<key>timerHue</key>
+	<string>traversalName</string>
+</dict>
+</plist>

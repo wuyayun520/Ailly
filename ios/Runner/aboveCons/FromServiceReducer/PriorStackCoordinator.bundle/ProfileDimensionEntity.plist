@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>operationcycleacceleration</key>
+	<string>rapidProvider</string>
+	<key>presenterbrightness</key>
+	<string>animateRole</string>
+	<key>relationalManager</key>
+	<string>shouldPopReduction</string>
+	<key>shouldformattask</key>
+	<string>currentnavigator</string>
+</dict>
+</plist>

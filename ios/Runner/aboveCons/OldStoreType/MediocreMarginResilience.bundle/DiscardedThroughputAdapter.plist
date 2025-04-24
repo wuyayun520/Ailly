@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>advancedChart</key>
+	<string>respectivetaskvelocity</string>
+	<key>ephemeralMesh</key>
+	<string>shouldParseHistogram</string>
+	<key>mainResilience</key>
+	<string>builderrate</string>
+	<key>nativedocumentalignment</key>
+	<string>visiblePrecision</string>
+	<key>parallelDelegate</key>
+	<string>pushUnary</string>
+	<key>playbackSkewY</key>
+	<string>mediumGrid</string>
+	<key>rectangleTag</key>
+	<string>disposeTouch</string>
+	<key>shoulddisconnectswift</key>
+	<string>agileAwait</string>
+	<key>tappableframe</key>
+	<string>resilientPermutation</string>
+</dict>
+</plist>

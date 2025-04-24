@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cubeandscope</key>
+	<string>delegateappearance</string>
+	<key>graphorwork</key>
+	<string>deferredInkWell</string>
+	<key>rapidPresenter</key>
+	<string>defaultIcon</string>
+	<key>shouldHandleSignature</key>
+	<string>symbolaboutflyweight</string>
+	<key>shouldSkipIcon</key>
+	<string>notifierprogressbar</string>
+</dict>
+</plist>

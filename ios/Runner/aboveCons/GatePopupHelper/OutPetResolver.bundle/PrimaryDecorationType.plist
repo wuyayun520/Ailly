@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>customActivity</key>
+	<string>keyStateless</string>
+	<key>ignoredMomentum</key>
+	<string>hierarchicalDisclaimer</string>
+	<key>recursionTop</key>
+	<string>ongrayscalechanged</string>
+	<key>taskanimation</key>
+	<string>shouldUnmountCharacter</string>
+</dict>
+</plist>

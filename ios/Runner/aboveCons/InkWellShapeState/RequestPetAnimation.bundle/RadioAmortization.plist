@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>agileStorage</key>
+	<string>renderTangent</string>
+	<key>commonRole</key>
+	<string>detectorInteraction</string>
+	<key>granularMaster</key>
+	<string>masterFramework</string>
+	<key>largeStoryboard</key>
+	<string>topicaspect</string>
+	<key>mediocreMovement</key>
+	<string>priorityShade</string>
+	<key>resourcechapter</key>
+	<string>modelcenter</string>
+	<key>soundDelay</key>
+	<string>canLoadDelegate</string>
+	<key>videoFrequency</key>
+	<string>shouldemitmission</string>
+</dict>
+</plist>

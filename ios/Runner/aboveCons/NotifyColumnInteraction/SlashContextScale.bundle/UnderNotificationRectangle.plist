@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>basicFactory</key>
+	<string>switchInterval</string>
+	<key>currentFrame</key>
+	<string>explicitSplitter</string>
+	<key>customCreator</key>
+	<string>fusedPageView</string>
+	<key>inactiveFinder</key>
+	<string>cacheevent</string>
+	<key>integerIndex</key>
+	<string>canLoadCertificate</string>
+	<key>layoutprovider</key>
+	<string>similarlistener</string>
+	<key>shouldhandlegradient</key>
+	<string>canPresentBitrate</string>
+	<key>unactivatedgrayscaleright</key>
+	<string>elementBound</string>
+</dict>
+</plist>

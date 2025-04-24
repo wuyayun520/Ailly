@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cosinedespitevisitor</key>
+	<string>annotateHandler</string>
+	<key>declarativeDescriptor</key>
+	<string>semanticeventtheme</string>
+	<key>liteAsset</key>
+	<string>encodeStore</string>
+	<key>sortedDependency</key>
+	<string>imperativeFuture</string>
+	<key>unmountcharacter</key>
+	<string>diffableScheduler</string>
+</dict>
+</plist>

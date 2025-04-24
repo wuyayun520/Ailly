@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>contractionformflags</key>
+	<string>commonStep</string>
+	<key>coordinatorSkewY</key>
+	<string>threadDirection</string>
+	<key>disconnecttouch</key>
+	<string>particleIndex</string>
+	<key>enabledThread</key>
+	<string>sustainableAlignment</string>
+	<key>insteadnode</key>
+	<string>entitydistance</string>
+	<key>prevStorage</key>
+	<string>signtag</string>
+	<key>rangeLocation</key>
+	<string>canInflateBaseline</string>
+	<key>touchState</key>
+	<string>originalShape</string>
+</dict>
+</plist>

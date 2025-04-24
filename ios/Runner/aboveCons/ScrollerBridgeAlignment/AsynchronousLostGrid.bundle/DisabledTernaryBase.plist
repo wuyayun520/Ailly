@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>amortizationTransparency</key>
+	<string>masterInset</string>
+	<key>boxshadowSpeed</key>
+	<string>tappableState</string>
+	<key>framestyle</key>
+	<string>maintainAwait</string>
+	<key>iconTag</key>
+	<string>constantContrast</string>
+	<key>injectionName</key>
+	<string>curveStyle</string>
+	<key>singleChapter</key>
+	<string>chartbound</string>
+	<key>standalonesegue</key>
+	<string>geometricNotification</string>
+	<key>statefulIsolate</key>
+	<string>parallelThreshold</string>
+</dict>
+</plist>

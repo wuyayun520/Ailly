@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>declarativepreviewcount</key>
+	<string>rowFlags</string>
+	<key>futureBehavior</key>
+	<string>shouldNotifyLayout</string>
+	<key>processchannel</key>
+	<string>rectSystem</string>
+	<key>receiverBehavior</key>
+	<string>rowSpacing</string>
+	<key>shouldCacheCollection</key>
+	<string>elasticAscent</string>
+	<key>shouldRebuildPromise</key>
+	<string>interactiveGroup</string>
+</dict>
+</plist>

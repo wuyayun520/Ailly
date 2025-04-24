@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>certificateName</key>
+	<string>responsiveScene</string>
+	<key>greatActivity</key>
+	<string>pivotalCube</string>
+	<key>gridenvironmentshade</key>
+	<string>slideracceleration</string>
+	<key>shouldPersistLog</key>
+	<string>originalFrame</string>
+	<key>shouldpushtextfield</key>
+	<string>lossprovision</string>
+	<key>sliderquaternion</key>
+	<string>disabledFragments</string>
+	<key>spriteStatus</key>
+	<string>semanticPosition</string>
+	<key>statelessliketier</key>
+	<string>certificatevector</string>
+	<key>staticSemantics</key>
+	<string>enabledSingleton</string>
+</dict>
+</plist>

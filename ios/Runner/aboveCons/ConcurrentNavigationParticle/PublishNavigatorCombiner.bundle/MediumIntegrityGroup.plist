@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>ephemeraltransformer</key>
+	<string>factoryEnvironment</string>
+	<key>immutableTabView</key>
+	<string>positionMethod</string>
+	<key>interactiveSkirt</key>
+	<string>handlerinterpreterbound</string>
+	<key>onimagetap</key>
+	<string>shouldDetachThread</string>
+	<key>opaqueChannels</key>
+	<string>handleMission</string>
+	<key>rowdirection</key>
+	<string>accessoryOrientation</string>
+	<key>shouldPersistRow</key>
+	<string>tensorTween</string>
+</dict>
+</plist>

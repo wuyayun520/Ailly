@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>ascentEdge</key>
+	<string>extensionStructure</string>
+	<key>compositionalContraction</key>
+	<string>mountedCompletion</string>
+	<key>declarativeKernel</key>
+	<string>shouldpersistcheckbox</string>
+	<key>defaultoverlay</key>
+	<string>sanitizeLocalization</string>
+	<key>exceptionsystembound</key>
+	<string>shouldListenRole</string>
+	<key>histogramShade</key>
+	<string>completerorvalue</string>
+	<key>priorModal</key>
+	<string>synchronousScheduler</string>
+	<key>responsiveaspectratiolocation</key>
+	<string>positionedAdapter</string>
+	<key>shouldDisposeIcon</key>
+	<string>resultVar</string>
+	<key>thresholdVisible</key>
+	<string>independentLocalization</string>
+</dict>
+</plist>

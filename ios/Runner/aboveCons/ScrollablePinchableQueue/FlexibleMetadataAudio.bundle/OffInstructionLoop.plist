@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>binaryBound</key>
+	<string>executeCallback</string>
+	<key>clipperspacing</key>
+	<string>matrixOffset</string>
+	<key>completionType</key>
+	<string>integrityBound</string>
+	<key>curvespacing</key>
+	<string>materialData</string>
+	<key>pickerDirection</key>
+	<string>gesturemethod</string>
+	<key>protocolvaluebound</key>
+	<string>masterProxy</string>
+	<key>shouldStartContainer</key>
+	<string>specifierRotation</string>
+</dict>
+</plist>

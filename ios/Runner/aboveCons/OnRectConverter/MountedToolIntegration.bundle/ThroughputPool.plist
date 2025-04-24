@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>blocmethod</key>
+	<string>radiusshade</string>
+	<key>dependencySpeed</key>
+	<string>modelLayer</string>
+	<key>entityShape</key>
+	<string>emitterAlignment</string>
+	<key>hyperbolicSwitch</key>
+	<string>priorTextField</string>
+	<key>infrastructureTag</key>
+	<string>unmountCycle</string>
+	<key>quaternionflags</key>
+	<string>respectiveResilience</string>
+	<key>reductionTail</key>
+	<string>accessoryinterval</string>
+	<key>staticComponent</key>
+	<string>staticError</string>
+	<key>uniqueTime</key>
+	<string>durationContrast</string>
+	<key>yieldasset</key>
+	<string>marginPosition</string>
+</dict>
+</plist>

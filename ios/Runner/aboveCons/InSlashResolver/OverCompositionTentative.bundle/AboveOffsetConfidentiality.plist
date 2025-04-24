@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>adaptiveDelivery</key>
+	<string>boxForce</string>
+	<key>greatDescriptor</key>
+	<string>temporaryDisclaimer</string>
+	<key>onobserverchanged</key>
+	<string>reduceQueue</string>
+	<key>readtangent</key>
+	<string>shouldTransitionHistogram</string>
+	<key>scrollmetadata</key>
+	<string>lastMatrix</string>
+	<key>segueDensity</key>
+	<string>canUpdateImage</string>
+	<key>shouldCreateAccessory</key>
+	<string>notificationBorder</string>
+</dict>
+</plist>

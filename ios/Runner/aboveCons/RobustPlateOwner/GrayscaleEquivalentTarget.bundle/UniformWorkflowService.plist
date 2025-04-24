@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>intensityOrientation</key>
+	<string>shearService</string>
+	<key>persistentMechanism</key>
+	<string>diffableScreen</string>
+	<key>positionedAlignment</key>
+	<string>semanticsmodespeed</string>
+	<key>shouldBuildUsage</key>
+	<string>cursorSkewY</string>
+	<key>shouldSetStateSymbol</key>
+	<string>elasticReference</string>
+	<key>typicalprovider</key>
+	<string>inheritedImage</string>
+</dict>
+</plist>

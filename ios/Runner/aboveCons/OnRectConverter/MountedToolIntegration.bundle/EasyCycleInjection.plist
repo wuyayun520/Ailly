@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>currentProfile</key>
+	<string>exponentParameter</string>
+	<key>cyclecolor</key>
+	<string>shouldNotifyCollection</string>
+	<key>delegategrid</key>
+	<string>fixedcoordinatorstate</string>
+	<key>equipmentstatus</key>
+	<string>disposeSubpixel</string>
+	<key>primaryMedia</key>
+	<string>shouldPaintProject</string>
+	<key>singleAperture</key>
+	<string>buildTextField</string>
+	<key>stackLeft</key>
+	<string>replaceZone</string>
+	<key>statelessSkirt</key>
+	<string>overlayCenter</string>
+	<key>usageOpacity</key>
+	<string>challengeStatus</string>
+</dict>
+</plist>

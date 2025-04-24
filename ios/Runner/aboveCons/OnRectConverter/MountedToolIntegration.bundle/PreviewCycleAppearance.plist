@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>crucialpromise</key>
+	<string>shouldKeepDropdownButton</string>
+	<key>desktopMap</key>
+	<string>canShowScaffold</string>
+	<key>resourcequaternion</key>
+	<string>shouldPaintCache</string>
+	<key>rowsystemleft</key>
+	<string>permanentPicker</string>
+	<key>shouldFetchSpine</key>
+	<string>poolProvider</string>
+	<key>shouldanimatereduction</key>
+	<string>priorityBehavior</string>
+	<key>uniformLinker</key>
+	<string>animatorContrast</string>
+</dict>
+</plist>

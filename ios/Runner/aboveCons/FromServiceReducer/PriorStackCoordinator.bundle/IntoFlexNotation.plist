@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>converterVelocity</key>
+	<string>shouldSetStateRole</string>
+	<key>copymultiplication</key>
+	<string>minSample</string>
+	<key>inactiveScheduler</key>
+	<string>shouldDisposeDimension</string>
+	<key>multiplicationincludepattern</key>
+	<string>permissiveNib</string>
+</dict>
+</plist>

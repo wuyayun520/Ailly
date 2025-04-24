@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>desktopparticleacceleration</key>
+	<string>bitrateTemple</string>
+	<key>pinchableAscent</key>
+	<string>staticPicker</string>
+	<key>progressbarpatternvisibility</key>
+	<string>interpolationInset</string>
+	<key>shouldCacheAccessory</key>
+	<string>keepMaterial</string>
+	<key>stackamonglayer</key>
+	<string>alphaSaturation</string>
+	<key>storemetadata</key>
+	<string>documentsink</string>
+</dict>
+</plist>

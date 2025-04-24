@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>crucialusagebehavior</key>
+	<string>istechnique</string>
+	<key>deferredManager</key>
+	<string>reducerSpeed</string>
+	<key>numericalFeature</key>
+	<string>synchronizeButton</string>
+	<key>renderaspectratio</key>
+	<string>resolverContrast</string>
+	<key>strokeTag</key>
+	<string>gridOpacity</string>
+	<key>trainmethod</key>
+	<string>signatureMediator</string>
+	<key>vectorTheme</key>
+	<string>resilientModal</string>
+	<key>webRemediation</key>
+	<string>pageviewnearmode</string>
+</dict>
+</plist>

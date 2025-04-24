@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>equipmentVelocity</key>
+	<string>continueStateful</string>
+	<key>firstFormat</key>
+	<string>mapScale</string>
+	<key>invisibleDropdownButton</key>
+	<string>arithmeticBandwidth</string>
+	<key>issubpixel</key>
+	<string>hyperbolicdelegate</string>
+	<key>nodevelocity</key>
+	<string>canTransitionPlayback</string>
+	<key>shouldPopLabel</key>
+	<string>yieldCheckbox</string>
+	<key>spotVelocity</key>
+	<string>independentgroup</string>
+	<key>usedcubitinset</key>
+	<string>signatureComposite</string>
+	<key>validatescene</key>
+	<string>canUnmountedCapacities</string>
+	<key>webOperation</key>
+	<string>asynchronousLoader</string>
+</dict>
+</plist>

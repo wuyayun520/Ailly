@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>popupInset</key>
+	<string>reactiveSensor</string>
+	<key>resourceDensity</key>
+	<string>lazyInfrastructure</string>
+	<key>segueHue</key>
+	<string>singletonlayeracceleration</string>
+	<key>shouldAnimateDialogs</key>
+	<string>mediocreMedia</string>
+	<key>sinkSize</key>
+	<string>indicatorMargin</string>
+	<key>statefulDimension</key>
+	<string>converterSpacing</string>
+	<key>statelessWidget</key>
+	<string>entropyState</string>
+	<key>uniformReceiver</key>
+	<string>usecaseaction</string>
+</dict>
+</plist>

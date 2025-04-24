@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>delicateChooser</key>
+	<string>canYieldReference</string>
+	<key>mapperType</key>
+	<string>shaderComposite</string>
+	<key>multiThread</key>
+	<string>immediateStroke</string>
+	<key>sharedStateful</key>
+	<string>pendingPainter</string>
+	<key>shouldDismissMovement</key>
+	<string>mendFrequency</string>
+	<key>shouldPrepareFlex</key>
+	<string>canDetachSign</string>
+	<key>shouldStartTabBar</key>
+	<string>canUnmountedMission</string>
+	<key>specifyChooser</key>
+	<string>rapidslider</string>
+	<key>unactivatedusecasetag</key>
+	<string>binaryLeft</string>
+	<key>widgetcontainmediator</key>
+	<string>curveenvironmentcoord</string>
+</dict>
+</plist>

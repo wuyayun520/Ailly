@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activityStyle</key>
+	<string>techniqueSkewX</string>
+	<key>custompaintTransparency</key>
+	<string>accelerateanimation</string>
+	<key>pinchableController</key>
+	<string>skinDelay</string>
+	<key>relationalSwitch</key>
+	<string>connectMobile</string>
+	<key>robustScenario</key>
+	<string>reusableTime</string>
+	<key>scenevalidation</key>
+	<string>newestMomentum</string>
+	<key>triggerTop</key>
+	<string>requestCommand</string>
+</dict>
+</plist>

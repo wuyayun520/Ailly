@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>alignmentRate</key>
+	<string>benchmarkConstraint</string>
+	<key>appbarDepth</key>
+	<string>allocateLocalization</string>
+	<key>asynchronousScope</key>
+	<string>decorationCycle</string>
+	<key>drawerinstructure</key>
+	<string>observerSaturation</string>
+	<key>enabledSorter</key>
+	<string>materialError</string>
+	<key>imageMode</key>
+	<string>routeUnary</string>
+	<key>memberDistance</key>
+	<string>defaultInkWell</string>
+	<key>pivotalEmitter</key>
+	<string>isDescriptor</string>
+	<key>searcherPadding</key>
+	<string>hardCompleter</string>
+</dict>
+</plist>

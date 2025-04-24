@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>arithmeticprocesspressure</key>
+	<string>canResumeDialogs</string>
+	<key>basicElasticity</key>
+	<string>characterTier</string>
+	<key>loadtransition</key>
+	<string>brushStatus</string>
+	<key>rapidResponder</key>
+	<string>shouldtransitioncheckbox</string>
+	<key>segmentFrequency</key>
+	<string>canMountSubpixel</string>
+	<key>textfieldaboutadapter</key>
+	<string>techniqueTransparency</string>
+	<key>webFuture</key>
+	<string>tweakResponse</string>
+</dict>
+</plist>

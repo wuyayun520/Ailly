@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>aspectVelocity</key>
+	<string>routerfromobserver</string>
+	<key>concreteCompleter</key>
+	<string>animatedcontainerBridge</string>
+	<key>criticalSine</key>
+	<string>priorData</string>
+	<key>detachnotifier</key>
+	<string>findUseCase</string>
+	<key>roleMargin</key>
+	<string>accordionDependency</string>
+	<key>selectedPainter</key>
+	<string>compositionalPublisher</string>
+</dict>
+</plist>

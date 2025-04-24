@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>backwardInterpolation</key>
+	<string>callbackmomentum</string>
+	<key>drawerformat</key>
+	<string>shouldpaintobserver</string>
+	<key>ignoredlabelresponse</key>
+	<string>integerKind</string>
+	<key>marginColor</key>
+	<string>graphicFeedback</string>
+	<key>originalGrayscale</key>
+	<string>tensorTheme</string>
+	<key>saveasync</key>
+	<string>denseSpecifier</string>
+	<key>semanticrestriction</key>
+	<string>iterativeInterpolation</string>
+	<key>shouldSaveSpot</key>
+	<string>resizableStateful</string>
+	<key>tappableMedia</key>
+	<string>sliderActivity</string>
+</dict>
+</plist>

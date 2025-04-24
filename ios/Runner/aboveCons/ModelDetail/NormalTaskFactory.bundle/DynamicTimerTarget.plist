@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>containerVisible</key>
+	<string>backwardconsumption</string>
+	<key>displayableService</key>
+	<string>publicAlignment</string>
+	<key>paddinglabel</key>
+	<string>sortedInitiators</string>
+	<key>pageredge</key>
+	<string>shouldUnmountedSkirt</string>
+	<key>publiccomponent</key>
+	<string>similarSession</string>
+	<key>subscriberRight</key>
+	<string>coordinatorquaternion</string>
+	<key>variantsearcher</key>
+	<string>directSubscription</string>
+	<key>wrapperSkewY</key>
+	<string>canUnmountedClipper</string>
+</dict>
+</plist>

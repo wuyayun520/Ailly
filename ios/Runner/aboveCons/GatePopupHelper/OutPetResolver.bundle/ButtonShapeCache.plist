@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>ascentPosition</key>
+	<string>animatedExtension</string>
+	<key>frameInset</key>
+	<string>protocolinformation</string>
+	<key>herosize</key>
+	<string>numericalassetvelocity</string>
+	<key>semanticSingleton</key>
+	<string>layerSize</string>
+	<key>shouldFormatOperation</key>
+	<string>buildStack</string>
+	<key>shouldNotifySpot</key>
+	<string>canYieldCustomPaint</string>
+	<key>shouldNotifyStep</key>
+	<string>alertVisible</string>
+</dict>
+</plist>

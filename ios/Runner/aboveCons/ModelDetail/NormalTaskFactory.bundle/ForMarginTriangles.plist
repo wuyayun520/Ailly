@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>aspectratioState</key>
+	<string>seekUseCase</string>
+	<key>interactiveCurve</key>
+	<string>opaqueConsumer</string>
+	<key>numericalComposition</key>
+	<string>canBindNorm</string>
+	<key>positionduration</key>
+	<string>retrieveContainer</string>
+	<key>repositoryconverter</key>
+	<string>lostbatchtag</string>
+	<key>scrollableResult</key>
+	<string>localParticle</string>
+	<key>shouldFetchTheme</key>
+	<string>materialStore</string>
+	<key>subsequentRow</key>
+	<string>controllersaturation</string>
+</dict>
+</plist>

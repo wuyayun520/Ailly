@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accessibleMetadata</key>
+	<string>notificationBrightness</string>
+	<key>activeEffect</key>
+	<string>configureWidget</string>
+	<key>characterFormat</key>
+	<string>listviewShade</string>
+	<key>clonerepository</key>
+	<string>similarAlignment</string>
+	<key>commonmissiontint</key>
+	<string>elasticSizedBox</string>
+	<key>diversifiedUtil</key>
+	<string>shouldRestartModal</string>
+	<key>euclideanSegment</key>
+	<string>quantizationsegment</string>
+	<key>gemchainstyle</key>
+	<string>cupertinoEdge</string>
+	<key>smartRestriction</key>
+	<string>usageDecorator</string>
+</dict>
+</plist>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>formatbuffer</key>
+	<string>shouldEndCharacter</string>
+	<key>lazyLatency</key>
+	<string>concreteImpact</string>
+	<key>mediocreFilter</key>
+	<string>cosineShape</string>
+	<key>nodefunctionpressure</key>
+	<string>skirtrotation</string>
+	<key>parallelWorkflow</key>
+	<string>draggableTransformer</string>
+	<key>presentoverlay</key>
+	<string>webMerger</string>
+	<key>tabviewDistance</key>
+	<string>missionScope</string>
+</dict>
+</plist>

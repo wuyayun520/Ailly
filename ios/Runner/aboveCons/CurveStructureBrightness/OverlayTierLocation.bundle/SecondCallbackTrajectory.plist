@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>intermediateTable</key>
+	<string>canCreateMission</string>
+	<key>localsplitter</key>
+	<string>reactiveTransformer</string>
+	<key>materialinteraction</key>
+	<string>handleAxis</string>
+	<key>pivotalarithmeticalignment</key>
+	<string>independentText</string>
+	<key>publishertail</key>
+	<string>ternaryKind</string>
+	<key>serializetopic</key>
+	<string>canTransitionSession</string>
+	<key>tensorMusic</key>
+	<string>referenceasset</string>
+</dict>
+</plist>

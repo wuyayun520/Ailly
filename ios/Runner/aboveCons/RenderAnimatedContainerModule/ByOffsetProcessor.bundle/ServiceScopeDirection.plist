@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>elasticityTop</key>
+	<string>elasticMaster</string>
+	<key>roweffect</key>
+	<string>canSetStateRow</string>
+	<key>selectorStatus</key>
+	<string>shouldattachcube</string>
+	<key>visibleoperation</key>
+	<string>uniquedelegatetransparency</string>
+</dict>
+</plist>

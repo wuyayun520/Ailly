@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>diffableController</key>
+	<string>setstatebutton</string>
+	<key>isconsumer</key>
+	<string>tappableRoute</string>
+	<key>largeDimension</key>
+	<string>resumeBullet</string>
+	<key>repositoryFlags</key>
+	<string>agileRow</string>
+	<key>semanticTransformer</key>
+	<string>cupertinoCard</string>
+	<key>shouldDeserializeModal</key>
+	<string>sustainableLatency</string>
+	<key>symbolname</key>
+	<string>marshalEntity</string>
+	<key>usageRight</key>
+	<string>unmountedAppBar</string>
+</dict>
+</plist>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>disabledTable</key>
+	<string>routerResponse</string>
+	<key>draggableProcessor</key>
+	<string>arithmeticMaterializer</string>
+	<key>histogramrate</key>
+	<string>transformercount</string>
+	<key>pinchableMission</key>
+	<string>parseMaster</string>
+	<key>topicrenderer</key>
+	<string>traversalTail</string>
+</dict>
+</plist>

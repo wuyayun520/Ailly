@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cubitrotation</key>
+	<string>fixedBinary</string>
+	<key>opaquebuilder</key>
+	<string>isinterpolation</string>
+	<key>publiccurveappearance</key>
+	<string>enhanceContainer</string>
+	<key>pushresponse</key>
+	<string>durationStrategy</string>
+	<key>statelessTicker</key>
+	<string>respectiveTicker</string>
+</dict>
+</plist>

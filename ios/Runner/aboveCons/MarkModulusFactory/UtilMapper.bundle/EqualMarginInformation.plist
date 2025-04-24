@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>aspectratioAlignment</key>
+	<string>smartInterpolation</string>
+	<key>composableMetrics</key>
+	<string>sizeFacade</string>
+	<key>displayableLog</key>
+	<string>makeException</string>
+	<key>durationdecoration</key>
+	<string>emitentropy</string>
+	<key>requiredTaxonomy</key>
+	<string>gatePosition</string>
+	<key>singleDescriptor</key>
+	<string>widgetAcceleration</string>
+	<key>sizekind</key>
+	<string>canStartAxis</string>
+	<key>webSkin</key>
+	<string>disconnectCurve</string>
+</dict>
+</plist>

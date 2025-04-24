@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>configuresample</key>
+	<string>dynamicMaterializer</string>
+	<key>intermediatepolyfill</key>
+	<string>cupertinoMetadata</string>
+	<key>itemSaturation</key>
+	<string>shouldPushNib</string>
+	<key>mediumComponent</key>
+	<string>providerTier</string>
+	<key>mountedcontroller</key>
+	<string>canStreamSegue</string>
+	<key>requestPosition</key>
+	<string>disabledHandler</string>
+	<key>retrievecache</key>
+	<string>canListenAperture</string>
+	<key>shouldAnimateConsumer</key>
+	<string>subtleSine</string>
+	<key>tweenstyle</key>
+	<string>shouldSetStateScroll</string>
+	<key>uniqueVideo</key>
+	<string>variantSize</string>
+</dict>
+</plist>

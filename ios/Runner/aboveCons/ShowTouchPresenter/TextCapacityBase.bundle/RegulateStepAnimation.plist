@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>integrityFlags</key>
+	<string>shouldNavigateStep</string>
+	<key>interpolationContrast</key>
+	<string>listenCell</string>
+	<key>numericalEvolution</key>
+	<string>keepExponent</string>
+	<key>resizableScene</key>
+	<string>queueMediator</string>
+	<key>statefulresource</key>
+	<string>axisinvariable</string>
+	<key>tabviewmodeindex</key>
+	<string>canKeepController</string>
+	<key>transitionpreview</key>
+	<string>commonSkin</string>
+	<key>unactivatedFrame</key>
+	<string>loadHistogram</string>
+	<key>usageOrientation</key>
+	<string>instructionformstyle</string>
+</dict>
+</plist>

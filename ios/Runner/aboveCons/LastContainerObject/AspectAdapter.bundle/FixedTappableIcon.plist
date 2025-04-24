@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>backwardRole</key>
+	<string>shouldUnmountedInterpolation</string>
+	<key>primaryConvolution</key>
+	<string>thresholdShape</string>
+	<key>resilientBinder</key>
+	<string>invokeRoute</string>
+	<key>shouldFetchBinary</key>
+	<string>basicResolver</string>
+	<key>shouldSaveWidget</key>
+	<string>concurrentMaster</string>
+	<key>shouldStartScreen</key>
+	<string>buildLogarithm</string>
+	<key>synchronousTolerance</key>
+	<string>configurationmodule</string>
+</dict>
+</plist>

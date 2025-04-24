@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accordionBloc</key>
+	<string>checkboxRotation</string>
+	<key>alignmentvisible</key>
+	<string>resilientMember</string>
+	<key>characterroute</key>
+	<string>unaryOrientation</string>
+	<key>convolutiongroup</key>
+	<string>canDeserializeAnimatedContainer</string>
+	<key>mainParticle</key>
+	<string>radiusplatformright</string>
+	<key>onternarytap</key>
+	<string>diffablearithmetic</string>
+	<key>parallelProcessor</key>
+	<string>alignmentscalability</string>
+	<key>servicepatternvisible</key>
+	<string>persistScaffold</string>
+	<key>statefulprovider</key>
+	<string>managertrigger</string>
+</dict>
+</plist>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>buttontype</key>
+	<string>subtleRequest</string>
+	<key>criticalCycle</key>
+	<string>pivotalTweak</string>
+	<key>cycleCenter</key>
+	<string>sessionCount</string>
+	<key>multiCompletion</key>
+	<string>disposecharacter</string>
+	<key>scenariocoord</key>
+	<string>shouldPresentTernary</string>
+</dict>
+</plist>

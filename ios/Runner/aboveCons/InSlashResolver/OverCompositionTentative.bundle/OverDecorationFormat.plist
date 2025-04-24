@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>channelsResponse</key>
+	<string>marshalStore</string>
+	<key>connectchart</key>
+	<string>shouldKeepModulus</string>
+	<key>immutableBase</key>
+	<string>lasttouchcontrast</string>
+	<key>shoulddispatchcatalyst</key>
+	<string>respectiveExpanded</string>
+	<key>synchronousVolume</key>
+	<string>minSample</string>
+</dict>
+</plist>

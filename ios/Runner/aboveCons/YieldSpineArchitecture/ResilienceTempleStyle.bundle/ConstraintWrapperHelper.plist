@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>aspectinterface</key>
+	<string>mobileName</string>
+	<key>handlerformopacity</key>
+	<string>unlockLayout</string>
+	<key>imperativeAwait</key>
+	<string>prevPet</string>
+	<key>informationInterval</key>
+	<string>polygonskewx</string>
+	<key>meshDepth</key>
+	<string>reductionParam</string>
+	<key>spineRate</key>
+	<string>animatorHue</string>
+</dict>
+</plist>

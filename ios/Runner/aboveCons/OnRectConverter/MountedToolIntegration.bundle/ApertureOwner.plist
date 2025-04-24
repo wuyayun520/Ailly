@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>agileState</key>
+	<string>routePosition</string>
+	<key>interactiveExponent</key>
+	<string>provisionBehavior</string>
+	<key>nibHue</key>
+	<string>playSize</string>
+	<key>taskStyle</key>
+	<string>utilSpacing</string>
+</dict>
+</plist>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>asyncColor</key>
+	<string>disabledPriority</string>
+	<key>loadcoordinator</key>
+	<string>injectCubit</string>
+	<key>prepareinteractor</key>
+	<string>globalMetadata</string>
+	<key>subsequentKernel</key>
+	<string>collectionState</string>
+</dict>
+</plist>

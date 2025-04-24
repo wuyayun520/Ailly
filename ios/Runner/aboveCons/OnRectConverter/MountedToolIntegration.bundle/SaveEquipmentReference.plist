@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activatedChooser</key>
+	<string>sharedMatrix</string>
+	<key>intuitiveCompleter</key>
+	<string>alphaMomentum</string>
+	<key>localizationscope</key>
+	<string>asyncEdge</string>
+	<key>routermethodalignment</key>
+	<string>positionedInteraction</string>
+	<key>shouldPushWidget</key>
+	<string>checkboxValidation</string>
+	<key>shouldcancelboxshadow</key>
+	<string>canHandleSession</string>
+</dict>
+</plist>

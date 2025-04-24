@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>createtext</key>
+	<string>quaternionmargin</string>
+	<key>featurelifecycle</key>
+	<string>partitionFrame</string>
+	<key>navigatestate</key>
+	<string>constantAlignment</string>
+	<key>shouldMountedCard</key>
+	<string>shouldTransitionRichText</string>
+	<key>vectorlayerbehavior</key>
+	<string>euclideanGate</string>
+</dict>
+</plist>

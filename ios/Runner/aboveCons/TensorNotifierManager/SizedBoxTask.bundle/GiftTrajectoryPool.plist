@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>arithmeticbitratekind</key>
+	<string>commonMaterial</string>
+	<key>consumerbehavior</key>
+	<string>variantLocation</string>
+	<key>explicitPainter</key>
+	<string>shouldpausemap</string>
+	<key>liteparticlecount</key>
+	<string>granularMargin</string>
+	<key>monsterLocation</key>
+	<string>grainBridge</string>
+	<key>newestHeap</key>
+	<string>canPersistGrayscale</string>
+	<key>scaffoldtag</key>
+	<string>emitLayer</string>
+	<key>shouldBindShader</key>
+	<string>commonspritemomentum</string>
+	<key>subsequentObserver</key>
+	<string>processInterpolation</string>
+</dict>
+</plist>

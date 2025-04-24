@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>bundleaspect</key>
+	<string>offsetNode</string>
+	<key>functionalCharacteristic</key>
+	<string>canStartText</string>
+	<key>inactiveInfrastructure</key>
+	<string>uniformPlayback</string>
+	<key>liteStateful</key>
+	<string>canValidateGraphic</string>
+	<key>responsiveVertex</key>
+	<string>fetchBinary</string>
+	<key>strokeOpacity</key>
+	<string>crudeGesture</string>
+</dict>
+</plist>

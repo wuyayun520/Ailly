@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cartesianVector</key>
+	<string>deferredResilience</string>
+	<key>currentmenuappearance</key>
+	<string>anchorDecorator</string>
+	<key>infoIndex</key>
+	<string>shouldHandleExpanded</string>
+	<key>materialinsidebridge</key>
+	<string>canStartBinary</string>
+	<key>offsetview</key>
+	<string>entitybridgealignment</string>
+	<key>optionValidation</key>
+	<string>createbatch</string>
+	<key>shouldContinueInkWell</key>
+	<string>responsiveConstraint</string>
+	<key>smallscale</key>
+	<string>nativeBuilder</string>
+	<key>sortedSegue</key>
+	<string>drawResult</string>
+</dict>
+</plist>

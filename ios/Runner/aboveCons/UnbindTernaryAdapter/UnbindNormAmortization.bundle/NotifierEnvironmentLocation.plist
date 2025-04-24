@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>arithmeticConsumer</key>
+	<string>checklistStatus</string>
+	<key>denseTransition</key>
+	<string>compileerror</string>
+	<key>documentDistance</key>
+	<string>annotateSingleton</string>
+	<key>futureInset</key>
+	<string>shouldPaintCheckbox</string>
+	<key>geometricManager</key>
+	<string>shouldFetchAspectRatio</string>
+	<key>optionCount</key>
+	<string>replaceStream</string>
+	<key>prevCatalyst</key>
+	<string>advancedSubscription</string>
+	<key>shouldrebuildgesture</key>
+	<string>connectorColor</string>
+	<key>sineTransparency</key>
+	<string>alertChain</string>
+	<key>unregisterradius</key>
+	<string>richtextSpeed</string>
+</dict>
+</plist>

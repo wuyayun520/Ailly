@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>concreteOption</key>
+	<string>interpolationBridge</string>
+	<key>contrastSpeed</key>
+	<string>prevMenu</string>
+	<key>currentbitrate</key>
+	<string>shouldSaveCoordinator</string>
+	<key>explicitVolume</key>
+	<string>decodeButton</string>
+	<key>lifecycleForce</key>
+	<string>lazyOperation</string>
+	<key>reducertierfeedback</key>
+	<string>handlerMethod</string>
+	<key>tappableCupertino</key>
+	<string>pivotalMetadata</string>
+	<key>variantbandwidth</key>
+	<string>resourcemetadata</string>
+</dict>
+</plist>

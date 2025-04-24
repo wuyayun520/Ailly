@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>anchorrate</key>
+	<string>precisionfeedback</string>
+	<key>associatedStorage</key>
+	<string>errorMemento</string>
+	<key>extensiondependency</key>
+	<string>gemfinder</string>
+	<key>missedTask</key>
+	<string>globalStore</string>
+	<key>nativeBullet</key>
+	<string>interceptWidget</string>
+	<key>subscriptionOrigin</key>
+	<string>flexAcceleration</string>
+	<key>transformerwithoutsingleton</key>
+	<string>navigateCapsule</string>
+</dict>
+</plist>

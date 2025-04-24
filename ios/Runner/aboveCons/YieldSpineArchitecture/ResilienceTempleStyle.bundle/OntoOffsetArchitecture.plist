@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animatedTheme</key>
+	<string>equalizationStrategy</string>
+	<key>batchFormat</key>
+	<string>reusableBandwidth</string>
+	<key>graphicTheme</key>
+	<string>directConfiguration</string>
+	<key>hardTentative</key>
+	<string>informationScale</string>
+	<key>inheritedResilience</key>
+	<string>cycleRotation</string>
+	<key>scrollableEvolution</key>
+	<string>switchspacing</string>
+	<key>segmentamongstrategy</key>
+	<string>robustScope</string>
+</dict>
+</plist>

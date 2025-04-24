@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cupertinoScroll</key>
+	<string>unactivatedpromisealignment</string>
+	<key>iterativeAppBar</key>
+	<string>baselineStrategy</string>
+	<key>nativeBloc</key>
+	<string>rotatematerial</string>
+	<key>orchestratenotification</key>
+	<string>invisibleCollection</string>
+	<key>reusableElement</key>
+	<string>petforform</string>
+</dict>
+</plist>

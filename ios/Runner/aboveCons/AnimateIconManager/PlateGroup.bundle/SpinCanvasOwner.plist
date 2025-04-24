@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>arithmeticExponent</key>
+	<string>protectedPositioned</string>
+	<key>commonsprite</key>
+	<string>iterativeNode</string>
+	<key>emitnavigator</key>
+	<string>connectMetadata</string>
+	<key>inactiveSorter</key>
+	<string>audioBound</string>
+	<key>observertempleshape</key>
+	<string>crucialcanvas</string>
+	<key>shouldBindPoint</key>
+	<string>customSlash</string>
+	<key>synchronousTween</key>
+	<string>roleTail</string>
+	<key>unactivatedDecoration</key>
+	<string>triggerStyle</string>
+</dict>
+</plist>

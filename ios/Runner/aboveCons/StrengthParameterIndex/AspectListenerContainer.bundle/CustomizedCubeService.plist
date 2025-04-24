@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>behaviorInterval</key>
+	<string>textcompositestatus</string>
+	<key>componentFrequency</key>
+	<string>consumefragment</string>
+	<key>declarativeDescriptor</key>
+	<string>materializeObserver</string>
+	<key>efficiencyPosition</key>
+	<string>aggregateQueue</string>
+	<key>inheritedLinker</key>
+	<string>disabledAlpha</string>
+	<key>mediaqueryparamflags</key>
+	<string>intensitywithoutmode</string>
+	<key>missedInterface</key>
+	<string>navigateInitiators</string>
+	<key>responsiveTouch</key>
+	<string>sortedException</string>
+	<key>segmentFormat</key>
+	<string>backwardMovement</string>
+</dict>
+</plist>

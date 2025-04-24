@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>currentbloc</key>
+	<string>shouldRestartOverlay</string>
+	<key>globalPlayback</key>
+	<string>webGraph</string>
+	<key>imperativeCatalyst</key>
+	<string>initiatorsAppearance</string>
+	<key>liteusage</key>
+	<string>canTransitionGate</string>
+	<key>navigateprogressbar</key>
+	<string>canPushContraction</string>
+	<key>shouldNavigatePlate</key>
+	<string>interactiveRect</string>
+	<key>smartDialogs</key>
+	<string>pinchableinterfaceinterval</string>
+</dict>
+</plist>

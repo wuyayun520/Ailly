@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>configurearithmetic</key>
+	<string>makeAsync</string>
+	<key>displayableGestureDetector</key>
+	<string>immutableobserver</string>
+	<key>gradienthead</key>
+	<string>shouldRestartMaster</string>
+	<key>locknode</key>
+	<string>cupertinoSaturation</string>
+	<key>permissiveVariant</key>
+	<string>triggerRate</string>
+	<key>shouldSubscribeTool</key>
+	<string>binaryProxy</string>
+	<key>shouldobserveaperture</key>
+	<string>reusableBehavior</string>
+	<key>shouldparseprotocol</key>
+	<string>iswidget</string>
+	<key>shouldupdatecontainer</key>
+	<string>publishSlash</string>
+</dict>
+</plist>

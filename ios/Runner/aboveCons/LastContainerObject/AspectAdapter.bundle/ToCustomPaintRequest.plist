@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animatednotifier</key>
+	<string>iterativeAspectRatio</string>
+	<key>cupertinoSplitter</key>
+	<string>lockFuture</string>
+	<key>firstbutton</key>
+	<string>desktopBorder</string>
+	<key>listenerscroller</key>
+	<string>dedicatedAwait</string>
+	<key>lostRoute</key>
+	<string>profileName</string>
+	<key>rectifycell</key>
+	<string>asynchronousTabView</string>
+</dict>
+</plist>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>analyzerRotation</key>
+	<string>imperativeImpact</string>
+	<key>particlePressure</key>
+	<string>particlesaturation</string>
+	<key>shouldUnmountedGesture</key>
+	<string>providerthroughsingleton</string>
+	<key>subtleRepository</key>
+	<string>combineOffset</string>
+	<key>viewtype</key>
+	<string>localGrid</string>
+</dict>
+</plist>

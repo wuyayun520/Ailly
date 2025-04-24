@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accessoryedge</key>
+	<string>listviewVelocity</string>
+	<key>activeRemainder</key>
+	<string>canInitializeWidget</string>
+	<key>animationlevelright</key>
+	<string>labelOrigin</string>
+	<key>evaluationRate</key>
+	<string>extensiontolerance</string>
+	<key>shouldParseSpine</key>
+	<string>architectureInteraction</string>
+	<key>shouldtransformsensor</key>
+	<string>canRestartUsage</string>
+	<key>specifyGrid</key>
+	<string>preparelocalization</string>
+	<key>uniformimpression</key>
+	<string>positionedInterval</string>
+</dict>
+</plist>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>enhancegradient</key>
+	<string>baseFunction</string>
+	<key>opaqueSink</key>
+	<string>persistentCollection</string>
+	<key>resilientZone</key>
+	<string>notifierbufferresponse</string>
+	<key>scrollableIntegrity</key>
+	<string>nativeTweak</string>
+	<key>shouldMountMatrix</key>
+	<string>mediocreConnector</string>
+	<key>storageDepth</key>
+	<string>profiletransparency</string>
+	<key>sustainableResolver</key>
+	<string>declarativeTrajectory</string>
+	<key>titleactionlocation</key>
+	<string>smartDialogs</string>
+	<key>wrapperShape</key>
+	<string>invisibleConsumption</string>
+</dict>
+</plist>

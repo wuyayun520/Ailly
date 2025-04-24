@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>bandwidthSpacing</key>
+	<string>progressbarShape</string>
+	<key>configurationOrigin</key>
+	<string>discoverswitch</string>
+	<key>deliveryFrequency</key>
+	<string>marshalListener</string>
+	<key>secondBullet</key>
+	<string>canTrainDescriptor</string>
+	<key>serializetransformer</key>
+	<string>cardexceptvisitor</string>
+	<key>shouldUnbindHeap</key>
+	<string>accelerateState</string>
+	<key>shouldUnmountAlpha</key>
+	<string>descriptionsystemfeedback</string>
+	<key>tappableImpression</key>
+	<string>shouldrestartactivity</string>
+</dict>
+</plist>

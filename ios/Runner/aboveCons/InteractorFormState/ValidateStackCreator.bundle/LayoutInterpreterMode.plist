@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accordionBinder</key>
+	<string>canPersistSizedBox</string>
+	<key>cyclelayertension</key>
+	<string>canUnmountedImage</string>
+	<key>localPolyfill</key>
+	<string>delegateConstraint</string>
+	<key>lostCustomPaint</key>
+	<string>shouldDetachAxis</string>
+	<key>parallelBuilder</key>
+	<string>previewcenter</string>
+	<key>sharedPositioned</key>
+	<string>shouldEmitOption</string>
+	<key>shouldPreparePet</key>
+	<string>tensorExtension</string>
+	<key>shouldUnmountedEntropy</key>
+	<string>coordinatorAction</string>
+	<key>storeInteraction</key>
+	<string>shouldCancelProvider</string>
+	<key>trianglesBrightness</key>
+	<string>detailColor</string>
+</dict>
+</plist>

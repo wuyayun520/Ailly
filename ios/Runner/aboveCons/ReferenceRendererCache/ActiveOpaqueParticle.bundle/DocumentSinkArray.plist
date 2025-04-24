@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>agileTraversal</key>
+	<string>assetSkewX</string>
+	<key>allocatorValidation</key>
+	<string>mainAsset</string>
+	<key>comprehensiveObserver</key>
+	<string>shouldContinueDialogs</string>
+	<key>deferredmediaquerydensity</key>
+	<string>kernelTransparency</string>
+	<key>desktopPresenter</key>
+	<string>prevobserver</string>
+	<key>nativeAperture</key>
+	<string>resizableDialogs</string>
+	<key>shouldListenCache</key>
+	<string>serviceVariable</string>
+	<key>temporaryMomentum</key>
+	<string>shouldformattask</string>
+</dict>
+</plist>

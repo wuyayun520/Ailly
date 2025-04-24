@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>eagerwidgetvalidation</key>
+	<string>gemInterpreter</string>
+	<key>explicitBatch</key>
+	<string>fixedDescriptor</string>
+	<key>largeSubpixel</key>
+	<string>utilVisible</string>
+	<key>newestkernelcontrast</key>
+	<string>graphicType</string>
+	<key>priorityCoord</key>
+	<string>formatCanvas</string>
+	<key>relationalVolume</key>
+	<string>retainedcluster</string>
+	<key>subscribertint</key>
+	<string>boxshadowMode</string>
+</dict>
+</plist>

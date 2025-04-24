@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cupertinoIsolate</key>
+	<string>debugTexture</string>
+	<key>functionalScope</key>
+	<string>precisionprogressbar</string>
+	<key>shouldEndRichText</key>
+	<string>commonZone</string>
+	<key>shouldStopCoordinator</key>
+	<string>liteSkirt</string>
+</dict>
+</plist>

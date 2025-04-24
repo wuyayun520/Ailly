@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>margincontextmargin</key>
+	<string>exponentCommand</string>
+	<key>mutableDispatcher</key>
+	<string>shouldEmitProject</string>
+	<key>selectedUsage</key>
+	<string>shouldLoadDropdownButton</string>
+	<key>shouldSaveCapsule</key>
+	<string>shouldPopSemantics</string>
+</dict>
+</plist>

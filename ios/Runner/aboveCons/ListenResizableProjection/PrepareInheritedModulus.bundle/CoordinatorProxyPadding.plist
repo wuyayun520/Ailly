@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>hyperbolicText</key>
+	<string>hyperbolicPicker</string>
+	<key>ignoredAnchor</key>
+	<string>taskJob</string>
+	<key>resizablesensormode</key>
+	<string>fetchCharacter</string>
+	<key>serializestream</key>
+	<string>canDetachBrush</string>
+	<key>shouldTransformSpot</key>
+	<string>customIsolate</string>
+	<key>toolVisible</key>
+	<string>shouldStreamBatch</string>
+	<key>tweenTheme</key>
+	<string>concurrentSpine</string>
+</dict>
+</plist>

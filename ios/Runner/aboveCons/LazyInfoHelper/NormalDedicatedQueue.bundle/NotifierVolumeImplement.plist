@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>materialLoss</key>
+	<string>musicdepth</string>
+	<key>missedBase</key>
+	<string>interactorleveltype</string>
+	<key>oldMaterializer</key>
+	<string>instantiateTransformer</string>
+	<key>repositoryvisitorvisibility</key>
+	<string>extensionSingleton</string>
+	<key>standaloneUnary</key>
+	<string>newestEfficiency</string>
+</dict>
+</plist>

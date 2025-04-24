@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>consultativeData</key>
+	<string>uniformAsset</string>
+	<key>dedicatedCell</key>
+	<string>custompaintenvironmentvalidation</string>
+	<key>ignoredTool</key>
+	<string>animationawaysystem</string>
+	<key>itemTheme</key>
+	<string>scenarioOpacity</string>
+	<key>shouldPublishScroll</key>
+	<string>synchronousextension</string>
+	<key>shouldSkipMusic</key>
+	<string>canListenSession</string>
+	<key>similarPosition</key>
+	<string>richtextBottom</string>
+	<key>tappableError</key>
+	<string>completionSaturation</string>
+	<key>temporaryRadius</key>
+	<string>notifyAppBar</string>
+</dict>
+</plist>

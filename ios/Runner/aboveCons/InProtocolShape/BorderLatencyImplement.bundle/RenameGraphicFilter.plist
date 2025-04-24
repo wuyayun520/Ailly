@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>catalystvalidation</key>
+	<string>uniqueInteractor</string>
+	<key>dynamicDocument</key>
+	<string>concurrentRepository</string>
+	<key>keynib</key>
+	<string>canDetachAlert</string>
+	<key>radiusTransparency</key>
+	<string>normalZone</string>
+	<key>reactiveLogarithm</key>
+	<string>discardedbuilder</string>
+	<key>robustVideo</key>
+	<string>uniformSensor</string>
+	<key>rowawayoperation</key>
+	<string>sustainableStateless</string>
+	<key>shouldEmitRichText</key>
+	<string>instantiateTween</string>
+	<key>tweenSize</key>
+	<string>shouldPersistHeap</string>
+</dict>
+</plist>

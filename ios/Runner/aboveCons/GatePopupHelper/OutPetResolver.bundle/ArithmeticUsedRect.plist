@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>columnfinder</key>
+	<string>keepNavigator</string>
+	<key>crudeEfficiency</key>
+	<string>texteffect</string>
+	<key>declarativeChallenge</key>
+	<string>canKeepDocument</string>
+	<key>disabledconfiguration</key>
+	<string>shouldPersistCustomPaint</string>
+	<key>stacktension</key>
+	<string>lastDispatcher</string>
+</dict>
+</plist>

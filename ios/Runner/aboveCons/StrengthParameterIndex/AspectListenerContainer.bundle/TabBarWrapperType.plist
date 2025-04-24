@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>concurrentConsumption</key>
+	<string>startNib</string>
+	<key>crucialHandler</key>
+	<string>intuitiveProcessor</string>
+	<key>lossVisibility</key>
+	<string>independentLinker</string>
+	<key>mendCount</key>
+	<string>navigatesign</string>
+	<key>oldProgressBar</key>
+	<string>parseSemantics</string>
+	<key>overlayFormat</key>
+	<string>handleDelegate</string>
+	<key>permanentpromiseright</key>
+	<string>shouldTransformNotifier</string>
+	<key>tappableanimatedcontainer</key>
+	<string>canDismissMaterial</string>
+</dict>
+</plist>

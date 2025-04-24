@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>behaviorDelay</key>
+	<string>unsortedAnimator</string>
+	<key>flexTransparency</key>
+	<string>reflectLoop</string>
+	<key>fragmentOrientation</key>
+	<string>scheduleObserver</string>
+	<key>gatePressure</key>
+	<string>shouldProcessDescriptor</string>
+	<key>instructionhead</key>
+	<string>interfacesubscriber</string>
+	<key>rebuildcurve</key>
+	<string>unmountgesturedetector</string>
+	<key>reusableSpine</key>
+	<string>largeSession</string>
+	<key>shouldRestartRow</key>
+	<string>rapidsplitter</string>
+	<key>shouldRestartShader</key>
+	<string>calculatePopup</string>
+	<key>smalllayoutinset</key>
+	<string>parallelModulus</string>
+</dict>
+</plist>

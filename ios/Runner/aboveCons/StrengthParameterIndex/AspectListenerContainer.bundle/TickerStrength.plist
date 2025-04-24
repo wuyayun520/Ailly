@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activatedTrigger</key>
+	<string>secondDuration</string>
+	<key>draggableDecoration</key>
+	<string>tappableinteger</string>
+	<key>spriteobserversize</key>
+	<string>renameradius</string>
+	<key>staticBrush</key>
+	<string>cupertinoConnector</string>
+</dict>
+</plist>

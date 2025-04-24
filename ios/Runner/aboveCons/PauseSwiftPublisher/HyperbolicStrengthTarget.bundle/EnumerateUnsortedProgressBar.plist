@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>buttonpadding</key>
+	<string>dynamicLifecycle</string>
+	<key>controllerchainleft</key>
+	<string>subtleFactory</string>
+	<key>missedPicker</key>
+	<string>captureGroup</string>
+	<key>robustMonster</key>
+	<string>constraintScale</string>
+	<key>shownode</key>
+	<string>shouldSerializeSine</string>
+	<key>tabviewHue</key>
+	<string>shouldYieldCoordinator</string>
+	<key>transformerstate</key>
+	<string>loadcallback</string>
+</dict>
+</plist>

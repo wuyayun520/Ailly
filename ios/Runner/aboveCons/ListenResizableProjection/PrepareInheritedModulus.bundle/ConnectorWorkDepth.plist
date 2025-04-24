@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>binarypresenter</key>
+	<string>otherProvision</string>
+	<key>createsubscription</key>
+	<string>otherConstant</string>
+	<key>cupertinoBaseline</key>
+	<string>dataFeedback</string>
+	<key>dependencytexture</key>
+	<string>reactiveInitiative</string>
+	<key>disparateBorder</key>
+	<string>invokeStream</string>
+	<key>euclideancontrollerdelay</key>
+	<string>protectedTable</string>
+	<key>independentActivity</key>
+	<string>flexibleerrorinset</string>
+	<key>shouldObserveBox</key>
+	<string>cupertinoConstraint</string>
+	<key>texturedirection</key>
+	<string>batchSpeed</string>
+</dict>
+</plist>

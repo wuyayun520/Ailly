@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>desktopPublisher</key>
+	<string>flexibleAccessory</string>
+	<key>fragmentsMode</key>
+	<string>precisionAdapter</string>
+	<key>granularGroup</key>
+	<string>loopbottom</string>
+	<key>isanimatedcontainer</key>
+	<string>sizeStrategy</string>
+	<key>requiredController</key>
+	<string>volumeBound</string>
+	<key>requiredtaxonomy</key>
+	<string>detachMonster</string>
+	<key>shouldConnectNavigation</key>
+	<string>immediatePageView</string>
+	<key>sophisticatedtraversal</key>
+	<string>otherDropdownButton</string>
+	<key>uniqueDelivery</key>
+	<string>dialogsComposite</string>
+</dict>
+</plist>

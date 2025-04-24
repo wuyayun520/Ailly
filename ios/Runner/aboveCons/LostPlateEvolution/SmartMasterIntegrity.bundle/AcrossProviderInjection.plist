@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>arithmeticSplitter</key>
+	<string>shouldFormatController</string>
+	<key>chartjobscale</key>
+	<string>traversalSize</string>
+	<key>customFrame</key>
+	<string>shouldFormatDimension</string>
+	<key>layoutlayout</key>
+	<string>storeRate</string>
+	<key>metricsDuration</key>
+	<string>finishReference</string>
+	<key>modelBorder</key>
+	<string>efficiencyTheme</string>
+</dict>
+</plist>

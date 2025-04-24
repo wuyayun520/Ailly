@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>concretetraversal</key>
+	<string>vectorizeGroup</string>
+	<key>fixedVector</key>
+	<string>skirtFrequency</string>
+	<key>gradientFrequency</key>
+	<string>canInitializePadding</string>
+	<key>greatalignmentfeedback</key>
+	<string>integeractionfeedback</string>
+	<key>hardreliability</key>
+	<string>joinerScale</string>
+	<key>pageviewPosition</key>
+	<string>workflowspeed</string>
+	<key>significantSprite</key>
+	<string>eagerBullet</string>
+	<key>uniqueSymbol</key>
+	<string>shouldReplaceBuilder</string>
+</dict>
+</plist>

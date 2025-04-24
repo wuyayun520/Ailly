@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>dropdownbuttonDirection</key>
+	<string>creategrayscale</string>
+	<key>kernelVelocity</key>
+	<string>injectState</string>
+	<key>largeInfo</key>
+	<string>robustInterface</string>
+	<key>usedOffset</key>
+	<string>explicitTransition</string>
+</dict>
+</plist>

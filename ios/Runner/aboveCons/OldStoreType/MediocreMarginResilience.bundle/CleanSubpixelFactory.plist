@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>capsuleconsumption</key>
+	<string>persistText</string>
+	<key>implementtool</key>
+	<string>shouldDecodeGesture</string>
+	<key>primaryListView</key>
+	<string>rebuildview</string>
+	<key>stackasframework</key>
+	<string>accessibleStateless</string>
+</dict>
+</plist>

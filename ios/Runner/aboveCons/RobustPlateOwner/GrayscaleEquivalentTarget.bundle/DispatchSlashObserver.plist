@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>defaultSwitch</key>
+	<string>hardNotifier</string>
+	<key>enabledTriangles</key>
+	<string>radiusShape</string>
+	<key>handlersincemode</key>
+	<string>shouldUnmountNotifier</string>
+	<key>layerneartype</key>
+	<string>criticalPageView</string>
+	<key>modelpublisher</key>
+	<string>defaultTheme</string>
+	<key>radioFormat</key>
+	<string>replicateUseCase</string>
+	<key>shouldSkipCache</key>
+	<string>sustainableStream</string>
+</dict>
+</plist>

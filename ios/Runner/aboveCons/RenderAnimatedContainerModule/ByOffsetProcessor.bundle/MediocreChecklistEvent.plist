@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>columnDelay</key>
+	<string>deployGraph</string>
+	<key>comprehensiveMetrics</key>
+	<string>canParseHeap</string>
+	<key>concurrentConfiguration</key>
+	<string>chartVariable</string>
+	<key>decodefactory</key>
+	<string>canSerializeGradient</string>
+	<key>deferredListView</key>
+	<string>numericalMobile</string>
+	<key>iterativeobserver</key>
+	<string>smalllistener</string>
+	<key>restoretransition</key>
+	<string>updatedependency</string>
+	<key>themesaturation</key>
+	<string>compositionalConsumer</string>
+	<key>transformentity</key>
+	<string>declarativeAscent</string>
+	<key>yieldsubscription</key>
+	<string>desktopConstant</string>
+</dict>
+</plist>

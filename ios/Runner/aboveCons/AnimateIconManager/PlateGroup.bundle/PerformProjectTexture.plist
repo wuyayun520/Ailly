@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>discardedReducer</key>
+	<string>positionColor</string>
+	<key>fusedStorage</key>
+	<string>bundleButton</string>
+	<key>multiCompletion</key>
+	<string>displayableSignature</string>
+	<key>screenandvar</key>
+	<string>commonMonster</string>
+	<key>shouldFetchMember</key>
+	<string>specifyMember</string>
+	<key>tappableConverter</key>
+	<string>titleRight</string>
+</dict>
+</plist>

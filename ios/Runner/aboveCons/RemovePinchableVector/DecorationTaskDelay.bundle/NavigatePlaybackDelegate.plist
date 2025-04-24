@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>agilewrapper</key>
+	<string>initializeStamp</string>
+	<key>borderSize</key>
+	<string>challengeInterval</string>
+	<key>commonUnary</key>
+	<string>robustInteraction</string>
+	<key>disabledFilter</key>
+	<string>mountResource</string>
+	<key>menuStyle</key>
+	<string>loadProtocol</string>
+	<key>protectedThreshold</key>
+	<string>canPersistWorkflow</string>
+	<key>smallmanageropacity</key>
+	<string>requiredScene</string>
+	<key>specifySchema</key>
+	<string>hardHash</string>
+</dict>
+</plist>

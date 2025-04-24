@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accessibleConsumer</key>
+	<string>unactivatedItem</string>
+	<key>composableIcon</key>
+	<string>subpixelscale</string>
+	<key>endtween</key>
+	<string>animatedExpanded</string>
+	<key>interfaceAppearance</key>
+	<string>columnType</string>
+	<key>shouldBindRole</key>
+	<string>bulletCycle</string>
+	<key>subsequentButton</key>
+	<string>shouldRouteRichText</string>
+	<key>tabbarsystemvalidation</key>
+	<string>captureNavigator</string>
+</dict>
+</plist>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animationcount</key>
+	<string>synchronousTheme</string>
+	<key>inheritedOptimizer</key>
+	<string>replicateObserver</string>
+	<key>popsize</key>
+	<string>accordionDimension</string>
+	<key>shouldDismissAlert</key>
+	<string>shouldRestartSine</string>
+	<key>shouldpusharithmetic</key>
+	<string>canEndSession</string>
+</dict>
+</plist>

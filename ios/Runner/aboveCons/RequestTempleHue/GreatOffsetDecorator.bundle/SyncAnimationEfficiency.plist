@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>autoCurve</key>
+	<string>prevAsync</string>
+	<key>listenscene</key>
+	<string>optimizerrotation</string>
+	<key>materialcompleter</key>
+	<string>canPublishDropdownButton</string>
+	<key>otherReference</key>
+	<string>ephemeralModel</string>
+	<key>textVelocity</key>
+	<string>shouldObserveBorder</string>
+</dict>
+</plist>

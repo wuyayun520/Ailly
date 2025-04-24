@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>advancedResource</key>
+	<string>euclideanTable</string>
+	<key>associatedoperation</key>
+	<string>shouldLayoutPromise</string>
+	<key>backwardContrast</key>
+	<string>materialTabView</string>
+	<key>lastmethod</key>
+	<string>canReplaceDimension</string>
+	<key>smartImage</key>
+	<string>backwardQueue</string>
+	<key>stackwidget</key>
+	<string>keyinterface</string>
+</dict>
+</plist>

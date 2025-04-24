@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accordionIntensity</key>
+	<string>canUpdateCaption</string>
+	<key>channelVisible</key>
+	<string>canEncodeAccessory</string>
+	<key>custompaintimpact</key>
+	<string>cleanResolver</string>
+	<key>shouldUnmountNotifier</key>
+	<string>cubitKind</string>
+	<key>uniformFinder</key>
+	<string>specifyMovement</string>
+	<key>webCapacity</key>
+	<string>detachTouch</string>
+</dict>
+</plist>

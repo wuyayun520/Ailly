@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>acceleratetimer</key>
+	<string>shouldDismissScaffold</string>
+	<key>constraintbottom</key>
+	<string>isLabel</string>
+	<key>cubitbrightness</key>
+	<string>pinchableInkWell</string>
+	<key>discardedtraversal</key>
+	<string>shouldObservePlate</string>
+	<key>globalresponder</key>
+	<string>arithmeticAnimator</string>
+	<key>imperativeIndicator</key>
+	<string>processProtocol</string>
+</dict>
+</plist>

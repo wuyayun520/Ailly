@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>disabledSlash</key>
+	<string>sensorAction</string>
+	<key>fixedunarystate</key>
+	<string>spineFacade</string>
+	<key>hasgraphic</key>
+	<string>collectionBehavior</string>
+	<key>imperativeinterface</key>
+	<string>delicateModel</string>
+	<key>observersingletonbrightness</key>
+	<string>alignmentVelocity</string>
+	<key>originalcurve</key>
+	<string>composableScroller</string>
+	<key>shouldNavigateButton</key>
+	<string>continueStream</string>
+</dict>
+</plist>

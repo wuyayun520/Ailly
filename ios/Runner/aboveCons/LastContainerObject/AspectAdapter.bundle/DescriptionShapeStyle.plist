@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>associatedtickerappearance</key>
+	<string>calculateZone</string>
+	<key>declarativeData</key>
+	<string>animationskewx</string>
+	<key>elementAppearance</key>
+	<string>arithmeticflags</string>
+	<key>interactiveHash</key>
+	<string>allocatortheme</string>
+	<key>parallelReceiver</key>
+	<string>canPresentProjection</string>
+	<key>shouldTransformNotifier</key>
+	<string>signatureLeft</string>
+	<key>temporaryAsset</key>
+	<string>storyboardStage</string>
+	<key>usecaseState</key>
+	<string>immediateSplitter</string>
+</dict>
+</plist>

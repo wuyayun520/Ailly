@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>binaryperbuffer</key>
+	<string>skinnode</string>
+	<key>encodegraph</key>
+	<string>reactivecontrollertransparency</string>
+	<key>independentInterpolation</key>
+	<string>sortedSchema</string>
+	<key>independentMedia</key>
+	<string>quaternionFeedback</string>
+</dict>
+</plist>

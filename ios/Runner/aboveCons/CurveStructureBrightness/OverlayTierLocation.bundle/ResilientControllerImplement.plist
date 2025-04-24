@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>checkboxName</key>
+	<string>declarativeImage</string>
+	<key>consumptionTop</key>
+	<string>accessibleVariant</string>
+	<key>declarativeGraph</key>
+	<string>radiusSkewX</string>
+	<key>dedicatedTrigger</key>
+	<string>channelversusvalue</string>
+	<key>mediumCatalyst</key>
+	<string>dedicatedProvider</string>
+</dict>
+</plist>

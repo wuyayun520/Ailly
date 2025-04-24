@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>contractionSaturation</key>
+	<string>disabledTouch</string>
+	<key>opaqueScenario</key>
+	<string>offsetmusic</string>
+	<key>resiliencebottom</key>
+	<string>shouldCancelSwitch</string>
+	<key>shouldValidateInterpolation</key>
+	<string>informationContrast</string>
+	<key>shouldformatinteger</key>
+	<string>dedicatedinfrastructure</string>
+</dict>
+</plist>

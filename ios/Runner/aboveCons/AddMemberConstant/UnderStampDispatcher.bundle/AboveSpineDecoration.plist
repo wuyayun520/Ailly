@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>customizedCard</key>
+	<string>euclideanbuttoncolor</string>
+	<key>gridFormat</key>
+	<string>compareChart</string>
+	<key>navigatortimer</key>
+	<string>widgetTint</string>
+	<key>shouldContinueCaption</key>
+	<string>typicalCheckbox</string>
+	<key>shouldPersistSegment</key>
+	<string>exponentactiontag</string>
+	<key>shouldTransformStateless</key>
+	<string>functionalTimeline</string>
+	<key>symmetricComposition</key>
+	<string>discardedInterface</string>
+	<key>viewbandwidth</key>
+	<string>fragmentCount</string>
+</dict>
+</plist>

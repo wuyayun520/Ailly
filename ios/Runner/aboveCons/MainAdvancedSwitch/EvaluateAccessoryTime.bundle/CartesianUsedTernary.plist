@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>alignmentInterval</key>
+	<string>iterativeResponse</string>
+	<key>originalCaption</key>
+	<string>spriteposition</string>
+	<key>protectedBandwidth</key>
+	<string>prismaticFinder</string>
+	<key>radioCenter</key>
+	<string>standaloneTentative</string>
+	<key>reductionOrientation</key>
+	<string>staticProtocol</string>
+	<key>updateasset</key>
+	<string>sizedboxScope</string>
+	<key>visibleherobrightness</key>
+	<string>shouldCancelLog</string>
+</dict>
+</plist>

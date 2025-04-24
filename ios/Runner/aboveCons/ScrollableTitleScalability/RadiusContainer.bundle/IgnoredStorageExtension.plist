@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>gradientspacing</key>
+	<string>difficultController</string>
+	<key>resiliencePressure</key>
+	<string>canResumeAppBar</string>
+	<key>responsiveAnimator</key>
+	<string>recursionTail</string>
+	<key>techniqueCoord</key>
+	<string>primaryModal</string>
+	<key>zoneamortization</key>
+	<string>sortedHistogram</string>
+</dict>
+</plist>

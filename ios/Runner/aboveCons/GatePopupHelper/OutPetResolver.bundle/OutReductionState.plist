@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>adaptivedelegatekind</key>
+	<string>dedicatedMapper</string>
+	<key>disabledBox</key>
+	<string>shouldSetStateTernary</string>
+	<key>nibEdge</key>
+	<string>sortedCapsule</string>
+	<key>persistentoptionvisibility</key>
+	<string>shouldSkipCollection</string>
+	<key>shouldAttachTabBar</key>
+	<string>canDismissExtension</string>
+	<key>shouldRebuildPlayback</key>
+	<string>collectioncontrast</string>
+	<key>shouldStartNotification</key>
+	<string>sliderrestriction</string>
+	<key>timerproxyduration</key>
+	<string>requestInjection</string>
+	<key>uniformMaster</key>
+	<string>accessibleCycle</string>
+</dict>
+</plist>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>gemfrequency</key>
+	<string>shouldhandlesemantics</string>
+	<key>mutableobservercontrast</key>
+	<string>lostEfficiency</string>
+	<key>originalspriteshade</key>
+	<string>unschedulepreview</string>
+	<key>resizableSubpixel</key>
+	<string>shouldLayoutBaseline</string>
+</dict>
+</plist>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>bindinjection</key>
+	<string>dialogscharacteristic</string>
+	<key>consultativeTimeline</key>
+	<string>statefulnib</string>
+	<key>crudeMovement</key>
+	<string>petPhase</string>
+	<key>hascache</key>
+	<string>shouldUnbindSample</string>
+	<key>playbackLeft</key>
+	<string>interactiveTraversal</string>
+	<key>substantialAsync</key>
+	<string>intensityMemento</string>
+</dict>
+</plist>

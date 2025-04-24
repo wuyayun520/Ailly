@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>graphTop</key>
+	<string>otherAnalyzer</string>
+	<key>mainProvision</key>
+	<string>canDisconnectUsage</string>
+	<key>mediauntilmemento</key>
+	<string>titleFormat</string>
+	<key>popupworkhue</key>
+	<string>sanitizeCallback</string>
+	<key>resizableBuffer</key>
+	<string>shouldPublishDocument</string>
+	<key>responsePosition</key>
+	<string>strokeShade</string>
+</dict>
+</plist>

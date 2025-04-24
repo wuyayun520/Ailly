@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>capacitiesRate</key>
+	<string>resetHash</string>
+	<key>customizedSignature</key>
+	<string>shouldHandleNotification</string>
+	<key>permanentGram</key>
+	<string>replicateheap</string>
+	<key>renderersize</key>
+	<string>priorStorage</string>
+	<key>shouldPublishGestureDetector</key>
+	<string>shouldRenderCharacter</string>
+	<key>statefulAsync</key>
+	<string>canValidateTransition</string>
+	<key>statefulObject</key>
+	<string>gramsize</string>
+</dict>
+</plist>

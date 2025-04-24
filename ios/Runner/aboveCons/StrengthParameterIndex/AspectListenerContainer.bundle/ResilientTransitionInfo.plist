@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cancelnavigation</key>
+	<string>accessibleRow</string>
+	<key>cupertinoReliability</key>
+	<string>createFuture</string>
+	<key>evolutionLocation</key>
+	<string>keepTextField</string>
+	<key>overlayBottom</key>
+	<string>concreteActivity</string>
+	<key>protectedSensor</key>
+	<string>cachehue</string>
+	<key>shouldDisposeNotifier</key>
+	<string>mixinTween</string>
+	<key>shouldUnmountedContraction</key>
+	<string>partitionQueue</string>
+	<key>shoulddispatchstream</key>
+	<string>chooseroffset</string>
+	<key>statelessInteractor</key>
+	<string>startTool</string>
+	<key>timerversuslevel</key>
+	<string>bitratePlatform</string>
+</dict>
+</plist>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>asynchronousintensity</key>
+	<string>resilientMetadata</string>
+	<key>basicConverter</key>
+	<string>semanticsStatus</string>
+	<key>concreteRenderer</key>
+	<string>shouldStartNotifier</string>
+	<key>independentPolyfill</key>
+	<string>geometricSession</string>
+	<key>paintertype</key>
+	<string>nodedepth</string>
+	<key>shouldUnmountView</key>
+	<string>skipAccessory</string>
+</dict>
+</plist>

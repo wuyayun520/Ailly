@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>mediumAccessory</key>
+	<string>replaceSlider</string>
+	<key>nodeColor</key>
+	<string>autoGem</string>
+	<key>priorBox</key>
+	<string>resilientNorm</string>
+	<key>rowrate</key>
+	<string>canDisposeNotifier</string>
+	<key>shouldLayoutConvolution</key>
+	<string>radioLocation</string>
+	<key>shouldSaveGram</key>
+	<string>similarscroller</string>
+	<key>timerTension</key>
+	<string>streamlineProgressBar</string>
+</dict>
+</plist>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>checklistwithfacade</key>
+	<string>replacetheme</string>
+	<key>columnFormat</key>
+	<string>slashspacing</string>
+	<key>customizedcluster</key>
+	<string>tappableProvision</string>
+	<key>interactiveAsset</key>
+	<string>variantstateright</string>
+	<key>lastDisclaimer</key>
+	<string>resultPrototype</string>
+	<key>listenerInteraction</key>
+	<string>canSkipAnimatedContainer</string>
+	<key>mapType</key>
+	<string>usecaseormemento</string>
+	<key>retainedMomentum</key>
+	<string>sizeVisibility</string>
+	<key>robustTriangles</key>
+	<string>responsiveCoordinator</string>
+	<key>slashRate</key>
+	<string>functionalmodal</string>
+</dict>
+</plist>

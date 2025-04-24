@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>capacitiesTransparency</key>
+	<string>intermediateMapper</string>
+	<key>connectorSkewY</key>
+	<string>dismissCell</string>
+	<key>curveleft</key>
+	<string>nodeAlignment</string>
+	<key>efficiencyAlignment</key>
+	<string>smartObject</string>
+	<key>missedWidget</key>
+	<string>canRestartCursor</string>
+	<key>multiModulus</key>
+	<string>hasequalization</string>
+	<key>sequentialasync</key>
+	<string>nativeRepository</string>
+	<key>staticTweak</key>
+	<string>filterCount</string>
+</dict>
+</plist>

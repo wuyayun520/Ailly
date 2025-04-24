@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>currentUnary</key>
+	<string>accordionRadio</string>
+	<key>customizedOption</key>
+	<string>aspectSpeed</string>
+	<key>globalPrecision</key>
+	<string>storagecontainadapter</string>
+	<key>handlerShade</key>
+	<string>streamsingletonorientation</string>
+	<key>lastEquipment</key>
+	<string>canMountActivity</string>
+	<key>mendscale</key>
+	<string>geometriccoordinator</string>
+	<key>offsetSkewX</key>
+	<string>seamlessListView</string>
+	<key>shouldKeepPlate</key>
+	<string>kernelInset</string>
+	<key>shouldPublishSkin</key>
+	<string>compositiondirection</string>
+	<key>shouldRouteOverlay</key>
+	<string>shouldTrainMonster</string>
+</dict>
+</plist>

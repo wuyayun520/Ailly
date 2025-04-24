@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>associatecompleter</key>
+	<string>sophisticatedRepository</string>
+	<key>decodewidget</key>
+	<string>skipColumn</string>
+	<key>hardImage</key>
+	<string>shouldFinishProtocol</string>
+	<key>instantiategesturedetector</key>
+	<string>ignoredSplitter</string>
+	<key>normalAlpha</key>
+	<string>interceptoptimizer</string>
+	<key>segmentSize</key>
+	<string>replacebutton</string>
+	<key>shouldPrepareGrayscale</key>
+	<string>interpolateResolver</string>
+	<key>tableEdge</key>
+	<string>commonAction</string>
+	<key>viewimpression</key>
+	<string>numericalDistinction</string>
+</dict>
+</plist>

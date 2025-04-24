@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>hashrate</key>
+	<string>canRouteStep</string>
+	<key>lifecycleMomentum</key>
+	<string>animationInset</string>
+	<key>routeInterval</key>
+	<string>missedResponse</string>
+	<key>toolFlags</key>
+	<string>cupertinoDuration</string>
+</dict>
+</plist>

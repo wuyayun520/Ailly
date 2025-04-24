@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>challengeDirection</key>
+	<string>advancedSpecifier</string>
+	<key>interactionOrigin</key>
+	<string>sessionactiondistance</string>
+	<key>mechanismTag</key>
+	<string>touchTransparency</string>
+	<key>offsetinteraction</key>
+	<string>taskProcess</string>
+	<key>publicCharacter</key>
+	<string>singletonDistance</string>
+	<key>shouldDisposeCoordinator</key>
+	<string>resourcevalidation</string>
+</dict>
+</plist>

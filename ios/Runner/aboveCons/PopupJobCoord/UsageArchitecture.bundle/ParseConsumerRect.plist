@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>compositionalUseCase</key>
+	<string>startCheckbox</string>
+	<key>globalMatrix</key>
+	<string>prevConsumer</string>
+	<key>remediationacceleration</key>
+	<string>primaryPresenter</string>
+	<key>robustTolerance</key>
+	<string>canvasLeft</string>
+	<key>sophisticatedSegue</key>
+	<string>createGesture</string>
+</dict>
+</plist>

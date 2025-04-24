@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>gatebehavior</key>
+	<string>lossdistance</string>
+	<key>interfaceDistance</key>
+	<string>effectStage</string>
+	<key>lastPrecision</key>
+	<string>greatCube</string>
+	<key>permissiveTentative</key>
+	<string>cursorparameterduration</string>
+	<key>shouldResumeCompletion</key>
+	<string>commonTextField</string>
+	<key>staticDropdownButton</key>
+	<string>destroyChart</string>
+</dict>
+</plist>

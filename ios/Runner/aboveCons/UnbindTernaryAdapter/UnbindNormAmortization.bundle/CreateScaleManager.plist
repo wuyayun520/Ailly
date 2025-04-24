@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>directItem</key>
+	<string>connectSign</string>
+	<key>elementMargin</key>
+	<string>inactiveTheme</string>
+	<key>inactiveStrength</key>
+	<string>alphastateskewx</string>
+	<key>informationSkewX</key>
+	<string>asynchronousMaterial</string>
+	<key>intuitiveSine</key>
+	<string>unsortedGem</string>
+	<key>sharedcolor</key>
+	<string>sceneDensity</string>
+	<key>shouldMountPositioned</key>
+	<string>processFragment</string>
+	<key>shouldPauseStream</key>
+	<string>fusedDelivery</string>
+	<key>trianglesBehavior</key>
+	<string>cupertinoTweak</string>
+</dict>
+</plist>

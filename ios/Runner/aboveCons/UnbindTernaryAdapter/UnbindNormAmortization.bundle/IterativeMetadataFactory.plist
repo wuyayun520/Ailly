@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>fixedBullet</key>
+	<string>gradientFacade</string>
+	<key>functionalcompletion</key>
+	<string>listenCell</string>
+	<key>immediateComposition</key>
+	<string>canCreateOption</string>
+	<key>lazyCupertino</key>
+	<string>shouldRestartGrayscale</string>
+	<key>multiService</key>
+	<string>interactiveinteractor</string>
+	<key>signatureAcceleration</key>
+	<string>sessionIndex</string>
+</dict>
+</plist>

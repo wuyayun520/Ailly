@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>functionalInitiative</key>
+	<string>protectedcubittransparency</string>
+	<key>mobileCube</key>
+	<string>shouldPresentScaffold</string>
+	<key>notifymission</key>
+	<string>shouldContinueMission</string>
+	<key>profileSkewX</key>
+	<string>attachTheme</string>
+	<key>scrollablePicker</key>
+	<string>certificateadapterspacing</string>
+	<key>secondVideo</key>
+	<string>imperativetitleindex</string>
+	<key>shouldInitializeFragment</key>
+	<string>notationInterval</string>
+</dict>
+</plist>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>customizedTheme</key>
+	<string>customizedalertalignment</string>
+	<key>gridviewacceleration</key>
+	<string>canDispatchSwitch</string>
+	<key>interactionMargin</key>
+	<string>certificateMediator</string>
+	<key>resilientSubpixel</key>
+	<string>significantusage</string>
+	<key>secondIcon</key>
+	<string>permanentCurve</string>
+	<key>shouldHandleCursor</key>
+	<string>shouldStopPriority</string>
+	<key>shouldSubscribeOverlay</key>
+	<string>invisibleThreshold</string>
+	<key>shouldUnbindGate</key>
+	<string>composableAllocator</string>
+	<key>sortedRemediation</key>
+	<string>currentBrush</string>
+	<key>usedButton</key>
+	<string>semanticAllocator</string>
+</dict>
+</plist>

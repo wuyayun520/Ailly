@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animatedlabelbehavior</key>
+	<string>showGrain</string>
+	<key>buttoncompositealignment</key>
+	<string>layoutSign</string>
+	<key>dispatchsingleton</key>
+	<string>buildimage</string>
+	<key>dynamicSession</key>
+	<string>canEmitBoxShadow</string>
+	<key>greatFragments</key>
+	<string>shouldCancelCurve</string>
+	<key>locktransition</key>
+	<string>relationalContrast</string>
+	<key>lostIntensity</key>
+	<string>requiredNorm</string>
+	<key>remainderFormat</key>
+	<string>shouldMountDocument</string>
+	<key>webGraphic</key>
+	<string>allocatorRotation</string>
+</dict>
+</plist>

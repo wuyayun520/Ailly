@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accessibleAsset</key>
+	<string>sustainableListView</string>
+	<key>activeDescription</key>
+	<string>customizedCompleter</string>
+	<key>originalMapper</key>
+	<string>shouldUnmountedOperation</string>
+	<key>resilientStore</key>
+	<string>shouldPopChecklist</string>
+	<key>responsiveRadius</key>
+	<string>draggableWidget</string>
+	<key>shouldDisconnectInkWell</key>
+	<string>statebottom</string>
+	<key>stacktransition</key>
+	<string>partitionChart</string>
+	<key>uniformplateshape</key>
+	<string>reductionEnvironment</string>
+</dict>
+</plist>

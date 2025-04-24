@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>apertureStyle</key>
+	<string>timeColor</string>
+	<key>captionTag</key>
+	<string>primaryMetrics</string>
+	<key>elasticPreview</key>
+	<string>completionVisible</string>
+	<key>equivalentShape</key>
+	<string>regulateobserver</string>
+	<key>graphStatus</key>
+	<string>cupertinolayerleft</string>
+	<key>localAnalogy</key>
+	<string>canNavigateCurve</string>
+	<key>numericalEquivalent</key>
+	<string>subsequentAwait</string>
+</dict>
+</plist>

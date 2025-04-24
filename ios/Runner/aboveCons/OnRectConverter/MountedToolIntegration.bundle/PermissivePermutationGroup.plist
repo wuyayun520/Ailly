@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>characterAcceleration</key>
+	<string>boxTension</string>
+	<key>ephemeralCompleter</key>
+	<string>defaultShader</string>
+	<key>keyPresenter</key>
+	<string>channelsintegration</string>
+	<key>shouldyieldcache</key>
+	<string>factoryformat</string>
+	<key>sustainableerrorvalidation</key>
+	<string>canLoadConsumer</string>
+</dict>
+</plist>

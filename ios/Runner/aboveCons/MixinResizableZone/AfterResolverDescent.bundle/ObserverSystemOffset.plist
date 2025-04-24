@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>looparoundcycle</key>
+	<string>inactiveListener</string>
+	<key>lossSpeed</key>
+	<string>shouldTransitionScale</string>
+	<key>mediocreResilience</key>
+	<string>capacitiesAction</string>
+	<key>synchronousConvolution</key>
+	<string>rowParameter</string>
+	<key>temporaryMetrics</key>
+	<string>missionType</string>
+</dict>
+</plist>

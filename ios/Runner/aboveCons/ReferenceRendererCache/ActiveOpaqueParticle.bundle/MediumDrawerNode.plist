@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animatecursor</key>
+	<string>mountedMediaQuery</string>
+	<key>buttondecoratortail</key>
+	<string>uniqueexponentbehavior</string>
+	<key>meshBrightness</key>
+	<string>touchnotation</string>
+	<key>movementcenter</key>
+	<string>resizableDescriptor</string>
+	<key>multiIntensity</key>
+	<string>nextappbar</string>
+	<key>shouldDispatchExponent</key>
+	<string>slashAdapter</string>
+	<key>shouldFormatCompletion</key>
+	<string>shouldPersistMusic</string>
+	<key>shouldUnmountedGradient</key>
+	<string>streamBottom</string>
+	<key>shouldlayoutscreen</key>
+	<string>difficultAnimation</string>
+</dict>
+</plist>

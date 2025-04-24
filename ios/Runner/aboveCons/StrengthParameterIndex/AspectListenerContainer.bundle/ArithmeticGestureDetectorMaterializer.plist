@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>dialogssincevisitor</key>
+	<string>nibFeedback</string>
+	<key>generatelayer</key>
+	<string>asynchronousMapper</string>
+	<key>geometricIntegrity</key>
+	<string>activeSymbol</string>
+	<key>inactiveGesture</key>
+	<string>shouldRenderBinary</string>
+	<key>prevFrame</key>
+	<string>specifyFinder</string>
+	<key>rowbeyondchain</key>
+	<string>shouldRenderMovement</string>
+	<key>scrollColor</key>
+	<string>enumerateTask</string>
+	<key>shouldUnbindDuration</key>
+	<string>histogramTag</string>
+	<key>statelessChapter</key>
+	<string>shouldFormatColumn</string>
+</dict>
+</plist>

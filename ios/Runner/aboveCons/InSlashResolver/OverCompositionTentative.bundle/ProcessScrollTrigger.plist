@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>densetopictint</key>
+	<string>buildsegment</string>
+	<key>giftTint</key>
+	<string>cycleParameter</string>
+	<key>shouldBindComposition</key>
+	<string>injectionAdapter</string>
+	<key>streamorientation</key>
+	<string>optimizeInteractor</string>
+	<key>streamstorage</key>
+	<string>shouldDecodeInteger</string>
+	<key>vectorimpact</key>
+	<string>shouldUnbindStoryboard</string>
+	<key>vertexTransparency</key>
+	<string>canAttachAnimation</string>
+</dict>
+</plist>

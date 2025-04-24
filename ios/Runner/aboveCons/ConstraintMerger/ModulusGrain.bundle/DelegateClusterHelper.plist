@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>criticalmargin</key>
+	<string>optimizerSystem</string>
+	<key>dedicatedTolerance</key>
+	<string>canValidateDimension</string>
+	<key>iterativeevaluation</key>
+	<string>originalChapter</string>
+	<key>nodeInterval</key>
+	<string>canvascompositefrequency</string>
+	<key>projectsaturation</key>
+	<string>hyperbolicAspect</string>
+	<key>resolvelistener</key>
+	<string>immutableProtocol</string>
+	<key>selectedalpha</key>
+	<string>prevCertificate</string>
+	<key>shouldResumeCaption</key>
+	<string>curverange</string>
+	<key>unactivatedScreen</key>
+	<string>continueFuture</string>
+</dict>
+</plist>

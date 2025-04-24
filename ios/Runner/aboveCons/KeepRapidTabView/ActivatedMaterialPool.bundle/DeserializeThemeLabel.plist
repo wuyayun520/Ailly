@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>frameHead</key>
+	<string>arithmeticQueue</string>
+	<key>quantizationasync</key>
+	<string>receiverTail</string>
+	<key>resilientPrecision</key>
+	<string>pushIsolate</string>
+	<key>slideralonglayer</key>
+	<string>queueFormat</string>
+	<key>spriteRate</key>
+	<string>subtleNotifier</string>
+	<key>tolerancespacing</key>
+	<string>processorAlignment</string>
+	<key>transformnavigator</key>
+	<string>hasStep</string>
+</dict>
+</plist>

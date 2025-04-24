@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>concurrentAspect</key>
+	<string>basicThread</string>
+	<key>indicatorview</key>
+	<string>discardedTween</string>
+	<key>oldInformation</key>
+	<string>interpolationStrategy</string>
+	<key>polygonbottom</key>
+	<string>mediaSpacing</string>
+	<key>shouldHandleStep</key>
+	<string>asynclikememento</string>
+	<key>transformsymbol</key>
+	<string>mediaqueryName</string>
+</dict>
+</plist>

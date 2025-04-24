@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>secondSpecifier</key>
+	<string>ephemeralItem</string>
+	<key>shouldPopReference</key>
+	<string>prevtexture</string>
+	<key>shouldUnmountedStateless</key>
+	<string>diffableeventvisibility</string>
+	<key>smartReceiver</key>
+	<string>ephemeralQueue</string>
+	<key>zoneContrast</key>
+	<string>streamBehavior</string>
+</dict>
+</plist>

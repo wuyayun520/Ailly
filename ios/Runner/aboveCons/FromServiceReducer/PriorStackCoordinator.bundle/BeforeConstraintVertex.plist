@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>constructintensity</key>
+	<string>componentTransparency</string>
+	<key>detailSaturation</key>
+	<string>directTweak</string>
+	<key>futureasnumber</key>
+	<string>baselineoradapter</string>
+	<key>multireference</key>
+	<string>layoutParam</string>
+	<key>serviceperparameter</key>
+	<string>activeQuaternion</string>
+</dict>
+</plist>

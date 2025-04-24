@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activatedPreview</key>
+	<string>responsiveSlash</string>
+	<key>associatedBoxShadow</key>
+	<string>shouldPaintTabBar</string>
+	<key>customBullet</key>
+	<string>staticCombiner</string>
+	<key>densealphastate</key>
+	<string>shouldCancelConstraint</string>
+	<key>globalInformation</key>
+	<string>shouldCreatePageView</string>
+	<key>resizablerepositorycontrast</key>
+	<string>similardata</string>
+	<key>robustAmortization</key>
+	<string>originaldecorationinteraction</string>
+	<key>transpiletext</key>
+	<string>canObserveThread</string>
+</dict>
+</plist>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activeArithmetic</key>
+	<string>canDisposeTouch</string>
+	<key>beginnerBuilder</key>
+	<string>readRoute</string>
+	<key>concurrentProgressBar</key>
+	<string>rapidFragment</string>
+	<key>desktopThroughput</key>
+	<string>stackTension</string>
+	<key>firstShader</key>
+	<string>searcherEdge</string>
+	<key>shouldDetachTextField</key>
+	<string>shouldDeserializePrecision</string>
+	<key>shouldNavigateMomentum</key>
+	<string>movementDirection</string>
+</dict>
+</plist>

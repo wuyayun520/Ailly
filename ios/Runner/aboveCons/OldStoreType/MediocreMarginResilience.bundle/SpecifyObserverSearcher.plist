@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>associatedcompletion</key>
+	<string>shoulddisconnectsymbol</string>
+	<key>contractionTheme</key>
+	<string>shouldMountBullet</string>
+	<key>globalConstant</key>
+	<string>newestExpanded</string>
+	<key>heapHead</key>
+	<string>disconnectParticle</string>
+	<key>opaqueChannels</key>
+	<string>skirtHead</string>
+	<key>publishalert</key>
+	<string>elasticityCount</string>
+	<key>scaffoldinterpretertint</key>
+	<string>completedScaffold</string>
+	<key>schemastatus</key>
+	<string>canLoadGem</string>
+	<key>shouldMountedGridView</key>
+	<string>multiHistogram</string>
+	<key>shouldPersistGate</key>
+	<string>spotFlyweight</string>
+</dict>
+</plist>

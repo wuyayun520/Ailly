@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>associatedGrayscale</key>
+	<string>shouldDismissHistogram</string>
+	<key>composablegram</key>
+	<string>hierarchicalListView</string>
+	<key>isTheme</key>
+	<string>canPaintMonster</string>
+	<key>modelfeedback</key>
+	<string>actionvisible</string>
+	<key>normShape</key>
+	<string>integerStatus</string>
+	<key>rotateappbar</key>
+	<string>sizeobserverflags</string>
+	<key>scalerate</key>
+	<string>strokeType</string>
+	<key>subscriberSize</key>
+	<string>synchronousFrame</string>
+</dict>
+</plist>

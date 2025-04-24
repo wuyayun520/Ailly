@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>baselineForce</key>
+	<string>nibColor</string>
+	<key>cancelbuilder</key>
+	<string>unaryOffset</string>
+	<key>shouldPaintCycle</key>
+	<string>canDispatchBatch</string>
+	<key>touchCenter</key>
+	<string>nativeoverlayinset</string>
+	<key>webProvider</key>
+	<string>updateBase</string>
+</dict>
+</plist>

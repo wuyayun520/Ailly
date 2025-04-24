@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>constantVisibility</key>
+	<string>convertGroup</string>
+	<key>disabledMission</key>
+	<string>canListenAnimatedContainer</string>
+	<key>draggableAnalyzer</key>
+	<string>shouldInflateHeap</string>
+	<key>imperativeDescription</key>
+	<string>toolforce</string>
+	<key>injectcompleter</key>
+	<string>dependencyofcontext</string>
+	<key>localDescriptor</key>
+	<string>rebuildservice</string>
+</dict>
+</plist>

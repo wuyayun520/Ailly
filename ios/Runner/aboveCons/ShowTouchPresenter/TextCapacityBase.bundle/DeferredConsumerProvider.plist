@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>enabledSegment</key>
+	<string>streamStep</string>
+	<key>euclideanlabel</key>
+	<string>usedexpanded</string>
+	<key>fixedTexture</key>
+	<string>basicIntegrity</string>
+	<key>imperativeSpecifier</key>
+	<string>retainedQuaternion</string>
+	<key>permissivematerial</key>
+	<string>overrideParticle</string>
+</dict>
+</plist>

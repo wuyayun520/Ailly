@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>capacitiesSize</key>
+	<string>quitBloc</string>
+	<key>descriptorlatency</key>
+	<string>instantiateSubscription</string>
+	<key>diffableIntegration</key>
+	<string>injectpoint</string>
+	<key>fragmentinsidestage</key>
+	<string>newestImage</string>
+	<key>futureDepth</key>
+	<string>indicatorFramework</string>
+	<key>keySignature</key>
+	<string>tensorPosition</string>
+	<key>scalebound</key>
+	<string>reactiveBitrate</string>
+	<key>smartTolerance</key>
+	<string>basicRadius</string>
+	<key>staticCanvas</key>
+	<string>animateIndicator</string>
+</dict>
+</plist>

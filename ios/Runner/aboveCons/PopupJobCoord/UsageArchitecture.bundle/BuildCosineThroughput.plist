@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>deliveryResponse</key>
+	<string>composableMission</string>
+	<key>functionalWorkflow</key>
+	<string>canKeepTool</string>
+	<key>gridviewFlags</key>
+	<string>shouldDecodeMediaQuery</string>
+	<key>nextInteraction</key>
+	<string>implementObserver</string>
+</dict>
+</plist>

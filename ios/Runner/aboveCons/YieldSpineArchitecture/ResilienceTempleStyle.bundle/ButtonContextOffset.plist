@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>bulletefficiency</key>
+	<string>canCacheMonster</string>
+	<key>connectorOrientation</key>
+	<string>commonUnary</string>
+	<key>curvebuffer</key>
+	<string>replaceRow</string>
+	<key>mainGrid</key>
+	<string>requiredtweenfeedback</string>
+	<key>persistentresponsetension</key>
+	<string>specifySpecifier</string>
+	<key>pinchableIntegration</key>
+	<string>drawerright</string>
+	<key>shouldHandleDescriptor</key>
+	<string>gestureForce</string>
+	<key>subsequentFlex</key>
+	<string>routertint</string>
+	<key>uniformSample</key>
+	<string>sensorskewy</string>
+</dict>
+</plist>

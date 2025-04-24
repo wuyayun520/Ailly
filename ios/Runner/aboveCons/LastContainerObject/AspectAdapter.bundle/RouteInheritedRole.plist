@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>mediumlayer</key>
+	<string>asynchronousConnector</string>
+	<key>reactiveStroke</key>
+	<string>shouldRenderNavigation</string>
+	<key>scrollableProcessor</key>
+	<string>cachePadding</string>
+	<key>shouldPaintOperation</key>
+	<string>undertakeTitle</string>
+	<key>shouldPresentConstraint</key>
+	<string>webOptimizer</string>
+</dict>
+</plist>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cacheprofile</key>
+	<string>appbarTag</string>
+	<key>parallelSplitter</key>
+	<string>saveEqualization</string>
+	<key>releasegraph</key>
+	<string>canPrepareCapsule</string>
+	<key>respectiveDelivery</key>
+	<string>selectedPromise</string>
+</dict>
+</plist>

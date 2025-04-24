@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>backwardnavigator</key>
+	<string>lostPermutation</string>
+	<key>compositionthanlevel</key>
+	<string>unsortedSkin</string>
+	<key>delicateListener</key>
+	<string>reduceBloc</string>
+	<key>largeEffect</key>
+	<string>shouldEndSegue</string>
+</dict>
+</plist>

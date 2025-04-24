@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>curvewithoutvariable</key>
+	<string>canSaveStoryboard</string>
+	<key>lastIcon</key>
+	<string>hyperbolicLog</string>
+	<key>persistentCollection</key>
+	<string>fusedGridView</string>
+	<key>persistentVariant</key>
+	<string>gramAction</string>
+	<key>streamShade</key>
+	<string>entropyBuffer</string>
+</dict>
+</plist>

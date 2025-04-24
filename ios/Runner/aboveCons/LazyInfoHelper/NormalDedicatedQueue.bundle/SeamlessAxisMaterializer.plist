@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>ascentRight</key>
+	<string>adaptiveTopic</string>
+	<key>immediateAperture</key>
+	<string>consumerbrightness</string>
+	<key>masterHead</key>
+	<string>lostbinary</string>
+	<key>shouldDismissCatalyst</key>
+	<string>polyfillKind</string>
+	<key>trajectoryAcceleration</key>
+	<string>elasticSample</string>
+	<key>uniqueInjection</key>
+	<string>rebuildIndicator</string>
+</dict>
+</plist>

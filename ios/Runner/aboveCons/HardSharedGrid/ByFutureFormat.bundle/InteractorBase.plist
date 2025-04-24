@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>clusterAlignment</key>
+	<string>rectScale</string>
+	<key>commonbehavior</key>
+	<string>gateleveldistance</string>
+	<key>custompaintVisible</key>
+	<string>advancedStore</string>
+	<key>easySchema</key>
+	<string>navigateShader</string>
+	<key>hierarchicalScene</key>
+	<string>localizationPrototype</string>
+	<key>momentumdescription</key>
+	<string>alertstyletag</string>
+	<key>optimizerMomentum</key>
+	<string>remediationBorder</string>
+	<key>shouldMountSkirt</key>
+	<string>invisibleVertex</string>
+	<key>sophisticatedDetector</key>
+	<string>customUseCase</string>
+</dict>
+</plist>

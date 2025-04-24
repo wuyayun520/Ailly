@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>batchSaturation</key>
+	<string>shouldNavigateMember</string>
+	<key>fusedSpot</key>
+	<string>numericalOffset</string>
+	<key>persistentSwitch</key>
+	<string>durationAcceleration</string>
+	<key>responsiveBehavior</key>
+	<string>streamParam</string>
+	<key>shouldDeserializeChallenge</key>
+	<string>restartStamp</string>
+	<key>synchronousDropdownButton</key>
+	<string>emitframe</string>
+</dict>
+</plist>

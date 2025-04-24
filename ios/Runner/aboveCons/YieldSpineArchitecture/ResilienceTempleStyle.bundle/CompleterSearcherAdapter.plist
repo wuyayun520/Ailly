@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accessoryBorder</key>
+	<string>canReplaceNotification</string>
+	<key>axisalignment</key>
+	<string>checklistCommand</string>
+	<key>dependencyRotation</key>
+	<string>cursorstatus</string>
+	<key>missedBullet</key>
+	<string>desktopfragments</string>
+	<key>reusableResponder</key>
+	<string>integerFrequency</string>
+	<key>slashFormat</key>
+	<string>screenBottom</string>
+	<key>storagestate</key>
+	<string>pinchableTolerance</string>
+	<key>synchronousResolver</key>
+	<string>shouldPauseMaster</string>
+	<key>transformappbar</key>
+	<string>hardFactory</string>
+	<key>usageHead</key>
+	<string>onbulletchanged</string>
+</dict>
+</plist>

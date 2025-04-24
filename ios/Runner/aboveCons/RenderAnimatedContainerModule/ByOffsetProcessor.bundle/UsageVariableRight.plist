@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>backwardGem</key>
+	<string>aspectCycle</string>
+	<key>pinchableLatency</key>
+	<string>startresource</string>
+	<key>positionpicker</key>
+	<string>scaffoldinbuffer</string>
+	<key>statelessacceleration</key>
+	<string>dropdownbuttonradius</string>
+</dict>
+</plist>

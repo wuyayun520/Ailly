@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>aspectratioTheme</key>
+	<string>debugModel</string>
+	<key>delicateAnalogy</key>
+	<string>mutablesemantics</string>
+	<key>euclideanGroup</key>
+	<string>attachdropdownbutton</string>
+	<key>featureInset</key>
+	<string>canRouteRichText</string>
+	<key>fragmentsSkewX</key>
+	<string>setupError</string>
+	<key>responderBehavior</key>
+	<string>tableimage</string>
+	<key>shouldPersistBase</key>
+	<string>generateMenu</string>
+	<key>temporaryLayer</key>
+	<string>requestdistinction</string>
+</dict>
+</plist>

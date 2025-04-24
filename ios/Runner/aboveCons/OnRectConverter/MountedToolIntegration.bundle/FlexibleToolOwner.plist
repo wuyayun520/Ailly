@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>associatedCard</key>
+	<string>shouldpublishstateful</string>
+	<key>discovercaption</key>
+	<string>sequentialChannels</string>
+	<key>pageviewTop</key>
+	<string>navigatorMediator</string>
+	<key>rectangleCenter</key>
+	<string>resourceflyweightbound</string>
+	<key>shouldDisconnectEntropy</key>
+	<string>shouldDisposeScreen</string>
+	<key>slidersize</key>
+	<string>unaryvarcount</string>
+	<key>stepproxycenter</key>
+	<string>limitIntensity</string>
+</dict>
+</plist>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activeAudio</key>
+	<string>newestAnchor</string>
+	<key>asynchronousProvision</key>
+	<string>readSingleton</string>
+	<key>dedicatedexpandedmode</key>
+	<string>tangentAction</string>
+	<key>featurepressure</key>
+	<string>canConnectThread</string>
+	<key>greatEquivalent</key>
+	<string>iterativeDrawer</string>
+	<key>largetable</key>
+	<string>isspine</string>
+	<key>overlayrange</key>
+	<string>statelessWrapper</string>
+	<key>resizableSpot</key>
+	<string>appbarphasecount</string>
+</dict>
+</plist>

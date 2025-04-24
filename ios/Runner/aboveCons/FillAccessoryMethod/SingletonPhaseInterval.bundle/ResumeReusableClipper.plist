@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>directBrush</key>
+	<string>mediocreBase</string>
+	<key>ignoredTransformer</key>
+	<string>popMenu</string>
+	<key>mainWrapper</key>
+	<string>logarithmVariable</string>
+	<key>nativeradiussize</key>
+	<string>denseContainer</string>
+	<key>shouldPushCard</key>
+	<string>reconcileAlignment</string>
+</dict>
+</plist>

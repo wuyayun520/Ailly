@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>iconLeft</key>
+	<string>moveRadius</string>
+	<key>positionagainstproxy</key>
+	<string>shouldDecodeModulus</string>
+	<key>requireddimensioncontrast</key>
+	<string>streamaboutstyle</string>
+	<key>resilientinterfacestate</key>
+	<string>textjobacceleration</string>
+	<key>shouldCreateLabel</key>
+	<string>canPublishEqualization</string>
+</dict>
+</plist>

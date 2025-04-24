@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>agileThreshold</key>
+	<string>shouldSetStateCheckbox</string>
+	<key>granularLayer</key>
+	<string>loadsink</string>
+	<key>interpolatepreview</key>
+	<string>tabbarState</string>
+	<key>iterativeConfidentiality</key>
+	<string>consultativepresentersize</string>
+	<key>layoutasflyweight</key>
+	<string>captionmethodsize</string>
+	<key>onoperationchanged</key>
+	<string>sequentialcontainerposition</string>
+	<key>scrollableTimeline</key>
+	<string>completerProcess</string>
+	<key>shouldDetachLoss</key>
+	<string>locateIntensity</string>
+	<key>shouldPaintTabView</key>
+	<string>protectedSizedBox</string>
+	<key>shouldUnmountedAlert</key>
+	<string>marshalTimer</string>
+</dict>
+</plist>

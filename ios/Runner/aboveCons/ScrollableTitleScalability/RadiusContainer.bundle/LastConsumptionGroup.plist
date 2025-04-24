@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>beginnerJoiner</key>
+	<string>projectrate</string>
+	<key>constraintpadding</key>
+	<string>iterativeCell</string>
+	<key>controlleropacity</key>
+	<string>eagerConstant</string>
+	<key>dedicatedqueueindex</key>
+	<string>relationalRadio</string>
+	<key>histogramperparameter</key>
+	<string>synchronousDetector</string>
+	<key>resilientmetrics</key>
+	<string>descriptionuntiladapter</string>
+	<key>shouldUnmountedEntropy</key>
+	<string>sharedKernel</string>
+</dict>
+</plist>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>dedicatedDetector</key>
+	<string>euclideanTechnique</string>
+	<key>diversifiedOption</key>
+	<string>imperativebox</string>
+	<key>elasticbatch</key>
+	<string>checkboxState</string>
+	<key>mutableResilience</key>
+	<string>detailStatus</string>
+	<key>numericalCollection</key>
+	<string>sustainableColor</string>
+	<key>resultenvironmentflags</key>
+	<string>hyperbolictransitioninteraction</string>
+	<key>scopeBottom</key>
+	<string>masterBuffer</string>
+	<key>seamlessInteraction</key>
+	<string>transformerinfrastructure</string>
+	<key>spriteKind</key>
+	<string>notifyDecoration</string>
+</dict>
+</plist>

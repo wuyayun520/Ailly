@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>directInteger</key>
+	<string>diffablecursor</string>
+	<key>grayscalethroughmethod</key>
+	<string>interceptEntity</string>
+	<key>inheritedspine</key>
+	<string>pivotalLoader</string>
+	<key>lostMultiplication</key>
+	<string>constraintSaturation</string>
+	<key>missedCache</key>
+	<string>kernelbeyondstructure</string>
+	<key>promiseandproxy</key>
+	<string>adaptivegradientdepth</string>
+	<key>providerawaybuffer</key>
+	<string>binderresponse</string>
+	<key>replicaCoord</key>
+	<string>associatedSlider</string>
+	<key>shouldEncodeStream</key>
+	<string>updateService</string>
+</dict>
+</plist>

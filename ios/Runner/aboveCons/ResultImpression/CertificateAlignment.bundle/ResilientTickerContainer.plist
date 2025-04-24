@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accessibleparticleinteraction</key>
+	<string>infrastructureBrightness</string>
+	<key>coordinatorpicker</key>
+	<string>permanentPromise</string>
+	<key>cupertinomode</key>
+	<string>modalOpacity</string>
+	<key>curvePadding</key>
+	<string>currentSizedBox</string>
+	<key>difficultSizedBox</key>
+	<string>semanticcontroller</string>
+	<key>indicatorDistance</key>
+	<string>typicalMediaQuery</string>
+	<key>mutableGift</key>
+	<string>canPresentButton</string>
+	<key>paddingstrategyinterval</key>
+	<string>elasticConstraint</string>
+</dict>
+</plist>

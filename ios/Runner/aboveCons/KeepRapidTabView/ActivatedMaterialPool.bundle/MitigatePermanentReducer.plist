@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>disabledcomponent</key>
+	<string>shouldParseSession</string>
+	<key>initializepreview</key>
+	<string>sensorplatformdelay</string>
+	<key>lossStyle</key>
+	<string>directPlate</string>
+	<key>parallelChannels</key>
+	<string>navigationScale</string>
+	<key>resumestorage</key>
+	<string>storageforce</string>
+	<key>servicestyle</key>
+	<string>canStartBehavior</string>
+	<key>shouldSkipStep</key>
+	<string>scaleVisitor</string>
+</dict>
+</plist>

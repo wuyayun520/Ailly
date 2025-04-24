@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>bulletPosition</key>
+	<string>sortedThreshold</string>
+	<key>cupertinoWrapper</key>
+	<string>rectifyPresenter</string>
+	<key>enabledaction</key>
+	<string>storageValue</string>
+	<key>masterHue</key>
+	<string>widgetOrientation</string>
+	<key>persistentVector</key>
+	<string>titleFeedback</string>
+	<key>prismaticbuttonorientation</key>
+	<string>shouldRouteOption</string>
+	<key>schemaType</key>
+	<string>canResumeTabBar</string>
+	<key>shouldParseChannels</key>
+	<string>flexibleWrapper</string>
+	<key>techniquedistinction</key>
+	<string>stampCount</string>
+</dict>
+</plist>

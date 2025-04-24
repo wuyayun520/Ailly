@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accessiblebuilder</key>
+	<string>materializeworkflow</string>
+	<key>augmentcomposition</key>
+	<string>robustLabel</string>
+	<key>certificateBorder</key>
+	<string>deferredMethod</string>
+	<key>euclideanAspectRatio</key>
+	<string>techniqueComposite</string>
+	<key>lazyInkWell</key>
+	<string>poolPreview</string>
+	<key>shouldSerializeGrayscale</key>
+	<string>emitterRotation</string>
+</dict>
+</plist>

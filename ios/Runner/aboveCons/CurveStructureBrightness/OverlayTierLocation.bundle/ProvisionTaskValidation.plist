@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>compareentity</key>
+	<string>brushPhase</string>
+	<key>concreteBloc</key>
+	<string>statefulMovement</string>
+	<key>deflateconfiguration</key>
+	<string>shouldConnectAppBar</string>
+	<key>mobileScreen</key>
+	<string>transposeHandler</string>
+	<key>nextOccasion</key>
+	<string>materialTabBar</string>
+	<key>originalCache</key>
+	<string>eagerDetail</string>
+	<key>scrollableSplitter</key>
+	<string>canFetchBox</string>
+	<key>shouldAnimateTable</key>
+	<string>regulateFactory</string>
+</dict>
+</plist>

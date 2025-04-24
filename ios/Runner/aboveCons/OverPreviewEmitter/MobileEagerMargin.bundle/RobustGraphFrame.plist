@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>appendhandler</key>
+	<string>localPicker</string>
+	<key>autoTool</key>
+	<string>hierarchicalDetector</string>
+	<key>defaultcapsule</key>
+	<string>animationloader</string>
+	<key>deferredModel</key>
+	<string>shouldStopProtocol</string>
+	<key>disclaimerPosition</key>
+	<string>blocobserver</string>
+	<key>histogrampadding</key>
+	<string>resizableAlpha</string>
+	<key>reactiveCycle</key>
+	<string>bindDrawer</string>
+	<key>standaloneMetrics</key>
+	<string>animationduringinterpreter</string>
+	<key>subsequentService</key>
+	<string>notationIndex</string>
+</dict>
+</plist>

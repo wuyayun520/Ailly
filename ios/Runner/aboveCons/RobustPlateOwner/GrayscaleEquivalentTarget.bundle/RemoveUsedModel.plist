@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>initiatorsBorder</key>
+	<string>platejoiner</string>
+	<key>interactorBehavior</key>
+	<string>shouldLayoutCard</string>
+	<key>publishcard</key>
+	<string>secondStep</string>
+	<key>similarJoiner</key>
+	<string>initializeMedia</string>
+	<key>sophisticatedConfiguration</key>
+	<string>compileVector</string>
+	<key>statelessActivity</key>
+	<string>streamlineReducer</string>
+</dict>
+</plist>

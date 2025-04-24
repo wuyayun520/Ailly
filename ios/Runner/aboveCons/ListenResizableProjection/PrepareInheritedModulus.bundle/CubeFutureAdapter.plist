@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>gridviewcontainmediator</key>
+	<string>attachInitiators</string>
+	<key>mapDuration</key>
+	<string>cartesianCurve</string>
+	<key>pageviewOffset</key>
+	<string>efficiencytransparency</string>
+	<key>shouldDisconnectImage</key>
+	<string>readListener</string>
+	<key>shouldTransformTabBar</key>
+	<string>euclideanStoryboard</string>
+	<key>switchPosition</key>
+	<string>musicContext</string>
+</dict>
+</plist>

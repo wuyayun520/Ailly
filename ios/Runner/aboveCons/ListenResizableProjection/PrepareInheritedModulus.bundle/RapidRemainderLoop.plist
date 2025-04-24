@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animatedMusic</key>
+	<string>discardedBoxShadow</string>
+	<key>layoutchallenge</key>
+	<string>grainVisitor</string>
+	<key>normalImage</key>
+	<string>geometricStack</string>
+	<key>normalentity</key>
+	<string>boxRight</string>
+	<key>pageviewlayer</key>
+	<string>chapteradapterright</string>
+	<key>playbackformflags</key>
+	<string>shouldYieldDescriptor</string>
+	<key>presentaction</key>
+	<string>crudeTrigger</string>
+	<key>shouldRenderCurve</key>
+	<string>advancedView</string>
+</dict>
+</plist>

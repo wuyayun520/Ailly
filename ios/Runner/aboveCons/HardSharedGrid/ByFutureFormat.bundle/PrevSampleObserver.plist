@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>autoImpact</key>
+	<string>statefulRepository</string>
+	<key>buttonShape</key>
+	<string>trainPlate</string>
+	<key>cupertinoSegment</key>
+	<string>materialPattern</string>
+	<key>nodeappearance</key>
+	<string>equalizationpressure</string>
+	<key>prevEqualization</key>
+	<string>plateTier</string>
+	<key>shouldBuildPadding</key>
+	<string>seguetaskmargin</string>
+	<key>shouldRouteAnimatedContainer</key>
+	<string>opaqueDetector</string>
+	<key>widgetPadding</key>
+	<string>concurrentReliability</string>
+</dict>
+</plist>

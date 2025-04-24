@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>explicitMapper</key>
+	<string>resourceParam</string>
+	<key>fixedCompleter</key>
+	<string>invokePosition</string>
+	<key>independentsymbol</key>
+	<string>resizableCosine</string>
+	<key>intermediateModal</key>
+	<string>obtainController</string>
+	<key>mediumFragment</key>
+	<string>controllerlikejob</string>
+	<key>nativeSkin</key>
+	<string>integrationContrast</string>
+	<key>pinchableExponent</key>
+	<string>dropoutVector</string>
+	<key>publicDisclaimer</key>
+	<string>shouldNavigateGestureDetector</string>
+	<key>shouldKeepMedia</key>
+	<string>sophisticatedKernel</string>
+	<key>sineOpacity</key>
+	<string>cardDensity</string>
+</dict>
+</plist>

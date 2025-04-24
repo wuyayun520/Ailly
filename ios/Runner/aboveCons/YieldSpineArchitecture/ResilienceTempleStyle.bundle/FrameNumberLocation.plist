@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>compositionalMusic</key>
+	<string>paintpromise</string>
+	<key>optimizerBottom</key>
+	<string>canAnimateSkirt</string>
+	<key>resolveredge</key>
+	<string>dropdownbuttondepth</string>
+	<key>sequentialBrush</key>
+	<string>sortedLatency</string>
+	<key>statefulvaredge</key>
+	<string>showDescription</string>
+	<key>unsortedlogarithm</key>
+	<string>projectPrototype</string>
+</dict>
+</plist>

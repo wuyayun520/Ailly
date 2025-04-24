@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>brushduringjob</key>
+	<string>significantAction</string>
+	<key>fusedInkWell</key>
+	<string>grayscaleproxyalignment</string>
+	<key>keypreviewsaturation</key>
+	<string>shouldBindPriority</string>
+	<key>liteBaseline</key>
+	<string>autoDelegate</string>
+	<key>shouldBuildSegment</key>
+	<string>unlockStore</string>
+	<key>shouldPauseConsumer</key>
+	<string>listenerlayeralignment</string>
+</dict>
+</plist>

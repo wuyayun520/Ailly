@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animatedGrid</key>
+	<string>canLayoutDescriptor</string>
+	<key>buildbuffer</key>
+	<string>standaloneImpact</string>
+	<key>completionStatus</key>
+	<string>shoulddisconnectalpha</string>
+	<key>iconTheme</key>
+	<string>pivotalShape</string>
+	<key>signatureContrast</key>
+	<string>menuSkewX</string>
+	<key>sortedTrigger</key>
+	<string>preparePromise</string>
+</dict>
+</plist>

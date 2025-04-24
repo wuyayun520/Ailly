@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cartesianEmitter</key>
+	<string>attachInteger</string>
+	<key>interactiveMend</key>
+	<string>listviewhandler</string>
+	<key>interactorcolor</key>
+	<string>liteLoss</string>
+	<key>provisionCoord</key>
+	<string>taskResponse</string>
+	<key>rectScale</key>
+	<string>notifyTabView</string>
+	<key>robustCapsule</key>
+	<string>repositoryedge</string>
+	<key>shouldTransformMonster</key>
+	<string>respectiveConfidentiality</string>
+	<key>storagecenter</key>
+	<string>integerIndex</string>
+	<key>transitionstateless</key>
+	<string>fragmentsKind</string>
+</dict>
+</plist>

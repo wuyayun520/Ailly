@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>documentchaindelay</key>
+	<string>shouldFinishHero</string>
+	<key>infoOrientation</key>
+	<string>persistProfile</string>
+	<key>joinerLocation</key>
+	<string>granularstorefrequency</string>
+	<key>newestTaxonomy</key>
+	<string>canRestartEquipment</string>
+	<key>precisionbufferdirection</key>
+	<string>transformRadius</string>
+	<key>priorrowname</key>
+	<string>reduceStore</string>
+	<key>publisherInset</key>
+	<string>easysubscriber</string>
+</dict>
+</plist>

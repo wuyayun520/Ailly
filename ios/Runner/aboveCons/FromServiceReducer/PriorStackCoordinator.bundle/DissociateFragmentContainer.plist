@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>decodebloc</key>
+	<string>shouldReplaceRole</string>
+	<key>framemomentum</key>
+	<string>directTrajectory</string>
+	<key>invisibleconsumer</key>
+	<string>ignoredEffect</string>
+	<key>popupMode</key>
+	<string>shouldRouteContainer</string>
+	<key>rectshapetop</key>
+	<string>shouldListenCycle</string>
+	<key>respectivePoint</key>
+	<string>alignmentobserver</string>
+</dict>
+</plist>

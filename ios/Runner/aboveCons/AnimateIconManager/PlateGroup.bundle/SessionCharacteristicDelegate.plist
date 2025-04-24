@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>arithmeticinstruction</key>
+	<string>canSerializeCache</string>
+	<key>cupertinoconvolution</key>
+	<string>usageBrightness</string>
+	<key>globalChooser</key>
+	<string>spinConstraint</string>
+	<key>hierarchicalContrast</key>
+	<string>singleWrapper</string>
+	<key>precisionOrientation</key>
+	<string>significantExtension</string>
+	<key>respectivevariantshade</key>
+	<string>generateGraph</string>
+	<key>shouldStreamWidget</key>
+	<string>canNotifyGraphic</string>
+</dict>
+</plist>

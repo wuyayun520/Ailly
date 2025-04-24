@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>asyncContrast</key>
+	<string>restartOption</string>
+	<key>buildcapacities</key>
+	<string>canFetchLog</string>
+	<key>desktopChooser</key>
+	<string>smallProvider</string>
+	<key>extensionhandler</key>
+	<string>latencyLocation</string>
+	<key>hasbrush</key>
+	<string>particleNumber</string>
+	<key>labeltask</key>
+	<string>consultativeIsolate</string>
+	<key>playbackTop</key>
+	<string>quitService</string>
+	<key>positioncommandsaturation</key>
+	<string>decoupleProvider</string>
+	<key>statefulSegment</key>
+	<string>arithmeticdistinction</string>
+</dict>
+</plist>

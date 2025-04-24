@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>denseSorter</key>
+	<string>persistSemantics</string>
+	<key>gatecomponent</key>
+	<string>setupLocalization</string>
+	<key>gramTheme</key>
+	<string>finddrawer</string>
+	<key>layoutperlevel</key>
+	<string>transitionNotifier</string>
+	<key>shouldKeepButton</key>
+	<string>contractionkind</string>
+	<key>shouldNavigateActivity</key>
+	<string>agileEmitter</string>
+	<key>significantresponsefeedback</key>
+	<string>normalPolygon</string>
+</dict>
+</plist>

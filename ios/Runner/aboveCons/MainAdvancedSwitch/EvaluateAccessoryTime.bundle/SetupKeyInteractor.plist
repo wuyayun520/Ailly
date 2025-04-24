@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accordionfeature</key>
+	<string>typicalBox</string>
+	<key>hashDepth</key>
+	<string>locateanimation</string>
+	<key>listviewviavariable</key>
+	<string>staticSubpixel</string>
+	<key>screenTop</key>
+	<string>sessionCoord</string>
+	<key>switchAlignment</key>
+	<string>encodeArithmetic</string>
+</dict>
+</plist>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activatedSwitch</key>
+	<string>statefulInterface</string>
+	<key>activeRepository</key>
+	<string>composableAspectRatio</string>
+	<key>backwardReduction</key>
+	<string>intermediateScenario</string>
+	<key>boxmediatordirection</key>
+	<string>presenterMediator</string>
+	<key>displayableAsync</key>
+	<string>shouldEncodeColumn</string>
+	<key>granularInteger</key>
+	<string>imagewidget</string>
+	<key>shouldNotifyPoint</key>
+	<string>sophisticatedModule</string>
+	<key>skinRight</key>
+	<string>encodePadding</string>
+	<key>statefulCustomPaint</key>
+	<string>canPopChecklist</string>
+</dict>
+</plist>

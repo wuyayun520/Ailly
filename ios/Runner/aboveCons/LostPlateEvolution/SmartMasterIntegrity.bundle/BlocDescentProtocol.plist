@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>directCertificate</key>
+	<string>previewflags</string>
+	<key>functionalScaffold</key>
+	<string>permissiveEmitter</string>
+	<key>reducerrange</key>
+	<string>canEndObserver</string>
+	<key>shouldSerializeRoute</key>
+	<string>mapBottom</string>
+	<key>unaryStatus</key>
+	<string>euclideanGraph</string>
+</dict>
+</plist>

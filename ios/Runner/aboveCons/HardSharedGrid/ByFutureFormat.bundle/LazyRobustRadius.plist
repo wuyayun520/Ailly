@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>concreteSegment</key>
+	<string>normalDocument</string>
+	<key>flexibleBloc</key>
+	<string>draggablePoint</string>
+	<key>isdelegate</key>
+	<string>declarativeZone</string>
+	<key>shouldPersistSign</key>
+	<string>instructionCycle</string>
+	<key>shouldUpdateTextField</key>
+	<string>associatedSwitch</string>
+	<key>sortedMargin</key>
+	<string>canYieldDecoration</string>
+</dict>
+</plist>

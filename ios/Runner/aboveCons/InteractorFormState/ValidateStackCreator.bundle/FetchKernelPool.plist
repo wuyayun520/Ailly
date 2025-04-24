@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>asynchronousWrapper</key>
+	<string>disabledPosition</string>
+	<key>eagerFormat</key>
+	<string>touchOffset</string>
+	<key>firstNib</key>
+	<string>defaultclipper</string>
+	<key>intuitiveRichText</key>
+	<string>defaultspecifier</string>
+	<key>navigatorBehavior</key>
+	<string>routeGate</string>
+	<key>onreferencetap</key>
+	<string>cacheDecoration</string>
+	<key>sequentialEvolution</key>
+	<string>momentumutil</string>
+	<key>shouldRestartBase</key>
+	<string>litegridscale</string>
+	<key>tabviewcontainactivity</key>
+	<string>disconnectSkirt</string>
+</dict>
+</plist>

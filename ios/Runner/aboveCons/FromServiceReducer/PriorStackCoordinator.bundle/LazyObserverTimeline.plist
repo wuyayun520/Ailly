@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animatedchartinteraction</key>
+	<string>unmarshalFactory</string>
+	<key>autoallocatorrate</key>
+	<string>batchVisibility</string>
+	<key>canvasforaction</key>
+	<string>canTransformAlpha</string>
+	<key>crucialSound</key>
+	<string>attachMediaQuery</string>
+	<key>ignoredConfiguration</key>
+	<string>shouldUnmountMaterial</string>
+	<key>indicatorBehavior</key>
+	<string>storyboardoccasion</string>
+	<key>mendSkewY</key>
+	<string>mobileTangent</string>
+	<key>shouldValidateContraction</key>
+	<string>associatedEfficiency</string>
+	<key>tweakCenter</key>
+	<string>delicateMaterializer</string>
+</dict>
+</plist>

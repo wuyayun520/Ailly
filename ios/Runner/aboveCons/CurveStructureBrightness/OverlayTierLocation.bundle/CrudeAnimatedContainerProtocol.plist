@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>arithmeticAscent</key>
+	<string>largeCharacter</string>
+	<key>immutableTheme</key>
+	<string>standalonetransition</string>
+	<key>isExponent</key>
+	<string>resultkind</string>
+	<key>materialCount</key>
+	<string>ternaryCount</string>
+	<key>multiplicationfuture</key>
+	<string>saveCheckbox</string>
+	<key>opaqueStoryboard</key>
+	<string>quantizerProvider</string>
+	<key>permissiveGridView</key>
+	<string>curveMemento</string>
+	<key>shouldParseEntropy</key>
+	<string>canCreateAnimatedContainer</string>
+	<key>shouldRebuildFragment</key>
+	<string>spriteHue</string>
+	<key>significantcolumnacceleration</key>
+	<string>usedTool</string>
+</dict>
+</plist>

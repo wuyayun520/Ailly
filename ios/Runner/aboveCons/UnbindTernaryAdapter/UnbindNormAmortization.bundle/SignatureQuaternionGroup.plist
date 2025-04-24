@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>desktopTabView</key>
+	<string>singletonFeedback</string>
+	<key>handlemediaquery</key>
+	<string>rotateDuration</string>
+	<key>lastConverter</key>
+	<string>addTimer</string>
+	<key>protectedAlert</key>
+	<string>pinchableDescent</string>
+	<key>segmentTint</key>
+	<string>significantGram</string>
+	<key>sizedboxmargin</key>
+	<string>collectionSkewX</string>
+</dict>
+</plist>

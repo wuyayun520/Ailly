@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>assetcluster</key>
+	<string>tabviewPosition</string>
+	<key>gesturedetectorInteraction</key>
+	<string>inheritedAudio</string>
+	<key>markframe</key>
+	<string>shouldDismissDropdownButton</string>
+	<key>protectedItem</key>
+	<string>inflateGrayscale</string>
+	<key>signatureInteraction</key>
+	<string>unmountedbitrate</string>
+	<key>tentativeResponse</key>
+	<string>videoTop</string>
+	<key>titleValidation</key>
+	<string>inactiveCharacter</string>
+	<key>tweenadapterbottom</key>
+	<string>connectModal</string>
+</dict>
+</plist>

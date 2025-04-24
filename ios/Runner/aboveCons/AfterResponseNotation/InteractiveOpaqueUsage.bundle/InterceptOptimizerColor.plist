@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>actionborder</key>
+	<string>significantsizedboxdistance</string>
+	<key>currentStatus</key>
+	<string>taskDecorator</string>
+	<key>immutableScroller</key>
+	<string>shouldBuildBullet</string>
+	<key>interpolatestate</key>
+	<string>handlerStrategy</string>
+	<key>modalCoord</key>
+	<string>directlyBaseline</string>
+	<key>parallelRect</key>
+	<string>webStateless</string>
+	<key>provideinjection</key>
+	<string>capsulesinceplatform</string>
+	<key>shouldRestartPlayback</key>
+	<string>canPaintSignature</string>
+	<key>similarSpecifier</key>
+	<string>similarTernary</string>
+</dict>
+</plist>

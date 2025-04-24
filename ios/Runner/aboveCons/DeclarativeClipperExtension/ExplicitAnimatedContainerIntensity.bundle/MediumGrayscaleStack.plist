@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>concreteTolerance</key>
+	<string>grayscaleVar</string>
+	<key>fusedCatalyst</key>
+	<string>concreteStrength</string>
+	<key>iterativeProcessor</key>
+	<string>disabledBitrate</string>
+	<key>rectifywidget</key>
+	<string>requestdepth</string>
+</dict>
+</plist>

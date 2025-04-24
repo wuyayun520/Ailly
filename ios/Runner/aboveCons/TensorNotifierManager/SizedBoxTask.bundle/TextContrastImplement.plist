@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>providerincludetask</key>
+	<string>activeContainer</string>
+	<key>shouldStopDrawer</key>
+	<string>stringifyCoordinator</string>
+	<key>shoulddecodeswitch</key>
+	<string>alphafordecorator</string>
+	<key>standalonescenehue</key>
+	<string>shouldSubscribeButton</string>
+</dict>
+</plist>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>checklistFormat</key>
+	<string>lazyContainer</string>
+	<key>columnDuration</key>
+	<string>dedicatedLabel</string>
+	<key>descriptionshaperotation</key>
+	<string>retainedScenario</string>
+	<key>tableStatus</key>
+	<string>shouldLoadLog</string>
+	<key>tensorQueue</key>
+	<string>isMediaQuery</string>
+</dict>
+</plist>

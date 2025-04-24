@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>firstBrush</key>
+	<string>shouldParseCube</string>
+	<key>listentable</key>
+	<string>unactivatedLog</string>
+	<key>mobileduringtask</key>
+	<string>deployService</string>
+	<key>resilientGestureDetector</key>
+	<string>cupertinoProjection</string>
+	<key>shouldCacheDimension</key>
+	<string>shouldInitializeSkin</string>
+</dict>
+</plist>

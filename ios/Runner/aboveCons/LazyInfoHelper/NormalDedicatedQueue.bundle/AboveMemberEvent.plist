@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>customBinder</key>
+	<string>infoValidation</string>
+	<key>layerDepth</key>
+	<string>ephemeralWorkflow</string>
+	<key>numericalTouch</key>
+	<string>stateTransparency</string>
+	<key>persistentFormat</key>
+	<string>fusedFuture</string>
+	<key>prevnib</key>
+	<string>convolutionStage</string>
+	<key>sceneIndex</key>
+	<string>continueTouch</string>
+	<key>shouldUnmountedView</key>
+	<string>paintMedia</string>
+</dict>
+</plist>

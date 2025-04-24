@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>columnfrequency</key>
+	<string>shouldRenderAspect</string>
+	<key>heapCoord</key>
+	<string>animationsearcher</string>
+	<key>initializeboxshadow</key>
+	<string>crucialShader</string>
+	<key>movementTheme</key>
+	<string>imperativeScene</string>
+	<key>oldPresenter</key>
+	<string>tensorActivity</string>
+	<key>resizableDescriptor</key>
+	<string>hardReducer</string>
+	<key>selectedbox</key>
+	<string>protocolVisible</string>
+	<key>shouldFormatDimension</key>
+	<string>notifyPlate</string>
+	<key>shouldPaintDrawer</key>
+	<string>comprehensiveError</string>
+	<key>symmetricMapper</key>
+	<string>decodeAlignment</string>
+</dict>
+</plist>

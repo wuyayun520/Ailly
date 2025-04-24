@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>crucialfactorycoord</key>
+	<string>titleoffset</string>
+	<key>mediumMetrics</key>
+	<string>trajectoryTint</string>
+	<key>modelType</key>
+	<string>visitgraphic</string>
+	<key>otherGraphic</key>
+	<string>observebinary</string>
+	<key>promisetint</key>
+	<string>extendResource</string>
+	<key>rapidAnalogy</key>
+	<string>symbolHue</string>
+	<key>repositoryStyle</key>
+	<string>shouldHandleRow</string>
+</dict>
+</plist>

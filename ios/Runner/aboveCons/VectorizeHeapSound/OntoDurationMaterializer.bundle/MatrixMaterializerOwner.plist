@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>persistentBitrate</key>
+	<string>chaptervisitoropacity</string>
+	<key>pickerDistance</key>
+	<string>seamlessRange</string>
+	<key>priorRange</key>
+	<string>commonProjection</string>
+	<key>shouldLayoutBuilder</key>
+	<string>shouldHandleMaterial</string>
+	<key>shouldupdatemaster</key>
+	<string>criticalShape</string>
+	<key>temporaryCosine</key>
+	<string>backwardElement</string>
+</dict>
+</plist>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>interactiveTriangles</key>
+	<string>nibIndex</string>
+	<key>lostMargin</key>
+	<string>completionEdge</string>
+	<key>materializelayer</key>
+	<string>shouldFetchResource</string>
+	<key>retainedPositioned</key>
+	<string>reactiveSymbol</string>
+	<key>sharedresponder</key>
+	<string>shouldDispatchEqualization</string>
+	<key>standaloneImpact</key>
+	<string>retainedInstruction</string>
+	<key>statelessDescent</key>
+	<string>pinchableVolume</string>
+</dict>
+</plist>

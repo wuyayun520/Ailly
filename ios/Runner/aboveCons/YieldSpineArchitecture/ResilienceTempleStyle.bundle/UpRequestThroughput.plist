@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>agilePainter</key>
+	<string>permissiveBase</string>
+	<key>crudeGraph</key>
+	<string>mutableScaffold</string>
+	<key>hardCupertino</key>
+	<string>activeTable</string>
+	<key>infoDepth</key>
+	<string>prevInterpolation</string>
+	<key>interfaceShade</key>
+	<string>showSegue</string>
+</dict>
+</plist>

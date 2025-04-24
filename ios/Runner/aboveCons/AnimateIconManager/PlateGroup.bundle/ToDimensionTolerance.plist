@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>positionbeyondlayer</key>
+	<string>popbox</string>
+	<key>receiveawait</key>
+	<string>buildComposition</string>
+	<key>resourcecontaintype</key>
+	<string>sustainableUtil</string>
+	<key>shouldDetachCube</key>
+	<string>durationagainstlevel</string>
+</dict>
+</plist>

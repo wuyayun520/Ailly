@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>consultativeMethod</key>
+	<string>providerTop</string>
+	<key>criticalCombiner</key>
+	<string>canDeserializeRichText</string>
+	<key>diversifiedSensor</key>
+	<string>dismissCycle</string>
+	<key>durationTransparency</key>
+	<string>eagerOption</string>
+	<key>iconvisible</key>
+	<string>responsivemetadatatint</string>
+	<key>nodeformstatus</key>
+	<string>lifecycleType</string>
+	<key>scaffoldBound</key>
+	<string>canLayoutInterpolation</string>
+	<key>useddialogs</key>
+	<string>shouldHandleProvider</string>
+</dict>
+</plist>

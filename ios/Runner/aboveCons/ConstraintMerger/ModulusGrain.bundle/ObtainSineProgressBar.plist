@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>elasticAlignment</key>
+	<string>shouldReplaceSemantics</string>
+	<key>equalizationcontainer</key>
+	<string>graphOrientation</string>
+	<key>mainRect</key>
+	<string>unactivatedProcessor</string>
+	<key>marginoutsidestrategy</key>
+	<string>resizableTentative</string>
+	<key>permanentListener</key>
+	<string>canFetchDescriptor</string>
+	<key>shouldobserveunary</key>
+	<string>diffableWorkflow</string>
+	<key>temporaryInteractor</key>
+	<string>rebuildhistogram</string>
+	<key>uniqueCallback</key>
+	<string>pinchableSlider</string>
+</dict>
+</plist>

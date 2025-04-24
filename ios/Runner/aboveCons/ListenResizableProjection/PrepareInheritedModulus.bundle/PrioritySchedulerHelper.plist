@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>bindervalidation</key>
+	<string>finishBuilder</string>
+	<key>cupertinoModel</key>
+	<string>detachCoordinator</string>
+	<key>firstMerger</key>
+	<string>routeSkewY</string>
+	<key>initializecallback</key>
+	<string>unactivatedMomentum</string>
+	<key>memberHue</key>
+	<string>finishSubpixel</string>
+	<key>optimizertriangles</key>
+	<string>intermediatereducer</string>
+	<key>protectedstatetype</key>
+	<string>shouldShowObserver</string>
+	<key>shouldParseDecoration</key>
+	<string>defaultstamp</string>
+	<key>shouldStartCube</key>
+	<string>streamProject</string>
+	<key>viewtask</key>
+	<string>iterativeRestriction</string>
+</dict>
+</plist>

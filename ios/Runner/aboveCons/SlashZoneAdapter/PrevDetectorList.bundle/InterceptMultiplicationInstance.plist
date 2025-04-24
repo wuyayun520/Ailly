@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>controllerdespitememento</key>
+	<string>combineLayout</string>
+	<key>parseaspectratio</key>
+	<string>kernelRate</string>
+	<key>pivotalDocument</key>
+	<string>statefulSegment</string>
+	<key>providedimension</key>
+	<string>formattouch</string>
+	<key>similarSink</key>
+	<string>heapComposite</string>
+	<key>webRadio</key>
+	<string>scalabilityName</string>
+</dict>
+</plist>

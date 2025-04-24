@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>adjustcoordinator</key>
+	<string>concatenatePosition</string>
+	<key>checklistType</key>
+	<string>loopStatus</string>
+	<key>independenttransformer</key>
+	<string>descriptionFlyweight</string>
+	<key>momentumvelocity</key>
+	<string>eagerProjection</string>
+	<key>resizableMargin</key>
+	<string>shouldDisposeAxis</string>
+	<key>spineRotation</key>
+	<string>shouldSaveBrush</string>
+</dict>
+</plist>

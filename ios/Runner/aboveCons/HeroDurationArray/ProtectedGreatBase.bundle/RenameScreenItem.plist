@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animateview</key>
+	<string>canPersistMediaQuery</string>
+	<key>cycleSpeed</key>
+	<string>playbackOperation</string>
+	<key>modulusinsidevar</key>
+	<string>firstentityvalidation</string>
+	<key>oldEqualization</key>
+	<string>typicalGraphic</string>
+</dict>
+</plist>

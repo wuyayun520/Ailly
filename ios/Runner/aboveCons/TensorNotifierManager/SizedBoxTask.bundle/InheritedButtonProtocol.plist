@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>alertValidation</key>
+	<string>newestImpact</string>
+	<key>chartandmediator</key>
+	<string>pagerMargin</string>
+	<key>decorationlayerstatus</key>
+	<string>dialogsDistance</string>
+	<key>inheritedFilter</key>
+	<string>hasmedia</string>
+	<key>tensorCharacteristic</key>
+	<string>hashhandler</string>
+	<key>touchRate</key>
+	<string>checkboxActivity</string>
+	<key>usedTernary</key>
+	<string>signstatus</string>
+</dict>
+</plist>

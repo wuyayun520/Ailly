@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>appbardescent</key>
+	<string>missedStore</string>
+	<key>ascentState</key>
+	<string>subpixelroute</string>
+	<key>cycleInteraction</key>
+	<string>shouldUpdateNib</string>
+	<key>fragmentpainter</key>
+	<string>opaqueDistinction</string>
+	<key>invisibleConstant</key>
+	<string>heapStyle</string>
+	<key>multiMethod</key>
+	<string>composableConstraint</string>
+	<key>optionSkewY</key>
+	<string>debugBuffer</string>
+	<key>semanticssaturation</key>
+	<string>selectedAxis</string>
+	<key>shouldStartCatalyst</key>
+	<string>symbolBehavior</string>
+</dict>
+</plist>

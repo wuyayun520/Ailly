@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>criticalAspect</key>
+	<string>equipmentSpacing</string>
+	<key>gesturedetectornotation</key>
+	<string>trajectoryKind</string>
+	<key>initiatorsSpeed</key>
+	<string>reconcileProvider</string>
+	<key>injectionContrast</key>
+	<string>shouldRouteMargin</string>
+	<key>shouldStreamCompletion</key>
+	<string>geometricProvider</string>
+	<key>titleFeedback</key>
+	<string>invisiblePosition</string>
+</dict>
+</plist>

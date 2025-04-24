@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>lazyInstruction</key>
+	<string>canEncodeNorm</string>
+	<key>numericalRequest</key>
+	<string>fusedNotifier</string>
+	<key>primaryScroll</key>
+	<string>mediocreTangent</string>
+	<key>publicBox</key>
+	<string>flexibleUsage</string>
+	<key>remainderhandler</key>
+	<string>invisibleMargin</string>
+	<key>shouldPresentHero</key>
+	<string>temporaryBullet</string>
+	<key>shouldUnbindBase</key>
+	<string>shouldCancelConsumer</string>
+	<key>shouldUpdateDelegate</key>
+	<string>sequentialLatency</string>
+	<key>stopchapter</key>
+	<string>disabledError</string>
+	<key>videofeedback</key>
+	<string>animatedcontainerTier</string>
+</dict>
+</plist>

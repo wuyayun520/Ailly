@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animateinteger</key>
+	<string>toleranceRotation</string>
+	<key>crucialComponent</key>
+	<string>stampBottom</string>
+	<key>globalHistogram</key>
+	<string>compositionalCache</string>
+	<key>soundContrast</key>
+	<string>startBrush</string>
+</dict>
+</plist>

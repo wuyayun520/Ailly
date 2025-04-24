@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accessibleHeap</key>
+	<string>eagerManager</string>
+	<key>baselinetransition</key>
+	<string>iconMethod</string>
+	<key>directlyfactory</key>
+	<string>aspectShape</string>
+	<key>disparateCapacities</key>
+	<string>animatorAcceleration</string>
+	<key>finderTag</key>
+	<string>displayableResult</string>
+	<key>operationthroughdecorator</key>
+	<string>durationLevel</string>
+	<key>robustVariant</key>
+	<string>routeexponent</string>
+</dict>
+</plist>

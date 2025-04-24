@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>basicFeature</key>
+	<string>shouldFinishGridView</string>
+	<key>defaultCupertino</key>
+	<string>exceptionResponse</string>
+	<key>dialogscontexttension</key>
+	<string>resourceintegrity</string>
+	<key>formatextension</key>
+	<string>shouldPersistLabel</string>
+	<key>lastMapper</key>
+	<string>replicateLayer</string>
+	<key>mutableDescriptor</key>
+	<string>overlayComposite</string>
+	<key>remediationAcceleration</key>
+	<string>decodepositioned</string>
+	<key>shouldPublishFragment</key>
+	<string>nativeBrush</string>
+</dict>
+</plist>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>compositionBottom</key>
+	<string>tweakAppearance</string>
+	<key>geometricEquivalent</key>
+	<string>disconnectAperture</string>
+	<key>immediateBorder</key>
+	<string>dismissbutton</string>
+	<key>permissiveProfile</key>
+	<string>reconcileNavigator</string>
+	<key>prevInitiative</key>
+	<string>stateTail</string>
+	<key>resizablecubit</key>
+	<string>interactiveLabel</string>
+	<key>shouldValidateSpot</key>
+	<string>smallMapper</string>
+	<key>sizeformvalidation</key>
+	<string>directlyDelegate</string>
+</dict>
+</plist>

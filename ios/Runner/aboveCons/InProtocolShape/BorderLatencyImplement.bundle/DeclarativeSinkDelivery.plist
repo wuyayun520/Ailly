@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>boxshadowLocation</key>
+	<string>graphevolution</string>
+	<key>dimensionOrigin</key>
+	<string>dependencyAction</string>
+	<key>geometricObject</key>
+	<string>chooserSize</string>
+	<key>normalSorter</key>
+	<string>customFragments</string>
+	<key>oldEfficiency</key>
+	<string>subpixelPadding</string>
+	<key>pagerFormat</key>
+	<string>mediaqueryActivity</string>
+	<key>pinchablePosition</key>
+	<string>unmarshalinitiators</string>
+	<key>semanticConsumer</key>
+	<string>tappableProgressBar</string>
+	<key>shouldupdatecurve</key>
+	<string>crucialMerger</string>
+	<key>storeOrigin</key>
+	<string>globalBloc</string>
+</dict>
+</plist>

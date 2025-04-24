@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activatedlogrotation</key>
+	<string>currentResolver</string>
+	<key>cacheanimation</key>
+	<string>projectBehavior</string>
+	<key>conformview</key>
+	<string>seekCoordinator</string>
+	<key>immediatescalability</key>
+	<string>sizetop</string>
+	<key>intensityworkbrightness</key>
+	<string>creatortag</string>
+	<key>opaquemenuindex</key>
+	<string>optimizeCoordinator</string>
+	<key>permissiveMedia</key>
+	<string>fillParticle</string>
+	<key>stamplikestrategy</key>
+	<string>segmentFlyweight</string>
+	<key>unaryinplatform</key>
+	<string>accessibleallocator</string>
+</dict>
+</plist>

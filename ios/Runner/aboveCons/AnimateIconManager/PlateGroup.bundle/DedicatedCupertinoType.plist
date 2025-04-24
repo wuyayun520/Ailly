@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cartesianNotifier</key>
+	<string>initializescale</string>
+	<key>channelbeyondmethod</key>
+	<string>resizableGrayscale</string>
+	<key>fetchcubit</key>
+	<string>euclideanSearcher</string>
+	<key>interactiveRequest</key>
+	<string>hastool</string>
+	<key>intuitiveSemantics</key>
+	<string>respectiveReplica</string>
+	<key>retainedaperture</key>
+	<string>createResource</string>
+	<key>shouldSetStateColumn</key>
+	<string>restartSemantics</string>
+	<key>shouldUnmountSegment</key>
+	<string>robustConstant</string>
+</dict>
+</plist>

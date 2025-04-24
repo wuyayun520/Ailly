@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animatedSymbol</key>
+	<string>immediatecluster</string>
+	<key>basicDescription</key>
+	<string>startStateless</string>
+	<key>compositionIndex</key>
+	<string>usecaseFrequency</string>
+	<key>compositionVisible</key>
+	<string>canDismissReference</string>
+	<key>connectnib</key>
+	<string>smallsearcher</string>
+	<key>mobileImpression</key>
+	<string>asyncForm</string>
+	<key>semanticCapacities</key>
+	<string>awaitMode</string>
+	<key>typicalAppBar</key>
+	<string>canKeepEqualization</string>
+	<key>uniformHandler</key>
+	<string>scenesingletoninteraction</string>
+</dict>
+</plist>

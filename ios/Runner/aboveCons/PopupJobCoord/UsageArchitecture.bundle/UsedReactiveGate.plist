@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>buttonRotation</key>
+	<string>accelerateBuffer</string>
+	<key>frameatdecorator</key>
+	<string>memberlevelorientation</string>
+	<key>inactiveSpecifier</key>
+	<string>subtleScheduler</string>
+	<key>lastGrayscale</key>
+	<string>graphdata</string>
+	<key>shouldStreamProvider</key>
+	<string>resumePadding</string>
+	<key>sortedPermutation</key>
+	<string>durationwithoutinterpreter</string>
+</dict>
+</plist>

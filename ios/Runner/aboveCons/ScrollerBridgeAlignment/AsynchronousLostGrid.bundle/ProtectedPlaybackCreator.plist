@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accessibleOverlay</key>
+	<string>gridResponse</string>
+	<key>fusedPolyfill</key>
+	<string>annotateInjection</string>
+	<key>handlerMode</key>
+	<string>shouldDeserializeAppBar</string>
+	<key>lostSprite</key>
+	<string>dimensionRate</string>
+	<key>profilelistener</key>
+	<string>mitigateStorage</string>
+	<key>shouldSubscribeTechnique</key>
+	<string>arithmeticMerger</string>
+</dict>
+</plist>

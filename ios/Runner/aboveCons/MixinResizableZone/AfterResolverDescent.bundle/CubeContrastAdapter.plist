@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animatorResponse</key>
+	<string>segmentSaturation</string>
+	<key>mediaqueryInteraction</key>
+	<string>mobilespacing</string>
+	<key>persistentHeap</key>
+	<string>refactorReducer</string>
+	<key>shouldLayoutModal</key>
+	<string>mainMediaQuery</string>
+	<key>sizedboxandtask</key>
+	<string>monsterType</string>
+	<key>transitionInset</key>
+	<string>consultativeEquivalent</string>
+</dict>
+</plist>

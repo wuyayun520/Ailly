@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>effectDistance</key>
+	<string>reactiveComponent</string>
+	<key>gemName</key>
+	<string>scrollableLayer</string>
+	<key>numericalConstraint</key>
+	<string>animatedPopup</string>
+	<key>pinchableResult</key>
+	<string>gridcontexttop</string>
+	<key>semanticPolygon</key>
+	<string>volumeOffset</string>
+	<key>singlepreviewborder</key>
+	<string>resourceTag</string>
+</dict>
+</plist>

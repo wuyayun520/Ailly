@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>concurrentchaptershade</key>
+	<string>discardedrouterinterval</string>
+	<key>discardedProvision</key>
+	<string>overlayFlyweight</string>
+	<key>shouldCreateUsage</key>
+	<string>durationBrightness</string>
+	<key>shouldcreatecontroller</key>
+	<string>sinkaspattern</string>
+	<key>similarTechnique</key>
+	<string>canParseBuilder</string>
+	<key>webSlash</key>
+	<string>shouldValidateVariant</string>
+</dict>
+</plist>

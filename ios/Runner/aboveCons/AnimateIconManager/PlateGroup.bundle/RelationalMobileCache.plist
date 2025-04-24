@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>easyTransformer</key>
+	<string>viewObserver</string>
+	<key>keyDistinction</key>
+	<string>activatedScale</string>
+	<key>prismaticVolume</key>
+	<string>removeScene</string>
+	<key>rectbrightness</key>
+	<string>clonelocalization</string>
+	<key>subtleFragment</key>
+	<string>missionbuilder</string>
+	<key>viewwrapper</key>
+	<string>protectedWrapper</string>
+</dict>
+</plist>

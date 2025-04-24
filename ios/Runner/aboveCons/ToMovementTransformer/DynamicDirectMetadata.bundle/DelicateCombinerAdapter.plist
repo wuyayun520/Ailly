@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>mapperTransparency</key>
+	<string>activecollection</string>
+	<key>materialContraction</key>
+	<string>scaffoldCycle</string>
+	<key>renameradio</key>
+	<string>mixinGrain</string>
+	<key>sensorStatus</key>
+	<string>shouldDeserializeGestureDetector</string>
+	<key>shouldNotifyGram</key>
+	<string>sessionScope</string>
+</dict>
+</plist>

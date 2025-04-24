@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>callbackfrequency</key>
+	<string>reflectNode</string>
+	<key>discardedAppBar</key>
+	<string>annotateTransition</string>
+	<key>finishutil</key>
+	<string>futureLocation</string>
+	<key>fixedLifecycle</key>
+	<string>widgetColor</string>
+	<key>notifymatrix</key>
+	<string>shouldstopoverlay</string>
+	<key>segueexceptfunction</key>
+	<string>notificationjobbottom</string>
+	<key>textfieldStatus</key>
+	<string>animatedPlate</string>
+	<key>thresholdtail</key>
+	<string>sophisticatedConsumption</string>
+</dict>
+</plist>

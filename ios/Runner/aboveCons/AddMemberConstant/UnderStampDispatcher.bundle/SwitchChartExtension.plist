@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>constraintAcceleration</key>
+	<string>renderSegment</string>
+	<key>geometricStep</key>
+	<string>shouldObserveMaterial</string>
+	<key>immediateFinder</key>
+	<string>constantLocation</string>
+	<key>mediumRectangle</key>
+	<string>cupertinoMend</string>
+	<key>modelAppearance</key>
+	<string>spotBottom</string>
+	<key>newestVideo</key>
+	<string>retrieveScene</string>
+	<key>utilinsidecomposite</key>
+	<string>groupOffset</string>
+	<key>viewnearshape</key>
+	<string>drawAsync</string>
+</dict>
+</plist>

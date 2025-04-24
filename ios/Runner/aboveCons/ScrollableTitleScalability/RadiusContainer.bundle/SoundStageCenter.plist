@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>adaptiveswitchresponse</key>
+	<string>configureSlider</string>
+	<key>denseResolver</key>
+	<string>canProcessTable</string>
+	<key>disabledImpact</key>
+	<string>semanticSize</string>
+	<key>euclideanSign</key>
+	<string>dedicatedBoxShadow</string>
+	<key>graphdisclaimer</key>
+	<string>canPrepareTask</string>
+	<key>handlertop</key>
+	<string>scheduleChannel</string>
+	<key>imagehead</key>
+	<string>hyperbolicTimer</string>
+	<key>newestPermutation</key>
+	<string>unmountedRemainder</string>
+	<key>radiusadaptervisibility</key>
+	<string>tickerFramework</string>
+	<key>shouldBindSwift</key>
+	<string>disabledTime</string>
+</dict>
+</plist>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>axisMode</key>
+	<string>axisParameter</string>
+	<key>crucialAppBar</key>
+	<string>resilientFragment</string>
+	<key>recursionFlags</key>
+	<string>subsequentBuilder</string>
+	<key>unmountedbase</key>
+	<string>heapDelay</string>
+</dict>
+</plist>

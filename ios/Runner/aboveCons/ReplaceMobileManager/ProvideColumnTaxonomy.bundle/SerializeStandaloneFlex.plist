@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>basicOption</key>
+	<string>eagerCapacities</string>
+	<key>commonBuffer</key>
+	<string>paintListView</string>
+	<key>deferredBorder</key>
+	<string>currentlistener</string>
+	<key>desktopBullet</key>
+	<string>scaffoldCenter</string>
+	<key>formatStatus</key>
+	<string>dedicatedobserver</string>
+	<key>hardInstruction</key>
+	<string>consumerbrightness</string>
+	<key>isolateVisibility</key>
+	<string>canNavigateLayout</string>
+	<key>momentumValidation</key>
+	<string>shouldPublishGift</string>
+	<key>opaqueText</key>
+	<string>interpolationIndex</string>
+	<key>uniformModule</key>
+	<string>descriptionCoord</string>
+</dict>
+</plist>

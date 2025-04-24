@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>concreteButton</key>
+	<string>activeAscent</string>
+	<key>graphicAppearance</key>
+	<string>continueCard</string>
+	<key>isBloc</key>
+	<string>uniformRoute</string>
+	<key>queueRate</key>
+	<string>agileThread</string>
+	<key>shouldPauseExpanded</key>
+	<string>granularCosine</string>
+</dict>
+</plist>

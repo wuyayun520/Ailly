@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>customexponent</key>
+	<string>seamlessRestriction</string>
+	<key>fixedTicker</key>
+	<string>modelFacade</string>
+	<key>mapperCoord</key>
+	<string>invisiblePlayback</string>
+	<key>pivotallayerresponse</key>
+	<string>displayappbar</string>
+	<key>requiredEmitter</key>
+	<string>publisherBehavior</string>
+	<key>sessionShade</key>
+	<string>mainExponent</string>
+	<key>sessioninterpreterstate</key>
+	<string>requiredComponent</string>
+	<key>stepLeft</key>
+	<string>hardResponse</string>
+</dict>
+</plist>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>connectnib</key>
+	<string>criticalProvider</string>
+	<key>dedicatedTimer</key>
+	<string>textureResponse</string>
+	<key>elasticChallenge</key>
+	<string>cosineDirection</string>
+	<key>inheritedSound</key>
+	<string>adaptiveStatus</string>
+	<key>liteIntegration</key>
+	<string>transformTopic</string>
+	<key>liteTitle</key>
+	<string>serviceCoord</string>
+	<key>nativeDecoration</key>
+	<string>navigationlinker</string>
+	<key>reliabilityResponse</key>
+	<string>customizedIcon</string>
+	<key>shouldPopProjection</key>
+	<string>emitNode</string>
+	<key>uniformRenderer</key>
+	<string>frameSaturation</string>
+</dict>
+</plist>

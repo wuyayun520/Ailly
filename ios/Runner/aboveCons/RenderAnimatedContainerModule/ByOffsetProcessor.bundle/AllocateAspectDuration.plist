@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activeHistogram</key>
+	<string>gridinfo</string>
+	<key>futureBehavior</key>
+	<string>relationalDecoration</string>
+	<key>skipprogressbar</key>
+	<string>otherMetrics</string>
+	<key>visiblePoint</key>
+	<string>easyUtil</string>
+</dict>
+</plist>

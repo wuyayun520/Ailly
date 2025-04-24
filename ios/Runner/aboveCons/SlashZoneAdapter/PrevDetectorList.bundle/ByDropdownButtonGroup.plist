@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>actionAppearance</key>
+	<string>shouldYieldCatalyst</string>
+	<key>advancedaspect</key>
+	<string>canShowTool</string>
+	<key>boxshadowScale</key>
+	<string>pinchableInteractor</string>
+	<key>cupertinoAwait</key>
+	<string>cancelTheme</string>
+	<key>hardSubscriber</key>
+	<string>popTimer</string>
+	<key>linkerVisibility</key>
+	<string>renderMargin</string>
+	<key>loopShade</key>
+	<string>permissiveAction</string>
+	<key>metricsVelocity</key>
+	<string>mapperHue</string>
+	<key>specifybatch</key>
+	<string>originalMetrics</string>
+</dict>
+</plist>

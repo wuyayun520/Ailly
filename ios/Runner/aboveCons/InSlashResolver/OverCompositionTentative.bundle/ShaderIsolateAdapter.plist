@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>commonTool</key>
+	<string>saveCube</string>
+	<key>inactiveKernel</key>
+	<string>shouldRouteOverlay</string>
+	<key>loopOffset</key>
+	<string>globalResource</string>
+	<key>normalContainer</key>
+	<string>dedicatedTexture</string>
+	<key>relationalScene</key>
+	<string>sophisticatedReduction</string>
+	<key>restoretool</key>
+	<string>createShader</string>
+	<key>secondTraversal</key>
+	<string>robustHash</string>
+	<key>shouldinitializelabel</key>
+	<string>samplesaturation</string>
+	<key>tickerstrategytransparency</key>
+	<string>widgetinset</string>
+</dict>
+</plist>

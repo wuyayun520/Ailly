@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>alignmentTransparency</key>
+	<string>checkboxflags</string>
+	<key>flexibleHash</key>
+	<string>playbutton</string>
+	<key>mediaquerycompleter</key>
+	<string>schemaDirection</string>
+	<key>preparestream</key>
+	<string>fetchProjection</string>
+	<key>richtextshape</key>
+	<string>searchLayout</string>
+	<key>temporaryfeatureflags</key>
+	<string>skinType</string>
+</dict>
+</plist>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>discardedPositioned</key>
+	<string>subtleChooser</string>
+	<key>enabledQuaternion</key>
+	<string>deferredTabBar</string>
+	<key>operationposition</key>
+	<string>shouldCacheCharacter</string>
+	<key>parallelChannel</key>
+	<string>currentStream</string>
+	<key>symmetricTween</key>
+	<string>musicCoord</string>
+</dict>
+</plist>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>deferredrenderer</key>
+	<string>sophisticatedLoss</string>
+	<key>disparateFilter</key>
+	<string>hashDepth</string>
+	<key>immediateLoss</key>
+	<string>canStopMargin</string>
+	<key>isolatetolerance</key>
+	<string>topicbrightness</string>
+	<key>searcherFlags</key>
+	<string>eagerConnector</string>
+</dict>
+</plist>

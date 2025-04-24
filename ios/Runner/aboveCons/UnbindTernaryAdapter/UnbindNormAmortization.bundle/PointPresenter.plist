@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>arithmeticProvider</key>
+	<string>playbackcomponent</string>
+	<key>directlyInterpolation</key>
+	<string>registercontroller</string>
+	<key>iterativeBaseline</key>
+	<string>otherTexture</string>
+	<key>prevPageView</key>
+	<string>showawait</string>
+	<key>resizableStroke</key>
+	<string>deliveryBorder</string>
+	<key>seamlessEffect</key>
+	<string>navigateGrid</string>
+	<key>substantialScaffold</key>
+	<string>loopShape</string>
+	<key>uniquebatch</key>
+	<string>offsetProxy</string>
+</dict>
+</plist>

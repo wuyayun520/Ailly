@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cubitSkewY</key>
+	<string>semanticGrain</string>
+	<key>disposeresponse</key>
+	<string>interpolationLocation</string>
+	<key>explicitManager</key>
+	<string>notifyCallback</string>
+	<key>ignoredBuilder</key>
+	<string>reactiveStateful</string>
+	<key>opaqueDispatcher</key>
+	<string>publicAccessory</string>
+	<key>protectedMetrics</key>
+	<string>methodscenario</string>
+	<key>relationalPosition</key>
+	<string>reusableScreen</string>
+	<key>scrollableSingleton</key>
+	<string>secondComponent</string>
+</dict>
+</plist>

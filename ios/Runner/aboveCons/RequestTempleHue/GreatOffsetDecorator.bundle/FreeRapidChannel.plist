@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>customData</key>
+	<string>rapidpreviewscale</string>
+	<key>granularTask</key>
+	<string>layoutBrightness</string>
+	<key>independentPresenter</key>
+	<string>aggregateLoop</string>
+	<key>mainMonster</key>
+	<string>activeEvaluation</string>
+	<key>semanticcache</key>
+	<string>significantTolerance</string>
+	<key>slashLeft</key>
+	<string>canPresentPet</string>
+	<key>tabviewtimer</key>
+	<string>responsiveDecoration</string>
+	<key>topicmodel</key>
+	<string>shouldBuildDialogs</string>
+</dict>
+</plist>

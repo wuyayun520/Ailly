@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>analyzerAppearance</key>
+	<string>setstateContainer</string>
+	<key>eagerDuration</key>
+	<string>enabledDimension</string>
+	<key>gateInset</key>
+	<string>canShowChallenge</string>
+	<key>methodforobserver</key>
+	<string>deliveryTheme</string>
+	<key>nodeasdecorator</key>
+	<string>canObserveLayout</string>
+	<key>skinSize</key>
+	<string>canHandleMatrix</string>
+	<key>temporaryPosition</key>
+	<string>graphshapeskewx</string>
+</dict>
+</plist>

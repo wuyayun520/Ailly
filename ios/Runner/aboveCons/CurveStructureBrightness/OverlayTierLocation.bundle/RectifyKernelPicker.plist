@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>basedespitevisitor</key>
+	<string>expandedFramework</string>
+	<key>functionalConsumption</key>
+	<string>shouldPauseCursor</string>
+	<key>giftmanager</key>
+	<string>shouldbindtabbar</string>
+	<key>informationOpacity</key>
+	<string>validateBuilder</string>
+	<key>measureinstruction</key>
+	<string>shouldSerializeAnimation</string>
+	<key>sequentialCapacity</key>
+	<string>menuworkinset</string>
+	<key>shouldMountedPlayback</key>
+	<string>sortedAlpha</string>
+	<key>statefulLogarithm</key>
+	<string>augmentAnimation</string>
+	<key>widgetPadding</key>
+	<string>originalPosition</string>
+</dict>
+</plist>

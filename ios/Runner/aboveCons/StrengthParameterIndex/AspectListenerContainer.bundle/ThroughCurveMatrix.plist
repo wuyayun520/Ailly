@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>independentVector</key>
+	<string>borderResponse</string>
+	<key>metadataResponse</key>
+	<string>canUnbindNavigator</string>
+	<key>protectedLoss</key>
+	<string>shouldDismissText</string>
+	<key>topicTag</key>
+	<string>firstTrajectory</string>
+</dict>
+</plist>

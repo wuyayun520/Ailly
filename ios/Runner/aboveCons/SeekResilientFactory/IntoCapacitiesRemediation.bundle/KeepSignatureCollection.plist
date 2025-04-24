@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animatedTween</key>
+	<string>labelOrigin</string>
+	<key>baseMargin</key>
+	<string>defaultEquipment</string>
+	<key>cupertinoSlash</key>
+	<string>commonImpact</string>
+	<key>diversifiedTabBar</key>
+	<string>titleleft</string>
+	<key>injectionInterval</key>
+	<string>transitionFeedback</string>
+	<key>scaffoldloop</key>
+	<string>progressbarscenario</string>
+	<key>shouldConnectChallenge</key>
+	<string>operationSize</string>
+	<key>toleranceFrequency</key>
+	<string>dissociateMenu</string>
+	<key>unbindgrayscale</key>
+	<string>localizationResponse</string>
+	<key>webTabView</key>
+	<string>certificatebehavior</string>
+</dict>
+</plist>

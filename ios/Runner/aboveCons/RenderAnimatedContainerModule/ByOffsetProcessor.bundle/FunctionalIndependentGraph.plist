@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>appbarinsidecontext</key>
+	<string>composableNotation</string>
+	<key>easyConnector</key>
+	<string>immediateShader</string>
+	<key>hashincludevar</key>
+	<string>selectedstamp</string>
+	<key>protectedScalability</key>
+	<string>requestagainstenvironment</string>
+	<key>sequentialradiusstate</key>
+	<string>shouldReplaceLayout</string>
+	<key>shouldTrainCapacities</key>
+	<string>crucialChannels</string>
+	<key>showstate</key>
+	<string>subtleCapsule</string>
+	<key>specifierHead</key>
+	<string>hasMediaQuery</string>
+	<key>statelessCluster</key>
+	<string>spritevariablemode</string>
+</dict>
+</plist>

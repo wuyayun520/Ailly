@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>bandwidthResponse</key>
+	<string>singletonVisitor</string>
+	<key>builderorientation</key>
+	<string>mediaqueryScope</string>
+	<key>featurevisitorresponse</key>
+	<string>notifyAction</string>
+	<key>reactiveGraph</key>
+	<string>pageviewviatemple</string>
+</dict>
+</plist>

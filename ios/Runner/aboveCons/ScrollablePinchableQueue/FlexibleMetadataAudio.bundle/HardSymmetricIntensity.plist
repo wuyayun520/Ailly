@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>autoCheckbox</key>
+	<string>reconcileStore</string>
+	<key>desktopcallbackvisibility</key>
+	<string>stringifyRow</string>
+	<key>hasLoss</key>
+	<string>reusableCombiner</string>
+	<key>materialStore</key>
+	<string>loopSkewX</string>
+	<key>refactormethod</key>
+	<string>maintainDependency</string>
+	<key>responsetheme</key>
+	<string>timelineAlignment</string>
+	<key>scheduleprofile</key>
+	<string>injectionpager</string>
+	<key>staticResource</key>
+	<string>smallError</string>
+	<key>utilshade</key>
+	<string>temporarySample</string>
+</dict>
+</plist>

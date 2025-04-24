@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>concurrentoperationlocation</key>
+	<string>inflateChecklist</string>
+	<key>introspectchannel</key>
+	<string>addLocalization</string>
+	<key>menuDuration</key>
+	<string>shouldSerializeComposition</string>
+	<key>operationBottom</key>
+	<string>rotateContainer</string>
+	<key>positionedincludemethod</key>
+	<string>statefulLoop</string>
+	<key>respectiveEmitter</key>
+	<string>canYieldStack</string>
+</dict>
+</plist>

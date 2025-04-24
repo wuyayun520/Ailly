@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activeReceiver</key>
+	<string>canInitializeMonster</string>
+	<key>alignmentinsideobserver</key>
+	<string>mediumMember</string>
+	<key>basicRectangle</key>
+	<string>divideDependency</string>
+	<key>composabletaskbehavior</key>
+	<string>createStamp</string>
+	<key>mediumMobile</key>
+	<string>trainInitiators</string>
+	<key>retainedMaterial</key>
+	<string>continueAccessory</string>
+	<key>shouldMountComposition</key>
+	<string>materialStrategy</string>
+	<key>trajectoryFrequency</key>
+	<string>receivechart</string>
+	<key>transformstorage</key>
+	<string>techniqueLocation</string>
+</dict>
+</plist>

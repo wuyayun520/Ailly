@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>backwardAperture</key>
+	<string>modulusRight</string>
+	<key>beginnerSegment</key>
+	<string>renderShader</string>
+	<key>bulletDelay</key>
+	<string>filterInteraction</string>
+	<key>defaultcupertino</key>
+	<string>configurationandmediator</string>
+	<key>fixedRichText</key>
+	<string>largeOperation</string>
+	<key>sharedTransition</key>
+	<string>mitigategridview</string>
+	<key>shouldSaveNib</key>
+	<string>sineFlyweight</string>
+	<key>shouldShowPet</key>
+	<string>brushVelocity</string>
+	<key>storecontextsaturation</key>
+	<string>numericalShape</string>
+	<key>tappableHistogram</key>
+	<string>hyperbolicnavigation</string>
+</dict>
+</plist>

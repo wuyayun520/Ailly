@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>agileAnimatedContainer</key>
+	<string>canSkipRole</string>
+	<key>composableSegment</key>
+	<string>shouldstopequipment</string>
+	<key>cyclestroke</key>
+	<string>stackMethod</string>
+	<key>intermediateaction</key>
+	<string>reusableModal</string>
+	<key>sensorskewx</key>
+	<string>resilientSchema</string>
+	<key>sharedInformation</key>
+	<string>refactorStorage</string>
+	<key>shouldReplaceCustomPaint</key>
+	<string>objectFrequency</string>
+	<key>shouldResumeSlider</key>
+	<string>shouldFormatView</string>
+	<key>statelessmethodhead</key>
+	<string>autoCluster</string>
+	<key>techniqueinsidestate</key>
+	<string>canMountedNotifier</string>
+</dict>
+</plist>

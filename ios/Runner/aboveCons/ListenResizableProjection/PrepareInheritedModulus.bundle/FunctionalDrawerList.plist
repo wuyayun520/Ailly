@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activeFeature</key>
+	<string>statelessLoop</string>
+	<key>cacheFeedback</key>
+	<string>independentusecase</string>
+	<key>compositionInset</key>
+	<string>firstOccasion</string>
+	<key>geometricnormvalidation</key>
+	<string>keepSegment</string>
+	<key>iconthantier</key>
+	<string>consultativeProgressBar</string>
+	<key>onbasetap</key>
+	<string>shouldCancelTheme</string>
+	<key>pivotalEvent</key>
+	<string>activatedResilience</string>
+	<key>shouldContinueClipper</key>
+	<string>usedLayer</string>
+</dict>
+</plist>

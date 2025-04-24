@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>convolutiondelegate</key>
+	<string>canMountSymbol</string>
+	<key>creatorFrequency</key>
+	<string>metadataParam</string>
+	<key>functionalSprite</key>
+	<string>shouldPrepareCell</string>
+	<key>hierarchicalEntity</key>
+	<string>inflatelayout</string>
+	<key>localizationleft</key>
+	<string>modulusOffset</string>
+	<key>mainStateless</key>
+	<string>exponentVar</string>
+	<key>multiCell</key>
+	<string>appbarthanjob</string>
+	<key>providerincludecomposite</key>
+	<string>normEnvironment</string>
+	<key>shouldObserveSwitch</key>
+	<string>cancelSlash</string>
+</dict>
+</plist>

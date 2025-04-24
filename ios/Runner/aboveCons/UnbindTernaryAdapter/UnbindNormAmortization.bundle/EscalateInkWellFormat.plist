@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>actiontriangles</key>
+	<string>reactivePlayback</string>
+	<key>cartesianProcessor</key>
+	<string>grayscaleaction</string>
+	<key>consultativeOperation</key>
+	<string>relationalmobileskewy</string>
+	<key>emitconstraint</key>
+	<string>groupcontaininterpreter</string>
+	<key>gridviewCenter</key>
+	<string>draggableStateless</string>
+	<key>prismaticBatch</key>
+	<string>tabviewdescription</string>
+	<key>typicalInteraction</key>
+	<string>canPreparePoint</string>
+</dict>
+</plist>

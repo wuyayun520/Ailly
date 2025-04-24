@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>blocSize</key>
+	<string>temporaryRepository</string>
+	<key>draggablesteplocation</key>
+	<string>temporaryInfo</string>
+	<key>ephemeralVertex</key>
+	<string>consumerfuture</string>
+	<key>nativeMap</key>
+	<string>diffableChart</string>
+	<key>persistentDecoration</key>
+	<string>explicitLinker</string>
+	<key>reusableQueue</key>
+	<string>lazyAsync</string>
+	<key>temporarydescriptor</key>
+	<string>eagerHeap</string>
+	<key>tickercomponent</key>
+	<string>shouldSkipScaffold</string>
+	<key>unactivatedborderduration</key>
+	<string>backwardReceiver</string>
+</dict>
+</plist>

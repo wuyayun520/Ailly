@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>certificatescoperate</key>
+	<string>spotformat</string>
+	<key>crudeComponent</key>
+	<string>stackPadding</string>
+	<key>eagerFragments</key>
+	<string>shouldCancelClipper</string>
+	<key>futureEdge</key>
+	<string>positionedDuration</string>
+	<key>mediumIcon</key>
+	<string>delegateGroup</string>
+	<key>oldloopinterval</key>
+	<string>drawerVariable</string>
+	<key>replacedecoration</key>
+	<string>boxshadowPosition</string>
+	<key>rowmaterializer</key>
+	<string>stampShape</string>
+	<key>splitterInset</key>
+	<string>streamType</string>
+</dict>
+</plist>

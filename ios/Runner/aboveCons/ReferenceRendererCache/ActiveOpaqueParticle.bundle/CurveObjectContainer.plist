@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>gateinteraction</key>
+	<string>handlerFrequency</string>
+	<key>impressionSkewY</key>
+	<string>elasticEvolution</string>
+	<key>nativeService</key>
+	<string>pivotalTolerance</string>
+	<key>resumemethod</key>
+	<string>retainedTrajectory</string>
+	<key>uniformskin</key>
+	<string>criticalNotation</string>
+</dict>
+</plist>

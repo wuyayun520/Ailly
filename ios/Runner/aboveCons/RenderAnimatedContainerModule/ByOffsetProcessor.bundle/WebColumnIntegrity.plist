@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>customPadding</key>
+	<string>shouldUpdateBoxShadow</string>
+	<key>defaultMaster</key>
+	<string>densealertstate</string>
+	<key>descriptionHead</key>
+	<string>originalMaterializer</string>
+	<key>evaluationDelay</key>
+	<string>ascentKind</string>
+	<key>granularRectangle</key>
+	<string>commonShader</string>
+	<key>resulttop</key>
+	<string>seekChart</string>
+	<key>shouldValidateTextField</key>
+	<string>scaffoldreceiver</string>
+	<key>thresholdOpacity</key>
+	<string>shouldPersistResource</string>
+	<key>titleselector</key>
+	<string>removeRadius</string>
+</dict>
+</plist>

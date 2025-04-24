@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accessibleInfrastructure</key>
+	<string>litetechnique</string>
+	<key>directGraph</key>
+	<string>stampMediator</string>
+	<key>hyperbolicFinder</key>
+	<string>opaqueCaption</string>
+	<key>keepalpha</key>
+	<string>uniquePicker</string>
+	<key>missedVideo</key>
+	<string>modalvelocity</string>
+	<key>mutableMultiplication</key>
+	<string>customizedEvolution</string>
+	<key>resizehash</key>
+	<string>ascentAcceleration</string>
+</dict>
+</plist>

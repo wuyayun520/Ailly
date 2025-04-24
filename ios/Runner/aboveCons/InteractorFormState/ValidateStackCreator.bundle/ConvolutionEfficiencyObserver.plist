@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>enableddescriptorsaturation</key>
+	<string>custompaintInteraction</string>
+	<key>ephemeralInfo</key>
+	<string>textvisitorcount</string>
+	<key>inkwellEdge</key>
+	<string>evaluatecompleter</string>
+	<key>lastCaption</key>
+	<string>encodeanimatedcontainer</string>
+	<key>scrollerCoord</key>
+	<string>mediaqueryTension</string>
+	<key>shouldRenderEffect</key>
+	<string>schedulerDelay</string>
+</dict>
+</plist>

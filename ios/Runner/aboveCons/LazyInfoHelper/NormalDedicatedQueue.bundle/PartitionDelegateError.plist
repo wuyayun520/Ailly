@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activityTail</key>
+	<string>tangentleft</string>
+	<key>arithmeticAcceleration</key>
+	<string>resultMomentum</string>
+	<key>handlerduration</key>
+	<string>provideAsync</string>
+	<key>preparetimer</key>
+	<string>shouldDisposeSine</string>
+	<key>shouldcachecupertino</key>
+	<string>crudeProject</string>
+	<key>tensorProvision</key>
+	<string>injectionVar</string>
+	<key>usagelistener</key>
+	<string>inheritedCube</string>
+	<key>webDropdownButton</key>
+	<string>multiMember</string>
+</dict>
+</plist>

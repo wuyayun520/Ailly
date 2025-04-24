@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>impressionFlags</key>
+	<string>fillInjection</string>
+	<key>rectPosition</key>
+	<string>disconnectSpot</string>
+	<key>shouldRebuildTouch</key>
+	<string>standaloneMerger</string>
+	<key>shouldUnmountEffect</key>
+	<string>largeCatalyst</string>
+</dict>
+</plist>

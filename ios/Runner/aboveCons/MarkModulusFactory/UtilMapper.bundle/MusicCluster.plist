@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cartesianGroup</key>
+	<string>responseMode</string>
+	<key>euclideanMember</key>
+	<string>flexiblePadding</string>
+	<key>notificationLeft</key>
+	<string>arithmeticView</string>
+	<key>subscriptionDistance</key>
+	<string>canLoadProfile</string>
+	<key>synchronousIsolate</key>
+	<string>sinkStructure</string>
+	<key>unsortedAspectRatio</key>
+	<string>draggableTitle</string>
+</dict>
+</plist>

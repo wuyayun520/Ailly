@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>discardedCompletion</key>
+	<string>remainderDelay</string>
+	<key>hasBorder</key>
+	<string>threadShape</string>
+	<key>iterativeSwift</key>
+	<string>shouldUpdateInteger</string>
+	<key>nodeimage</key>
+	<string>synchronouslabel</string>
+	<key>shouldSkipModal</key>
+	<string>retainedMenu</string>
+	<key>shouldloadgram</key>
+	<string>symbolBridge</string>
+</dict>
+</plist>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>arithmeticScalability</key>
+	<string>accessibleModulus</string>
+	<key>interactiveCoordinator</key>
+	<string>seamlessRenderer</string>
+	<key>listenerdepth</key>
+	<string>flexTask</string>
+	<key>primaryskirt</key>
+	<string>divideBuilder</string>
+	<key>retrievebinary</key>
+	<string>canUnmountedGate</string>
+	<key>robustStateless</key>
+	<string>semanticAlpha</string>
+	<key>shouldDecodeScaffold</key>
+	<string>shouldKeepGrayscale</string>
+	<key>shouldReplaceMember</key>
+	<string>heroEnvironment</string>
+</dict>
+</plist>

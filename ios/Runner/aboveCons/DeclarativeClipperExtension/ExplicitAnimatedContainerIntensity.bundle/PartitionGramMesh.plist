@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>memberincludescope</key>
+	<string>canSubscribeChecklist</string>
+	<key>nodewithinterpreter</key>
+	<string>utilEnvironment</string>
+	<key>parallelCurve</key>
+	<string>globalSlider</string>
+	<key>publishshader</key>
+	<string>basicInterpolation</string>
+	<key>saveparticle</key>
+	<string>descriptioncontainplatform</string>
+	<key>setstaterequest</key>
+	<string>computeDelegate</string>
+	<key>standaloneMaterializer</key>
+	<string>videoShade</string>
+	<key>stateBrightness</key>
+	<string>shouldValidatePrecision</string>
+	<key>yieldaxis</key>
+	<string>reconcilePopup</string>
+</dict>
+</plist>

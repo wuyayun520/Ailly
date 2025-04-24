@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>constraintIndex</key>
+	<string>validateUsage</string>
+	<key>exitscaffold</key>
+	<string>canBindPageView</string>
+	<key>holdrouter</key>
+	<string>subsequentLocalization</string>
+	<key>resilientMenu</key>
+	<string>staticNotation</string>
+	<key>staticChooser</key>
+	<string>canCreateDecoration</string>
+	<key>sustainableData</key>
+	<string>dedicatedSplitter</string>
+</dict>
+</plist>

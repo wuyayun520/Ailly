@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>baselineMomentum</key>
+	<string>eraseIntensity</string>
+	<key>defaultAlpha</key>
+	<string>concreteNode</string>
+	<key>evaluationSpacing</key>
+	<string>executeChannel</string>
+	<key>localLog</key>
+	<string>lastScroller</string>
+	<key>offsetcontroller</key>
+	<string>shouldupdateanchor</string>
+	<key>reducerSkewY</key>
+	<string>shouldPausePrecision</string>
+	<key>shouldCachePainter</key>
+	<string>autoMesh</string>
+	<key>vectorleft</key>
+	<string>shouldStreamInstruction</string>
+</dict>
+</plist>

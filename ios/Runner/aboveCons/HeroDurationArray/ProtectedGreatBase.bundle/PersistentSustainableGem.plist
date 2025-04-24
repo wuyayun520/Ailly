@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>commonAspectRatio</key>
+	<string>protectedEmitter</string>
+	<key>parallelSorter</key>
+	<string>augmentLocalization</string>
+	<key>reactiveOptimizer</key>
+	<string>petuntiltask</string>
+	<key>showrepository</key>
+	<string>layerRate</string>
+	<key>uniformAudio</key>
+	<string>storagelatency</string>
+	<key>usageInterval</key>
+	<string>currentProtocol</string>
+</dict>
+</plist>

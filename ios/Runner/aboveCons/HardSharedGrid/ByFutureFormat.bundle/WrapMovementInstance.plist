@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>easyInformation</key>
+	<string>receiveButton</string>
+	<key>provisionTail</key>
+	<string>shouldInitializeCurve</string>
+	<key>shouldLayoutComposition</key>
+	<string>canDisconnectMission</string>
+	<key>shouldNotifyReduction</key>
+	<string>composablePoint</string>
+	<key>shouldpaintcontroller</key>
+	<string>replaceRemainder</string>
+	<key>singleKernel</key>
+	<string>extendDelegate</string>
+	<key>standaloneModel</key>
+	<string>shouldMountedMatrix</string>
+</dict>
+</plist>

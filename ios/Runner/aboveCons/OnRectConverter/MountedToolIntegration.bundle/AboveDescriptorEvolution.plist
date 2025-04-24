@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>asynchronousMend</key>
+	<string>cacheForm</string>
+	<key>euclideaninteraction</key>
+	<string>shouldCancelCompletion</string>
+	<key>nextResponder</key>
+	<string>statelessGrid</string>
+	<key>prismaticSpine</key>
+	<string>specifyPrecision</string>
+	<key>resilientAlpha</key>
+	<string>variantdecoratortransparency</string>
+	<key>seamlessMediaQuery</key>
+	<string>shouldTransformLabel</string>
+	<key>shouldPauseGift</key>
+	<string>implementRequest</string>
+	<key>visiblemobilebound</key>
+	<string>localInterface</string>
+</dict>
+</plist>

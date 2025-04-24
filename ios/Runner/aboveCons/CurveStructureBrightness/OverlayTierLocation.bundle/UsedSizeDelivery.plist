@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>deferredPlate</key>
+	<string>autoLayer</string>
+	<key>hierarchicalDescription</key>
+	<string>originalContrast</string>
+	<key>isolatebrightness</key>
+	<string>serializeGesture</string>
+	<key>persistentoffset</key>
+	<string>shouldSubscribeCatalyst</string>
+	<key>substantialService</key>
+	<string>lazyContrast</string>
+</dict>
+</plist>

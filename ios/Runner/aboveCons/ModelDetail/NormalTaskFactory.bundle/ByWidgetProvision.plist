@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>autocycleresponse</key>
+	<string>inactiveScroll</string>
+	<key>difficultIntegrity</key>
+	<string>retainText</string>
+	<key>featurewithvar</key>
+	<string>gesturemethodvalidation</string>
+	<key>lastService</key>
+	<string>sliderfeedback</string>
+	<key>localCupertino</key>
+	<string>giftState</string>
+	<key>significantTriangles</key>
+	<string>canStartCollection</string>
+	<key>splitterBottom</key>
+	<string>canFormatSession</string>
+	<key>webResolver</key>
+	<string>canPauseGridView</string>
+</dict>
+</plist>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>captureloop</key>
+	<string>canPrepareScaffold</string>
+	<key>infoPadding</key>
+	<string>assetStage</string>
+	<key>normalaspect</key>
+	<string>unactivatedMatrix</string>
+	<key>operationcontroller</key>
+	<string>iterativeAspectRatio</string>
+	<key>paddingSpacing</key>
+	<string>canEncodeAspectRatio</string>
+	<key>resizeoffset</key>
+	<string>discardedAlignment</string>
+	<key>statefulcompleter</key>
+	<string>flexibleExtension</string>
+</dict>
+</plist>

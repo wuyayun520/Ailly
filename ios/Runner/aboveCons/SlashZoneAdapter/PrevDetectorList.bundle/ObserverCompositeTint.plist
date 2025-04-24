@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>customizedImage</key>
+	<string>shouldPreparePriority</string>
+	<key>fusedStorage</key>
+	<string>ignoredPresenter</string>
+	<key>resilientInteractor</key>
+	<string>tappableReceiver</string>
+	<key>setupaccessory</key>
+	<string>resizableResource</string>
+	<key>shouldBuildEffect</key>
+	<string>materialType</string>
+	<key>shouldPublishEntropy</key>
+	<string>shouldPresentBaseline</string>
+	<key>shouldsavestamp</key>
+	<string>persistMultiplication</string>
+	<key>splitterRate</key>
+	<string>layerFlags</string>
+</dict>
+</plist>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animationFormat</key>
+	<string>canSetStateObserver</string>
+	<key>concurrentMesh</key>
+	<string>grainvalidation</string>
+	<key>desktoptween</key>
+	<string>shouldTransformAxis</string>
+	<key>geometricGraphic</key>
+	<string>tasksincestrategy</string>
+	<key>mediumEquipment</key>
+	<string>advancedresolver</string>
+	<key>visitthread</key>
+	<string>resilientComposition</string>
+</dict>
+</plist>

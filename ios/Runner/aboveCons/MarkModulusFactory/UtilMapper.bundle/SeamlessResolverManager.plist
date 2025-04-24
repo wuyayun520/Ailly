@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>dataoffset</key>
+	<string>decorationmerger</string>
+	<key>expandedOffset</key>
+	<string>descriptorDirection</string>
+	<key>imagesaturation</key>
+	<string>seamlessTrigger</string>
+	<key>invisibleVertex</key>
+	<string>injectOffset</string>
+</dict>
+</plist>

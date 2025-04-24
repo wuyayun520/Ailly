@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animatedcontaineraroundstructure</key>
+	<string>shouldFinishAnimation</string>
+	<key>appbarFeedback</key>
+	<string>awaitbuilder</string>
+	<key>constructbase</key>
+	<string>refactorException</string>
+	<key>disparateOccasion</key>
+	<string>labelVar</string>
+	<key>fetchcell</key>
+	<string>mendMomentum</string>
+	<key>graphshapecount</key>
+	<string>constraintProcess</string>
+	<key>labelState</key>
+	<string>quantizerGrid</string>
+	<key>mediumGem</key>
+	<string>permanentvectoroffset</string>
+	<key>reconcilebuilder</key>
+	<string>partitionStream</string>
+	<key>uniformReference</key>
+	<string>deserializeFrame</string>
+</dict>
+</plist>

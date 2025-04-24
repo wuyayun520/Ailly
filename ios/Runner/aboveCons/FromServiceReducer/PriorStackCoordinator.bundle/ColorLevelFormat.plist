@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>buttonneartier</key>
+	<string>embedResponse</string>
+	<key>entityincludenumber</key>
+	<string>canRebuildStoryboard</string>
+	<key>permanentTentative</key>
+	<string>canYieldBase</string>
+	<key>rolemediatorsaturation</key>
+	<string>notifyWidget</string>
+	<key>skirtAppearance</key>
+	<string>decoupleParticle</string>
+	<key>zoneBound</key>
+	<string>shouldNotifyBinary</string>
+</dict>
+</plist>

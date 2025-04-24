@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>certificateState</key>
+	<string>canDecodeEffect</string>
+	<key>fixedAnimator</key>
+	<string>shouldDecodeMission</string>
+	<key>layoutsession</key>
+	<string>pivotalPolyfill</string>
+	<key>opaqueSchema</key>
+	<string>shouldPrepareClipper</string>
+	<key>priorUseCase</key>
+	<string>consumeDecoration</string>
+	<key>shouldPaintAlpha</key>
+	<string>alignmentalignment</string>
+	<key>substantialFinder</key>
+	<string>shouldEndContainer</string>
+</dict>
+</plist>

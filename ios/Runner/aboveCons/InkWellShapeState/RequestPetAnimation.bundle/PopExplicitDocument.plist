@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>checklistmend</key>
+	<string>diffableQueue</string>
+	<key>featureinadapter</key>
+	<string>scrollvardistance</string>
+	<key>lazySchema</key>
+	<string>shouldEndGridView</string>
+	<key>sustainableMenu</key>
+	<string>permissiveDropdownButton</string>
+	<key>textureType</key>
+	<string>painterKind</string>
+</dict>
+</plist>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>protectedSwitch</key>
+	<string>selectedtask</string>
+	<key>selectedMusic</key>
+	<string>finishCollection</string>
+	<key>specifyRequest</key>
+	<string>semanticMediaQuery</string>
+</dict>
+</plist>

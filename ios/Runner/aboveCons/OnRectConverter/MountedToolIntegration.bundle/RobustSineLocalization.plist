@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>configurationInterval</key>
+	<string>alphaOrigin</string>
+	<key>coordinatorawayobserver</key>
+	<string>animationinset</string>
+	<key>elasticProfile</key>
+	<string>canNavigateAlpha</string>
+	<key>hashShape</key>
+	<string>lostDialogs</string>
+	<key>hierarchicalalignment</key>
+	<string>mediaqueryShape</string>
+	<key>relationalPermutation</key>
+	<string>modalScope</string>
+	<key>shouldLoadLog</key>
+	<string>canPaintCoordinator</string>
+	<key>shouldNotifyStoryboard</key>
+	<string>requestPattern</string>
+	<key>shouldSaveThread</key>
+	<string>resizableTween</string>
+	<key>smallUtil</key>
+	<string>publicChart</string>
+</dict>
+</plist>

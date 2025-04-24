@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accessibleStateful</key>
+	<string>integrationCoord</string>
+	<key>compositionalUseCase</key>
+	<string>euclideanCard</string>
+	<key>enabledPermutation</key>
+	<string>canMountedChannels</string>
+	<key>immediateConfiguration</key>
+	<string>popGift</string>
+	<key>paddingpershape</key>
+	<string>prismaticButton</string>
+	<key>presenterparamorigin</key>
+	<string>explicitScheduler</string>
+	<key>shouldEmitSegue</key>
+	<string>canNavigateIndicator</string>
+</dict>
+</plist>

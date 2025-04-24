@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>manageragainstcycle</key>
+	<string>deflateFeature</string>
+	<key>meshType</key>
+	<string>exceptionScope</string>
+	<key>mutabledescriptor</key>
+	<string>hasAxis</string>
+	<key>skinacceleration</key>
+	<string>activatedPrecision</string>
+	<key>storageDuration</key>
+	<string>semanticReference</string>
+</dict>
+</plist>

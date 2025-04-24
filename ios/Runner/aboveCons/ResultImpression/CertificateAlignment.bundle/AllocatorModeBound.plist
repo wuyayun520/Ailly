@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>adaptivemethodacceleration</key>
+	<string>dismissModulus</string>
+	<key>advancedSingleton</key>
+	<string>canSkipKernel</string>
+	<key>configuredelegate</key>
+	<string>amortizationbehavior</string>
+	<key>granularRadio</key>
+	<string>staticPositioned</string>
+	<key>timelineIndex</key>
+	<string>shouldMountStamp</string>
+</dict>
+</plist>

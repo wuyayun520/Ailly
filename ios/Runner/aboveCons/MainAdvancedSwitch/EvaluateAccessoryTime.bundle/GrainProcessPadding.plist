@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animatedialogs</key>
+	<string>histogramStatus</string>
+	<key>cartesianHandler</key>
+	<string>allocatorBorder</string>
+	<key>compilelistview</key>
+	<string>detachBaseline</string>
+	<key>composableSprite</key>
+	<string>keybuffer</string>
+	<key>granularSplitter</key>
+	<string>alphadespitebuffer</string>
+	<key>listenmusic</key>
+	<string>imageStatus</string>
+	<key>movementPadding</key>
+	<string>decorationFeedback</string>
+	<key>shouldDeserializeCollection</key>
+	<string>impactdirection</string>
+	<key>tabviewdepth</key>
+	<string>observeDelegate</string>
+</dict>
+</plist>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>futureshapetype</key>
+	<string>staticBoxShadow</string>
+	<key>interactiveTentative</key>
+	<string>scaffoldindex</string>
+	<key>interfaceSize</key>
+	<string>immutableCharacter</string>
+	<key>positionedbottom</key>
+	<string>advancedResponder</string>
+	<key>semanticsDelay</key>
+	<string>restoreLabel</string>
+</dict>
+</plist>

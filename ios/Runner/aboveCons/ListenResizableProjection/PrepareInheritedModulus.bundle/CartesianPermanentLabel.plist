@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>collectionBrightness</key>
+	<string>slidernearcontext</string>
+	<key>fusedlayout</key>
+	<string>mergerLocation</string>
+	<key>independentTheme</key>
+	<string>handleCollection</string>
+	<key>mendInteraction</key>
+	<string>canSkipChallenge</string>
+	<key>shouldInflateNavigation</key>
+	<string>flexibleSizedBox</string>
+</dict>
+</plist>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>challengerotation</key>
+	<string>transpileFactory</string>
+	<key>errorinteraction</key>
+	<string>canTransformBox</string>
+	<key>largeInfo</key>
+	<string>canCacheButton</string>
+	<key>prevPromise</key>
+	<string>directlyMargin</string>
+	<key>textureSkewX</key>
+	<string>parsesizedbox</string>
+	<key>threadinfrastructure</key>
+	<string>unaryVariable</string>
+</dict>
+</plist>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>displayableTabBar</key>
+	<string>restartSemantics</string>
+	<key>formatoverlay</key>
+	<string>documentChain</string>
+	<key>hardSession</key>
+	<string>formatOptimizer</string>
+	<key>shouldMountAlert</key>
+	<string>shouldStartModal</string>
+	<key>singleWrapper</key>
+	<string>shouldPopModal</string>
+	<key>sortedCallback</key>
+	<string>finishCaption</string>
+</dict>
+</plist>

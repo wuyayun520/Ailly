@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>desktopVolume</key>
+	<string>globalCycle</string>
+	<key>granularItem</key>
+	<string>implementRequest</string>
+	<key>numericalBuffer</key>
+	<string>grainFacade</string>
+	<key>permanentIcon</key>
+	<string>yieldHeap</string>
+</dict>
+</plist>

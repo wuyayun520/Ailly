@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>batchBehavior</key>
+	<string>statefulReplica</string>
+	<key>customContraction</key>
+	<string>metadataObserver</string>
+	<key>hasSymbol</key>
+	<string>volumeBottom</string>
+	<key>hasloss</key>
+	<string>clusterRate</string>
+	<key>prevCurve</key>
+	<string>canPushInitiators</string>
+	<key>resilientMetadata</key>
+	<string>saveHero</string>
+</dict>
+</plist>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>declarativeReceiver</key>
+	<string>bulletaudio</string>
+	<key>directlyMobile</key>
+	<string>sustainableIcon</string>
+	<key>enabledRenderer</key>
+	<string>skinTransparency</string>
+	<key>partitioninterface</key>
+	<string>uniformInteractor</string>
+	<key>persistentOption</key>
+	<string>shouldRouteTabView</string>
+	<key>plateIndex</key>
+	<string>schedulechannel</string>
+	<key>shouldShowInteger</key>
+	<string>webTween</string>
+</dict>
+</plist>

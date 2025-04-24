@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>ascentShape</key>
+	<string>canDisconnectComposition</string>
+	<key>crucialresourceinteraction</key>
+	<string>slideragainstpattern</string>
+	<key>detectorVisible</key>
+	<string>comprehensivetool</string>
+	<key>geometricconsumer</key>
+	<string>shouldUpdateBaseline</string>
+	<key>parallelanchor</key>
+	<string>routerColor</string>
+	<key>radiooffacade</key>
+	<string>setstateanchor</string>
+</dict>
+</plist>

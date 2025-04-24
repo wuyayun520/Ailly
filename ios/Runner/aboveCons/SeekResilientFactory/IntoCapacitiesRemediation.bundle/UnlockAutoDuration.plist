@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>alphacolor</key>
+	<string>statefulTechnique</string>
+	<key>disabledError</key>
+	<string>gramobserver</string>
+	<key>shouldpersistsizedbox</key>
+	<string>transpileLayout</string>
+	<key>shouldstopprojection</key>
+	<string>liteDropdownButton</string>
+</dict>
+</plist>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>dataalignment</key>
+	<string>titleContrast</string>
+	<key>descriptionName</key>
+	<string>canDeserializeNavigator</string>
+	<key>metadataincludescope</key>
+	<string>shouldRenderInteger</string>
+	<key>precisionRate</key>
+	<string>modulusOperation</string>
+	<key>shouldYieldVariant</key>
+	<string>discoveroptimizer</string>
+	<key>standalonePresenter</key>
+	<string>advancedEntropy</string>
+	<key>statefulCurve</key>
+	<string>prepareCapsule</string>
+	<key>statelessArchitecture</key>
+	<string>inactiveAsync</string>
+</dict>
+</plist>

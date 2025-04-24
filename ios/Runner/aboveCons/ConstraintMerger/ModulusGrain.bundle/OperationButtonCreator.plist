@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>agileMaster</key>
+	<string>autoMechanism</string>
+	<key>animatedvectorhue</key>
+	<string>boxshadowLeft</string>
+	<key>aspectratioScale</key>
+	<string>canAnimateAperture</string>
+	<key>associatedChart</key>
+	<string>transformerVar</string>
+	<key>dynamicSemantics</key>
+	<string>backwardBox</string>
+	<key>elasticNotation</key>
+	<string>notificationPlatform</string>
+	<key>equivalentBottom</key>
+	<string>staticAlpha</string>
+	<key>shouldRestartNavigator</key>
+	<string>shouldRenderMediaQuery</string>
+	<key>subscriberForce</key>
+	<string>decorationDirection</string>
+	<key>themeVisible</key>
+	<string>implementButton</string>
+</dict>
+</plist>

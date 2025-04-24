@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>imageSkewX</key>
+	<string>consumeMetadata</string>
+	<key>liteCluster</key>
+	<string>nativeSkirt</string>
+	<key>relationalSelector</key>
+	<string>shouldObserveAnimatedContainer</string>
+	<key>resizableAlignment</key>
+	<string>unbindActivity</string>
+	<key>shouldRebuildMaterial</key>
+	<string>mountMonster</string>
+	<key>signfrequency</key>
+	<string>canStartInterpolation</string>
+	<key>sizedboxAlignment</key>
+	<string>arithmeticrate</string>
+	<key>smartMovement</key>
+	<string>shouldHandleSubpixel</string>
+</dict>
+</plist>

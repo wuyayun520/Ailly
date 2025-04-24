@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>commonConfidentiality</key>
+	<string>shoulddeserializedescriptor</string>
+	<key>enabledCombiner</key>
+	<string>otherGraph</string>
+	<key>invisiblePreview</key>
+	<string>prevFuture</string>
+	<key>opaquenavigator</key>
+	<string>releaseParticle</string>
+	<key>precisionVelocity</key>
+	<string>rotateScene</string>
+	<key>serviceOrigin</key>
+	<string>invisiblePageView</string>
+	<key>shouldReplaceOption</key>
+	<string>otherAnchor</string>
+	<key>sinevisibility</key>
+	<string>boxshadowPhase</string>
+</dict>
+</plist>

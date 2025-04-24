@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>composableAspect</key>
+	<string>standaloneMultiplication</string>
+	<key>mechanismalignment</key>
+	<string>shouldUnbindTransition</string>
+	<key>sharedComponent</key>
+	<string>featuredepth</string>
+	<key>shouldAnimateCoordinator</key>
+	<string>prismaticMovement</string>
+	<key>subscriptionanimator</key>
+	<string>unmounteddependency</string>
+</dict>
+</plist>

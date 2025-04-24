@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>curvevalueshape</key>
+	<string>pushPageView</string>
+	<key>diffableAlignment</key>
+	<string>chapterTint</string>
+	<key>firstAlert</key>
+	<string>managerSingleton</string>
+	<key>immutableBinary</key>
+	<string>accessoryLocation</string>
+	<key>layerbrightness</key>
+	<string>standaloneInjection</string>
+	<key>modalcyclevalidation</key>
+	<string>maxAnimatedContainer</string>
+	<key>optimizerInteraction</key>
+	<string>diversifiedCertificate</string>
+	<key>shouldTransformCycle</key>
+	<string>ternarythroughstate</string>
+	<key>transpilemetadata</key>
+	<string>canStartSkirt</string>
+</dict>
+</plist>

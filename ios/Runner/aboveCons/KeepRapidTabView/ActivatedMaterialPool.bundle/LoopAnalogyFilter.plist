@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>beginnerChapter</key>
+	<string>semanticsChain</string>
+	<key>efficiencyLocation</key>
+	<string>shouldProcessStoryboard</string>
+	<key>elasticAnimatedContainer</key>
+	<string>shouldPersistStep</string>
+	<key>originalDisclaimer</key>
+	<string>movementPrototype</string>
+	<key>tweenVelocity</key>
+	<string>easyTransformer</string>
+</dict>
+</plist>

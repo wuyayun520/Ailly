@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>checklistpressure</key>
+	<string>accordionRole</string>
+	<key>isstream</key>
+	<string>streamlineAction</string>
+	<key>mastermetrics</key>
+	<string>oldLoop</string>
+	<key>newestCluster</key>
+	<string>bandwidthColor</string>
+	<key>pivotalSegue</key>
+	<string>receiverColor</string>
+	<key>progressbarBorder</key>
+	<string>scaletierinteraction</string>
+	<key>reusableIndicator</key>
+	<string>pinchabletopic</string>
+	<key>shouldBuildCell</key>
+	<string>aspectratiodescription</string>
+	<key>singleInterpolation</key>
+	<string>prevStorage</string>
+</dict>
+</plist>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>autoPadding</key>
+	<string>consumerScale</string>
+	<key>callbackappearance</key>
+	<string>autoCompleter</string>
+	<key>cartesianBox</key>
+	<string>explicitpublisher</string>
+	<key>clipduration</key>
+	<string>fusedMultiplication</string>
+	<key>imperativeheapdensity</key>
+	<string>navigatormomentum</string>
+	<key>nativeSession</key>
+	<string>semanticLinker</string>
+	<key>projectionforce</key>
+	<string>shouldDetachCube</string>
+	<key>retainedPicker</key>
+	<string>setstateIndicator</string>
+	<key>selectedWorkflow</key>
+	<string>cacheFlyweight</string>
+	<key>streamskewx</key>
+	<string>referenceDensity</string>
+</dict>
+</plist>

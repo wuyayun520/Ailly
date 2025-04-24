@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>basicEvent</key>
+	<string>appbarOrientation</string>
+	<key>descriptionRate</key>
+	<string>concretecanvasshape</string>
+	<key>equalizationState</key>
+	<string>explicitInstruction</string>
+	<key>nativeNavigator</key>
+	<string>dimensionflyweightorigin</string>
+	<key>shouldParseHistogram</key>
+	<string>directlyInterface</string>
+	<key>shouldPauseProject</key>
+	<string>lazyTexture</string>
+</dict>
+</plist>

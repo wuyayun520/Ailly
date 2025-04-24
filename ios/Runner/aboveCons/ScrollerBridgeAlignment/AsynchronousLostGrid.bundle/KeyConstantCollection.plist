@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>integerflags</key>
+	<string>signatureKind</string>
+	<key>mobileChecklist</key>
+	<string>metadataInterpreter</string>
+	<key>robustMember</key>
+	<string>retainEntity</string>
+	<key>spotAcceleration</key>
+	<string>shouldSkipProjection</string>
+</dict>
+</plist>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>containersinceactivity</key>
+	<string>effectAction</string>
+	<key>convolutionScale</key>
+	<string>asyncFeedback</string>
+	<key>descriptioncontexttag</key>
+	<string>agileEvent</string>
+	<key>pinchablegrid</key>
+	<string>publicBitrate</string>
+	<key>relationalVariant</key>
+	<string>featureMediator</string>
+	<key>serializefuture</key>
+	<string>tableMomentum</string>
+	<key>shouldRouteRoute</key>
+	<string>startbutton</string>
+	<key>shouldTransformBorder</key>
+	<string>touchmementoinset</string>
+	<key>signmode</key>
+	<string>canRestartBloc</string>
+</dict>
+</plist>

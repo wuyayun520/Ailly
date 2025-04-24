@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>configurationdelivery</key>
+	<string>onmodulustap</string>
+	<key>gemTop</key>
+	<string>signaturepolyfill</string>
+	<key>intensityBrightness</key>
+	<string>skippriority</string>
+	<key>retainedFragment</key>
+	<string>missedRichText</string>
+	<key>shouldLayoutUsage</key>
+	<string>receiveUseCase</string>
+	<key>shouldTransitionFuture</key>
+	<string>wrapPreview</string>
+	<key>tensorEfficiency</key>
+	<string>selectedUsage</string>
+	<key>webMetadata</key>
+	<string>canUnbindStamp</string>
+</dict>
+</plist>

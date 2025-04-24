@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>appbarinset</key>
+	<string>eagerWrapper</string>
+	<key>disconnectintensity</key>
+	<string>asyncRate</string>
+	<key>gridSpeed</key>
+	<string>richtextVisibility</string>
+	<key>inkwellBound</key>
+	<string>backwardCluster</string>
+	<key>particleType</key>
+	<string>transitionSkin</string>
+	<key>shouldInflateProvider</key>
+	<string>finishTextField</string>
+	<key>shouldPausePet</key>
+	<string>strengthFormat</string>
+	<key>texturesensor</key>
+	<string>quaternionContrast</string>
+</dict>
+</plist>

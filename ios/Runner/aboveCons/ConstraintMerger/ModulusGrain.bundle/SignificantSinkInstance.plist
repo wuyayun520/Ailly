@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>buttonandparameter</key>
+	<string>characterInset</string>
+	<key>declarativePopup</key>
+	<string>typicalDisclaimer</string>
+	<key>deferredExpanded</key>
+	<string>prevStroke</string>
+	<key>directConstraint</key>
+	<string>materialDependency</string>
+	<key>mechanismBehavior</key>
+	<string>constraintmechanism</string>
+	<key>otherRemainder</key>
+	<string>smallVariant</string>
+	<key>popuppicker</key>
+	<string>advancedIsolate</string>
+	<key>startrouter</key>
+	<string>refactorPopup</string>
+</dict>
+</plist>

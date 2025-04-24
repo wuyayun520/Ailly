@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>asynchronousconfigurationbottom</key>
+	<string>hierarchicalWorkflow</string>
+	<key>containerAlignment</key>
+	<string>presentAspect</string>
+	<key>cubitMode</key>
+	<string>clusterFeedback</string>
+	<key>diversifiedSample</key>
+	<string>subpixelhead</string>
+	<key>documentSkewY</key>
+	<string>pivotalCoordinator</string>
+	<key>resolverphasecoord</key>
+	<string>transposeConfiguration</string>
+	<key>seamlessCatalyst</key>
+	<string>injectCallback</string>
+	<key>shouldAnimateLoss</key>
+	<string>accessibleObserver</string>
+	<key>themeshape</key>
+	<string>overlayPattern</string>
+	<key>unsortedRenderer</key>
+	<string>temporaryCell</string>
+</dict>
+</plist>

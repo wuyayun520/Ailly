@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>associatedDocument</key>
+	<string>inheritedmanager</string>
+	<key>convolutionefficiency</key>
+	<string>sessionBound</string>
+	<key>disparateCursor</key>
+	<string>nativeSink</string>
+	<key>inkwellhead</key>
+	<string>injectFeature</string>
+	<key>retainedManager</key>
+	<string>shouldBuildChannels</string>
+	<key>shouldParseConvolution</key>
+	<string>ephemeralbuildertop</string>
+	<key>shouldUnmountPadding</key>
+	<string>respectiveConsumption</string>
+</dict>
+</plist>

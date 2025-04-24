@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>clearsizedbox</key>
+	<string>aspectPrototype</string>
+	<key>declarativeternary</key>
+	<string>canCreatePainter</string>
+	<key>delegatelayerstate</key>
+	<string>canProcessSemantics</string>
+	<key>diffableAction</key>
+	<string>customSink</string>
+	<key>disabledSubpixel</key>
+	<string>protectedCharacter</string>
+	<key>easyQueue</key>
+	<string>blocStructure</string>
+	<key>hashOffset</key>
+	<string>persistRemainder</string>
+	<key>inkwellvisibility</key>
+	<string>grainspacing</string>
+	<key>matrixState</key>
+	<string>columnedge</string>
+	<key>shouldYieldGradient</key>
+	<string>newestPadding</string>
+</dict>
+</plist>

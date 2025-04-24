@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>flexDirection</key>
+	<string>shouldHandleImage</string>
+	<key>mobileRemediation</key>
+	<string>inflateaspect</string>
+	<key>notifierStatus</key>
+	<string>listenerForm</string>
+	<key>referenceEdge</key>
+	<string>commonskin</string>
+	<key>trainsensor</key>
+	<string>canDismissGate</string>
+	<key>transitionerror</key>
+	<string>encapsulateSprite</string>
+	<key>unschedulewidget</key>
+	<string>visiblescenario</string>
+</dict>
+</plist>

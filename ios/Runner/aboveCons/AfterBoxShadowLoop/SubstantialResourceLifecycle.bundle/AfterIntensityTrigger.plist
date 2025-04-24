@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>adaptiveMovement</key>
+	<string>directlypositionoffset</string>
+	<key>allocatorVisibility</key>
+	<string>reliabilityContrast</string>
+	<key>bitrateright</key>
+	<string>normalTransformer</string>
+	<key>cachedropdownbutton</key>
+	<string>factorypressure</string>
+	<key>checklistInteraction</key>
+	<string>shouldNavigatePrecision</string>
+	<key>gaterotation</key>
+	<string>sortedCard</string>
+	<key>processrow</key>
+	<string>moduleTop</string>
+	<key>reusablepublisher</key>
+	<string>robustComposition</string>
+</dict>
+</plist>

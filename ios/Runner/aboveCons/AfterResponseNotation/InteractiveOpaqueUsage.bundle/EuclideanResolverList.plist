@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>configurationDistance</key>
+	<string>sharedLog</string>
+	<key>independentTouch</key>
+	<string>endsink</string>
+	<key>nativeGridView</key>
+	<string>keyConstant</string>
+	<key>otherShape</key>
+	<string>navigatepoint</string>
+	<key>popnavigator</key>
+	<string>viewtransparency</string>
+	<key>shouldObserveGate</key>
+	<string>shouldMountedGem</string>
+	<key>significantSwift</key>
+	<string>embedslider</string>
+	<key>similarProvider</key>
+	<string>shouldResumeSemantics</string>
+	<key>uniformInteger</key>
+	<string>canReplaceIcon</string>
+</dict>
+</plist>

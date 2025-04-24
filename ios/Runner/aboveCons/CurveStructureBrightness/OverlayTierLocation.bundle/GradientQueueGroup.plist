@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>composableTopic</key>
+	<string>customizedSensor</string>
+	<key>handlercontextborder</key>
+	<string>decoupleProvider</string>
+	<key>intermediateDispatcher</key>
+	<string>granularAccessory</string>
+	<key>materialSorter</key>
+	<string>momentumspacing</string>
+	<key>numericalItem</key>
+	<string>explicitinitiative</string>
+	<key>shouldRoutePriority</key>
+	<string>canShowBehavior</string>
+	<key>shouldfinishclipper</key>
+	<string>canEmitBullet</string>
+	<key>sliderSpeed</key>
+	<string>visibleBloc</string>
+</dict>
+</plist>

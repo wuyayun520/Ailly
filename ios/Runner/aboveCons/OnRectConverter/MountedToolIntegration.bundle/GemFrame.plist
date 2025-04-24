@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>coordinatorBorder</key>
+	<string>invokestateless</string>
+	<key>decorationcount</key>
+	<string>characterBorder</string>
+	<key>diversifiedStroke</key>
+	<string>kernelDistance</string>
+	<key>intensitycluster</key>
+	<string>requiredhandler</string>
+	<key>numericalOffset</key>
+	<string>detachMethod</string>
+	<key>serializechannel</key>
+	<string>standaloneAudio</string>
+	<key>sharedInfo</key>
+	<string>mediumSound</string>
+</dict>
+</plist>

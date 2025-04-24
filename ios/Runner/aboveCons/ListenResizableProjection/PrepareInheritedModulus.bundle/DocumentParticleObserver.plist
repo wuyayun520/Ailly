@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>directhero</key>
+	<string>prismaticInkWell</string>
+	<key>factoryResponse</key>
+	<string>optionState</string>
+	<key>factoryatparam</key>
+	<string>linkerAlignment</string>
+	<key>largeAnalogy</key>
+	<string>agileCapsule</string>
+	<key>localTexture</key>
+	<string>pivotalChallenge</string>
+	<key>shouldSetStateSemantics</key>
+	<string>aspectMethod</string>
+</dict>
+</plist>

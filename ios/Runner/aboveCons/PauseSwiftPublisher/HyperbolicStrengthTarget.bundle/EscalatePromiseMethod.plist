@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>captionState</key>
+	<string>shaderandvalue</string>
+	<key>directlyScene</key>
+	<string>dedicatedbinary</string>
+	<key>elasticModulus</key>
+	<string>observeWidget</string>
+	<key>explicitDrawer</key>
+	<string>previewcount</string>
+	<key>localBinder</key>
+	<string>performController</string>
+	<key>pinchableChapter</key>
+	<string>inactiveStorage</string>
+	<key>semanticShape</key>
+	<string>topicFunction</string>
+</dict>
+</plist>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>diversifiedAnimator</key>
+	<string>decodeListener</string>
+	<key>geometricGrid</key>
+	<string>notifyProject</string>
+	<key>hierarchicalConfidentiality</key>
+	<string>rectAcceleration</string>
+	<key>memberIndex</key>
+	<string>immutableThreshold</string>
+	<key>shouldDispatchSubpixel</key>
+	<string>shouldPauseImage</string>
+	<key>shouldEndBehavior</key>
+	<string>temporaryVolume</string>
+	<key>shouldLoadImage</key>
+	<string>grouptag</string>
+	<key>statelessResult</key>
+	<string>canFetchResource</string>
+</dict>
+</plist>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>channelorigin</key>
+	<string>slashTransparency</string>
+	<key>otherCard</key>
+	<string>multiPoint</string>
+	<key>protectedModal</key>
+	<string>shouldUnmountPlate</string>
+	<key>subpixelshapeacceleration</key>
+	<string>symbolSingleton</string>
+	<key>tensorInitiative</key>
+	<string>shouldProcessBatch</string>
+</dict>
+</plist>

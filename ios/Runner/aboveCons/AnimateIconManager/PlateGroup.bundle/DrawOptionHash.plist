@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>anchorForce</key>
+	<string>canvasDistance</string>
+	<key>behaviorprototypesaturation</key>
+	<string>polygonDirection</string>
+	<key>consumesprite</key>
+	<string>canRebuildCapsule</string>
+	<key>sampleLeft</key>
+	<string>mutableInstruction</string>
+	<key>shouldKeepGrayscale</key>
+	<string>shouldFormatAccessory</string>
+	<key>sizeDirection</key>
+	<string>prismaticAwait</string>
+	<key>subtleInfo</key>
+	<string>advancedVolume</string>
+	<key>uniqueText</key>
+	<string>substantialAsset</string>
+	<key>usedSegment</key>
+	<string>synchronousFragments</string>
+</dict>
+</plist>

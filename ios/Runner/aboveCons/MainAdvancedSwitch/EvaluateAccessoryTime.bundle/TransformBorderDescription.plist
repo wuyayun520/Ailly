@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>chooserIndex</key>
+	<string>agileMission</string>
+	<key>desktopRect</key>
+	<string>stampFrequency</string>
+	<key>musicRight</key>
+	<string>combinerFeedback</string>
+	<key>remainderactiontag</key>
+	<string>canNotifyCompletion</string>
+	<key>resizableFrame</key>
+	<string>greatindicator</string>
+	<key>shouldRestartObserver</key>
+	<string>eagerChapter</string>
+	<key>statefulModulus</key>
+	<string>shouldKeepPet</string>
+	<key>statelessTween</key>
+	<string>shouldStopCoordinator</string>
+	<key>zoneLocation</key>
+	<string>paintermapper</string>
+</dict>
+</plist>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>boxshadoworientation</key>
+	<string>unsortedChannels</string>
+	<key>pivotalbuilderinteraction</key>
+	<string>descriptorValue</string>
+	<key>requiredCompleter</key>
+	<string>shouldRestartLog</string>
+	<key>sessionColor</key>
+	<string>normalHero</string>
+	<key>shouldPresentSample</key>
+	<string>directSession</string>
+</dict>
+</plist>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>aspectTransparency</key>
+	<string>canLayoutTernary</string>
+	<key>constraintfeedback</key>
+	<string>entropyduration</string>
+	<key>diffableQueue</key>
+	<string>canTrainBase</string>
+	<key>gesturedetectorcompleter</key>
+	<string>notificationStatus</string>
+	<key>inheritedAudio</key>
+	<string>completionTier</string>
+	<key>pivotalSample</key>
+	<string>smallScope</string>
+	<key>semanticTimeline</key>
+	<string>obtainStore</string>
+	<key>shouldBuildPlate</key>
+	<string>inactivetabbar</string>
+</dict>
+</plist>

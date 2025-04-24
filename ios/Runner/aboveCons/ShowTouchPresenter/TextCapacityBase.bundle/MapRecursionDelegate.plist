@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>hardTrajectory</key>
+	<string>sortedRichText</string>
+	<key>imagevisibility</key>
+	<string>geometricRect</string>
+	<key>impacttint</key>
+	<string>characterVisitor</string>
+	<key>keymember</key>
+	<string>constructLayout</string>
+	<key>resourcesincecontext</key>
+	<string>arithmeticWrapper</string>
+	<key>shouldUnmountedBehavior</key>
+	<string>mutableDetector</string>
+	<key>specifyPolygon</key>
+	<string>webBandwidth</string>
+	<key>tensorMobile</key>
+	<string>threadSingleton</string>
+	<key>webProject</key>
+	<string>refactorAsset</string>
+</dict>
+</plist>

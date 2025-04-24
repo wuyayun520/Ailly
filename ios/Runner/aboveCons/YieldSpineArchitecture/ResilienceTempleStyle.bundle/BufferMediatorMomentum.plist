@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>basicThread</key>
+	<string>observeModal</string>
+	<key>customThroughput</key>
+	<string>lockHandler</string>
+	<key>mediumTexture</key>
+	<string>canStartBorder</string>
+	<key>shouldTrainSpine</key>
+	<string>defaultDrawer</string>
+	<key>signFrequency</key>
+	<string>bitratedirection</string>
+	<key>specifierobserverscale</key>
+	<string>typicalRow</string>
+	<key>texturedistance</key>
+	<string>currentSizedBox</string>
+</dict>
+</plist>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>advancedAlert</key>
+	<string>animateChannels</string>
+	<key>dedicatedtangentlocation</key>
+	<string>shouldPublishObserver</string>
+	<key>firstScene</key>
+	<string>dynamicDecoration</string>
+	<key>localCombiner</key>
+	<string>performaxis</string>
+	<key>mapperPadding</key>
+	<string>seamlessRadio</string>
+	<key>shouldCacheGraphic</key>
+	<string>flexibleConnector</string>
+	<key>shouldSetStateProtocol</key>
+	<string>keyEmitter</string>
+	<key>tabbarobject</key>
+	<string>cardPressure</string>
+</dict>
+</plist>

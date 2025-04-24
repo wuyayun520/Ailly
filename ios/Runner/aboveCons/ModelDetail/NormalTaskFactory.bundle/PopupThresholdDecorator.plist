@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>createprogressbar</key>
+	<string>deployAsync</string>
+	<key>emitterInteraction</key>
+	<string>mountMaterial</string>
+	<key>integerAcceleration</key>
+	<string>resolveTransition</string>
+	<key>observeternary</key>
+	<string>cancelEqualization</string>
+	<key>secondGrayscale</key>
+	<string>discoverDelegate</string>
+	<key>tappableNorm</key>
+	<string>encodeIndicator</string>
+</dict>
+</plist>

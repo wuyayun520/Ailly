@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>borderparticle</key>
+	<string>fixedNotification</string>
+	<key>listviewkindsaturation</key>
+	<string>specifyentity</string>
+	<key>topicscopetint</key>
+	<string>alphaDistance</string>
+	<key>usecasepublisher</key>
+	<string>similarsingletontheme</string>
+</dict>
+</plist>

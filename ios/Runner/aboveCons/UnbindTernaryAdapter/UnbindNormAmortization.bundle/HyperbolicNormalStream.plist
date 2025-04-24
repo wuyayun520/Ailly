@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>mobilesearcher</key>
+	<string>sceneObserver</string>
+	<key>reactiveScenario</key>
+	<string>subpixelActivity</string>
+	<key>symmetricAxis</key>
+	<string>transitionwithoutmediator</string>
+	<key>textureedge</key>
+	<string>difficultSink</string>
+</dict>
+</plist>

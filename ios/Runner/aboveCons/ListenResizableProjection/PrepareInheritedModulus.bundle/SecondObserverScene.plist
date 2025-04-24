@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>directlyMusic</key>
+	<string>popupmediatorlocation</string>
+	<key>shouldObserveSine</key>
+	<string>canHandleAccessory</string>
+	<key>significantWrapper</key>
+	<string>canTransformRoute</string>
+	<key>singleSensor</key>
+	<string>greatBinder</string>
+	<key>subscriptionVisibility</key>
+	<string>optimizerMode</string>
+	<key>symbolLocation</key>
+	<string>shouldMountCollection</string>
+</dict>
+</plist>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>contractionTail</key>
+	<string>timerLevel</string>
+	<key>effectservice</key>
+	<string>cycleAcceleration</string>
+	<key>enabledProvision</key>
+	<string>shouldConnectMargin</string>
+	<key>geometricSwitch</key>
+	<string>rebuildmomentum</string>
+	<key>responderAppearance</key>
+	<string>ignoredArchitecture</string>
+	<key>shouldPaintMobile</key>
+	<string>routeValidation</string>
+	<key>shouldanimatesubpixel</key>
+	<string>persistentSemantics</string>
+	<key>sizevalidation</key>
+	<string>canMountedOverlay</string>
+</dict>
+</plist>

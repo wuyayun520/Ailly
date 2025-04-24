@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activityInset</key>
+	<string>mutableObject</string>
+	<key>animatorHue</key>
+	<string>positionedAcceleration</string>
+	<key>dynamicBatch</key>
+	<string>primaryFactory</string>
+	<key>explicitCurve</key>
+	<string>mobileSwitch</string>
+	<key>granularThreshold</key>
+	<string>shouldinflateswift</string>
+	<key>maintexture</key>
+	<string>zoneobject</string>
+	<key>shouldMountInkWell</key>
+	<string>canListenEntropy</string>
+</dict>
+</plist>

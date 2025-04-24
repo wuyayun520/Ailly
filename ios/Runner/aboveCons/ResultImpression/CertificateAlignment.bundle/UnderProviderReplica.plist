@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>currentItem</key>
+	<string>positionshape</string>
+	<key>delegateSize</key>
+	<string>numericalEvaluation</string>
+	<key>intuitiveLayer</key>
+	<string>keepProjection</string>
+	<key>isMargin</key>
+	<string>shouldStartDimension</string>
+	<key>localizationincludelevel</key>
+	<string>attachEffect</string>
+	<key>painterTransparency</key>
+	<string>modelActivity</string>
+	<key>savesingleton</key>
+	<string>canObserveCanvas</string>
+	<key>shouldloadalpha</key>
+	<string>shouldSubscribeController</string>
+	<key>threadbrightness</key>
+	<string>litedata</string>
+</dict>
+</plist>

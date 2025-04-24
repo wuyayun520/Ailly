@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>allocatenotifier</key>
+	<string>usageValue</string>
+	<key>coordinatorEdge</key>
+	<string>cartesianStroke</string>
+	<key>deferredTween</key>
+	<string>animatedRoute</string>
+	<key>documentOffset</key>
+	<string>iscache</string>
+	<key>featurethanstage</key>
+	<string>smartSlider</string>
+	<key>firsttransformer</key>
+	<string>largestate</string>
+	<key>independentMobile</key>
+	<string>compositionaldetail</string>
+	<key>intuitiveappbar</key>
+	<string>escalateFactory</string>
+	<key>shouldAttachDropdownButton</key>
+	<string>cosineVar</string>
+</dict>
+</plist>

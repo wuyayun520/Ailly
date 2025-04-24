@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>consumerjoiner</key>
+	<string>restartBatch</string>
+	<key>ephemeralInterface</key>
+	<string>shouldNavigateCache</string>
+	<key>firstConvolution</key>
+	<string>shouldObserveNib</string>
+	<key>immutableSpecifier</key>
+	<string>gateActivity</string>
+	<key>introspectcoordinator</key>
+	<string>tensorQueue</string>
+	<key>measuremanager</key>
+	<string>shouldconnectcache</string>
+	<key>presenterSkewY</key>
+	<string>sizedboxJob</string>
+	<key>signaturealongflyweight</key>
+	<string>encapsulateCurve</string>
+	<key>smallDescription</key>
+	<string>missionComposite</string>
+	<key>streamState</key>
+	<string>nodeduration</string>
+</dict>
+</plist>

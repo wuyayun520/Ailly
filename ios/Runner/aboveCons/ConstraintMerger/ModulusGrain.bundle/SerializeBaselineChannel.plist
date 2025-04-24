@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activatedTabView</key>
+	<string>respectiveLoop</string>
+	<key>columnpresenter</key>
+	<string>grainStructure</string>
+	<key>customizedMenu</key>
+	<string>canRouteDrawer</string>
+	<key>optimizerdelay</key>
+	<string>mutableoperationpadding</string>
+	<key>resolverskewy</key>
+	<string>awaitDensity</string>
+	<key>shouldNavigateSemantics</key>
+	<string>criticalWorkflow</string>
+	<key>shouldYieldNavigation</key>
+	<string>kernelValue</string>
+	<key>specifyTask</key>
+	<string>readLayout</string>
+	<key>subtleAlpha</key>
+	<string>toolDirection</string>
+	<key>symmetricSlider</key>
+	<string>providerOperation</string>
+</dict>
+</plist>

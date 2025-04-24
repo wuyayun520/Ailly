@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>currentstream</key>
+	<string>saveequipment</string>
+	<key>gestureBrightness</key>
+	<string>constraintAcceleration</string>
+	<key>mixinasync</key>
+	<string>shouldPublishReduction</string>
+	<key>normShape</key>
+	<string>linkerDelay</string>
+	<key>secondEfficiency</key>
+	<string>convertRepository</string>
+	<key>shouldBindCheckbox</key>
+	<string>animatorType</string>
+</dict>
+</plist>

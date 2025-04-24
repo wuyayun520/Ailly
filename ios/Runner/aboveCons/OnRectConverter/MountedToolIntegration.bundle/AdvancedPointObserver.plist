@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>decorationPressure</key>
+	<string>reduceFuture</string>
+	<key>denseRectangle</key>
+	<string>synchronousHandler</string>
+	<key>displayableInteraction</key>
+	<string>hardAmortization</string>
+	<key>injectbloc</key>
+	<string>visibleAudio</string>
+	<key>multiAllocator</key>
+	<string>unsortedFormat</string>
+	<key>responsivePager</key>
+	<string>roleformat</string>
+	<key>stampexceptvariable</key>
+	<string>missedLoader</string>
+	<key>zonewithouttask</key>
+	<string>pushState</string>
+</dict>
+</plist>

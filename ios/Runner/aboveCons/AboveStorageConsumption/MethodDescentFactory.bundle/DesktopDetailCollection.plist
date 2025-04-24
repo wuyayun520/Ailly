@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activatedhash</key>
+	<string>subtleSample</string>
+	<key>hyperbolicEquivalent</key>
+	<string>canEndCompletion</string>
+	<key>lostStorage</key>
+	<string>hyperbolicMedia</string>
+	<key>progressbarMode</key>
+	<string>brushnode</string>
+	<key>shouldUnbindPainter</key>
+	<string>vectorizeCoordinator</string>
+	<key>shouldrebuildhero</key>
+	<string>compositionalMaterial</string>
+	<key>tensorView</key>
+	<string>popupTask</string>
+</dict>
+</plist>

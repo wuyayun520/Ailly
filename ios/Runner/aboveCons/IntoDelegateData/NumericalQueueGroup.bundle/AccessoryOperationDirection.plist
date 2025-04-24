@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>arithmeticDelivery</key>
+	<string>iterativecheckboxduration</string>
+	<key>checkboxOffset</key>
+	<string>nativeMap</string>
+	<key>dynamicReplica</key>
+	<string>wrapPresenter</string>
+	<key>shouldEncodeConsumer</key>
+	<string>crudeMobile</string>
+	<key>visualizerouter</key>
+	<string>numericalScope</string>
+</dict>
+</plist>

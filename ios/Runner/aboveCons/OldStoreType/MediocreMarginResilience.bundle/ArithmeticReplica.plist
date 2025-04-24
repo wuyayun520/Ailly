@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>basicTween</key>
+	<string>optimizerRotation</string>
+	<key>fragmentsOrientation</key>
+	<string>blocindex</string>
+	<key>immediateSpine</key>
+	<string>multiIntegration</string>
+	<key>logBehavior</key>
+	<string>resourcesinceparameter</string>
+	<key>materialIsolate</key>
+	<string>shouldRebuildAccessory</string>
+	<key>paddingtransition</key>
+	<string>uniqueStack</string>
+	<key>shouldcreatecontraction</key>
+	<string>canPersistBinary</string>
+</dict>
+</plist>

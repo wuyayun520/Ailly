@@ -38,19 +38,19 @@ class _MainPageState extends State<MainPage> {
   
   // 定义标签页图标路径
   final List<String> _normalIcons = [
-    'assets/images/tab_nor/btn_tab_chats_nor.png',
-    'assets/images/tab_nor/btn_tab_home_nor.png',
-    'assets/images/tab_nor/btn_tab_create_nor.png',
-    'assets/images/tab_nor/btn_tab_avatar_nor.png',
-    'assets/images/tab_nor/btn_tab_me_nor.png',
+    'assets/images/tab_nor/conschats_nor.png',
+    'assets/images/tab_nor/conshome_nor.png',
+    'assets/images/tab_nor/conscreate_nor.png',
+    'assets/images/tab_nor/consavatar_nor.png',
+    'assets/images/tab_nor/consme_nor.png',
   ];
   
   final List<String> _selectedIcons = [
-    'assets/images/tab_pre/btn_tab_chats_pre.png',
-    'assets/images/tab_pre/btn_tab_home_pre.png',
-    'assets/images/tab_pre/btn_tab_create_pre.png',
-    'assets/images/tab_pre/btn_tab_avatar_pre.png',
-    'assets/images/tab_pre/btn_tab_me_pre.png',
+    'assets/images/tab_pre/conschats_pre.png',
+    'assets/images/tab_pre/conshome_pre.png',
+    'assets/images/tab_pre/conscreate_pre.png',
+    'assets/images/tab_pre/consavatar_pre.png',
+    'assets/images/tab_pre/consme_pre.png',
   ];
   
   // 定义标签页颜色

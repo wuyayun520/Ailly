@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>flexibleGrain</key>
+	<string>shouldRebuildRemainder</string>
+	<key>granularFuture</key>
+	<string>shouldAttachDialogs</string>
+	<key>permanentPositioned</key>
+	<string>activeLog</string>
+	<key>selectedRichText</key>
+	<string>storeSprite</string>
+	<key>specifyAnimator</key>
+	<string>positionedRate</string>
+</dict>
+</plist>

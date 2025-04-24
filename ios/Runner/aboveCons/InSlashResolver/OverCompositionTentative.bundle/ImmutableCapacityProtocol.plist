@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>conformconstraint</key>
+	<string>dedicatedAsset</string>
+	<key>numericalBrush</key>
+	<string>introspectAction</string>
+	<key>timeOrigin</key>
+	<string>setstateTangent</string>
+	<key>usedData</key>
+	<string>activeText</string>
+</dict>
+</plist>

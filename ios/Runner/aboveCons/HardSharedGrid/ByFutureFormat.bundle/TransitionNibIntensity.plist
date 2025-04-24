@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>checklisttag</key>
+	<string>densebox</string>
+	<key>pushsingleton</key>
+	<string>reactiveConverter</string>
+	<key>tappablesingletonpressure</key>
+	<string>defaultrichtext</string>
+	<key>visiblegridmomentum</key>
+	<string>imperativeAlert</string>
+</dict>
+</plist>

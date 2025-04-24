@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>debugprogressbar</key>
+	<string>splitterKind</string>
+	<key>joinersize</key>
+	<string>requestLeft</string>
+	<key>reusableEquipment</key>
+	<string>canStartNorm</string>
+	<key>specifiermode</key>
+	<string>sortedreducer</string>
+	<key>techniqueBrightness</key>
+	<string>displayablePresenter</string>
+</dict>
+</plist>

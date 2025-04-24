@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>displayableRole</key>
+	<string>keyLinker</string>
+	<key>diversifiedconstraint</key>
+	<string>canDisposeTask</string>
+	<key>hyperbolicStorage</key>
+	<string>fragmentMethod</string>
+	<key>pushscene</key>
+	<string>newestNotifier</string>
+	<key>setstateaccessory</key>
+	<string>canStreamCell</string>
+</dict>
+</plist>

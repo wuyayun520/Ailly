@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>architectureStyle</key>
+	<string>resizeAllocator</string>
+	<key>oncurvetap</key>
+	<string>pageviewaction</string>
+	<key>shouldShowConvolution</key>
+	<string>temporaryoverlay</string>
+	<key>unactivatedNode</key>
+	<string>prismaticCell</string>
+</dict>
+</plist>

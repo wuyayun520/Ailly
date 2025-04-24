@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>denseDocument</key>
+	<string>declarativeTable</string>
+	<key>denseProjection</key>
+	<string>encapsulateInterface</string>
+	<key>desktopHandler</key>
+	<string>scrollAcceleration</string>
+	<key>firstIntegration</key>
+	<string>specifyTolerance</string>
+	<key>gesturedetectorBottom</key>
+	<string>generateScene</string>
+	<key>hyperbolicArchitecture</key>
+	<string>fusedEquivalent</string>
+	<key>managerorientation</key>
+	<string>binarytint</string>
+	<key>progressbarstageinset</key>
+	<string>shouldLoadObserver</string>
+	<key>semanticAction</key>
+	<string>signatureDuration</string>
+</dict>
+</plist>

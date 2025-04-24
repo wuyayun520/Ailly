@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activatedCheckbox</key>
+	<string>adaptiveInterface</string>
+	<key>customProjection</key>
+	<string>multiInteractor</string>
+	<key>dropdownbuttonRight</key>
+	<string>presenterLocation</string>
+	<key>replacenavigation</key>
+	<string>componentTint</string>
+	<key>scaffolddispatcher</key>
+	<string>equivalentDepth</string>
+	<key>shouldBuildLayout</key>
+	<string>repositoryFramework</string>
+	<key>techniqueright</key>
+	<string>lostAwait</string>
+</dict>
+</plist>

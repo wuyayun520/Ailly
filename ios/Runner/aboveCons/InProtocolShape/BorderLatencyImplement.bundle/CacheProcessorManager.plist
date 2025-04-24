@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activatedspecifiercenter</key>
+	<string>basicWidget</string>
+	<key>rapidDisclaimer</key>
+	<string>inflateNavigator</string>
+	<key>shouldPresentDescriptor</key>
+	<string>asynchronousPopup</string>
+	<key>significantLocalization</key>
+	<string>exceptionShape</string>
+</dict>
+</plist>

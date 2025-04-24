@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>batchpopup</key>
+	<string>sizedboxNumber</string>
+	<key>challengeLocation</key>
+	<string>receivecaption</string>
+	<key>commonimagetension</key>
+	<string>createtitle</string>
+	<key>densestatus</key>
+	<string>swiftIndex</string>
+	<key>draggableformat</key>
+	<string>invisibleCupertino</string>
+	<key>parallelBox</key>
+	<string>contractionsize</string>
+	<key>receiverFeedback</key>
+	<string>throughputInteraction</string>
+	<key>shouldPublishStack</key>
+	<string>resetEvent</string>
+	<key>shouldReplaceDuration</key>
+	<string>canNavigateMaterial</string>
+	<key>topicVisibility</key>
+	<string>substantialCycle</string>
+</dict>
+</plist>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activeheap</key>
+	<string>dedicatedChannel</string>
+	<key>ignoredVolume</key>
+	<string>canDeserializeActivity</string>
+	<key>iterativetrajectory</key>
+	<string>compositionalChannel</string>
+	<key>listenpresenter</key>
+	<string>parallelDecoration</string>
+	<key>navigationOrientation</key>
+	<string>basicawaitdirection</string>
+	<key>protectedTimer</key>
+	<string>requiredallocatorbound</string>
+	<key>respectiveLifecycle</key>
+	<string>anchorconnector</string>
+	<key>uniqueTabView</key>
+	<string>groupanalyzer</string>
+</dict>
+</plist>

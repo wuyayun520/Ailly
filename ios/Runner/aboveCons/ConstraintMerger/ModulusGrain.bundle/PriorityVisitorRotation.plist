@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>characterDuration</key>
+	<string>curveForce</string>
+	<key>gradientstate</key>
+	<string>similarAppBar</string>
+	<key>materialImage</key>
+	<string>unaryappearance</string>
+	<key>offsetstrategystyle</key>
+	<string>enabledGesture</string>
+	<key>publicTabView</key>
+	<string>imageDelay</string>
+</dict>
+</plist>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>asynchronousdata</key>
+	<string>canSubscribePadding</string>
+	<key>granularPlayback</key>
+	<string>disabledreceiver</string>
+	<key>requiredTexture</key>
+	<string>generateMethod</string>
+	<key>resilientVideo</key>
+	<string>updateStamp</string>
+	<key>sequentialEfficiency</key>
+	<string>deferredRemainder</string>
+	<key>shouldListenOperation</key>
+	<string>challengeversusfacade</string>
+	<key>shouldProcessGradient</key>
+	<string>iconSpeed</string>
+	<key>shouldPushBullet</key>
+	<string>prevCosine</string>
+	<key>tabletopic</key>
+	<string>encodeproject</string>
+</dict>
+</plist>

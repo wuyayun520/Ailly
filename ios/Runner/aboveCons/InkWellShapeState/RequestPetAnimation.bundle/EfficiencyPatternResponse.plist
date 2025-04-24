@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>completionresolver</key>
+	<string>updateBehavior</string>
+	<key>customobject</key>
+	<string>factoryLevel</string>
+	<key>decorationFormat</key>
+	<string>batchStructure</string>
+	<key>managerColor</key>
+	<string>resizableGesture</string>
+	<key>modelduringstyle</key>
+	<string>dynamicMend</string>
+	<key>pagerrotation</key>
+	<string>integerVisitor</string>
+	<key>shouldSkipSine</key>
+	<string>integrityDuration</string>
+	<key>sineSpacing</key>
+	<string>canKeepLabel</string>
+	<key>zonePressure</key>
+	<string>tableactivityposition</string>
+</dict>
+</plist>

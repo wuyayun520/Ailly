@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>advancedchecklistcenter</key>
+	<string>canRouteHeap</string>
+	<key>concurrentbinary</key>
+	<string>resizablecharacteroffset</string>
+	<key>mediumQuaternion</key>
+	<string>resilientMetadata</string>
+	<key>remaindercyclepadding</key>
+	<string>uniformpointposition</string>
+	<key>sequentialFrame</key>
+	<string>switchFeedback</string>
+	<key>sortedcluster</key>
+	<string>modelParameter</string>
+	<key>statusOrientation</key>
+	<string>intermediateitem</string>
+</dict>
+</plist>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>assetscopemode</key>
+	<string>indicatorRight</string>
+	<key>customizedLoader</key>
+	<string>largePrecision</string>
+	<key>datafeedback</key>
+	<string>shouldFetchColumn</string>
+	<key>draggableQueue</key>
+	<string>blocContrast</string>
+	<key>formatwidget</key>
+	<string>shouldValidateGridView</string>
+	<key>hardthread</key>
+	<string>shouldObserveKernel</string>
+	<key>permissiveDescriptor</key>
+	<string>otherReceiver</string>
+	<key>textvalueinteraction</key>
+	<string>mountedFragment</string>
+	<key>transitionbufferrotation</key>
+	<string>substantialInteraction</string>
+	<key>variantScale</key>
+	<string>fixedBoxShadow</string>
+</dict>
+</plist>

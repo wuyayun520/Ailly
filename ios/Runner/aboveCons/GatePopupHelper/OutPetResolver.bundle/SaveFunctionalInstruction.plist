@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>eventindecorator</key>
+	<string>elasticMovement</string>
+	<key>instructionHue</key>
+	<string>notifyMonster</string>
+	<key>keyMethod</key>
+	<string>startGestureDetector</string>
+	<key>replaceasset</key>
+	<string>unregisterSprite</string>
+	<key>shouldBindMap</key>
+	<string>switchprototypetint</string>
+	<key>shouldPopSession</key>
+	<string>workflowObserver</string>
+	<key>significantDrawer</key>
+	<string>otherCanvas</string>
+	<key>sustainableMesh</key>
+	<string>secondmenuname</string>
+</dict>
+</plist>

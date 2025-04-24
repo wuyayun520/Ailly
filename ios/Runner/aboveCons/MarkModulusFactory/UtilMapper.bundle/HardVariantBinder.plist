@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>hasresource</key>
+	<string>specifychannel</string>
+	<key>nativebatchskewx</key>
+	<string>resilientData</string>
+	<key>prevFrame</key>
+	<string>setstateCube</string>
+	<key>seamlessCallback</key>
+	<string>executeBuffer</string>
+	<key>synchronousSemantics</key>
+	<string>temporarySession</string>
+	<key>uniformMerger</key>
+	<string>diffableArithmetic</string>
+	<key>unsortedPicker</key>
+	<string>entityscroller</string>
+</dict>
+</plist>

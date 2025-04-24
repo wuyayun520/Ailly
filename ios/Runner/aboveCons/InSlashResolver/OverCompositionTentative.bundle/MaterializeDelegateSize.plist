@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activatedTrajectory</key>
+	<string>subpixelChain</string>
+	<key>basicConstraint</key>
+	<string>checklistSize</string>
+	<key>hierarchicaltolerance</key>
+	<string>handleSignature</string>
+	<key>isdecoration</key>
+	<string>dialogsMediator</string>
+	<key>mediumSink</key>
+	<string>independentMetadata</string>
+	<key>polygoncenter</key>
+	<string>criticalMargin</string>
+	<key>specifierFormat</key>
+	<string>tableRotation</string>
+	<key>staticTime</key>
+	<string>mountMediaQuery</string>
+</dict>
+</plist>

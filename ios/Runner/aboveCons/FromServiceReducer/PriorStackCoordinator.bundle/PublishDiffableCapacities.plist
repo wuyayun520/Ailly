@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>crudeClipper</key>
+	<string>composableDrawer</string>
+	<key>decorationconnector</key>
+	<string>showUtil</string>
+	<key>expandedTop</key>
+	<string>canKeepStamp</string>
+	<key>flexibleConfiguration</key>
+	<string>composablereferencemargin</string>
+	<key>transpilematerial</key>
+	<string>currentDocument</string>
+</dict>
+</plist>

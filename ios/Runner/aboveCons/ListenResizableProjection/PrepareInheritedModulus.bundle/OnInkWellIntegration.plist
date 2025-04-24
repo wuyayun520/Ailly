@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>defaultappbar</key>
+	<string>beginnerAppBar</string>
+	<key>easyListener</key>
+	<string>shouldHandlePageView</string>
+	<key>fetchcontainer</key>
+	<string>mapAction</string>
+	<key>progressbartheme</key>
+	<string>projectionObserver</string>
+	<key>skinTheme</key>
+	<string>defaultOperation</string>
+	<key>staticArchitecture</key>
+	<string>sensorevent</string>
+	<key>streamgrid</key>
+	<string>normalGridView</string>
+</dict>
+</plist>

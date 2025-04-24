@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animationposition</key>
+	<string>obtainStream</string>
+	<key>ephemeralTicker</key>
+	<string>gradientbytype</string>
+	<key>keyColumn</key>
+	<string>nativeSample</string>
+	<key>missedShader</key>
+	<string>nativegradient</string>
+	<key>priorFlex</key>
+	<string>capacityMargin</string>
+	<key>respectiveDependency</key>
+	<string>equalizationCoord</string>
+	<key>shouldInflateInstruction</key>
+	<string>scaffoldcyclesaturation</string>
+	<key>tappableTriangles</key>
+	<string>notificationformacceleration</string>
+</dict>
+</plist>

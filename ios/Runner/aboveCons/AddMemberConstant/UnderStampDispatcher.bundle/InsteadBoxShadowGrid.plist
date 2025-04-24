@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>difficultNavigator</key>
+	<string>stringifyStream</string>
+	<key>explicitElasticity</key>
+	<string>completionposition</string>
+	<key>initializefeature</key>
+	<string>scenemerger</string>
+	<key>movementname</key>
+	<string>multiplicationCycle</string>
+	<key>precisionTail</key>
+	<string>futureexceptlayer</string>
+	<key>resolverquaternion</key>
+	<string>enumerateQueue</string>
+	<key>routecommandinteraction</key>
+	<string>shouldEmitMomentum</string>
+	<key>shapeCoord</key>
+	<string>musicIndex</string>
+	<key>shouldListenEquipment</key>
+	<string>parseState</string>
+</dict>
+</plist>

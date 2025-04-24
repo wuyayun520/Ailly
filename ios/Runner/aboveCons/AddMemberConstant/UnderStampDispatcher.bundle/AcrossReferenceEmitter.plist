@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animatedGridView</key>
+	<string>canHandleMediaQuery</string>
+	<key>aspectEdge</key>
+	<string>bindExpanded</string>
+	<key>basicNode</key>
+	<string>concretePublisher</string>
+	<key>concurrentSubscriber</key>
+	<string>rotateMenu</string>
+	<key>currentradio</key>
+	<string>shouldTrainProfile</string>
+	<key>smallQuaternion</key>
+	<string>shouldFormatBase</string>
+</dict>
+</plist>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>deployfeature</key>
+	<string>declarativevariantrotation</string>
+	<key>hashcycletheme</key>
+	<string>shouldDismissUsage</string>
+	<key>otherSplitter</key>
+	<string>mechanismShape</string>
+	<key>shouldValidateImage</key>
+	<string>intermediateTrajectory</string>
+	<key>specifierborder</key>
+	<string>denseConstraint</string>
+	<key>unactivatedElasticity</key>
+	<string>shouldObserveMomentum</string>
+</dict>
+</plist>

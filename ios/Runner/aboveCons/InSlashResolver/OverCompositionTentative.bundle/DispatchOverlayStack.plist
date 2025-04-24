@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>lastGroup</key>
+	<string>maxWorkflow</string>
+	<key>lazyProvision</key>
+	<string>shouldEndLogarithm</string>
+	<key>mediumWorkflow</key>
+	<string>shouldListenBox</string>
+	<key>playbackInteraction</key>
+	<string>singletonalongadapter</string>
+	<key>shouldStopIndicator</key>
+	<string>greatController</string>
+	<key>substantialConsumer</key>
+	<string>integerAcceleration</string>
+	<key>unactivatedStream</key>
+	<string>presentIcon</string>
+</dict>
+</plist>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>behaviortint</key>
+	<string>crudeArithmetic</string>
+	<key>invisibleFeature</key>
+	<string>shouldResumeProtocol</string>
+	<key>lastdescription</key>
+	<string>retainFactory</string>
+	<key>primaryCupertino</key>
+	<string>wrapContainer</string>
+	<key>respectiveGram</key>
+	<string>basicRichText</string>
+	<key>responsiveDialogs</key>
+	<string>canFinishSpecifier</string>
+	<key>retainedOption</key>
+	<string>deprecateConfiguration</string>
+	<key>updatetangent</key>
+	<string>mobileTime</string>
+</dict>
+</plist>

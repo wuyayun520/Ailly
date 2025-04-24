@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>baselineCenter</key>
+	<string>lostMesh</string>
+	<key>disparateLocalization</key>
+	<string>permanentFinder</string>
+	<key>mendLocation</key>
+	<string>customTraversal</string>
+	<key>reusablereducer</key>
+	<string>histogramSize</string>
+	<key>shouldcontinuegridview</key>
+	<string>propagateLabel</string>
+	<key>titleaction</key>
+	<string>cupertinoReliability</string>
+	<key>usecasetaskbehavior</key>
+	<string>requestEdge</string>
+</dict>
+</plist>

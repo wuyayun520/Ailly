@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>asynchronousState</key>
+	<string>observeSkin</string>
+	<key>mobileDepth</key>
+	<string>attachExpanded</string>
+	<key>provisionDepth</key>
+	<string>rectDepth</string>
+	<key>resizableMapper</key>
+	<string>flexiblecolumnorientation</string>
+	<key>robustOffset</key>
+	<string>captionOffset</string>
+</dict>
+</plist>

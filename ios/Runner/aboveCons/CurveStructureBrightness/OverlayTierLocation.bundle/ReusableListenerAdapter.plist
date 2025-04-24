@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>appbarduration</key>
+	<string>createCell</string>
+	<key>architectureColor</key>
+	<string>movementSpeed</string>
+	<key>cellOpacity</key>
+	<string>remainderShade</string>
+	<key>composableScope</key>
+	<string>primaryCollection</string>
+	<key>fixedclipperalignment</key>
+	<string>canLoadConsumer</string>
+	<key>formatTail</key>
+	<string>shouldPrepareExponent</string>
+	<key>intermediateScope</key>
+	<string>maintainCoordinator</string>
+	<key>invisibleStep</key>
+	<string>dismissMethod</string>
+</dict>
+</plist>

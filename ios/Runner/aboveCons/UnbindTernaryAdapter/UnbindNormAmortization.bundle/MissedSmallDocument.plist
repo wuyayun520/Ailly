@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>directSubscription</key>
+	<string>embedStream</string>
+	<key>geometricsignscale</key>
+	<string>exponentinenvironment</string>
+	<key>offsetInset</key>
+	<string>canValidateSizedBox</string>
+	<key>scrollableTexture</key>
+	<string>rectComposite</string>
+	<key>staticLinker</key>
+	<string>serializeMobile</string>
+	<key>subtleAnalyzer</key>
+	<string>consultativePicker</string>
+</dict>
+</plist>

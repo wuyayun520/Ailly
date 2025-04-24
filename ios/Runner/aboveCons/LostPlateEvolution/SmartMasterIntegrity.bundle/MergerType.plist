@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>directlyTask</key>
+	<string>significantDispatcher</string>
+	<key>independentChannel</key>
+	<string>semanticsFlyweight</string>
+	<key>modelHead</key>
+	<string>seamlessSlider</string>
+	<key>requestreceiver</key>
+	<string>activityRotation</string>
+	<key>singleStateful</key>
+	<string>detachView</string>
+	<key>strokeInterval</key>
+	<string>capacitiesDuration</string>
+</dict>
+</plist>

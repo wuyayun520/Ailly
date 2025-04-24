@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>difficultLogarithm</key>
+	<string>mediumMenu</string>
+	<key>providerdetector</key>
+	<string>evolutionRate</string>
+	<key>publicAspectRatio</key>
+	<string>insteadAsync</string>
+	<key>sceneTag</key>
+	<string>methodFormat</string>
+	<key>shouldPopRow</key>
+	<string>detachPadding</string>
+	<key>tabviewDelay</key>
+	<string>disclaimerMargin</string>
+	<key>tappableNavigation</key>
+	<string>saveRow</string>
+	<key>visibleGem</key>
+	<string>shouldSetStateLoss</string>
+</dict>
+</plist>

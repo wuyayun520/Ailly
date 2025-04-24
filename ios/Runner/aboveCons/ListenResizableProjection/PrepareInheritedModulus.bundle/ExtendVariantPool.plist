@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accessibleLayer</key>
+	<string>canBindConsumer</string>
+	<key>defaultpriority</key>
+	<string>skipRow</string>
+	<key>opaquePositioned</key>
+	<string>delegateSingleton</string>
+	<key>resizableReduction</key>
+	<string>activatedmasterfrequency</string>
+	<key>resolverVelocity</key>
+	<string>entropyActivity</string>
+	<key>responderBottom</key>
+	<string>shouldFinishActivity</string>
+	<key>shouldNavigateBoxShadow</key>
+	<string>difficultReplica</string>
+</dict>
+</plist>

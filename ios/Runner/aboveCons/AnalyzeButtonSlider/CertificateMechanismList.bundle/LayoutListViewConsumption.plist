@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>configureanimation</key>
+	<string>mapCommand</string>
+	<key>dependencyright</key>
+	<string>deployInterface</string>
+	<key>deserializetransition</key>
+	<string>commonScene</string>
+	<key>disparateGram</key>
+	<string>notifyCatalyst</string>
+	<key>polyfillOpacity</key>
+	<string>permutationDistance</string>
+	<key>requiredSwitch</key>
+	<string>nextCurve</string>
+	<key>shouldEmitPet</key>
+	<string>impactIndex</string>
+	<key>shouldReplaceListView</key>
+	<string>accessibleTexture</string>
+</dict>
+</plist>

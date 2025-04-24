@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accordionRole</key>
+	<string>semanticTask</string>
+	<key>adaptiveAccessory</key>
+	<string>canConnectCaption</string>
+	<key>delicateCapacities</key>
+	<string>equipmentStrategy</string>
+	<key>desktopResource</key>
+	<string>shouldnotifycollection</string>
+	<key>eagerPager</key>
+	<string>crucialscrolllocation</string>
+	<key>intensityformrotation</key>
+	<string>canCacheBuilder</string>
+	<key>mutablenavigation</key>
+	<string>mechanismMomentum</string>
+	<key>radiusdensity</key>
+	<string>localizationVisible</string>
+	<key>requiredtable</key>
+	<string>fetchMember</string>
+	<key>shouldRouteContraction</key>
+	<string>shouldLayoutCustomPaint</string>
+</dict>
+</plist>

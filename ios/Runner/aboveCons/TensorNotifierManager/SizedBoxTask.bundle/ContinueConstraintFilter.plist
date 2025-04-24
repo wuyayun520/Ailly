@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>currentgrayscale</key>
+	<string>latencyBorder</string>
+	<key>respectivePopup</key>
+	<string>canSetStateNotifier</string>
+	<key>secondConfiguration</key>
+	<string>elementKind</string>
+	<key>shouldStreamMargin</key>
+	<string>canRouteSlider</string>
+	<key>shouldTransitionAnimatedContainer</key>
+	<string>persistentReference</string>
+	<key>shouldrouteworkflow</key>
+	<string>shouldConnectReference</string>
+</dict>
+</plist>

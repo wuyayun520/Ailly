@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>assetInset</key>
+	<string>mutableTransition</string>
+	<key>displayableWorkflow</key>
+	<string>sequentialmusicfeedback</string>
+	<key>membermanager</key>
+	<string>canBindExponent</string>
+	<key>similarPresenter</key>
+	<string>shouldPushPositioned</string>
+	<key>utiltrigger</key>
+	<string>canResumeSpot</string>
+	<key>webIcon</key>
+	<string>trianglesDepth</string>
+</dict>
+</plist>

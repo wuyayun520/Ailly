@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>extenderror</key>
+	<string>animateTouch</string>
+	<key>priorTitle</key>
+	<string>readSize</string>
+	<key>projectfeedback</key>
+	<string>revisitTimer</string>
+	<key>provideframe</key>
+	<string>materializerTint</string>
+	<key>selectedCycle</key>
+	<string>fixedMomentum</string>
+</dict>
+</plist>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>layoutInterval</key>
+	<string>bufferDirection</string>
+	<key>persistentAperture</key>
+	<string>curveShade</string>
+	<key>shouldLoadResource</key>
+	<string>themeBuffer</string>
+	<key>specifybitrate</key>
+	<string>removeDependency</string>
+</dict>
+</plist>

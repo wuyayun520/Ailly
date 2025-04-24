@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>nextAlignment</key>
+	<string>statechainskewy</string>
+	<key>scenemode</key>
+	<string>quaternionFormat</string>
+	<key>shouldShowController</key>
+	<string>conformasset</string>
+	<key>shouldlistenhistogram</key>
+	<string>checkboxValidation</string>
+	<key>toleranceMode</key>
+	<string>istextfield</string>
+	<key>zonePressure</key>
+	<string>touchStrategy</string>
+</dict>
+</plist>

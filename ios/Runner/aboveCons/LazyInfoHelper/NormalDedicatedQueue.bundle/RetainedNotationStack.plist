@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>allocatorDirection</key>
+	<string>updateGrain</string>
+	<key>blocedge</key>
+	<string>creategram</string>
+	<key>charactercontrast</key>
+	<string>toleranceVelocity</string>
+	<key>rowactivityinteraction</key>
+	<string>ignoredGem</string>
+	<key>shouldRestartLayout</key>
+	<string>displayLoop</string>
+	<key>sustainableGrain</key>
+	<string>diversifiedCompleter</string>
+</dict>
+</plist>

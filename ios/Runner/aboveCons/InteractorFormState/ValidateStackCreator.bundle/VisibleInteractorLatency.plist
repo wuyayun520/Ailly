@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animatedCoordinator</key>
+	<string>tweenHead</string>
+	<key>aspectratioright</key>
+	<string>timeFeedback</string>
+	<key>granularRenderer</key>
+	<string>agileError</string>
+	<key>parallelAnimator</key>
+	<string>cupertinoVideo</string>
+	<key>permanentCombiner</key>
+	<string>permanentMechanism</string>
+	<key>scrollablePreview</key>
+	<string>mediaqueryOrientation</string>
+	<key>shouldAttachTool</key>
+	<string>popScene</string>
+	<key>subscriptionofstyle</key>
+	<string>deferredRadio</string>
+</dict>
+</plist>

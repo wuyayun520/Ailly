@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accessibletrigger</key>
+	<string>materialGesture</string>
+	<key>compositionalAlignment</key>
+	<string>accessibleException</string>
+	<key>inheritedGrain</key>
+	<string>advancedAnalyzer</string>
+	<key>pinchableFilter</key>
+	<string>propagateChart</string>
+	<key>resizableProjection</key>
+	<string>globalTechnique</string>
+	<key>respectiveSorter</key>
+	<string>crucialQueue</string>
+	<key>statefulView</key>
+	<string>mobileAsset</string>
+	<key>texturesingletonposition</key>
+	<string>exceptionCount</string>
+</dict>
+</plist>

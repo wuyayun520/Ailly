@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activatedProtocol</key>
+	<string>deferredDelivery</string>
+	<key>confidentialityBorder</key>
+	<string>listenerHue</string>
+	<key>immutabletabbaracceleration</key>
+	<string>mediumrequestpadding</string>
+	<key>keyCycle</key>
+	<string>graphanalyzer</string>
+	<key>normShape</key>
+	<string>tabviewspacing</string>
+	<key>normalRenderer</key>
+	<string>entropyWork</string>
+	<key>primaryDropdownButton</key>
+	<string>cardFrequency</string>
+	<key>streamcurve</key>
+	<string>symbolFormat</string>
+</dict>
+</plist>

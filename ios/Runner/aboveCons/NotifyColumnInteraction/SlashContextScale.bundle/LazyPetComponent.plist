@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>clusterrate</key>
+	<string>smallTexture</string>
+	<key>grainTheme</key>
+	<string>hierarchicalLog</string>
+	<key>granularObject</key>
+	<string>imageBrightness</string>
+	<key>granularSpot</key>
+	<string>cacheconvolution</string>
+	<key>mainProcessor</key>
+	<string>shearTicker</string>
+	<key>protectedPlate</key>
+	<string>discardedGrid</string>
+	<key>scopeFrequency</key>
+	<string>seamlessSymbol</string>
+	<key>timercolor</key>
+	<string>nextReliability</string>
+</dict>
+</plist>

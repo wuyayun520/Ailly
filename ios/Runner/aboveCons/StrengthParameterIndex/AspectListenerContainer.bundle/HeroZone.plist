@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>backwardStateful</key>
+	<string>shouldSetStateCustomPaint</string>
+	<key>collectionfacadekind</key>
+	<string>attachUnary</string>
+	<key>draggableResilience</key>
+	<string>canReplaceDimension</string>
+	<key>priorCurve</key>
+	<string>alertAlignment</string>
+	<key>richtexttransformer</key>
+	<string>lostChannel</string>
+	<key>shouldUnmountDuration</key>
+	<string>commonLifecycle</string>
+	<key>swiftState</key>
+	<string>respectiveGrayscale</string>
+	<key>toolStatus</key>
+	<string>resizableScroll</string>
+</dict>
+</plist>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activatedSubpixel</key>
+	<string>confidentialitymode</string>
+	<key>advancedPrecision</key>
+	<string>sizePhase</string>
+	<key>currentscaffold</key>
+	<string>retainedMetrics</string>
+	<key>draggableRectangle</key>
+	<string>permutationLocation</string>
+	<key>profileStyle</key>
+	<string>spinSprite</string>
+	<key>reactiveInjection</key>
+	<string>minListView</string>
+	<key>shouldSetStateMission</key>
+	<string>globalState</string>
+	<key>shouldShowNotifier</key>
+	<string>initializeProgressBar</string>
+</dict>
+</plist>

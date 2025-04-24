@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>delegategift</key>
+	<string>subtletransformertheme</string>
+	<key>desktopExpanded</key>
+	<string>descentTransparency</string>
+	<key>detailContrast</key>
+	<string>mediocreTimeline</string>
+	<key>draggableSpecifier</key>
+	<string>shouldStopProjection</string>
+	<key>easyStroke</key>
+	<string>globalAsync</string>
+	<key>infoHead</key>
+	<string>fragmentsDistance</string>
+	<key>permanentitem</key>
+	<string>serializeCoordinator</string>
+	<key>shouldFetchSkin</key>
+	<string>enhanceSubscription</string>
+	<key>smallWrapper</key>
+	<string>rotateTransition</string>
+</dict>
+</plist>

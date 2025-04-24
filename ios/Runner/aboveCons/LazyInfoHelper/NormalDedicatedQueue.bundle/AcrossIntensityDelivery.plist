@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>associatedAnimator</key>
+	<string>adaptivetimer</string>
+	<key>cartesianComposition</key>
+	<string>granularStack</string>
+	<key>eventIndex</key>
+	<string>capacityFrequency</string>
+	<key>granularconsumer</key>
+	<string>baselevelstyle</string>
+	<key>localRange</key>
+	<string>updateUsage</string>
+	<key>presenterspacing</key>
+	<string>batchOrigin</string>
+	<key>resilientHero</key>
+	<string>stepBrightness</string>
+	<key>shouldFormatPriority</key>
+	<string>animationfeature</string>
+	<key>textureIndex</key>
+	<string>defaultworkflow</string>
+</dict>
+</plist>

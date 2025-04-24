@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>blocrate</key>
+	<string>canTransitionSign</string>
+	<key>decouplestorage</key>
+	<string>textOpacity</string>
+	<key>globalIntegrity</key>
+	<string>rectState</string>
+	<key>nativeEquipment</key>
+	<string>activebuilder</string>
+	<key>temporaryAlignment</key>
+	<string>scrollableRouter</string>
+	<key>usageBehavior</key>
+	<string>mapperEdge</string>
+</dict>
+</plist>

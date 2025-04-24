@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>arithmeticContraction</key>
+	<string>accordionFactory</string>
+	<key>aspectTint</key>
+	<string>batchposition</string>
+	<key>interfaceLeft</key>
+	<string>canPauseFuture</string>
+	<key>prevPosition</key>
+	<string>enumerateNavigator</string>
+	<key>shouldInitializeSensor</key>
+	<string>shouldDismissScaffold</string>
+	<key>shouldcachebitrate</key>
+	<string>cacheProvider</string>
+	<key>streamBehavior</key>
+	<string>nextlossfeedback</string>
+	<key>substantialContrast</key>
+	<string>lossAction</string>
+</dict>
+</plist>

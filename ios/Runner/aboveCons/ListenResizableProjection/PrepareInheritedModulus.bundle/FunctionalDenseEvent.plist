@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>invisibleRole</key>
+	<string>multiplyNavigator</string>
+	<key>liteOperation</key>
+	<string>scrollerSkewY</string>
+	<key>mountedtask</key>
+	<string>directStream</string>
+	<key>otherPadding</key>
+	<string>toleranceacceleration</string>
+	<key>rapidError</key>
+	<string>roleBorder</string>
+	<key>shouldAnimateTechnique</key>
+	<string>typicalJoiner</string>
+	<key>shouldpublishinitiators</key>
+	<string>statebottom</string>
+	<key>titleMode</key>
+	<string>canAnimateScale</string>
+</dict>
+</plist>

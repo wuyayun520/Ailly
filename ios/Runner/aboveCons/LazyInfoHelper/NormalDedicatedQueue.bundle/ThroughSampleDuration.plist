@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>autoFragments</key>
+	<string>taxonomyName</string>
+	<key>fixedprotocolresponse</key>
+	<string>maintainTransition</string>
+	<key>hyperbolicManager</key>
+	<string>layoutDensity</string>
+	<key>largemodel</key>
+	<string>profileFeature</string>
+	<key>symmetricAmortization</key>
+	<string>multiPolyfill</string>
+	<key>typicalButton</key>
+	<string>shouldTrainLabel</string>
+</dict>
+</plist>

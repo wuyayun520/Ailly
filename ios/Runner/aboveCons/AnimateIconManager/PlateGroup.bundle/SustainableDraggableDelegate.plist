@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>amortizationInterval</key>
+	<string>provideGroup</string>
+	<key>anchorFlags</key>
+	<string>playbackprototypecontrast</string>
+	<key>denseWidget</key>
+	<string>immediateUseCase</string>
+	<key>multiGem</key>
+	<string>combinetexture</string>
+	<key>shouldemitpainter</key>
+	<string>musicFrequency</string>
+</dict>
+</plist>

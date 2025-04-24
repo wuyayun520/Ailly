@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>customcreator</key>
+	<string>hierarchicalSpine</string>
+	<key>directlyHero</key>
+	<string>moveProvider</string>
+	<key>eagerDetector</key>
+	<string>scenarioScale</string>
+	<key>margintimer</key>
+	<string>unmarshalMetadata</string>
+	<key>meshOffset</key>
+	<string>connectSwift</string>
+	<key>scrollableSearcher</key>
+	<string>advancedFuture</string>
+	<key>shouldFormatMission</key>
+	<string>exceptionoffset</string>
+	<key>transformpositioned</key>
+	<string>curveStatus</string>
+</dict>
+</plist>

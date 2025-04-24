@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>aggregatemaster</key>
+	<string>timelineflags</string>
+	<key>alignmentdrawer</key>
+	<string>shouldFinishTool</string>
+	<key>backwardAspectRatio</key>
+	<string>shouldDisposeCache</string>
+	<key>deserializegraphic</key>
+	<string>injectionCoord</string>
+	<key>firstUsage</key>
+	<string>exceptionOperation</string>
+	<key>granularClipper</key>
+	<string>dispatchslider</string>
+	<key>listenerincludesystem</key>
+	<string>bindobserver</string>
+	<key>precisiondensity</key>
+	<string>concatenateBloc</string>
+	<key>strokeAlignment</key>
+	<string>presenterRight</string>
+</dict>
+</plist>

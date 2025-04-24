@@ -49,7 +49,7 @@ class _CategoryScreenState extends State<CategoryScreen> {
       ),
       floatingActionButton: FloatingActionButton(
         onPressed: () => _showAddCategoryDialog(context),
-        backgroundColor: const Color(0xFF00ACC1),
+        backgroundColor: const Color(0xFFE91E63),
         child: const Icon(Icons.add),
       ),
     );

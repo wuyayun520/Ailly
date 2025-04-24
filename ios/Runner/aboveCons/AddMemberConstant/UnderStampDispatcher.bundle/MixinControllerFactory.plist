@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>arithmeticparticle</key>
+	<string>mountedMultiplication</string>
+	<key>awaitVisibility</key>
+	<string>integerVariable</string>
+	<key>methoddensity</key>
+	<string>presenterFlags</string>
+	<key>modelforce</key>
+	<string>persistentresultduration</string>
+	<key>precisionValidation</key>
+	<string>captionDepth</string>
+	<key>semanticsResponse</key>
+	<string>enabledConsumption</string>
+	<key>swiftEdge</key>
+	<string>finishCard</string>
+	<key>tappablePositioned</key>
+	<string>effectscopetag</string>
+</dict>
+</plist>

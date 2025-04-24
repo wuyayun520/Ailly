@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>persistentScroll</key>
+	<string>canSaveCapsule</string>
+	<key>provisionStatus</key>
+	<string>persistentMend</string>
+	<key>renameanimation</key>
+	<string>propagaterow</string>
+	<key>responsecount</key>
+	<string>radiusCenter</string>
+	<key>sharedModulus</key>
+	<string>canTransitionProject</string>
+	<key>shouldConnectArithmetic</key>
+	<string>shouldtraintheme</string>
+	<key>shouldDismissExtension</key>
+	<string>quitScene</string>
+	<key>shouldMountDelegate</key>
+	<string>removeAwait</string>
+	<key>viewcontrast</key>
+	<string>localizationschema</string>
+</dict>
+</plist>

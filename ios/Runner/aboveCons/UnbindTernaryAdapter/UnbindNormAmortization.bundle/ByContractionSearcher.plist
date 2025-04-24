@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>dedicatedEffect</key>
+	<string>canMountStateful</string>
+	<key>graphStatus</key>
+	<string>signinteraction</string>
+	<key>mobileduringaction</key>
+	<string>nodeLayer</string>
+	<key>nativeSignature</key>
+	<string>shouldNotifyCell</string>
+	<key>shouldDisconnectSegue</key>
+	<string>adjustCoordinator</string>
+	<key>shouldUnbindDialogs</key>
+	<string>shouldCancelBullet</string>
+	<key>shouldcontinueaccessory</key>
+	<string>marginwithoutbuffer</string>
+	<key>singleBloc</key>
+	<string>frameTier</string>
+</dict>
+</plist>

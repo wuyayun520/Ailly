@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accessibleInjection</key>
+	<string>notifierCommand</string>
+	<key>dependencyHue</key>
+	<string>shouldFormatBatch</string>
+	<key>geometricView</key>
+	<string>canSaveNorm</string>
+	<key>immutablebinaryfrequency</key>
+	<string>displayableFragment</string>
+	<key>keycatalystright</key>
+	<string>signatureHue</string>
+	<key>overlayShape</key>
+	<string>gradientPattern</string>
+	<key>sizetheme</key>
+	<string>shouldShowNavigator</string>
+	<key>slashStyle</key>
+	<string>listviewMomentum</string>
+</dict>
+</plist>

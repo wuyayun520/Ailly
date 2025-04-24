@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>firstvector</key>
+	<string>resetResponse</string>
+	<key>managerbandwidth</key>
+	<string>cleanQueue</string>
+	<key>normalcycle</key>
+	<string>priorCompleter</string>
+	<key>shouldInflateReduction</key>
+	<string>granularMediaQuery</string>
+	<key>shouldInitializeOverlay</key>
+	<string>dynamicAccessory</string>
+	<key>shouldUnmountContraction</key>
+	<string>polyfillMargin</string>
+	<key>specifyEvaluation</key>
+	<string>gateOrientation</string>
+</dict>
+</plist>

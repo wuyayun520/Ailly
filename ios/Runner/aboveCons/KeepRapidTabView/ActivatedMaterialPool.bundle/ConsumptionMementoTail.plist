@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accordionscaffolddelay</key>
+	<string>erasetechnique</string>
+	<key>behaviorandproxy</key>
+	<string>functionalTextField</string>
+	<key>binaryDelay</key>
+	<string>mainAlert</string>
+	<key>bundleclipper</key>
+	<string>swiftState</string>
+	<key>captionmethodcount</key>
+	<string>respectiveAscent</string>
+	<key>dedicateddialogsindex</key>
+	<string>replaceQueue</string>
+	<key>mainContainer</key>
+	<string>shouldPresentModal</string>
+	<key>seamlessPriority</key>
+	<string>canResumeRadio</string>
+	<key>shouldUpdateView</key>
+	<string>skirtFunction</string>
+	<key>timeremitter</key>
+	<string>keySegment</string>
+</dict>
+</plist>

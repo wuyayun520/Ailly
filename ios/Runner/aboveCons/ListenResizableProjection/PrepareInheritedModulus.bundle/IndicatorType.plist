@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>arithmeticIntegration</key>
+	<string>receiverLeft</string>
+	<key>initiatorsValidation</key>
+	<string>shouldUnmountUsage</string>
+	<key>reliabilityOffset</key>
+	<string>canCancelInitiators</string>
+	<key>resilientAperture</key>
+	<string>promiselayout</string>
+	<key>selectorBorder</key>
+	<string>dismissEntity</string>
+</dict>
+</plist>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>ignoredvariantrotation</key>
+	<string>cancelPadding</string>
+	<key>navigationBottom</key>
+	<string>spineValue</string>
+	<key>projectionSize</key>
+	<string>combinedelegate</string>
+	<key>shouldDecodeContraction</key>
+	<string>trajectoryStyle</string>
+	<key>stackAcceleration</key>
+	<string>canInflateCell</string>
+	<key>uniqueTriangles</key>
+	<string>benchmarkDecoration</string>
+	<key>workflowLeft</key>
+	<string>integerDirection</string>
+</dict>
+</plist>

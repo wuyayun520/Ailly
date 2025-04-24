@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>alignmentvaluebehavior</key>
+	<string>dialogsvisibility</string>
+	<key>cyclemementoorigin</key>
+	<string>aspectratioSaturation</string>
+	<key>onsteptap</key>
+	<string>activeinterfacescale</string>
+	<key>operationalongstructure</key>
+	<string>staterecursion</string>
+	<key>pettaxonomy</key>
+	<string>relationalsensor</string>
+	<key>primaryRequest</key>
+	<string>canInitializeLabel</string>
+	<key>remaindertypetension</key>
+	<string>canHandleText</string>
+	<key>shouldsetstateskin</key>
+	<string>isolatecombiner</string>
+</dict>
+</plist>

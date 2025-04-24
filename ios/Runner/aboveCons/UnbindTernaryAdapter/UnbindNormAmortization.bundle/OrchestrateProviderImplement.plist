@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animatedcontainertask</key>
+	<string>listviewScope</string>
+	<key>constantTail</key>
+	<string>transitionWidget</string>
+	<key>disposerow</key>
+	<string>tappablePriority</string>
+	<key>factoryInset</key>
+	<string>restartContraction</string>
+	<key>isnotifier</key>
+	<string>impressionSkewY</string>
+	<key>quaternionTail</key>
+	<string>inflatetable</string>
+	<key>renderduration</key>
+	<string>shouldtraingridview</string>
+	<key>shouldobserveanimation</key>
+	<string>variantTag</string>
+	<key>specifiermetrics</key>
+	<string>dimensionDecorator</string>
+</dict>
+</plist>

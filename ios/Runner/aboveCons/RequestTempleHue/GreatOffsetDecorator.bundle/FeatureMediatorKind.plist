@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>monstersystembehavior</key>
+	<string>arithmeticmaterial</string>
+	<key>particlerecursion</key>
+	<string>distinctionFrequency</string>
+	<key>reusableChecklist</key>
+	<string>decorationlocation</string>
+	<key>selectorTransparency</key>
+	<string>disparateFactory</string>
+	<key>shouldConnectInkWell</key>
+	<string>subtlePosition</string>
+	<key>shouldSubscribeAlert</key>
+	<string>replicatestream</string>
+	<key>shouldcontinuecube</key>
+	<string>defaultdropdownbutton</string>
+	<key>statefulEquivalent</key>
+	<string>calculateRoute</string>
+</dict>
+</plist>

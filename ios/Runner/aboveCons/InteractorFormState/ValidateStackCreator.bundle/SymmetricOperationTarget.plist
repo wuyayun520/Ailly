@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>directInterpolation</key>
+	<string>autoPreview</string>
+	<key>profileproxyflags</key>
+	<string>handleDimension</string>
+	<key>responsiveRole</key>
+	<string>cartesianService</string>
+	<key>scrollright</key>
+	<string>canResumeButton</string>
+</dict>
+</plist>

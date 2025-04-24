@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>adaptiveSemantics</key>
+	<string>progressbarawaystage</string>
+	<key>consultativeBuilder</key>
+	<string>adaptiveContraction</string>
+	<key>declarativePreview</key>
+	<string>canBuildPainter</string>
+	<key>explicitAlignment</key>
+	<string>shouldShowSample</string>
+	<key>mapHue</key>
+	<string>canRouteStack</string>
+	<key>opaqueStoryboard</key>
+	<string>lostTraversal</string>
+	<key>singleCharacter</key>
+	<string>inflateButton</string>
+	<key>statefulItem</key>
+	<string>pageviewSkewY</string>
+	<key>subsequentIntegration</key>
+	<string>canUnmountedSymbol</string>
+</dict>
+</plist>

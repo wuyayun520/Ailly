@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>completerBottom</key>
+	<string>shouldContinueGradient</string>
+	<key>featurestate</key>
+	<string>buttonDirection</string>
+	<key>groupDistance</key>
+	<string>navigationVisibility</string>
+	<key>pinchableAnalyzer</key>
+	<string>fixedSchema</string>
+</dict>
+</plist>

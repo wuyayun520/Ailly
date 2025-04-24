@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>checklistCoord</key>
+	<string>routeKernel</string>
+	<key>listviewOrientation</key>
+	<string>informationCount</string>
+	<key>shouldEndObserver</key>
+	<string>statelesssize</string>
+	<key>shouldemitmovement</key>
+	<string>configurationTier</string>
+</dict>
+</plist>

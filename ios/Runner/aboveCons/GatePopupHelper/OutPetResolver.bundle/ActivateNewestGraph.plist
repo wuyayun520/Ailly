@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>displayableGridView</key>
+	<string>scrollablecapsulevisibility</string>
+	<key>geometricSubscriber</key>
+	<string>standaloneScale</string>
+	<key>injectionOrigin</key>
+	<string>animatedcontainerBridge</string>
+	<key>listviewcomponent</key>
+	<string>elasticSymbol</string>
+	<key>profileaboutinterpreter</key>
+	<string>canSaveStateless</string>
+	<key>removecertificate</key>
+	<string>asynctail</string>
+	<key>shouldrestarttool</key>
+	<string>granularCupertino</string>
+</dict>
+</plist>

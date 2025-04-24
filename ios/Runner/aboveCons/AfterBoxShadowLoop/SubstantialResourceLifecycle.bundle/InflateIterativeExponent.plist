@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>buildertheme</key>
+	<string>webunaryedge</string>
+	<key>currentSkin</key>
+	<string>concurrentHandler</string>
+	<key>draggableLayout</key>
+	<string>observeSlider</string>
+	<key>flexibleOccasion</key>
+	<string>defaultMargin</string>
+	<key>nodepicker</key>
+	<string>emitTransformer</string>
+	<key>replacegridview</key>
+	<string>basictrigger</string>
+</dict>
+</plist>

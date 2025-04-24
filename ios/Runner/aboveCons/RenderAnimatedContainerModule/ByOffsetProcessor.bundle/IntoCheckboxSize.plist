@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>backwardmemberborder</key>
+	<string>shouldPopCaption</string>
+	<key>concretePager</key>
+	<string>inflatetimer</string>
+	<key>constraintTop</key>
+	<string>discoverContainer</string>
+	<key>creatorsize</key>
+	<string>mainTabView</string>
+	<key>nativeCompletion</key>
+	<string>inflateContainer</string>
+	<key>rapidnavigator</key>
+	<string>hierarchicalTaxonomy</string>
+	<key>seamlessAnimatedContainer</key>
+	<string>captionequivalent</string>
+	<key>serializefeature</key>
+	<string>utilValidation</string>
+	<key>vectorbehavior</key>
+	<string>infoDepth</string>
+</dict>
+</plist>

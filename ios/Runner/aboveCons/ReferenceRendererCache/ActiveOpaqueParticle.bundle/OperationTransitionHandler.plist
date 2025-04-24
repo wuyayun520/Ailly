@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>descriptionflags</key>
+	<string>allocatorphaseinset</string>
+	<key>permissiveRole</key>
+	<string>declarativeFormat</string>
+	<key>resilientThreshold</key>
+	<string>accessoryForm</string>
+	<key>sortedTangent</key>
+	<string>filterLocation</string>
+</dict>
+</plist>

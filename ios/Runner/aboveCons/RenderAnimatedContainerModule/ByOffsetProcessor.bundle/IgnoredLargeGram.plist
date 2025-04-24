@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>constraintTint</key>
+	<string>dismissnode</string>
+	<key>disparateConfiguration</key>
+	<string>labelShape</string>
+	<key>easydata</key>
+	<string>shouldFormatPadding</string>
+	<key>pinchableTextField</key>
+	<string>extensionPressure</string>
+	<key>respectiveSkirt</key>
+	<string>commonVolume</string>
+	<key>semanticProfile</key>
+	<string>sharedInjection</string>
+</dict>
+</plist>

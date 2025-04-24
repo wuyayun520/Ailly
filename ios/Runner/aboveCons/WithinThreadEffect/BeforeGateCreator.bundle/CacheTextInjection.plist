@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>asyncperstyle</key>
+	<string>radiushead</string>
+	<key>constraintaroundstate</key>
+	<string>evolutionKind</string>
+	<key>eagerCluster</key>
+	<string>parseStack</string>
+	<key>effectforce</key>
+	<string>providerStage</string>
+	<key>nativetabview</key>
+	<string>canListenPageView</string>
+	<key>screenStatus</key>
+	<string>diffableChecklist</string>
+	<key>shouldFormatRow</key>
+	<string>shouldDismissStack</string>
+	<key>shouldPaintAnimatedContainer</key>
+	<string>canSerializeSensor</string>
+	<key>symmetricMediaQuery</key>
+	<string>canUpdatePositioned</string>
+</dict>
+</plist>

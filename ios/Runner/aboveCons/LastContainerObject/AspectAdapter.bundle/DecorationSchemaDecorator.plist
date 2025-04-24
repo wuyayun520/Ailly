@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accordionException</key>
+	<string>unlockGrain</string>
+	<key>asynchronousIcon</key>
+	<string>parseUsage</string>
+	<key>canvasKind</key>
+	<string>usedThread</string>
+	<key>histogramTag</key>
+	<string>specifyCapsule</string>
+	<key>lazyNib</key>
+	<string>rebuildSession</string>
+	<key>richtextLeft</key>
+	<string>stringifyAwait</string>
+	<key>significantGrid</key>
+	<string>playbackOffset</string>
+	<key>smallEqualization</key>
+	<string>setupChart</string>
+	<key>symbolTop</key>
+	<string>equipmentVisibility</string>
+</dict>
+</plist>

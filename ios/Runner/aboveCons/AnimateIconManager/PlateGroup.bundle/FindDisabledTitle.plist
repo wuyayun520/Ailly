@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>backwardManager</key>
+	<string>compileStream</string>
+	<key>completerValidation</key>
+	<string>denseZone</string>
+	<key>customPolyfill</key>
+	<string>fusedTriangles</string>
+	<key>fixedPageView</key>
+	<string>elasticityCenter</string>
+	<key>functionalpermutation</key>
+	<string>progressbarMargin</string>
+	<key>prismaticNavigation</key>
+	<string>missionoccasion</string>
+	<key>shouldKeepTransition</key>
+	<string>synchronousFlex</string>
+	<key>shouldTransformBase</key>
+	<string>canAnimateContainer</string>
+	<key>sizemerger</key>
+	<string>independentgraphic</string>
+	<key>sophisticatedChooser</key>
+	<string>dependencyMode</string>
+</dict>
+</plist>

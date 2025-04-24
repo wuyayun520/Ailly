@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>delegateEdge</key>
+	<string>splitterFrequency</string>
+	<key>remainderColor</key>
+	<string>slashpreview</string>
+	<key>serviceparameterspacing</key>
+	<string>cleanSink</string>
+	<key>shouldprocessbitrate</key>
+	<string>transformCosine</string>
+	<key>stepScale</key>
+	<string>singleCube</string>
+	<key>volumeSkewX</key>
+	<string>singletonValidation</string>
+</dict>
+</plist>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>alphaTheme</key>
+	<string>canRenderPromise</string>
+	<key>directMaterializer</key>
+	<string>asyncValidation</string>
+	<key>missedTimer</key>
+	<string>lostProcessor</string>
+	<key>shouldPauseTouch</key>
+	<string>pinchableStateful</string>
+	<key>significantmomentum</key>
+	<string>activityVelocity</string>
+	<key>similarAnchor</key>
+	<string>endSwift</string>
+	<key>specifyResult</key>
+	<string>ignoredQueue</string>
+	<key>spineSkewX</key>
+	<string>screenSpeed</string>
+	<key>sustainabledurationappearance</key>
+	<string>modulusTemple</string>
+	<key>synchronouscycle</key>
+	<string>shouldlistensample</string>
+</dict>
+</plist>

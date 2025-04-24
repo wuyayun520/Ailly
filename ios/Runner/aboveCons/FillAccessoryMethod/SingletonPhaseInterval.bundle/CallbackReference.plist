@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>callbackprocessor</key>
+	<string>canUnbindTabBar</string>
+	<key>immutableNib</key>
+	<string>vectorAlignment</string>
+	<key>pinchableBrush</key>
+	<string>sophisticatedBloc</string>
+	<key>requiredPositioned</key>
+	<string>crudeSemantics</string>
+	<key>resourceprocessforce</key>
+	<string>shoulddisconnectplayback</string>
+	<key>typicalQuaternion</key>
+	<string>shouldRouteBuilder</string>
+	<key>usageasjob</key>
+	<string>canDisposeCard</string>
+</dict>
+</plist>

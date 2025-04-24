@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>drawermodetransparency</key>
+	<string>cupertinoformat</string>
+	<key>ephemeralTabBar</key>
+	<string>persistentMend</string>
+	<key>histogramasync</key>
+	<string>missedAllocator</string>
+	<key>scenefromsystem</key>
+	<string>descenttheme</string>
+	<key>semanticsTint</key>
+	<string>seamlessError</string>
+	<key>sophisticatedPolygon</key>
+	<string>shouldFinishSizedBox</string>
+</dict>
+</plist>

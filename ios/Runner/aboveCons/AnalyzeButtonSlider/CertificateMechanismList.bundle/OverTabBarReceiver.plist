@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>managerorigin</key>
+	<string>asyncTransparency</string>
+	<key>metricsBottom</key>
+	<string>replaceModulus</string>
+	<key>nativeNotification</key>
+	<string>deployConfiguration</string>
+	<key>playbackRate</key>
+	<string>activeExpanded</string>
+	<key>protectedCycle</key>
+	<string>shouldPrepareDimension</string>
+	<key>providegem</key>
+	<string>canPrepareSwift</string>
+	<key>texturecenter</key>
+	<string>frameitem</string>
+</dict>
+</plist>

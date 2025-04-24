@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activeRole</key>
+	<string>taskTransparency</string>
+	<key>ephemeralCanvas</key>
+	<string>responsiveAnimatedContainer</string>
+	<key>localScalability</key>
+	<string>declarativeFrame</string>
+	<key>priorTaxonomy</key>
+	<string>firstGift</string>
+	<key>resizableConstant</key>
+	<string>resolvervelocity</string>
+	<key>semanticInformation</key>
+	<string>navigateMaster</string>
+	<key>shouldDismissEqualization</key>
+	<string>callbackviacommand</string>
+</dict>
+</plist>

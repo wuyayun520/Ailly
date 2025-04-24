@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>drawerlistener</key>
+	<string>canPublishAlert</string>
+	<key>imageLocation</key>
+	<string>denseSplitter</string>
+	<key>nativeRemediation</key>
+	<string>isSemantics</string>
+	<key>shouldInitializeNotifier</key>
+	<string>deploybox</string>
+	<key>shouldRebuildSpine</key>
+	<string>flexiblePolyfill</string>
+	<key>shouldUnmountedScreen</key>
+	<string>buttonPadding</string>
+</dict>
+</plist>

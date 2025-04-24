@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>baselineSaturation</key>
+	<string>gradientActivity</string>
+	<key>customizedskin</key>
+	<string>presenttween</string>
+	<key>directScroller</key>
+	<string>aspectEnvironment</string>
+	<key>flexiblesensor</key>
+	<string>switchappearance</string>
+	<key>popupwithstrategy</key>
+	<string>replaceScale</string>
+	<key>resilientArithmetic</key>
+	<string>agileException</string>
+	<key>resilientPreview</key>
+	<string>tickerName</string>
+</dict>
+</plist>

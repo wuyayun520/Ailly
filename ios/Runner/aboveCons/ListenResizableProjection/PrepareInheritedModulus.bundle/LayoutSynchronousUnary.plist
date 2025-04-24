@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>dismisschart</key>
+	<string>textstyle</string>
+	<key>grouptransparency</key>
+	<string>chapterorigin</string>
+	<key>interpolationandkind</key>
+	<string>unmarshalService</string>
+	<key>largeCaption</key>
+	<string>presentmodel</string>
+	<key>mechanismCount</key>
+	<string>colorSaturation</string>
+	<key>presenterDuration</key>
+	<string>channeldescent</string>
+	<key>priorStatus</key>
+	<string>canNavigateScreen</string>
+	<key>scrollableprogressbarfrequency</key>
+	<string>materialInitiative</string>
+	<key>tweenscroller</key>
+	<string>entityevolution</string>
+</dict>
+</plist>

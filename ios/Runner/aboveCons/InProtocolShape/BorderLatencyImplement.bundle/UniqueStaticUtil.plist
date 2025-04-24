@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>boxshadowformat</key>
+	<string>nextColor</string>
+	<key>effectFormat</key>
+	<string>explicitIcon</string>
+	<key>lastMargin</key>
+	<string>hashState</string>
+	<key>mainScenario</key>
+	<string>globalPolygon</string>
+	<key>nibMode</key>
+	<string>evolutionOpacity</string>
+	<key>onthemetap</key>
+	<string>scrollableInteraction</string>
+	<key>providelocalization</key>
+	<string>channelChain</string>
+	<key>robustPoint</key>
+	<string>canDisconnectMediaQuery</string>
+	<key>selectedlog</key>
+	<string>accordionChannel</string>
+</dict>
+</plist>

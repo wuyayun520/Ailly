@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>actionVisible</key>
+	<string>sampleType</string>
+	<key>animatedAnimation</key>
+	<string>shouldSkipAspect</string>
+	<key>binaryShape</key>
+	<string>beginnerCompletion</string>
+	<key>requiredDependency</key>
+	<string>moduleBound</string>
+	<key>shouldFormatFuture</key>
+	<string>hardTransition</string>
+	<key>similarSorter</key>
+	<string>futureincludetype</string>
+	<key>unsortedInterpolation</key>
+	<string>shouldDispatchBloc</string>
+</dict>
+</plist>

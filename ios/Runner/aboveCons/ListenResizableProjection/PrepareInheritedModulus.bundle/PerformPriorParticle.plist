@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cubitFlags</key>
+	<string>canYieldLayout</string>
+	<key>initiatorsmodel</key>
+	<string>resizeMethod</string>
+	<key>listviewlifecycle</key>
+	<string>statelessVisible</string>
+	<key>mobileRadio</key>
+	<string>hardMesh</string>
+	<key>mobileThreshold</key>
+	<string>asyncFunction</string>
+	<key>prismaticGate</key>
+	<string>significantEquipment</string>
+	<key>taskfacadecolor</key>
+	<string>observeDialogs</string>
+	<key>usecaseshade</key>
+	<string>selectedPlayback</string>
+</dict>
+</plist>

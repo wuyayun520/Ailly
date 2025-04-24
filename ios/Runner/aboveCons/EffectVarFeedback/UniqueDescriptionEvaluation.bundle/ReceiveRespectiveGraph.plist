@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>desktopProvider</key>
+	<string>backwardFrame</string>
+	<key>immutableFrame</key>
+	<string>lostTime</string>
+	<key>nativeSkirt</key>
+	<string>resilientThreshold</string>
+	<key>resilientThreshold</key>
+	<string>setstatePoint</string>
+	<key>singleaccessory</key>
+	<string>intermediateCertificate</string>
+	<key>soundVisibility</key>
+	<string>canBindHero</string>
+	<key>statelessProjection</key>
+	<string>canLayoutGift</string>
+	<key>statelessVolume</key>
+	<string>techniquePressure</string>
+	<key>storagewithtype</key>
+	<string>canFormatTangent</string>
+	<key>textureBehavior</key>
+	<string>selectedText</string>
+</dict>
+</plist>

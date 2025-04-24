@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>adaptiveLocalization</key>
+	<string>awaitVariable</string>
+	<key>fusedSwitch</key>
+	<string>sequentialMetadata</string>
+	<key>impressionTension</key>
+	<string>responseBound</string>
+	<key>multiState</key>
+	<string>saveProject</string>
+	<key>publicText</key>
+	<string>shouldFinishTask</string>
+	<key>shouldAnimateArithmetic</key>
+	<string>missedBase</string>
+	<key>taskright</key>
+	<string>dialogsorigin</string>
+</dict>
+</plist>

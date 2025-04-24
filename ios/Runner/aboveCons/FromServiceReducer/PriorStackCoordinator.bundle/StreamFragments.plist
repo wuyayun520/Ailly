@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>allocatealpha</key>
+	<string>fixedCanvas</string>
+	<key>audioScale</key>
+	<string>canPresentNorm</string>
+	<key>colorCoord</key>
+	<string>updateBatch</string>
+	<key>connectmodel</key>
+	<string>anchorTag</string>
+	<key>dedicatedMultiplication</key>
+	<string>decodeHistogram</string>
+	<key>mobileFrame</key>
+	<string>showalignment</string>
+	<key>paddingthroughput</key>
+	<string>canPrepareNavigator</string>
+	<key>sharedOffset</key>
+	<string>custompaintMemento</string>
+	<key>shouldtransformcube</key>
+	<string>unsortedAlignment</string>
+</dict>
+</plist>

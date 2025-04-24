@@ -526,7 +526,7 @@ class _AvatarTabPageState extends State<AvatarTabPage> with AutomaticKeepAliveCl
                       return Transform.scale(
                         scale: _pulseAnimation.value,
                         child: _buildCircleButton(
-                          'assets/images/btn_friends_love_nor.png',
+                          'assets/images/conslove_nor.png',
                           () {
                             // 喜欢当前用户
                             ScaffoldMessenger.of(context).showSnackBar(
@@ -543,7 +543,7 @@ class _AvatarTabPageState extends State<AvatarTabPage> with AutomaticKeepAliveCl
                   const SizedBox(height: 12),
                   // 聊天按钮
                   _buildCircleButton(
-                    'assets/images/btn_friends_chat_nor.png',
+                    'assets/images/conschat_nor.png',
                     () {
                       // 导航到聊天页面
                       _navigateToChat();
@@ -552,7 +552,7 @@ class _AvatarTabPageState extends State<AvatarTabPage> with AutomaticKeepAliveCl
                   const SizedBox(height: 12),
                   // 关闭按钮
                   _buildCircleButton(
-                    'assets/images/btn_friends_close_nor.png',
+                    'assets/images/consclose_nor.png',
                     () {
                       // 下滑到下一个用户
                       _pageController.nextPage(

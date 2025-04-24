@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>awaitpadding</key>
+	<string>sortedNavigation</string>
+	<key>brushBottom</key>
+	<string>finishStateless</string>
+	<key>controllerpatternright</key>
+	<string>conformCompleter</string>
+	<key>lazyRenderer</key>
+	<string>tangentShade</string>
+	<key>mediumVector</key>
+	<string>animatedUnary</string>
+	<key>shouldDeserializeTabBar</key>
+	<string>rebuildProvider</string>
+	<key>stampShape</key>
+	<string>queuecompositedelay</string>
+</dict>
+</plist>

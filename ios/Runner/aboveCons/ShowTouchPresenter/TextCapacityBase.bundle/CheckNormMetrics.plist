@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>comparestream</key>
+	<string>parallelcyclebottom</string>
+	<key>descentacceleration</key>
+	<string>originalSkirt</string>
+	<key>documentDuration</key>
+	<string>setstatetext</string>
+	<key>mapperScale</key>
+	<string>containerresponse</string>
+</dict>
+</plist>

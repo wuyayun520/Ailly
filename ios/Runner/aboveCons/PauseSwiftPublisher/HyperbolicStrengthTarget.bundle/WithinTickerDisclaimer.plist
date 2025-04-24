@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>allocatorIndex</key>
+	<string>wrapvector</string>
+	<key>basicSkin</key>
+	<string>associateEntity</string>
+	<key>interfacefeedback</key>
+	<string>evolutionVisibility</string>
+	<key>intermediateequalizationpadding</key>
+	<string>shouldCacheTheme</string>
+	<key>missedBrush</key>
+	<string>canHandleAnchor</string>
+	<key>rapidReducer</key>
+	<string>replicateGraph</string>
+	<key>retainedcursor</key>
+	<string>exceptionwithmediator</string>
+	<key>schedulerType</key>
+	<string>requiredLocalization</string>
+	<key>shouldUpdateSensor</key>
+	<string>stampColor</string>
+</dict>
+</plist>

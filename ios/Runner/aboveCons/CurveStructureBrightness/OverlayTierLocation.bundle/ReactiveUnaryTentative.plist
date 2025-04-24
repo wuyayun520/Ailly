@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accessibleStateful</key>
+	<string>geometricController</string>
+	<key>lostTrajectory</key>
+	<string>staticMatrix</string>
+	<key>playbackformdensity</key>
+	<string>concurrentUtil</string>
+</dict>
+</plist>

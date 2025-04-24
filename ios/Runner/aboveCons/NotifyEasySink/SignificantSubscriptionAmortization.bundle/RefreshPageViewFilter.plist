@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>characteristicLocation</key>
+	<string>shouldnavigatecanvas</string>
+	<key>detachmethod</key>
+	<string>prevLoss</string>
+	<key>disabledDescription</key>
+	<string>pendingRow</string>
+	<key>explicitSize</key>
+	<string>canPresentNib</string>
+	<key>objectTransparency</key>
+	<string>floatMethod</string>
+	<key>permissiveAwait</key>
+	<string>canSkipEntropy</string>
+	<key>sequentialRect</key>
+	<string>trianglesLeft</string>
+	<key>shouldEndEqualization</key>
+	<string>previewcolor</string>
+	<key>shouldMountedGram</key>
+	<string>comprehensiveprotocoltag</string>
+</dict>
+</plist>

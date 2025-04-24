@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>associatedLoss</key>
+	<string>pickerPressure</string>
+	<key>crucialSwitch</key>
+	<string>standalonethemeshade</string>
+	<key>cupertinoEfficiency</key>
+	<string>requestSingleton</string>
+	<key>spriteValidation</key>
+	<string>unactivatedTool</string>
+	<key>updateaction</key>
+	<string>mutableParticle</string>
+</dict>
+</plist>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>defaultpromise</key>
+	<string>tappableModulus</string>
+	<key>newestFinder</key>
+	<string>activatedHandler</string>
+	<key>notationSpacing</key>
+	<string>autoContrast</string>
+	<key>requiredVariant</key>
+	<string>constraintRight</string>
+	<key>shouldRenderBatch</key>
+	<string>composabledecorationtransparency</string>
+	<key>shouldRouteModal</key>
+	<string>skirtOrigin</string>
+	<key>taskscheduler</key>
+	<string>shouldUnmountedSine</string>
+	<key>temporaryAperture</key>
+	<string>characteristicSaturation</string>
+</dict>
+</plist>

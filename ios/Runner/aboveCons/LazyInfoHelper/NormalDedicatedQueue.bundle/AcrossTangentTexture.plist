@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>aggregateasync</key>
+	<string>directEquipment</string>
+	<key>catalystalongparam</key>
+	<string>persistprogressbar</string>
+	<key>frameVelocity</key>
+	<string>publicInteger</string>
+	<key>ignoredBox</key>
+	<string>occasionfrequency</string>
+	<key>immediateSprite</key>
+	<string>dependencyMethod</string>
+	<key>substantialStoryboard</key>
+	<string>shouldConnectAlert</string>
+	<key>symmetricMatrix</key>
+	<string>blocshape</string>
+</dict>
+</plist>

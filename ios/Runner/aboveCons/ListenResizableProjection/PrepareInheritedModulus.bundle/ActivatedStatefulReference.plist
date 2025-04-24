@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>diffableComposition</key>
+	<string>similarTabView</string>
+	<key>disclaimerResponse</key>
+	<string>disabledModel</string>
+	<key>reusableroute</key>
+	<string>shouldSaveRoute</string>
+	<key>shouldFormatScale</key>
+	<string>canResumeInteger</string>
+	<key>tabbarequivalent</key>
+	<string>dataFormat</string>
+</dict>
+</plist>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>dropdownbuttonTension</key>
+	<string>easyNavigator</string>
+	<key>graphDirection</key>
+	<string>displayableAwait</string>
+	<key>pinchableCharacter</key>
+	<string>canUnmountAnimation</string>
+	<key>shouldFinishTernary</key>
+	<string>holdRequest</string>
+	<key>signDistance</key>
+	<string>startEffect</string>
+	<key>storageBorder</key>
+	<string>sanitizeBuffer</string>
+</dict>
+</plist>

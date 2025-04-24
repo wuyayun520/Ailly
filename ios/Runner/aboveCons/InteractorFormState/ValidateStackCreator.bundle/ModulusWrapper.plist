@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animatedOption</key>
+	<string>sinkEnvironment</string>
+	<key>backwardZone</key>
+	<string>serviceLeft</string>
+	<key>clipperDirection</key>
+	<string>animatoracceleration</string>
+	<key>draggableBandwidth</key>
+	<string>poolRouter</string>
+	<key>independentPet</key>
+	<string>blocparametercolor</string>
+	<key>multiDecoration</key>
+	<string>pushComposition</string>
+	<key>shouldStopSwitch</key>
+	<string>textFramework</string>
+	<key>statefulStamp</key>
+	<string>dismissPositioned</string>
+	<key>statusFeedback</key>
+	<string>resourceResponse</string>
+</dict>
+</plist>

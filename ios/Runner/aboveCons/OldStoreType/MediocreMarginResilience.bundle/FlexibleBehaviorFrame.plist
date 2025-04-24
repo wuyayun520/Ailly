@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>allocatorAcceleration</key>
+	<string>consultativeRect</string>
+	<key>basicConfiguration</key>
+	<string>connectLabel</string>
+	<key>flexibleProvider</key>
+	<string>resizeMenu</string>
+	<key>immediateCell</key>
+	<string>cardNumber</string>
+	<key>initiativeInteraction</key>
+	<string>shouldFetchSegment</string>
+	<key>previewCoord</key>
+	<string>compositionalCurve</string>
+	<key>seamlessinteractor</key>
+	<string>imageScope</string>
+	<key>sharedNib</key>
+	<string>ephemeralTaxonomy</string>
+</dict>
+</plist>

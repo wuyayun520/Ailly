@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>decorationtransformer</key>
+	<string>isheap</string>
+	<key>labellocation</key>
+	<string>matrixTransparency</string>
+	<key>semantictheme</key>
+	<string>fetchProtocol</string>
+	<key>shouldDeserializeSwitch</key>
+	<string>hardmargininset</string>
+	<key>similarSizedBox</key>
+	<string>ignoredCaption</string>
+	<key>statesize</key>
+	<string>vectorDecorator</string>
+	<key>unaryRotation</key>
+	<string>shouldSkipLog</string>
+</dict>
+</plist>

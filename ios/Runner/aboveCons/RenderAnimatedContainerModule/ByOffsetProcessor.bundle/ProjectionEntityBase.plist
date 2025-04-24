@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>catalystinjection</key>
+	<string>replicateHash</string>
+	<key>listenmedia</key>
+	<string>decodeInterface</string>
+	<key>newestRequest</key>
+	<string>shouldRebuildSpine</string>
+	<key>rapidGrain</key>
+	<string>synchronousCapacities</string>
+	<key>resizableMovement</key>
+	<string>crucialScalability</string>
+	<key>shouldPrepareChannels</key>
+	<string>typicalSemantics</string>
+</dict>
+</plist>

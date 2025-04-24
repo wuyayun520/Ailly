@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>consumptionSize</key>
+	<string>textloop</string>
+	<key>cursorScale</key>
+	<string>parsetimer</string>
+	<key>indicatorconnector</key>
+	<string>asynchronousPet</string>
+	<key>otherThread</key>
+	<string>cupertinoStream</string>
+	<key>shouldInitializeLog</key>
+	<string>navigatorTask</string>
+	<key>shouldProcessNavigation</key>
+	<string>characterBehavior</string>
+</dict>
+</plist>

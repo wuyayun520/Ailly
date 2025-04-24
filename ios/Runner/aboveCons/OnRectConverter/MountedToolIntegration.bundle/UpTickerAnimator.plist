@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>advancedSegue</key>
+	<string>primaryproject</string>
+	<key>completionroute</key>
+	<string>multiChannels</string>
+	<key>deferredMetrics</key>
+	<string>encodeRoute</string>
+	<key>sensorstylepressure</key>
+	<string>gramFacade</string>
+	<key>statefulGroup</key>
+	<string>isolateSystem</string>
+</dict>
+</plist>

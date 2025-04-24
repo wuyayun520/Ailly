@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>imperativepager</key>
+	<string>firstSubpixel</string>
+	<key>pinchableBatch</key>
+	<string>scaleskewy</string>
+	<key>previewtheme</key>
+	<string>newestAlert</string>
+	<key>shouldStopDrawer</key>
+	<string>consumerSingleton</string>
+	<key>statelessInfo</key>
+	<string>litePopup</string>
+	<key>subpixelFrequency</key>
+	<string>shouldStreamShader</string>
+</dict>
+</plist>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activeDialogs</key>
+	<string>reflectPreview</string>
+	<key>allocatorcycleorigin</key>
+	<string>canStreamEqualization</string>
+	<key>directService</key>
+	<string>sustainableCard</string>
+	<key>equipmentviatemple</key>
+	<string>observerbufferstatus</string>
+	<key>exponentForce</key>
+	<string>aspectofstate</string>
+	<key>grainSkewY</key>
+	<string>managerinterval</string>
+	<key>gramtask</key>
+	<string>mainPreview</string>
+	<key>segmentbuffersaturation</key>
+	<string>replaceInjection</string>
+	<key>shouldTransformTextField</key>
+	<string>requiredCharacter</string>
+	<key>symmetricInitiators</key>
+	<string>analyzeSingleton</string>
+</dict>
+</plist>

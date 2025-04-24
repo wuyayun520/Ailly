@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>basicOverlay</key>
+	<string>binderStyle</string>
+	<key>boxAcceleration</key>
+	<string>normalSorter</string>
+	<key>dependencycreator</key>
+	<string>tabbarSystem</string>
+	<key>difficultSprite</key>
+	<string>tensorstatus</string>
+	<key>functionalShape</key>
+	<string>symmetricException</string>
+	<key>largeSizedBox</key>
+	<string>currentcertificateresponse</string>
+	<key>layoutRight</key>
+	<string>fusedJoiner</string>
+	<key>prevCycle</key>
+	<string>repositoryActivity</string>
+	<key>sinkMode</key>
+	<string>shouldFinishPainter</string>
+	<key>synchronousremediation</key>
+	<string>navigateProgressBar</string>
+</dict>
+</plist>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animatedcontainerlistener</key>
+	<string>signTag</string>
+	<key>mutableHandler</key>
+	<string>cacheHero</string>
+	<key>observesign</key>
+	<string>unmountScale</string>
+	<key>persistentInfo</key>
+	<string>relationalModel</string>
+	<key>shouldPublishComposition</key>
+	<string>requiredHash</string>
+	<key>viewAlignment</key>
+	<string>hierarchicalRemediation</string>
+</dict>
+</plist>

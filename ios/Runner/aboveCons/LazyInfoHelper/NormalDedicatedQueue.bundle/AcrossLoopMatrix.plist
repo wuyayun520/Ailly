@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>borderstructureforce</key>
+	<string>shouldDetachFuture</string>
+	<key>capacitiesrect</key>
+	<string>alphaWork</string>
+	<key>crucialLifecycle</key>
+	<string>activeCubit</string>
+	<key>invisibleReceiver</key>
+	<string>shouldConnectDuration</string>
+	<key>localizationName</key>
+	<string>performGraph</string>
+	<key>movementSkewX</key>
+	<string>associatedCache</string>
+	<key>permissiveListView</key>
+	<string>retainedCombiner</string>
+	<key>shouldSkipLog</key>
+	<string>keepBullet</string>
+	<key>topicShade</key>
+	<string>continueButton</string>
+	<key>vectorVisible</key>
+	<string>statefulProvider</string>
+</dict>
+</plist>

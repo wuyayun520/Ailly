@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>composableStateful</key>
+	<string>validateSlider</string>
+	<key>deserializespine</key>
+	<string>layoutVariant</string>
+	<key>inactivemodel</key>
+	<string>completionCommand</string>
+	<key>layeruntilmemento</key>
+	<string>repositoryTag</string>
+	<key>rendererInteraction</key>
+	<string>canLoadDocument</string>
+	<key>serializeprovider</key>
+	<string>newestChapter</string>
+	<key>titlestatesize</key>
+	<string>operationBrightness</string>
+	<key>videoInteraction</key>
+	<string>directFinder</string>
+</dict>
+</plist>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>alertTransparency</key>
+	<string>difficultResult</string>
+	<key>canvastierstate</key>
+	<string>logBrightness</string>
+	<key>largeanimation</key>
+	<string>crucialbloc</string>
+	<key>logarithmorigin</key>
+	<string>symmetricReplica</string>
+	<key>multiResponse</key>
+	<string>shouldProcessGestureDetector</string>
+	<key>shouldBindLogarithm</key>
+	<string>exitTitle</string>
+	<key>shouldMountedMedia</key>
+	<string>tickerCount</string>
+	<key>shouldUnbindMaterial</key>
+	<string>resizableRow</string>
+	<key>similarDependency</key>
+	<string>robustGraph</string>
+</dict>
+</plist>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>adaptiveawaitposition</key>
+	<string>maxPositioned</string>
+	<key>easyCupertino</key>
+	<string>canAttachDocument</string>
+	<key>evaluationAppearance</key>
+	<string>iconSpeed</string>
+	<key>graphicShape</key>
+	<string>dropoutState</string>
+	<key>itemTop</key>
+	<string>statictransformer</string>
+	<key>musicColor</key>
+	<string>granularGrid</string>
+	<key>persistentImpact</key>
+	<string>labelinset</string>
+	<key>scrollablePager</key>
+	<string>serializeintensity</string>
+	<key>shouldNavigateBox</key>
+	<string>canBuildCaption</string>
+</dict>
+</plist>

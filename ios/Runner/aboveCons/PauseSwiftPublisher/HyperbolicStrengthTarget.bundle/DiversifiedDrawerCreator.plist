@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>bulletAppearance</key>
+	<string>exitSink</string>
+	<key>capturetimer</key>
+	<string>pendingSegue</string>
+	<key>connectorkind</key>
+	<string>pivotalanimation</string>
+	<key>containerCoord</key>
+	<string>serializeSegue</string>
+	<key>difficultGrayscale</key>
+	<string>containersearcher</string>
+	<key>fixedActivity</key>
+	<string>streamlineAllocator</string>
+	<key>keyrequest</key>
+	<string>canFormatProvider</string>
+	<key>shouldDecodeCursor</key>
+	<string>delicateSchema</string>
+	<key>shouldDecodeRole</key>
+	<string>vectorVisible</string>
+	<key>triggerDirection</key>
+	<string>sustainableStore</string>
+</dict>
+</plist>

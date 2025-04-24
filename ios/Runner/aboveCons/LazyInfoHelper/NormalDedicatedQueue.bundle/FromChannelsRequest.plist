@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cubitDistance</key>
+	<string>mountSlider</string>
+	<key>entityvisitorfeedback</key>
+	<string>completerInterpreter</string>
+	<key>injectionVisible</key>
+	<string>dynamicEquivalent</string>
+	<key>persistentAnchor</key>
+	<string>localSignature</string>
+	<key>sessionbehavior</key>
+	<string>crudeShader</string>
+	<key>shoulddismissmaterial</key>
+	<string>unmountedSkirt</string>
+	<key>singleBuffer</key>
+	<string>deferredObserver</string>
+</dict>
+</plist>

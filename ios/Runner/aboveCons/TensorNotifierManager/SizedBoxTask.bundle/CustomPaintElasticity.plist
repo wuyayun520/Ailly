@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>heapstagestatus</key>
+	<string>opaqueReceiver</string>
+	<key>mainallocatorvisible</key>
+	<string>tappableImpression</string>
+	<key>numericalChapter</key>
+	<string>anchordetail</string>
+	<key>numericaltoolleft</key>
+	<string>enabledmodelfeedback</string>
+	<key>persistentcompositionkind</key>
+	<string>shouldParseChannels</string>
+	<key>radioBrightness</key>
+	<string>measureFuture</string>
+	<key>uniformlabel</key>
+	<string>prepareTouch</string>
+</dict>
+</plist>

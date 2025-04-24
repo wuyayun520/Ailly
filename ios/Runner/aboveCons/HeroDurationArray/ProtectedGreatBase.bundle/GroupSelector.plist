@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cellinteraction</key>
+	<string>shouldValidateMultiplication</string>
+	<key>cursorobserver</key>
+	<string>shouldPresentCell</string>
+	<key>desktopConfiguration</key>
+	<string>promisetriangles</string>
+	<key>histogramMargin</key>
+	<string>checklistMargin</string>
+	<key>largeDrawer</key>
+	<string>tensorListener</string>
+	<key>originaltextfield</key>
+	<string>bitrateState</string>
+	<key>primaryTransition</key>
+	<string>gesturedetectorInterpreter</string>
+	<key>prismaticconsumerbound</key>
+	<string>canRestartPromise</string>
+	<key>shouldConnectStateful</key>
+	<string>crudeSorter</string>
+</dict>
+</plist>

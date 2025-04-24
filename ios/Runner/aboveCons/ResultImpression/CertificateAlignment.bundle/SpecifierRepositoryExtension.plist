@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cellfromnumber</key>
+	<string>canHandleMultiplication</string>
+	<key>componentrate</key>
+	<string>switchPrototype</string>
+	<key>composabledescent</key>
+	<string>directTheme</string>
+	<key>equipmentframe</key>
+	<string>connectTransformer</string>
+	<key>eventtemplename</key>
+	<string>semantichash</string>
+	<key>multiLog</key>
+	<string>pointName</string>
+	<key>pivotalWorkflow</key>
+	<string>canValidateFragment</string>
+	<key>stepIndex</key>
+	<string>skipRichText</string>
+	<key>tensorFuture</key>
+	<string>eventPressure</string>
+</dict>
+</plist>

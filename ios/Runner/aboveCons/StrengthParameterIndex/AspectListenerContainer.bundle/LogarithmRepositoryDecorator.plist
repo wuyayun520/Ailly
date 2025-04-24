@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>asyncmargin</key>
+	<string>canUnmountedMember</string>
+	<key>constraintwithbuffer</key>
+	<string>unbindListView</string>
+	<key>indicatoramongcommand</key>
+	<string>extensionBrightness</string>
+	<key>isolateSpeed</key>
+	<string>routeTernary</string>
+	<key>mutablePopup</key>
+	<string>locateConfiguration</string>
+	<key>permissiveCache</key>
+	<string>staticgroupstate</string>
+	<key>pointOpacity</key>
+	<string>architectureForce</string>
+	<key>pushbatch</key>
+	<string>retainedGroup</string>
+	<key>sharedIntensity</key>
+	<string>comprehensiverange</string>
+	<key>textticker</key>
+	<string>writeFuture</string>
+</dict>
+</plist>

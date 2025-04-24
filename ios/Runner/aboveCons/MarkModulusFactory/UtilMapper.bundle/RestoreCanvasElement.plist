@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>asynchronousChannel</key>
+	<string>asynchronousHash</string>
+	<key>brushintegrity</key>
+	<string>adaptiveAmortization</string>
+	<key>currentFilter</key>
+	<string>mobilefacadestyle</string>
+	<key>lazyBandwidth</key>
+	<string>findResult</string>
+	<key>menuaboutactivity</key>
+	<string>layoutEffect</string>
+	<key>notificationState</key>
+	<string>touchDelegate</string>
+	<key>shouldPushAnchor</key>
+	<string>elasticHistogram</string>
+	<key>shouldUpdateBuilder</key>
+	<string>createBuilder</string>
+	<key>shouldobservemodulus</key>
+	<string>shouldBuildCompletion</string>
+</dict>
+</plist>

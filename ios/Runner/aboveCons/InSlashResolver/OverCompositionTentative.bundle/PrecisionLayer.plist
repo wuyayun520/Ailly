@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>asynchronousLabel</key>
+	<string>shouldFetchProject</string>
+	<key>invisibleAllocator</key>
+	<string>canReplaceLayout</string>
+	<key>keypreview</key>
+	<string>musicPattern</string>
+	<key>shouldCancelActivity</key>
+	<string>layoutStateful</string>
+	<key>spineBrightness</key>
+	<string>sortedrect</string>
+	<key>spotAlignment</key>
+	<string>localCharacteristic</string>
+	<key>standaloneScreen</key>
+	<string>respectiveGrain</string>
+	<key>statefulBorder</key>
+	<string>persistswift</string>
+	<key>textureFlags</key>
+	<string>isNib</string>
+</dict>
+</plist>

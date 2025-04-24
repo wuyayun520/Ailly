@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>defaultHistogram</key>
+	<string>resizableInteractor</string>
+	<key>euclideanPageView</key>
+	<string>serializeAwait</string>
+	<key>graphictempleskewx</key>
+	<string>persistentPrecision</string>
+	<key>logdescription</key>
+	<string>exceptionTail</string>
+	<key>mutabletimeline</key>
+	<string>iscursor</string>
+	<key>resourceparticle</key>
+	<string>immediateError</string>
+	<key>slidercenter</key>
+	<string>opaqueLabel</string>
+</dict>
+</plist>

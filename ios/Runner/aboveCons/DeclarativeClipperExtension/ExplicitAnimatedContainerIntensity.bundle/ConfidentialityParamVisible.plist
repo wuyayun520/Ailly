@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>checkboxDensity</key>
+	<string>canInflateVariant</string>
+	<key>detectorinterval</key>
+	<string>spriteborder</string>
+	<key>presentchannel</key>
+	<string>canUnbindStateless</string>
+	<key>unsortedGestureDetector</key>
+	<string>compositionalCell</string>
+</dict>
+</plist>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>handlertexture</key>
+	<string>mediumSwitch</string>
+	<key>largeProgressBar</key>
+	<string>staticMap</string>
+	<key>listeneracceleration</key>
+	<string>signatureVelocity</string>
+	<key>shouldPaintAspect</key>
+	<string>mediumMetrics</string>
+</dict>
+</plist>

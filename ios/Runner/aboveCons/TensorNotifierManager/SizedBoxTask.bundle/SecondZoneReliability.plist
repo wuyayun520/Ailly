@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>equipmenttitle</key>
+	<string>otherMember</string>
+	<key>resultSkewY</key>
+	<string>isAxis</string>
+	<key>statefulcontrollerinteraction</key>
+	<string>logarithmSkewX</string>
+	<key>uniqueStateless</key>
+	<string>indicatorRotation</string>
+</dict>
+</plist>

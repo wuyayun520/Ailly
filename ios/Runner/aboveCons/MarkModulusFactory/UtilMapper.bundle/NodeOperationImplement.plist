@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cardawaymediator</key>
+	<string>exponenttype</string>
+	<key>inheritedPopup</key>
+	<string>interactiveProvider</string>
+	<key>prismaticCapsule</key>
+	<string>prepareTangent</string>
+	<key>sharedModulus</key>
+	<string>protectedbox</string>
+</dict>
+</plist>

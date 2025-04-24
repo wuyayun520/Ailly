@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>currentUseCase</key>
+	<string>explicitPlate</string>
+	<key>histogramFeedback</key>
+	<string>metadataType</string>
+	<key>requestorsingleton</key>
+	<string>shouldUpdateUsage</string>
+	<key>shouldcontinueslider</key>
+	<string>tweakMomentum</string>
+	<key>sinesincecycle</key>
+	<string>statefulFragments</string>
+	<key>unmounteffect</key>
+	<string>shouldPauseBullet</string>
+	<key>writecache</key>
+	<string>opaqueScene</string>
+</dict>
+</plist>

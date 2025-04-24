@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>labelInterval</key>
+	<string>aggregateLabel</string>
+	<key>largeInteger</key>
+	<string>selectedmodal</string>
+	<key>mainAlpha</key>
+	<string>opaqueConfidentiality</string>
+	<key>opaqueTrigger</key>
+	<string>unsortedtransitioninset</string>
+	<key>prismaticVector</key>
+	<string>durationForce</string>
+	<key>significantmapper</key>
+	<string>shouldSaveTabView</string>
+	<key>sustainableListView</key>
+	<string>scrollableEmitter</string>
+</dict>
+</plist>

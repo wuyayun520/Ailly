@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accordionMultiplication</key>
+	<string>measureScene</string>
+	<key>advancedComponent</key>
+	<string>newestFrame</string>
+	<key>bitratedescription</key>
+	<string>listenNotification</string>
+	<key>checklistTint</key>
+	<string>newestSound</string>
+	<key>controllercolor</key>
+	<string>canTransitionAlert</string>
+	<key>eagerscroll</key>
+	<string>graphicVar</string>
+	<key>immutableAnimation</key>
+	<string>connectordepth</string>
+	<key>liteRepository</key>
+	<string>canFinishEquipment</string>
+	<key>partitionoverlay</key>
+	<string>comprehensivePublisher</string>
+	<key>shouldCreateExtension</key>
+	<string>canDispatchFuture</string>
+</dict>
+</plist>

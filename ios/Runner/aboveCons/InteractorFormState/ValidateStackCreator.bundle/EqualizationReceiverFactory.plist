@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>contrastPosition</key>
+	<string>trainPriority</string>
+	<key>detachpageview</key>
+	<string>immutableInfo</string>
+	<key>diffableDetector</key>
+	<string>vectorizeScene</string>
+	<key>graphicBottom</key>
+	<string>nativeAperture</string>
+	<key>imagebyobserver</key>
+	<string>canvasFormat</string>
+	<key>maineffect</key>
+	<string>canPopStamp</string>
+</dict>
+</plist>

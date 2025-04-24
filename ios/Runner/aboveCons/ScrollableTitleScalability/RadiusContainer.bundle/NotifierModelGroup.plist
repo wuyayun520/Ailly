@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>diffableComposition</key>
+	<string>checkState</string>
+	<key>distinctionKind</key>
+	<string>providerbeyondkind</string>
+	<key>lazyTable</key>
+	<string>textstageforce</string>
+	<key>normalPriority</key>
+	<string>normalQueue</string>
+	<key>shouldAttachText</key>
+	<string>parallelLatency</string>
+	<key>textfacadecoord</key>
+	<string>aspectpadding</string>
+</dict>
+</plist>

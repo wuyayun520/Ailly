@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accordionmusic</key>
+	<string>mastercompositecenter</string>
+	<key>intuitivePlayback</key>
+	<string>geometricAudio</string>
+	<key>monsterContrast</key>
+	<string>shouldCancelMaster</string>
+	<key>overlayDensity</key>
+	<string>playController</string>
+	<key>priorAspectRatio</key>
+	<string>crudeConvolution</string>
+	<key>shouldFetchMomentum</key>
+	<string>otherCluster</string>
+	<key>tentativeVelocity</key>
+	<string>canDecodePoint</string>
+	<key>threadCount</key>
+	<string>inflateSignature</string>
+</dict>
+</plist>

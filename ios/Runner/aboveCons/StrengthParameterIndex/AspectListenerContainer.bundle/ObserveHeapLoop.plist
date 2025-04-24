@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>bufferName</key>
+	<string>greatcontainer</string>
+	<key>continueusecase</key>
+	<string>disparateResilience</string>
+	<key>largeConvolution</key>
+	<string>cartesianAscent</string>
+	<key>largeSkirt</key>
+	<string>persistChannels</string>
+	<key>shouldUnbindHeap</key>
+	<string>switchRight</string>
+	<key>subtleModel</key>
+	<string>multiRadius</string>
+	<key>uniquecombiner</key>
+	<string>shouldDisconnectNorm</string>
+</dict>
+</plist>

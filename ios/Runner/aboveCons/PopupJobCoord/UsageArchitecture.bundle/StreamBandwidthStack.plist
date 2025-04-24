@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>directlyCheckbox</key>
+	<string>desktopresourcedensity</string>
+	<key>mapperdelay</key>
+	<string>protocolSkewY</string>
+	<key>missedTabBar</key>
+	<string>currentdescriptor</string>
+	<key>mutableChecklist</key>
+	<string>canSkipCheckbox</string>
+	<key>rapidGroup</key>
+	<string>lockprovider</string>
+	<key>relationalReducer</key>
+	<string>nativeTangent</string>
+	<key>shouldPushCustomPaint</key>
+	<string>dynamicText</string>
+	<key>shouldRestartMaster</key>
+	<string>screenprototypecount</string>
+	<key>shouldSetStateBaseline</key>
+	<string>offsetvertex</string>
+	<key>staticDescent</key>
+	<string>dependencyBound</string>
+</dict>
+</plist>

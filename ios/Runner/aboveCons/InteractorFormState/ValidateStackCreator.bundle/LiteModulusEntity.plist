@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>currentcharacter</key>
+	<string>canBuildSkin</string>
+	<key>denseHistogram</key>
+	<string>shouldLoadBuilder</string>
+	<key>keyFormat</key>
+	<string>parallelScenario</string>
+	<key>pivotalgrain</key>
+	<string>significantSkirt</string>
+	<key>switchTop</key>
+	<string>storyboardtime</string>
+	<key>techniqueVisibility</key>
+	<string>curveColor</string>
+</dict>
+</plist>

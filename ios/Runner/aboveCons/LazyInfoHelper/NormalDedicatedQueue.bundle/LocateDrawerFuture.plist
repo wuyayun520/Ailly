@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>amortizationkind</key>
+	<string>calculateLocalization</string>
+	<key>benchmarktransition</key>
+	<string>canRebuildMediaQuery</string>
+	<key>masterCount</key>
+	<string>canUnmountedListView</string>
+	<key>pivotalScroll</key>
+	<string>replaceConsumer</string>
+	<key>selectedchallenge</key>
+	<string>looprange</string>
+	<key>shouldSetStateAlert</key>
+	<string>replicaAlignment</string>
+	<key>spotfinder</key>
+	<string>shouldDeserializeWorkflow</string>
+	<key>volumecontrast</key>
+	<string>serializepromise</string>
+</dict>
+</plist>

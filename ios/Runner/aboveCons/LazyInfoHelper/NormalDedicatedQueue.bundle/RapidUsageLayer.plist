@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accordionGridView</key>
+	<string>lossaudio</string>
+	<key>associatedParticle</key>
+	<string>spinCubit</string>
+	<key>immediateScene</key>
+	<string>unmountCosine</string>
+	<key>mediumBrush</key>
+	<string>mainTraversal</string>
+	<key>previewtop</key>
+	<string>capsuleFeedback</string>
+</dict>
+</plist>

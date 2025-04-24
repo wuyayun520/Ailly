@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>isscreen</key>
+	<string>canEndPriority</string>
+	<key>profilecanvas</key>
+	<string>descriptorincludescope</string>
+	<key>resourceLocation</key>
+	<string>compositionalResponse</string>
+	<key>serviceoffset</key>
+	<string>crudeProcessor</string>
+	<key>specifyStorage</key>
+	<string>visualizeSubscription</string>
+	<key>timelineLocation</key>
+	<string>cupertinoMatrix</string>
+	<key>uniqueVideo</key>
+	<string>basicExponent</string>
+</dict>
+</plist>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>compositionalSubscriber</key>
+	<string>canPushRemainder</string>
+	<key>constraintfeedback</key>
+	<string>persistentLifecycle</string>
+	<key>mediocreSymbol</key>
+	<string>canBuildCharacter</string>
+	<key>particleMode</key>
+	<string>dissociateResolver</string>
+	<key>prevStore</key>
+	<string>performAwait</string>
+</dict>
+</plist>

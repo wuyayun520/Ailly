@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activeContainer</key>
+	<string>rebuildSlash</string>
+	<key>adaptiveProgressBar</key>
+	<string>staticrowcenter</string>
+	<key>consultativeConstraint</key>
+	<string>poolfuture</string>
+	<key>fusedEntity</key>
+	<string>batchAppearance</string>
+	<key>indicatorVelocity</key>
+	<string>seamlesscontroller</string>
+	<key>intensityCount</key>
+	<string>techniqueAcceleration</string>
+	<key>responderSpeed</key>
+	<string>canDismissAperture</string>
+</dict>
+</plist>

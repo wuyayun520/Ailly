@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activeBloc</key>
+	<string>stampDuration</string>
+	<key>globalImage</key>
+	<string>animationparamtop</string>
+	<key>robustCapacities</key>
+	<string>renderContainer</string>
+	<key>shouldCacheUsage</key>
+	<string>characterValue</string>
+	<key>statefulWidget</key>
+	<string>setupLoop</string>
+</dict>
+</plist>

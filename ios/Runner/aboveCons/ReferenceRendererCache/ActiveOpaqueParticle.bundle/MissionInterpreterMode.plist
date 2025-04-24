@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>awaitrestriction</key>
+	<string>completedChallenge</string>
+	<key>baserate</key>
+	<string>maintainCubit</string>
+	<key>hasMedia</key>
+	<string>indicatorPlatform</string>
+	<key>shouldSkipLayout</key>
+	<string>offsetalignment</string>
+	<key>shouldUpdateCurve</key>
+	<string>cupertinoSound</string>
+</dict>
+</plist>

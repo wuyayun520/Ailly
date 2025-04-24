@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>aspectratioOrientation</key>
+	<string>shouldAttachStream</string>
+	<key>dynamicInteraction</key>
+	<string>asyncDelay</string>
+	<key>normalPoint</key>
+	<string>brushSkewY</string>
+	<key>shouldPresentBatch</key>
+	<string>ephemeralEmitter</string>
+	<key>shouldpaintmusic</key>
+	<string>descriptorrect</string>
+	<key>sophisticatedEvolution</key>
+	<string>canResumeButton</string>
+</dict>
+</plist>

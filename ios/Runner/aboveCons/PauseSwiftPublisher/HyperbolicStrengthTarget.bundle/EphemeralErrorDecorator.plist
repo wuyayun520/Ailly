@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animatedMedia</key>
+	<string>semanticOffset</string>
+	<key>contrastResponse</key>
+	<string>mediumAperture</string>
+	<key>delicateVideo</key>
+	<string>immediateGraph</string>
+	<key>inactiveCube</key>
+	<string>dropoutScene</string>
+	<key>permanentLoop</key>
+	<string>otherTheme</string>
+	<key>transitionfromsystem</key>
+	<string>infoVisible</string>
+	<key>unactivatedProgressBar</key>
+	<string>rapidQuaternion</string>
+</dict>
+</plist>

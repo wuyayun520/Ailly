@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>commonCompleter</key>
+	<string>statefulEfficiency</string>
+	<key>largeCard</key>
+	<string>adjustDuration</string>
+	<key>mainTimer</key>
+	<string>canPrepareListView</string>
+	<key>otherEvaluation</key>
+	<string>elasticHandler</string>
+	<key>shouldSaveDimension</key>
+	<string>routeMaster</string>
+	<key>shouldTrainCapsule</key>
+	<string>roleVariable</string>
+	<key>shouldTrainMargin</key>
+	<string>holdremainder</string>
+	<key>shouldsetstatecustompaint</key>
+	<string>intuitiveStamp</string>
+</dict>
+</plist>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>custompaintHue</key>
+	<string>independentTransformer</string>
+	<key>documentBound</key>
+	<string>shouldPauseDrawer</string>
+	<key>operationformat</key>
+	<string>reusableQuaternion</string>
+	<key>persistaxis</key>
+	<string>canUnmountedBox</string>
+	<key>pushcontroller</key>
+	<string>builderbeyondcycle</string>
+	<key>shaderForce</key>
+	<string>radioindex</string>
+	<key>unactivatedObserver</key>
+	<string>clipResolver</string>
+</dict>
+</plist>

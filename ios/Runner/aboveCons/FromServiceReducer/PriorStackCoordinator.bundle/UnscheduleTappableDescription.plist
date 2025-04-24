@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>commonTabBar</key>
+	<string>constructModel</string>
+	<key>dynamicAwait</key>
+	<string>setstateScreen</string>
+	<key>inactivePromise</key>
+	<string>emitContainer</string>
+	<key>liteSlash</key>
+	<string>scalabilityDuration</string>
+	<key>shouldAttachSine</key>
+	<string>bindCollection</string>
+</dict>
+</plist>

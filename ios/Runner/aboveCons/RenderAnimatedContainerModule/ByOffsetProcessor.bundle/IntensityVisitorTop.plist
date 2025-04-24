@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>autoTaxonomy</key>
+	<string>enabledEvolution</string>
+	<key>detectorSkewY</key>
+	<string>operationsearcher</string>
+	<key>titleasstrategy</key>
+	<string>timelineduration</string>
+	<key>unlocklocalization</key>
+	<string>formatalert</string>
+</dict>
+</plist>

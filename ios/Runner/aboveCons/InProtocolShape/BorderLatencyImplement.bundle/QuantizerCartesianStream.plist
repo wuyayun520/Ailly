@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>aspectforce</key>
+	<string>numericalSwitch</string>
+	<key>flexibleEmitter</key>
+	<string>reusableReference</string>
+	<key>fusedMatrix</key>
+	<string>brushinteraction</string>
+	<key>localDispatcher</key>
+	<string>secondPadding</string>
+	<key>logFormat</key>
+	<string>firstrect</string>
+	<key>logarithmTransparency</key>
+	<string>onstreamchanged</string>
+	<key>resizableTable</key>
+	<string>temporaryMultiplication</string>
+	<key>tabviewhead</key>
+	<string>synchronizeTransition</string>
+	<key>toolcontrast</key>
+	<string>escalateDecoration</string>
+</dict>
+</plist>

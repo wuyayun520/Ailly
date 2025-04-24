@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animationflags</key>
+	<string>sizeRate</string>
+	<key>handlepopup</key>
+	<string>canReplaceCoordinator</string>
+	<key>ignoredDecoration</key>
+	<string>canResumeExpanded</string>
+	<key>listenerfrequency</key>
+	<string>clearbuffer</string>
+	<key>lostStamp</key>
+	<string>resizablePlayback</string>
+	<key>prismaticcombiner</key>
+	<string>typicalRepository</string>
+	<key>transformsensor</key>
+	<string>customizedSkirt</string>
+</dict>
+</plist>

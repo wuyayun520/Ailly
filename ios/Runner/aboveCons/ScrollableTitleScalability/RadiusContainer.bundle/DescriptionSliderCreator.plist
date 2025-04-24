@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>easyFragment</key>
+	<string>scheduleCallback</string>
+	<key>ignoredAnimatedContainer</key>
+	<string>oldItem</string>
+	<key>overlayAppearance</key>
+	<string>publicGrain</string>
+	<key>precisionOrigin</key>
+	<string>tableAcceleration</string>
+	<key>shouldPublishIcon</key>
+	<string>sequentialequipment</string>
+	<key>shouldUpdateCube</key>
+	<string>cartesianDimension</string>
+	<key>webstoryboardduration</key>
+	<string>iconascommand</string>
+</dict>
+</plist>

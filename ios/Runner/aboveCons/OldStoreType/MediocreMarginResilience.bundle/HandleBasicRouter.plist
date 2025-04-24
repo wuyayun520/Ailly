@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>customizedArchitecture</key>
+	<string>desktopPublisher</string>
+	<key>schedulebuffer</key>
+	<string>scalabilityname</string>
+	<key>scrollableCurve</key>
+	<string>alphaposition</string>
+	<key>shouldPublishTheme</key>
+	<string>floatCurve</string>
+	<key>shouldmountedboxshadow</key>
+	<string>missedMission</string>
+</dict>
+</plist>

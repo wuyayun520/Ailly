@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>deserializemanager</key>
+	<string>emitFeature</string>
+	<key>distinctionInterval</key>
+	<string>subscriberdistance</string>
+	<key>lastChooser</key>
+	<string>nativeInteger</string>
+	<key>mediumScheduler</key>
+	<string>shouldCacheGesture</string>
+	<key>nextContainer</key>
+	<string>movementType</string>
+	<key>remainderMomentum</key>
+	<string>firstAnimation</string>
+	<key>subsequentConsumer</key>
+	<string>usageResponse</string>
+	<key>subtleEvent</key>
+	<string>queuePosition</string>
+</dict>
+</plist>

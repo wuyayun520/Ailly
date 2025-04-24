@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>crudeBuffer</key>
+	<string>accordionScene</string>
+	<key>presenterPadding</key>
+	<string>explicitFuture</string>
+	<key>scrollAppearance</key>
+	<string>unactivatedLog</string>
+	<key>shouldLayoutIndicator</key>
+	<string>shouldCancelStamp</string>
+	<key>statefulLinker</key>
+	<string>capsulebinder</string>
+	<key>symmetricScope</key>
+	<string>canRenderCurve</string>
+</dict>
+</plist>

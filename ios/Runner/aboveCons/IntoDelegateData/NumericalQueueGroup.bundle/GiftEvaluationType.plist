@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>axisSkewY</key>
+	<string>canYieldExponent</string>
+	<key>challengebound</key>
+	<string>dropdownbuttoncapacity</string>
+	<key>consultativegrayscale</key>
+	<string>parallelTweak</string>
+	<key>cyclelayer</key>
+	<string>interpolationOpacity</string>
+	<key>eagermastertint</key>
+	<string>disconnectCallback</string>
+	<key>largedisclaimer</key>
+	<string>shouldHandleTask</string>
+	<key>ongridviewtap</key>
+	<string>shouldUpdateAxis</string>
+	<key>renderchannel</key>
+	<string>modelstate</string>
+	<key>streamstate</key>
+	<string>visitCallback</string>
+</dict>
+</plist>

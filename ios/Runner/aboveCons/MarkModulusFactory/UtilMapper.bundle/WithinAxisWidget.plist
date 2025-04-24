@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>characteristiccenter</key>
+	<string>norminteraction</string>
+	<key>criticalinteractor</key>
+	<string>primaryMobile</string>
+	<key>dropdownbuttonTag</key>
+	<string>masterVariable</string>
+	<key>interactiveReference</key>
+	<string>deferredCell</string>
+	<key>overlaytaskoffset</key>
+	<string>pauseNavigator</string>
+	<key>quaternionBrightness</key>
+	<string>originalElement</string>
+	<key>shouldHandleProfile</key>
+	<string>matrixKind</string>
+	<key>shouldSkipBuilder</key>
+	<string>canAttachRoute</string>
+	<key>shouldStopMediaQuery</key>
+	<string>canFormatSegment</string>
+</dict>
+</plist>

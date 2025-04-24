@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>apertureposition</key>
+	<string>directlyPreview</string>
+	<key>assetrate</key>
+	<string>shouldPauseGram</string>
+	<key>customizedfactory</key>
+	<string>shouldDismissRemainder</string>
+	<key>euclideanMenu</key>
+	<string>shouldContinueHeap</string>
+	<key>flexibleStack</key>
+	<string>concatenateInterface</string>
+	<key>ignoredDependency</key>
+	<string>lazyMatrix</string>
+	<key>pageviewanimation</key>
+	<string>memberVariable</string>
+	<key>radioparameterinteraction</key>
+	<string>nativePolygon</string>
+	<key>shouldReplaceBitrate</key>
+	<string>canNavigateStateful</string>
+</dict>
+</plist>

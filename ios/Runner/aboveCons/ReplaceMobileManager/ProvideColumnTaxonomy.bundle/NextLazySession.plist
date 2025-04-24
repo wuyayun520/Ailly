@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>callbackBottom</key>
+	<string>prevConfiguration</string>
+	<key>enabledGraphic</key>
+	<string>canYieldExpanded</string>
+	<key>inactiveTheme</key>
+	<string>canStreamBehavior</string>
+	<key>instructionrenderer</key>
+	<string>uniqueScenario</string>
+	<key>referenceLeft</key>
+	<string>selectedCatalyst</string>
+	<key>reusableFragments</key>
+	<string>assetLeft</string>
+	<key>shouldvalidateshader</key>
+	<string>trainNorm</string>
+	<key>topicaudio</key>
+	<string>reducerstyle</string>
+</dict>
+</plist>

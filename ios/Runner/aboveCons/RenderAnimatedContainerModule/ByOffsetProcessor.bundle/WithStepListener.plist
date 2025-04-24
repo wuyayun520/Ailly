@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>advancedTouch</key>
+	<string>consumerorigin</string>
+	<key>apertureSpeed</key>
+	<string>allocatorspeed</string>
+	<key>characterBrightness</key>
+	<string>originalThread</string>
+	<key>declarativeMargin</key>
+	<string>fusedMenu</string>
+	<key>disparateReduction</key>
+	<string>sensorShape</string>
+	<key>embedtimer</key>
+	<string>floattext</string>
+	<key>readdocument</key>
+	<string>immutableEquipment</string>
+</dict>
+</plist>

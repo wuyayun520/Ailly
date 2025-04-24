@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>analogyVisibility</key>
+	<string>skirtProxy</string>
+	<key>brushSkewY</key>
+	<string>detectortop</string>
+	<key>intuitivebuffer</key>
+	<string>measureVector</string>
+	<key>opaqueOption</key>
+	<string>restartProjection</string>
+	<key>presenterDistance</key>
+	<string>sortedCollection</string>
+	<key>queueDirection</key>
+	<string>controllerBridge</string>
+	<key>shouldAnimateCycle</key>
+	<string>seamlessLatency</string>
+</dict>
+</plist>

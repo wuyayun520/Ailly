@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>analogyspeed</key>
+	<string>subsequentDecoration</string>
+	<key>animationmethodflags</key>
+	<string>bufferFacade</string>
+	<key>continueobserver</key>
+	<string>implementTransformer</string>
+	<key>missedGestureDetector</key>
+	<string>protocolTask</string>
+	<key>parsebatch</key>
+	<string>orchestrateUseCase</string>
+	<key>shoulddisposeanchor</key>
+	<string>animationPressure</string>
+	<key>standaloneCapacity</key>
+	<string>originalImpression</string>
+</dict>
+</plist>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>blocnumbermode</key>
+	<string>graphicMediator</string>
+	<key>compositionrow</key>
+	<string>shouldPrepareMovement</string>
+	<key>localizationtransformer</key>
+	<string>canBindMomentum</string>
+	<key>reducerInterval</key>
+	<string>shouldpaintvariant</string>
+</dict>
+</plist>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>diffableResult</key>
+	<string>canReplaceAppBar</string>
+	<key>dynamicFrame</key>
+	<string>tabviewSpacing</string>
+	<key>explicitOffset</key>
+	<string>requiredFeature</string>
+	<key>immutableResilience</key>
+	<string>euclideanGate</string>
+	<key>sharedMapper</key>
+	<string>shouldUnbindBullet</string>
+	<key>trajectoryName</key>
+	<string>monsterAlignment</string>
+	<key>vectorOrigin</key>
+	<string>robustWorkflow</string>
+</dict>
+</plist>

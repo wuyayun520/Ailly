@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>builderTail</key>
+	<string>subscriptionanimator</string>
+	<key>equalizationsink</key>
+	<string>mediaquerycompositecount</string>
+	<key>mobileButton</key>
+	<string>visibleTask</string>
+	<key>reactiverouter</key>
+	<string>shouldRenderGestureDetector</string>
+	<key>remediationKind</key>
+	<string>uniformCoordinator</string>
+	<key>texturestyle</key>
+	<string>injectmonster</string>
+	<key>timeSkewY</key>
+	<string>detectorResponse</string>
+	<key>usageBottom</key>
+	<string>stepstate</string>
+</dict>
+</plist>

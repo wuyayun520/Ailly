@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>appendswitch</key>
+	<string>promiseFunction</string>
+	<key>borderRate</key>
+	<string>mainTentative</string>
+	<key>deferredTraversal</key>
+	<string>fetchEquipment</string>
+	<key>denseFragment</key>
+	<string>scalelabel</string>
+	<key>deserializetabbar</key>
+	<string>tappableAnchor</string>
+	<key>inheritedService</key>
+	<string>canTransformChannels</string>
+	<key>shouldBindTable</key>
+	<string>freeLocalization</string>
+	<key>shouldEndSpecifier</key>
+	<string>mitigateCubit</string>
+	<key>shouldendequalization</key>
+	<string>shouldProcessTabView</string>
+	<key>transformerscale</key>
+	<string>normalCharacter</string>
+</dict>
+</plist>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>associatedInfo</key>
+	<string>steputil</string>
+	<key>composableGrid</key>
+	<string>localTextField</string>
+	<key>dedicatedmetadata</key>
+	<string>canLayoutOptimizer</string>
+	<key>elasticityBehavior</key>
+	<string>originalAscent</string>
+	<key>extensionfeedback</key>
+	<string>mitigateStorage</string>
+	<key>independentAxis</key>
+	<string>advancedswitch</string>
+	<key>validatebrush</key>
+	<string>shouldUpdateMediaQuery</string>
+</dict>
+</plist>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>imperativeInfo</key>
+	<string>semanticExpanded</string>
+	<key>lazyChallenge</key>
+	<string>easyMission</string>
+	<key>seamlessSemantics</key>
+	<string>diffableComponent</string>
+	<key>tensorCompleter</key>
+	<string>freeRequest</string>
+</dict>
+</plist>

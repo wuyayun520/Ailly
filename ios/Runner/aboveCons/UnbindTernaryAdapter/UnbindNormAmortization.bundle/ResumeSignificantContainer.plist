@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activatedListener</key>
+	<string>statefulFeedback</string>
+	<key>borderdelay</key>
+	<string>keepTextField</string>
+	<key>decouplesymbol</key>
+	<string>canMountView</string>
+	<key>notationBottom</key>
+	<string>canvasshape</string>
+	<key>respectiveDropdownButton</key>
+	<string>shouldTransitionDuration</string>
+	<key>shouldInitializeExtension</key>
+	<string>backwardPermutation</string>
+	<key>sinkRotation</key>
+	<string>shouldSetStateCycle</string>
+	<key>standaloneequalizationtint</key>
+	<string>composablePermutation</string>
+</dict>
+</plist>

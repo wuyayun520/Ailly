@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cartesianInkWell</key>
+	<string>descriptionParameter</string>
+	<key>catalystrect</key>
+	<string>difficultScroll</string>
+	<key>collectionFeedback</key>
+	<string>canStartSkirt</string>
+	<key>inactiveCursor</key>
+	<string>fixedPlate</string>
+	<key>plateDistance</key>
+	<string>injectionFacade</string>
+	<key>subscriptionDistance</key>
+	<string>streamMethod</string>
+</dict>
+</plist>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>denseIntensity</key>
+	<string>shouldEndTable</string>
+	<key>largePolyfill</key>
+	<string>routeDecorator</string>
+	<key>nativeDialogs</key>
+	<string>saveTask</string>
+	<key>oldIntegration</key>
+	<string>providerMemento</string>
+	<key>reactiveanimationstyle</key>
+	<string>touchType</string>
+	<key>relationalPublisher</key>
+	<string>retainedLoss</string>
+	<key>resizableState</key>
+	<string>orchestratedescription</string>
+	<key>synchronousCurve</key>
+	<string>shouldUnmountLoss</string>
+</dict>
+</plist>

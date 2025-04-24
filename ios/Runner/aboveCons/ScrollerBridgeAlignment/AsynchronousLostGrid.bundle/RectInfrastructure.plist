@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>basicConverter</key>
+	<string>secondAsync</string>
+	<key>callbackDuration</key>
+	<string>scopeHead</string>
+	<key>difficultCurve</key>
+	<string>isolateNumber</string>
+	<key>encodegroup</key>
+	<string>customizedSlash</string>
+	<key>scenarioname</key>
+	<string>previewenvironmentlocation</string>
+	<key>shouldListenProfile</key>
+	<string>shouldPauseHeap</string>
+	<key>shouldUnmountInkWell</key>
+	<string>canReplaceTask</string>
+	<key>shouldmountcompletion</key>
+	<string>stopIcon</string>
+	<key>tensorBoxShadow</key>
+	<string>sortedStatus</string>
+</dict>
+</plist>

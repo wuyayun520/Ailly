@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>agilePermutation</key>
+	<string>alertBuffer</string>
+	<key>checklistBorder</key>
+	<string>listenerSpeed</string>
+	<key>primaryGraph</key>
+	<string>missedWidget</string>
+	<key>shouldRenderView</key>
+	<string>segueVisible</string>
+	<key>sustainableIntegrity</key>
+	<string>roleSingleton</string>
+</dict>
+</plist>

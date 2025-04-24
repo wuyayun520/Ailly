@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>comparenavigator</key>
+	<string>respectiveInitiative</string>
+	<key>fixedRadio</key>
+	<string>shouldObserveChallenge</string>
+	<key>particleAppearance</key>
+	<string>layersensor</string>
+	<key>sequentialDelivery</key>
+	<string>shouldPersistConstraint</string>
+	<key>shouldRestartCanvas</key>
+	<string>canLoadSubpixel</string>
+	<key>temporaryColor</key>
+	<string>shouldTransitionMaterial</string>
+</dict>
+</plist>

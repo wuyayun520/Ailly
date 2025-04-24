@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>capsuleTag</key>
+	<string>drawerTransparency</string>
+	<key>equalizationstate</key>
+	<string>inkwellFacade</string>
+	<key>grayscaleBottom</key>
+	<string>canEndInstruction</string>
+	<key>optimizerKind</key>
+	<string>decoupleProgressBar</string>
+	<key>permissiveMend</key>
+	<string>decorationVisibility</string>
+	<key>publicInitiators</key>
+	<string>directstamp</string>
+	<key>scalabilityDelay</key>
+	<string>shouldanimatesemantics</string>
+	<key>substantialAudio</key>
+	<string>canAnimateSpine</string>
+</dict>
+</plist>

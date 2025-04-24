@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>alignmentname</key>
+	<string>respectiveTransformer</string>
+	<key>imperativePublisher</key>
+	<string>generateError</string>
+	<key>uniformThread</key>
+	<string>symmetricprogressbar</string>
+</dict>
+</plist>

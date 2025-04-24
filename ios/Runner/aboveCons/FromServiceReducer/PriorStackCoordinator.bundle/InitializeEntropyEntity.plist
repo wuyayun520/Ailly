@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accessibleNotification</key>
+	<string>objectSpeed</string>
+	<key>advancedProject</key>
+	<string>dismissExponent</string>
+	<key>controllerincludeparameter</key>
+	<string>requiredTechnique</string>
+	<key>logfrequency</key>
+	<string>attachfuture</string>
+	<key>resourcepatternfeedback</key>
+	<string>fixedAnalogy</string>
+	<key>shouldTransitionNavigator</key>
+	<string>unlockDuration</string>
+	<key>spritescalability</key>
+	<string>originalStroke</string>
+	<key>storeTint</key>
+	<string>paintMediaQuery</string>
+	<key>trianglesFlags</key>
+	<string>accordiondescriptor</string>
+	<key>uniformCheckbox</key>
+	<string>endVariant</string>
+</dict>
+</plist>

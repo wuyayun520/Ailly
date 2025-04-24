@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>dispatcherOpacity</key>
+	<string>resilientAlert</string>
+	<key>methodDistance</key>
+	<string>requiredInitiators</string>
+	<key>operationHue</key>
+	<string>singleCreator</string>
+	<key>otherView</key>
+	<string>interactiveScope</string>
+	<key>permissiveCapacity</key>
+	<string>canUpdateGem</string>
+	<key>resizableReducer</key>
+	<string>convertTween</string>
+	<key>splitterEdge</key>
+	<string>prismaticNavigation</string>
+	<key>switchFrequency</key>
+	<string>enabledWidget</string>
+</dict>
+</plist>

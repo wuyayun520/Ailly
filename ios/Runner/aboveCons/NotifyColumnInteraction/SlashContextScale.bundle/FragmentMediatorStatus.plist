@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animatedRecursion</key>
+	<string>compositionalTheme</string>
+	<key>aspecterror</key>
+	<string>cancelThread</string>
+	<key>gradientRate</key>
+	<string>canTrainMonster</string>
+	<key>mobileDescent</key>
+	<string>shouldMountedAnchor</string>
+	<key>persistentRouter</key>
+	<string>arithmeticconsumer</string>
+	<key>publicIsolate</key>
+	<string>resizeDuration</string>
+	<key>staticNorm</key>
+	<string>primaryLatency</string>
+	<key>transposeevent</key>
+	<string>specifyRenderer</string>
+</dict>
+</plist>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>blocandinterpreter</key>
+	<string>multiplicationForm</string>
+	<key>cellScale</key>
+	<string>agileEquipment</string>
+	<key>currentbase</key>
+	<string>provideBuffer</string>
+	<key>eagerStep</key>
+	<string>responsiveDecoration</string>
+	<key>initiativeDelay</key>
+	<string>requestinterval</string>
+</dict>
+</plist>

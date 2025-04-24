@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>clusterBehavior</key>
+	<string>elasticComponent</string>
+	<key>directGradient</key>
+	<string>discoverChart</string>
+	<key>momentumconstant</key>
+	<string>streamlineLocalization</string>
+	<key>shouldEncodeView</key>
+	<string>actiondespiteform</string>
+	<key>synchronousAlignment</key>
+	<string>retaingroup</string>
+</dict>
+</plist>

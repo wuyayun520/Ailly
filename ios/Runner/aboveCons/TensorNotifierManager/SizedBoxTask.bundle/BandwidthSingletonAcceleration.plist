@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accordionstreamrate</key>
+	<string>encapsulateCoordinator</string>
+	<key>animateview</key>
+	<string>workflowrow</string>
+	<key>clusterShape</key>
+	<string>pendingCurve</string>
+	<key>fusedPresenter</key>
+	<string>continuenavigator</string>
+	<key>layoutmethod</key>
+	<string>skirtSaturation</string>
+	<key>mediocreCoordinator</key>
+	<string>refreshHandler</string>
+	<key>nativebufferbottom</key>
+	<string>descriptorshapeorientation</string>
+	<key>unsortedVideo</key>
+	<string>consultativeMultiplication</string>
+</dict>
+</plist>

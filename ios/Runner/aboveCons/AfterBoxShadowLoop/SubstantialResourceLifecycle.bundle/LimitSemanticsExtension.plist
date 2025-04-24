@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accelerateview</key>
+	<string>granularGroup</string>
+	<key>binaryresource</key>
+	<string>tabviewEnvironment</string>
+	<key>hasStateless</key>
+	<string>textureVariable</string>
+	<key>localIntensity</key>
+	<string>hyperbolicMaterial</string>
+	<key>objectName</key>
+	<string>layoutstateinset</string>
+	<key>typicalLinker</key>
+	<string>hierarchicalPositioned</string>
+	<key>visibleproviderappearance</key>
+	<string>canEmitMaster</string>
+</dict>
+</plist>

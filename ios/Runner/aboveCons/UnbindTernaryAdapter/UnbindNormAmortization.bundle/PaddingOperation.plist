@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>advancedInformation</key>
+	<string>normalBandwidth</string>
+	<key>associatedcallbackvalidation</key>
+	<string>combineLocalization</string>
+	<key>greatInteractor</key>
+	<string>positionedSpeed</string>
+	<key>intuitiveOverlay</key>
+	<string>checklistTension</string>
+	<key>shouldListenSession</key>
+	<string>resizableelasticity</string>
+</dict>
+</plist>

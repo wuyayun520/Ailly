@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>advancedPermutation</key>
+	<string>symmetricStore</string>
+	<key>analyzerbound</key>
+	<string>confidentialityMomentum</string>
+	<key>declarativeCosine</key>
+	<string>ignoredcoordinatordirection</string>
+	<key>priorTentative</key>
+	<string>floatCoordinator</string>
+	<key>shouldProcessOverlay</key>
+	<string>basicstore</string>
+	<key>shouldProcessTouch</key>
+	<string>concurrentStep</string>
+</dict>
+</plist>

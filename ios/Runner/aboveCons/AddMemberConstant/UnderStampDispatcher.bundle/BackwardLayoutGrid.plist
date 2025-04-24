@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>chapterelasticity</key>
+	<string>isolateshapesaturation</string>
+	<key>fixedNavigation</key>
+	<string>functionalSample</string>
+	<key>indicatorFormat</key>
+	<string>responsiveCapsule</string>
+	<key>mendBorder</key>
+	<string>canRouteDecoration</string>
+	<key>mutableFrame</key>
+	<string>shouldStartGrayscale</string>
+	<key>newestFormat</key>
+	<string>unschedulecontroller</string>
+	<key>richtextRate</key>
+	<string>formatStyle</string>
+	<key>sequentialconsumer</key>
+	<string>uniquePriority</string>
+	<key>writemenu</key>
+	<string>subpixelPattern</string>
+</dict>
+</plist>

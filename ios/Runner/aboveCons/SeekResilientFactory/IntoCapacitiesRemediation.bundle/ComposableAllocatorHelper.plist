@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>desktopSpine</key>
+	<string>missedCubit</string>
+	<key>disabledPrecision</key>
+	<string>hierarchicalCard</string>
+	<key>shouldRestartPainter</key>
+	<string>rebuildSkin</string>
+	<key>singleBaseline</key>
+	<string>vectorFlyweight</string>
+	<key>smartPet</key>
+	<string>calculateGraph</string>
+	<key>subsequentConstant</key>
+	<string>endActivity</string>
+	<key>symmetricElement</key>
+	<string>retainvariant</string>
+	<key>vectorincludeform</key>
+	<string>criticalSign</string>
+</dict>
+</plist>

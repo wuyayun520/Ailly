@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>loaderDensity</key>
+	<string>canYieldBehavior</string>
+	<key>mediumMovement</key>
+	<string>stoplayout</string>
+	<key>momentumorientation</key>
+	<string>grainDuration</string>
+	<key>monsterOrientation</key>
+	<string>handlerDelay</string>
+	<key>multiFactory</key>
+	<string>loopAcceleration</string>
+	<key>multiplicationOrientation</key>
+	<string>singleconstraint</string>
+	<key>restrictionOrigin</key>
+	<string>listviewBorder</string>
+	<key>shouldEncodeSample</key>
+	<string>copyTitle</string>
+	<key>titleskewx</key>
+	<string>aspectLevel</string>
+	<key>usecaseproxytint</key>
+	<string>hashtag</string>
+</dict>
+</plist>

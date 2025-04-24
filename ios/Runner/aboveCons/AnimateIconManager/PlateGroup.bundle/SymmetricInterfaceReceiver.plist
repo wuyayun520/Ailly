@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>directlyOffset</key>
+	<string>crucialSubpixel</string>
+	<key>frameKind</key>
+	<string>richtextTransparency</string>
+	<key>fusedLogarithm</key>
+	<string>eventselector</string>
+	<key>ignoredCubit</key>
+	<string>autoSlash</string>
+	<key>loopcontainbridge</key>
+	<string>cursorFeedback</string>
+	<key>observerbystrategy</key>
+	<string>createChannels</string>
+	<key>shouldUnmountExponent</key>
+	<string>mainSkirt</string>
+	<key>synchronousCustomPaint</key>
+	<string>statefulFlyweight</string>
+	<key>updatescene</key>
+	<string>smartTexture</string>
+</dict>
+</plist>

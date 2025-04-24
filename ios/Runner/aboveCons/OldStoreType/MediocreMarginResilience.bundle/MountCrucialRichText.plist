@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>amortizationBrightness</key>
+	<string>repositoryPadding</string>
+	<key>independentSingleton</key>
+	<string>alignmentascent</string>
+	<key>painterBehavior</key>
+	<string>stringifygrain</string>
+	<key>precisionSpacing</key>
+	<string>arithmeticContainer</string>
+	<key>rectCenter</key>
+	<string>canShowReduction</string>
+	<key>shouldloadmobile</key>
+	<string>resizableCaption</string>
+	<key>sophisticatedLayout</key>
+	<string>durationtext</string>
+</dict>
+</plist>

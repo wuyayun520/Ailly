@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>concreteBuffer</key>
+	<string>dropdownbuttonRight</string>
+	<key>decouplerect</key>
+	<string>reflectEvent</string>
+	<key>dependencyrestriction</key>
+	<string>graphRight</string>
+	<key>shouldReplaceMap</key>
+	<string>sinkmomentum</string>
+	<key>strengthType</key>
+	<string>flexibleHash</string>
+	<key>unactivatedbutton</key>
+	<string>trainPet</string>
+	<key>webNotification</key>
+	<string>clipperhue</string>
+</dict>
+</plist>

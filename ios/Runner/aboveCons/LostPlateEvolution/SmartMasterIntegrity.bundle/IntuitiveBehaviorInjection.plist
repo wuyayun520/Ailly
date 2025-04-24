@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>findinstruction</key>
+	<string>notifyHero</string>
+	<key>mediocreQuaternion</key>
+	<string>adaptiveprecisionmargin</string>
+	<key>promiseactivityflags</key>
+	<string>delegateChannel</string>
+	<key>screenspeed</key>
+	<string>dependencyAlignment</string>
+	<key>shouldDismissAspect</key>
+	<string>canPaintFuture</string>
+	<key>shouldRenderGestureDetector</key>
+	<string>customPainter</string>
+	<key>textcolor</key>
+	<string>cancelGrayscale</string>
+</dict>
+</plist>

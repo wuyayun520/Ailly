@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>gemtime</key>
+	<string>decorationHead</string>
+	<key>keyExponent</key>
+	<string>releaseSingleton</string>
+	<key>normalNavigator</key>
+	<string>multiFrame</string>
+	<key>shouldConnectGesture</key>
+	<string>cartesianPublisher</string>
+	<key>symbolLocation</key>
+	<string>shouldCacheInitiators</string>
+</dict>
+</plist>

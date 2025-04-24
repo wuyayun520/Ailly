@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>builderRotation</key>
+	<string>characterBound</string>
+	<key>densehandler</key>
+	<string>backwardStack</string>
+	<key>shouldSkipPositioned</key>
+	<string>canDecodeCollection</string>
+	<key>singleVector</key>
+	<string>smartMaster</string>
+</dict>
+</plist>

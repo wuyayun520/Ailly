@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>asynchronousKernel</key>
+	<string>liteAnalogy</string>
+	<key>gridcenter</key>
+	<string>shouldAnimateSign</string>
+	<key>mediumInterface</key>
+	<string>materializeChannel</string>
+	<key>rangeType</key>
+	<string>shouldsavestep</string>
+	<key>resilientbulletfeedback</key>
+	<string>canDisconnectBullet</string>
+	<key>shouldAnimateTabBar</key>
+	<string>entropyStage</string>
+	<key>symbolcontainer</key>
+	<string>writeRadius</string>
+</dict>
+</plist>

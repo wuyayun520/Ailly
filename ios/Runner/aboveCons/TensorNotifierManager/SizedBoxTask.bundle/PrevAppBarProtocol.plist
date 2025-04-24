@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>flexibleRequest</key>
+	<string>pivotalReducer</string>
+	<key>indicatorCenter</key>
+	<string>logarithmCenter</string>
+	<key>primaryInjection</key>
+	<string>canUnmountLog</string>
+	<key>requiredCupertino</key>
+	<string>efficiencyMomentum</string>
+	<key>sophisticatedStatus</key>
+	<string>statefulMultiplication</string>
+	<key>tappableTopic</key>
+	<string>featurePrototype</string>
+	<key>timerContrast</key>
+	<string>associatePresenter</string>
+</dict>
+</plist>

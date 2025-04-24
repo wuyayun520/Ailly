@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activeEquipment</key>
+	<string>segueLayer</string>
+	<key>cartesiananalyzer</key>
+	<string>axisCoord</string>
+	<key>curvecombiner</key>
+	<string>usedScroller</string>
+	<key>gramTheme</key>
+	<string>popupStructure</string>
+	<key>independentPageView</key>
+	<string>dropdownbuttonTail</string>
+	<key>integrityOrigin</key>
+	<string>concreteTopic</string>
+	<key>queuebound</key>
+	<string>isolateSpacing</string>
+	<key>shouldFetchNotifier</key>
+	<string>updateExponent</string>
+	<key>shouldSerializeWorkflow</key>
+	<string>canNavigateAppBar</string>
+</dict>
+</plist>

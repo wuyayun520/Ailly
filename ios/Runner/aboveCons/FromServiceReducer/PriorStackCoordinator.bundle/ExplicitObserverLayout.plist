@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>diversifiedobserverduration</key>
+	<string>customizedStep</string>
+	<key>granularTrigger</key>
+	<string>previewTheme</string>
+	<key>lazySplitter</key>
+	<string>unbindpriority</string>
+	<key>musicactiontheme</key>
+	<string>discardedShader</string>
+	<key>shouldParseBatch</key>
+	<string>marginTransparency</string>
+	<key>shoulddeserializecheckbox</key>
+	<string>resizableSelector</string>
+</dict>
+</plist>

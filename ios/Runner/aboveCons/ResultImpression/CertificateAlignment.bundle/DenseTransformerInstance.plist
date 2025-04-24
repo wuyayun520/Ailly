@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>advancedLatency</key>
+	<string>labelpicker</string>
+	<key>globalPicker</key>
+	<string>invokeResolver</string>
+	<key>mountedgraph</key>
+	<string>protectednotificationtransparency</string>
+	<key>mountedspecifier</key>
+	<string>spineVar</string>
+	<key>numericalResult</key>
+	<string>captionScale</string>
+</dict>
+</plist>

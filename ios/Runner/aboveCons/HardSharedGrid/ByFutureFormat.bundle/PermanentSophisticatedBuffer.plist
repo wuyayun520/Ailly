@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>gemcontainparam</key>
+	<string>shouldStopGate</string>
+	<key>giftBrightness</key>
+	<string>shouldRestartDocument</string>
+	<key>hasPet</key>
+	<string>consumeRoute</string>
+	<key>immediateSkirt</key>
+	<string>contractionchaincenter</string>
+	<key>imperativeTimer</key>
+	<string>missedScheduler</string>
+	<key>mobilebordertheme</key>
+	<string>respectiveModal</string>
+	<key>switchTransparency</key>
+	<string>accordionCanvas</string>
+</dict>
+</plist>

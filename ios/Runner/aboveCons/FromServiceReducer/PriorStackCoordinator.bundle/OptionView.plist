@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>analyzelocalization</key>
+	<string>canPushNotification</string>
+	<key>hardentity</key>
+	<string>permissiveColumn</string>
+	<key>inactiveVolume</key>
+	<string>lostHandler</string>
+	<key>rectangleCoord</key>
+	<string>schedulePopup</string>
+	<key>shouldSetStateNotification</key>
+	<string>richtextScope</string>
+	<key>smartSignature</key>
+	<string>shouldPresentDropdownButton</string>
+</dict>
+</plist>

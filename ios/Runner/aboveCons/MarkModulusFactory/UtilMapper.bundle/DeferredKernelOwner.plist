@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accessibleImage</key>
+	<string>decoupleAwait</string>
+	<key>hardUnary</key>
+	<string>shouldStopScreen</string>
+	<key>navigatorSpacing</key>
+	<string>responsivePromise</string>
+	<key>publishlabel</key>
+	<string>mobileDisclaimer</string>
+	<key>temporaryGem</key>
+	<string>roleVelocity</string>
+</dict>
+</plist>

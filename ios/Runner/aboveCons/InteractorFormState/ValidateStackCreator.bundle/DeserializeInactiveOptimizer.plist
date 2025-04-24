@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>borderspacing</key>
+	<string>skinVisible</string>
+	<key>currentstamp</key>
+	<string>commonEvaluation</string>
+	<key>pointAppearance</key>
+	<string>flexiblethreshold</string>
+	<key>shoulddisposeobserver</key>
+	<string>directlyNavigation</string>
+	<key>unmountedaspectratio</key>
+	<string>concurrentStore</string>
+</dict>
+</plist>

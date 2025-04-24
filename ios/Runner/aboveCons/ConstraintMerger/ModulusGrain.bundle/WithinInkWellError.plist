@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>fragmentincludetemple</key>
+	<string>convolutionShade</string>
+	<key>grouptierappearance</key>
+	<string>canMountedPositioned</string>
+	<key>hierarchicalScale</key>
+	<string>effectrotation</string>
+	<key>optimizeruntilnumber</key>
+	<string>popupposition</string>
+	<key>protectedFormat</key>
+	<string>persistentInteraction</string>
+</dict>
+</plist>

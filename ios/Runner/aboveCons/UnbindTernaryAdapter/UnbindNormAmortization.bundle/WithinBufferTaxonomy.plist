@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cupertinoMovement</key>
+	<string>shouldDisposeProtocol</string>
+	<key>dependencycoord</key>
+	<string>unsortedPadding</string>
+	<key>lazyEvent</key>
+	<string>interpolationoffset</string>
+	<key>managerorpattern</key>
+	<string>backwardgroupinterval</string>
+	<key>referenceskewx</key>
+	<string>transformPet</string>
+	<key>semanticCoordinator</key>
+	<string>quaternionRight</string>
+	<key>shouldNavigatePlayback</key>
+	<string>providerChain</string>
+	<key>shouldnavigatetheme</key>
+	<string>deferredSprite</string>
+</dict>
+</plist>

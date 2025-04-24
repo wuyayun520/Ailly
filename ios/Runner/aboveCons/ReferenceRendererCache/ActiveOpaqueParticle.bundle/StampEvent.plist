@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>characteristicEdge</key>
+	<string>independentpresentercenter</string>
+	<key>delegatebesidekind</key>
+	<string>hasRole</string>
+	<key>directAction</key>
+	<string>operationBehavior</string>
+	<key>drawerrate</key>
+	<string>canDisconnectStateless</string>
+	<key>interpolatenib</key>
+	<string>mainConfiguration</string>
+</dict>
+</plist>

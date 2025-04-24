@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>descentDensity</key>
+	<string>mountedContainer</string>
+	<key>diffableFormat</key>
+	<string>ephemeralCapacity</string>
+	<key>drawgrain</key>
+	<string>reactiveSwitch</string>
+	<key>featureskewy</key>
+	<string>lastStatus</string>
+	<key>precisioncallback</key>
+	<string>formatNorm</string>
+	<key>routerdistance</key>
+	<string>statelessElement</string>
+	<key>scrollableTopic</key>
+	<string>decodesession</string>
+</dict>
+</plist>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>persistentListener</key>
+	<string>immutableUtil</string>
+	<key>resizableTransformer</key>
+	<string>canUnmountedRemainder</string>
+	<key>singleBehavior</key>
+	<string>canPublishProjection</string>
+	<key>symbolFeedback</key>
+	<string>recursionOffset</string>
+</dict>
+</plist>

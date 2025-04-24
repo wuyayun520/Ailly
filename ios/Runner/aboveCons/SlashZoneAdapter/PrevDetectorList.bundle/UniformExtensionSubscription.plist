@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cacheFrequency</key>
+	<string>transposeIntensity</string>
+	<key>rectSaturation</key>
+	<string>nextScope</string>
+	<key>shouldStreamMaster</key>
+	<string>inflateResource</string>
+	<key>usedLatency</key>
+	<string>dedicatedCupertino</string>
+</dict>
+</plist>

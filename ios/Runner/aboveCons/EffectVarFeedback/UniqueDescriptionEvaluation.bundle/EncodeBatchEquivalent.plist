@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cupertinoenvironmentfeedback</key>
+	<string>permissiveNotifier</string>
+	<key>flexfacadespacing</key>
+	<string>transitionPageView</string>
+	<key>nodeframe</key>
+	<string>declarativeGraphic</string>
+	<key>restoreinterpolation</key>
+	<string>largeContainer</string>
+	<key>taskValidation</key>
+	<string>storageSpacing</string>
+	<key>tensorHistogram</key>
+	<string>heroColor</string>
+</dict>
+</plist>

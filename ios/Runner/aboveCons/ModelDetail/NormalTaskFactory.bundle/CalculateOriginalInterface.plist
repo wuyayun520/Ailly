@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>fusedAnimation</key>
+	<string>impactOrigin</string>
+	<key>overridescreen</key>
+	<string>ignoredSplitter</string>
+	<key>reactiveMovement</key>
+	<string>polygonOpacity</string>
+	<key>requiredBuffer</key>
+	<string>progressbarFunction</string>
+	<key>requiredsubscriptionstate</key>
+	<string>staticFactory</string>
+	<key>sequentialRemediation</key>
+	<string>easyObserver</string>
+	<key>specifyView</key>
+	<string>unactivatedDetail</string>
+	<key>statusCoord</key>
+	<string>secondCatalyst</string>
+	<key>touchbound</key>
+	<string>geometricSprite</string>
+</dict>
+</plist>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>crudeVolume</key>
+	<string>granularBullet</string>
+	<key>shouldPaintMonster</key>
+	<string>scrollerCenter</string>
+	<key>shouldPublishText</key>
+	<string>rotateError</string>
+	<key>specifyShader</key>
+	<string>pinchablescalerotation</string>
+</dict>
+</plist>

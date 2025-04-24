@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>certificatetheme</key>
+	<string>geometricInteractor</string>
+	<key>connectorPressure</key>
+	<string>advancedSkin</string>
+	<key>elasticityPadding</key>
+	<string>directlyserviceskewx</string>
+	<key>euclideanTopic</key>
+	<string>euclideanPreview</string>
+	<key>mapHue</key>
+	<string>mediaIndex</string>
+	<key>mediocreIsolate</key>
+	<string>denseArchitecture</string>
+	<key>receiverName</key>
+	<string>mediafromplatform</string>
+	<key>shouldRenderTabBar</key>
+	<string>primaryReliability</string>
+	<key>unactivatedPermutation</key>
+	<string>presenterfeedback</string>
+</dict>
+</plist>

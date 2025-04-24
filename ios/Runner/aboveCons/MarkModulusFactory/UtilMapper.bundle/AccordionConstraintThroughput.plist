@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>arithmeticasparameter</key>
+	<string>shouldEmitMovement</string>
+	<key>baseoperation</key>
+	<string>wrapview</string>
+	<key>interactiveBullet</key>
+	<string>shouldCacheStateless</string>
+	<key>shouldDisposeButton</key>
+	<string>displayableNotifier</string>
+	<key>similarGrid</key>
+	<string>shouldKeepTransition</string>
+</dict>
+</plist>

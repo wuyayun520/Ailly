@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>analyzerpadding</key>
+	<string>stackcontextdistance</string>
+	<key>denseAsync</key>
+	<string>enhanceRequest</string>
+	<key>lazyGroup</key>
+	<string>shouldRestartSine</string>
+	<key>mediocresensor</key>
+	<string>dispatchProtocol</string>
+	<key>painterInterval</key>
+	<string>pinchableLinker</string>
+	<key>similarview</key>
+	<string>shouldTrainPageView</string>
+</dict>
+</plist>

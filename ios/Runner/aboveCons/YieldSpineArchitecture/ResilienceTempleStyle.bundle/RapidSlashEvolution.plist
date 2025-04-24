@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activatedNib</key>
+	<string>canBuildLoss</string>
+	<key>currentslider</key>
+	<string>primaryVolume</string>
+	<key>customInkWell</key>
+	<string>durationParam</string>
+	<key>declarativeVolume</key>
+	<string>pointBorder</string>
+	<key>diversifiedMapper</key>
+	<string>integerNumber</string>
+	<key>elasticSegment</key>
+	<string>validateOverlay</string>
+	<key>featureValidation</key>
+	<string>selectedIndicator</string>
+	<key>hashsubscriber</key>
+	<string>distinctionOpacity</string>
+	<key>resourcedispatcher</key>
+	<string>allocatorvariablelocation</string>
+</dict>
+</plist>

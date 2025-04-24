@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>computegraph</key>
+	<string>geometricDescriptor</string>
+	<key>diversifiedMatrix</key>
+	<string>appbarformpressure</string>
+	<key>persistframe</key>
+	<string>streamScaffold</string>
+	<key>restrictionEdge</key>
+	<string>mixinhash</string>
+	<key>serviceagainsttask</key>
+	<string>publishChannels</string>
+	<key>temporaryHandler</key>
+	<string>composableBloc</string>
+	<key>unsortedReference</key>
+	<string>discardedsorter</string>
+</dict>
+</plist>

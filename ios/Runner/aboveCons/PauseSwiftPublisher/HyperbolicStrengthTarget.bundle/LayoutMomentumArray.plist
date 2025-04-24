@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>actionpadding</key>
+	<string>menuResponse</string>
+	<key>activatedModal</key>
+	<string>routeStage</string>
+	<key>cartesianStateful</key>
+	<string>prismaticCompletion</string>
+	<key>constraintSkewY</key>
+	<string>specifyReceiver</string>
+	<key>customizedGestureDetector</key>
+	<string>escalateGroup</string>
+	<key>directlyAsync</key>
+	<string>deferredCustomPaint</string>
+	<key>geometricstoresaturation</key>
+	<string>modelfunctionstate</string>
+	<key>gramformat</key>
+	<string>immutableRecursion</string>
+</dict>
+</plist>

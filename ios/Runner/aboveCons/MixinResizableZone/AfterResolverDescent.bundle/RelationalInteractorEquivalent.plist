@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>converterInteraction</key>
+	<string>fetchRadio</string>
+	<key>criticalSchema</key>
+	<string>interfaceRight</string>
+	<key>easyDescent</key>
+	<string>canEndPromise</string>
+	<key>easySkin</key>
+	<string>playbacknearobserver</string>
+	<key>primaryNib</key>
+	<string>canDisposeTheme</string>
+	<key>triggerRate</key>
+	<string>computeAllocator</string>
+	<key>webResilience</key>
+	<string>texturenearprocess</string>
+</dict>
+</plist>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>controllerstrategydistance</key>
+	<string>compositionalDescent</string>
+	<key>embedreduction</key>
+	<string>decodeGraph</string>
+	<key>hardModal</key>
+	<string>cancelsample</string>
+	<key>largeAsset</key>
+	<string>deprecateUtil</string>
+	<key>shouldHandleInitiators</key>
+	<string>shouldInitializeTabView</string>
+</dict>
+</plist>

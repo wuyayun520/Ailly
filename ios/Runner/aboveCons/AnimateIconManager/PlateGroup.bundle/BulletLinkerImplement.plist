@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>autoTopic</key>
+	<string>thresholdType</string>
+	<key>deferredSymbol</key>
+	<string>shouldStartProfile</string>
+	<key>lazyTexture</key>
+	<string>canMountEqualization</string>
+	<key>shouldMountBorder</key>
+	<string>instructionDirection</string>
+	<key>sortedSymbol</key>
+	<string>layerDelay</string>
+</dict>
+</plist>

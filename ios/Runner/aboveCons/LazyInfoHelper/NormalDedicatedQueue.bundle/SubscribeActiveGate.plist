@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>characteristicEdge</key>
+	<string>cartesianRect</string>
+	<key>draggableDropdownButton</key>
+	<string>quaternionEdge</string>
+	<key>globalModulus</key>
+	<string>opaqueMethod</string>
+	<key>graphphasevelocity</key>
+	<string>advancedSink</string>
+	<key>hierarchicalresourceresponse</key>
+	<string>immediateMetadata</string>
+	<key>largepainter</key>
+	<string>unsortedResilience</string>
+	<key>listeneroutsideprocess</key>
+	<string>ismedia</string>
+	<key>missedDescriptor</key>
+	<string>groupBrightness</string>
+	<key>singleProfile</key>
+	<string>draggableButton</string>
+</dict>
+</plist>

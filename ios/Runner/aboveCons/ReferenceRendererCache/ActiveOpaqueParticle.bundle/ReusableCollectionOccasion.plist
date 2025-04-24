@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>elasticBinder</key>
+	<string>firstService</string>
+	<key>imperativeZone</key>
+	<string>seamlessAsync</string>
+	<key>keydependencystatus</key>
+	<string>crudeStoryboard</string>
+	<key>nodeenvironmentflags</key>
+	<string>localpreviewresponse</string>
+	<key>rapidIntegration</key>
+	<string>sliderflags</string>
+	<key>specifyTolerance</key>
+	<string>layerhead</string>
+	<key>standaloneConverter</key>
+	<string>equivalentInteraction</string>
+	<key>subtleSingleton</key>
+	<string>introspectRadius</string>
+</dict>
+</plist>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>flexibleGestureDetector</key>
+	<string>taxonomySaturation</string>
+	<key>inheritedchapterresponse</key>
+	<string>oncontractionchanged</string>
+	<key>mergerShape</key>
+	<string>immediatechart</string>
+	<key>playbackefficiency</key>
+	<string>directlyScalability</string>
+	<key>rapidStateful</key>
+	<string>sequentialJoiner</string>
+	<key>sortedTask</key>
+	<string>tablecount</string>
+	<key>standaloneFuture</key>
+	<string>sustainableShader</string>
+	<key>webIcon</key>
+	<string>resizableCurve</string>
+</dict>
+</plist>

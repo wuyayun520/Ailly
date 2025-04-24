@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>criticalInterface</key>
+	<string>unmountedUsage</string>
+	<key>elasticityTint</key>
+	<string>hashrectangle</string>
+	<key>geometricPriority</key>
+	<string>concurrentcontroller</string>
+	<key>lazyInterpolation</key>
+	<string>documentMediator</string>
+	<key>positionedHead</key>
+	<string>routerSkewY</string>
+	<key>transitiontag</key>
+	<string>scaffoldfunctionhead</string>
+</dict>
+</plist>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>concretequeueshape</key>
+	<string>menuAcceleration</string>
+	<key>crudeChannels</key>
+	<string>consumermode</string>
+	<key>directlyStateless</key>
+	<string>encodeTransition</string>
+	<key>erroruntilstage</key>
+	<string>bufferTail</string>
+	<key>rangeHead</key>
+	<string>associatedIntegrity</string>
+	<key>reusableMechanism</key>
+	<string>polygonCount</string>
+	<key>symbolShade</key>
+	<string>directLocalization</string>
+	<key>timerShade</key>
+	<string>disparateDescent</string>
+	<key>uniqueBloc</key>
+	<string>mapEdge</string>
+</dict>
+</plist>

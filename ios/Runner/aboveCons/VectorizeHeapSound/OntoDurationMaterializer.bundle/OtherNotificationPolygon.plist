@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>numericalSpecifier</key>
+	<string>shouldendmaster</string>
+	<key>shouldDisconnectSpecifier</key>
+	<string>eagerPermutation</string>
+	<key>shouldSkipMaterial</key>
+	<string>shouldPaintLoss</string>
+	<key>smallTrajectory</key>
+	<string>playbackawaytask</string>
+	<key>streammenu</key>
+	<string>canSaveUsage</string>
+</dict>
+</plist>

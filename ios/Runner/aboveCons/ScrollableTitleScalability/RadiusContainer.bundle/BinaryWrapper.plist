@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activeAnalogy</key>
+	<string>gramTheme</string>
+	<key>offsetcubit</key>
+	<string>singlePositioned</string>
+	<key>scalabilitySaturation</key>
+	<string>animationLayer</string>
+	<key>scaleHead</key>
+	<string>profileAppearance</string>
+	<key>seamlessTexture</key>
+	<string>memberBottom</string>
+</dict>
+</plist>

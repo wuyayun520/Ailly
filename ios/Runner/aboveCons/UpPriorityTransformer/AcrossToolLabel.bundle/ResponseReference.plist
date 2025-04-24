@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>commonbloc</key>
+	<string>composableRepository</string>
+	<key>orchestrateresponse</key>
+	<string>checkHash</string>
+	<key>shouldPaintCell</key>
+	<string>controllerScope</string>
+	<key>shouldSubscribeTransition</key>
+	<string>spineContext</string>
+	<key>significantService</key>
+	<string>mixinMenu</string>
+</dict>
+</plist>

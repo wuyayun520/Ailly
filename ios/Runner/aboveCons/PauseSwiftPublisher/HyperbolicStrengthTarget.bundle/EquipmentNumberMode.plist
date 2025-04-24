@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>permissiveJoiner</key>
+	<string>functionalrecursion</string>
+	<key>shouldCreateCache</key>
+	<string>normalReplica</string>
+	<key>shouldInflateSensor</key>
+	<string>builderShape</string>
+	<key>shouldObserveSwift</key>
+	<string>constraintsincemethod</string>
+	<key>textthroughplatform</key>
+	<string>stepKind</string>
+</dict>
+</plist>

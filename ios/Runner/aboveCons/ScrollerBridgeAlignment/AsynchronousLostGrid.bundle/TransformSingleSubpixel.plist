@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>compositionalmaterial</key>
+	<string>chapterstructurehead</string>
+	<key>criticalDecoration</key>
+	<string>cubeState</string>
+	<key>declarativeprogressbaredge</key>
+	<string>sortedSubpixel</string>
+	<key>evaluatenode</key>
+	<string>fillStream</string>
+	<key>mediumcurve</key>
+	<string>axisstatus</string>
+	<key>opaqueCube</key>
+	<string>shouldStopBox</string>
+	<key>resultmodemargin</key>
+	<string>shouldUnmountNotifier</string>
+	<key>shouldRouteSlider</key>
+	<string>storyboardSkewX</string>
+	<key>tensorAmortization</key>
+	<string>bulletCenter</string>
+</dict>
+</plist>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animationSize</key>
+	<string>symmetricScale</string>
+	<key>commonDelegate</key>
+	<string>canStopMember</string>
+	<key>constrainttween</key>
+	<string>pauseshader</string>
+	<key>notifyloop</key>
+	<string>trainSign</string>
+	<key>resizableDependency</key>
+	<string>shouldInitializeBrush</string>
+	<key>timershade</key>
+	<string>detailRight</string>
+</dict>
+</plist>

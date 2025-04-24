@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activatedCheckbox</key>
+	<string>collectionPrototype</string>
+	<key>firstWrapper</key>
+	<string>mediasprite</string>
+	<key>flexibleStore</key>
+	<string>cupertinousecasestate</string>
+	<key>gridviewconfiguration</key>
+	<string>createChapter</string>
+	<key>interactionStyle</key>
+	<string>shouldListenPet</string>
+	<key>mendShape</key>
+	<string>selectedProject</string>
+	<key>positionLocation</key>
+	<string>canHandleDescriptor</string>
+</dict>
+</plist>

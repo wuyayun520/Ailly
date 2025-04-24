@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>fragmentTheme</key>
+	<string>sortedSlider</string>
+	<key>iterativeChapter</key>
+	<string>pickerInteraction</string>
+	<key>mutableRectangle</key>
+	<string>shouldTrainDropdownButton</string>
+	<key>publisherType</key>
+	<string>embraceZone</string>
+	<key>shouldDecodeCurve</key>
+	<string>decoupleResult</string>
+	<key>shouldDetachSwitch</key>
+	<string>reusableSorter</string>
+	<key>statefullocation</key>
+	<string>canNotifyPainter</string>
+</dict>
+</plist>

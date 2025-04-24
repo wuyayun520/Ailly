@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>diversifiedMaterial</key>
+	<string>curveincludevisitor</string>
+	<key>ephemeralSensor</key>
+	<string>boxpopup</string>
+	<key>intuitiveSymbol</key>
+	<string>splitterShape</string>
+	<key>lostInitiative</key>
+	<string>taskDensity</string>
+	<key>mobileLinker</key>
+	<string>lostGift</string>
+	<key>persistlocalization</key>
+	<string>routerSpacing</string>
+	<key>shouldKeepOptimizer</key>
+	<string>transitionSwift</string>
+	<key>shouldNavigateCustomPaint</key>
+	<string>reduceracceleration</string>
+	<key>stateleft</key>
+	<string>advancedsize</string>
+</dict>
+</plist>

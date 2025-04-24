@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>crucialInkWell</key>
+	<string>shouldAttachCache</string>
+	<key>delicateResponder</key>
+	<string>emitPlayback</string>
+	<key>hasHero</key>
+	<string>gridviewState</string>
+	<key>isolateState</key>
+	<string>sliderinteraction</string>
+	<key>mediaCoord</key>
+	<string>nextCompleter</string>
+	<key>optimizershape</key>
+	<string>singletonBottom</string>
+	<key>repositoryCenter</key>
+	<string>processRequest</string>
+	<key>requiredStatus</key>
+	<string>shouldRebuildGridView</string>
+	<key>scrollableTheme</key>
+	<string>enabledListener</string>
+</dict>
+</plist>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>behaviorRotation</key>
+	<string>infrastructurevelocity</string>
+	<key>distinctionValidation</key>
+	<string>integrityInterval</string>
+	<key>modalstyle</key>
+	<string>frameMemento</string>
+	<key>obtainskin</key>
+	<string>symboltiercontrast</string>
+	<key>robusttopic</key>
+	<string>canRestartLabel</string>
+	<key>shouldInitializeDescriptor</key>
+	<string>hardPositioned</string>
+	<key>staticSign</key>
+	<string>dispatchStateful</string>
+</dict>
+</plist>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>deferredTimer</key>
+	<string>graphTemple</string>
+	<key>interactorresponse</key>
+	<string>awaitChain</string>
+	<key>shouldBuildKernel</key>
+	<string>locknib</string>
+	<key>shouldDecodeLoss</key>
+	<string>enumerateswitch</string>
+	<key>shouldUnmountedPoint</key>
+	<string>mutableProjection</string>
+	<key>tickerfacaderesponse</key>
+	<string>shouldRestartTask</string>
+</dict>
+</plist>

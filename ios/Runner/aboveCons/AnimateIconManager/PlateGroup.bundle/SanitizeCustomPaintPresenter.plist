@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>allocatorHead</key>
+	<string>logarithmColor</string>
+	<key>descentTop</key>
+	<string>lockRequest</string>
+	<key>endpopup</key>
+	<string>completerdelay</string>
+	<key>pointnearvariable</key>
+	<string>popUseCase</string>
+	<key>shouldSubscribeInkWell</key>
+	<string>prismaticResilience</string>
+	<key>subscriptionRotation</key>
+	<string>wrapNavigator</string>
+	<key>subsequentStream</key>
+	<string>rapidCaption</string>
+	<key>sustainableDecoration</key>
+	<string>shouldUnbindPlayback</string>
+	<key>thresholdSpacing</key>
+	<string>directlyTopic</string>
+</dict>
+</plist>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>apertureOrientation</key>
+	<string>mediumEvent</string>
+	<key>hierarchicalStack</key>
+	<string>observerFacade</string>
+	<key>immediateTaxonomy</key>
+	<string>resultTask</string>
+	<key>intermediatecell</key>
+	<string>keepmodel</string>
+	<key>lastNib</key>
+	<string>shouldDeserializeBorder</string>
+	<key>nextThroughput</key>
+	<string>consumeTexture</string>
+	<key>shouldBuildGridView</key>
+	<string>notifyresource</string>
+	<key>tabbartension</key>
+	<string>unmountentropy</string>
+	<key>threadIndex</key>
+	<string>notifierPosition</string>
+</dict>
+</plist>

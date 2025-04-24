@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>customScroll</key>
+	<string>tappablemethodstyle</string>
+	<key>gramincludememento</key>
+	<string>unaryorlevel</string>
+	<key>shouldDecodeMaster</key>
+	<string>shouldObserveProvider</string>
+	<key>shouldRenderRadio</key>
+	<string>handleAxis</string>
+</dict>
+</plist>

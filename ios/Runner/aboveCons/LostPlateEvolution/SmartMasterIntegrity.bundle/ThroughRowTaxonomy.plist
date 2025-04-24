@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>containerDuration</key>
+	<string>draweraction</string>
+	<key>nextThreshold</key>
+	<string>discardedGrain</string>
+	<key>permissiveDisclaimer</key>
+	<string>sequentialRadio</string>
+	<key>presenterinformation</key>
+	<string>pausegate</string>
+	<key>shouldPublishEntropy</key>
+	<string>inflateShader</string>
+	<key>shouldPushGrayscale</key>
+	<string>resilientNode</string>
+	<key>shouldUnmountNib</key>
+	<string>canAttachMomentum</string>
+	<key>unsortedanalyzer</key>
+	<string>freeAsync</string>
+</dict>
+</plist>

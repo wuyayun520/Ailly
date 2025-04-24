@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activeisolate</key>
+	<string>canDecodeInteger</string>
+	<key>customTaxonomy</key>
+	<string>functionalPlayback</string>
+	<key>defaultmediaquery</key>
+	<string>elasticMusic</string>
+	<key>explicitResilience</key>
+	<string>ephemeralRepository</string>
+	<key>gateuntilvisitor</key>
+	<string>lastSizedBox</string>
+	<key>inkwellkindopacity</key>
+	<string>allocatefactory</string>
+	<key>navigatorStyle</key>
+	<string>tabbarFlyweight</string>
+	<key>processorscale</key>
+	<string>backwardPrecision</string>
+	<key>relationalRadius</key>
+	<string>seamlessChecklist</string>
+</dict>
+</plist>

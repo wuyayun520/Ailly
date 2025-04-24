@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>backwardSkirt</key>
+	<string>metadatacommandbehavior</string>
+	<key>desktopDescent</key>
+	<string>shouldEmitTernary</string>
+	<key>linkerdistance</key>
+	<string>symbolBehavior</string>
+	<key>localPoint</key>
+	<string>shouldshowbloc</string>
+	<key>sceneforce</key>
+	<string>shouldMountedPositioned</string>
+	<key>scopeBehavior</key>
+	<string>smallStream</string>
+	<key>spotOrientation</key>
+	<string>deprecateStream</string>
+	<key>unbindtransition</key>
+	<string>disconnectMap</string>
+</dict>
+</plist>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>coordinatorLeft</key>
+	<string>canPersistNavigator</string>
+	<key>fetchnotification</key>
+	<string>ignoredSign</string>
+	<key>infoformat</key>
+	<string>aspectDensity</string>
+	<key>playbackDelay</key>
+	<string>responsivePainter</string>
+	<key>secondRow</key>
+	<string>subscribeCanvas</string>
+	<key>shouldCreateAperture</key>
+	<string>textcurve</string>
+</dict>
+</plist>

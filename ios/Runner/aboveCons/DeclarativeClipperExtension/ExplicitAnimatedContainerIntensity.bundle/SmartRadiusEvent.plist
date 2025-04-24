@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>bitrateRotation</key>
+	<string>immutableMenu</string>
+	<key>inheritedPriority</key>
+	<string>geometricCharacteristic</string>
+	<key>materialSchema</key>
+	<string>subscriberRight</string>
+	<key>pushgesture</key>
+	<string>presenterRight</string>
+	<key>requiredMobile</key>
+	<string>emitCupertino</string>
+	<key>shouldNotifyWidget</key>
+	<string>disconnectExtension</string>
+	<key>staticAnalogy</key>
+	<string>shouldLoadMaterial</string>
+	<key>tappableHero</key>
+	<string>bindGram</string>
+</dict>
+</plist>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>concurrentChallenge</key>
+	<string>endScaffold</string>
+	<key>euclideangroupresponse</key>
+	<string>staticDelivery</string>
+	<key>ontextfieldtap</key>
+	<string>challengewrapper</string>
+	<key>shouldHandleMomentum</key>
+	<string>shouldRestartText</string>
+	<key>shouldListenScroll</key>
+	<string>oldEfficiency</string>
+	<key>shouldRenderGradient</key>
+	<string>prismaticException</string>
+	<key>shouldUnmountStream</key>
+	<string>canvasInterval</string>
+</dict>
+</plist>

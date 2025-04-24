@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>declarativecardsaturation</key>
+	<string>pushfragment</string>
+	<key>pinchableGestureDetector</key>
+	<string>canPushVariant</string>
+	<key>resizableProjection</key>
+	<string>textexceptcommand</string>
+	<key>resizableResilience</key>
+	<string>deferredBox</string>
+	<key>sophisticatedStep</key>
+	<string>canPublishMaterial</string>
+</dict>
+</plist>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>aggregatebuilder</key>
+	<string>draggableDimension</string>
+	<key>channelsFormat</key>
+	<string>euclideanGrain</string>
+	<key>concurrentStep</key>
+	<string>delicateTechnique</string>
+	<key>delicatePicker</key>
+	<string>euclideanRecursion</string>
+	<key>ignoredShader</key>
+	<string>similarProvision</string>
+	<key>pinchableExtension</key>
+	<string>detachCycle</string>
+	<key>resilienceOrigin</key>
+	<string>layoutTool</string>
+	<key>shouldEndWorkflow</key>
+	<string>isolateState</string>
+	<key>shouldInflateMonster</key>
+	<string>commonAspect</string>
+	<key>vectorslider</key>
+	<string>popupcontroller</string>
+</dict>
+</plist>

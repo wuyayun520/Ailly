@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>backwardPolyfill</key>
+	<string>euclideanDrawer</string>
+	<key>boxvisibility</key>
+	<string>clipDescription</string>
+	<key>constructcursor</key>
+	<string>timerType</string>
+	<key>descriptorAcceleration</key>
+	<string>shouldYieldCaption</string>
+	<key>seamlessDependency</key>
+	<string>interactiveColor</string>
+	<key>shouldInitializeDocument</key>
+	<string>quitConfiguration</string>
+	<key>sustainableResource</key>
+	<string>protocolCommand</string>
+</dict>
+</plist>

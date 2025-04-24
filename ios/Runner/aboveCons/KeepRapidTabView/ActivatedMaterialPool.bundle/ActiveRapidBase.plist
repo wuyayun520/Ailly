@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animatorDistance</key>
+	<string>shouldPauseBrush</string>
+	<key>beginnerWrapper</key>
+	<string>shouldStartText</string>
+	<key>desktopSpine</key>
+	<string>missedconfidentiality</string>
+	<key>globalInteraction</key>
+	<string>viewTop</string>
+	<key>memberCount</key>
+	<string>adjustLayout</string>
+	<key>observeobserver</key>
+	<string>publicCupertino</string>
+	<key>onternarytap</key>
+	<string>canYieldCupertino</string>
+	<key>optimizerBrightness</key>
+	<string>diffableCubit</string>
+	<key>orchestrategem</key>
+	<string>profileNode</string>
+	<key>shouldCreateProtocol</key>
+	<string>widgetRight</string>
+</dict>
+</plist>

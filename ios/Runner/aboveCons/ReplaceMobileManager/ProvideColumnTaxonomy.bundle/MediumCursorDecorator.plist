@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>customNorm</key>
+	<string>functionalTransition</string>
+	<key>deactivateview</key>
+	<string>eagerStep</string>
+	<key>deliveryType</key>
+	<string>arithmeticLifecycle</string>
+	<key>globalStateful</key>
+	<string>euclideanlifecycle</string>
+	<key>interactivescenebehavior</key>
+	<string>decouplepriority</string>
+	<key>processorKind</key>
+	<string>popreference</string>
+</dict>
+</plist>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>difficultTraversal</key>
+	<string>combineDelegate</string>
+	<key>nativeInteractor</key>
+	<string>canSerializeSign</string>
+	<key>persistconstraint</key>
+	<string>restartDocument</string>
+	<key>responderformat</key>
+	<string>alignmentFramework</string>
+	<key>rowobserverdirection</key>
+	<string>objectEdge</string>
+	<key>statelessAction</key>
+	<string>transitiondirection</string>
+</dict>
+</plist>

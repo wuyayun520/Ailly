@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>adaptiveTime</key>
+	<string>statefulSkewX</string>
+	<key>errorSkewX</key>
+	<string>regulatemobile</string>
+	<key>requiredLatency</key>
+	<string>presenterFunction</string>
+	<key>shouldSerializeSymbol</key>
+	<string>shouldDeserializeFuture</string>
+	<key>tensorWorkflow</key>
+	<string>notifiercoord</string>
+</dict>
+</plist>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>criticalPlayback</key>
+	<string>shouldSaveGem</string>
+	<key>currentmediaquery</key>
+	<string>canEncodeSample</string>
+	<key>declarativeEvent</key>
+	<string>prismaticCurve</string>
+	<key>defaultCurve</key>
+	<string>canLayoutGridView</string>
+	<key>futurecenter</key>
+	<string>instantiateNode</string>
+	<key>initiatorsFlags</key>
+	<string>responsiveTheme</string>
+	<key>paddingAcceleration</key>
+	<string>customgraphedge</string>
+	<key>sceneatphase</key>
+	<string>connectScroll</string>
+</dict>
+</plist>

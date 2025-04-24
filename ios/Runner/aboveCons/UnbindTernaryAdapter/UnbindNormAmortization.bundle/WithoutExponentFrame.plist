@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cardTail</key>
+	<string>sortedLatency</string>
+	<key>explicitMetadata</key>
+	<string>inflateAccessory</string>
+	<key>globalMonster</key>
+	<string>featurespacing</string>
+	<key>layoutbound</key>
+	<string>operationcluster</string>
+	<key>providerTension</key>
+	<string>routemetadata</string>
+	<key>responsiveBitrate</key>
+	<string>statenumbertype</string>
+	<key>reusablePageView</key>
+	<string>resolverOrientation</string>
+	<key>shouldCancelLabel</key>
+	<string>shouldAnimateCycle</string>
+	<key>synchronousdata</key>
+	<string>shouldTransformIndicator</string>
+</dict>
+</plist>

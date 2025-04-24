@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>eagermediaquerytype</key>
+	<string>canCreateButton</string>
+	<key>elasticbitrate</key>
+	<string>shouldyielddescriptor</string>
+	<key>greatRadius</key>
+	<string>retainedmethodtransparency</string>
+	<key>recursionDirection</key>
+	<string>shouldMountAperture</string>
+</dict>
+</plist>

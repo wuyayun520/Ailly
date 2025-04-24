@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>disparateshader</key>
+	<string>mountedMember</string>
+	<key>fixedReduction</key>
+	<string>asynchronousGrain</string>
+	<key>onswitchchanged</key>
+	<string>canConnectScaffold</string>
+	<key>resizableSlash</key>
+	<string>monsterShade</string>
+	<key>resolverdepth</key>
+	<string>liteCapacities</string>
+	<key>scaffolddelay</key>
+	<string>serviceIndex</string>
+	<key>statelessIcon</key>
+	<string>canEmitGraphic</string>
+</dict>
+</plist>

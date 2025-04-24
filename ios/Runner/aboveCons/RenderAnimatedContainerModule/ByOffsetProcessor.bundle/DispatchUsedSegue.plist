@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>containerlayervalidation</key>
+	<string>impressionBorder</string>
+	<key>ignoredlog</key>
+	<string>mixinContainer</string>
+	<key>imperativeCanvas</key>
+	<string>draggableTernary</string>
+	<key>loaderForce</key>
+	<string>limitPopup</string>
+	<key>movementtriangles</key>
+	<string>persistcurve</string>
+	<key>specifyCanvas</key>
+	<string>typicalProcessor</string>
+	<key>typicalImpression</key>
+	<string>gramTop</string>
+</dict>
+</plist>

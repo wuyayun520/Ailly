@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>advancedTimer</key>
+	<string>shouldNavigateChannels</string>
+	<key>descriptioninset</key>
+	<string>animatedView</string>
+	<key>drawerlevelspacing</key>
+	<string>connectorTint</string>
+	<key>shouldInitializeCertificate</key>
+	<string>appbarSpacing</string>
+	<key>shouldMountCupertino</key>
+	<string>listviewMomentum</string>
+	<key>standaloneProject</key>
+	<string>oldListView</string>
+	<key>sustainablePainter</key>
+	<string>standaloneAppBar</string>
+	<key>tickerdensity</key>
+	<string>restoreBuffer</string>
+</dict>
+</plist>

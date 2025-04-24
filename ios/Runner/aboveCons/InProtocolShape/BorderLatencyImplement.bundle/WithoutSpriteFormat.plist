@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>borderrequest</key>
+	<string>captureCompleter</string>
+	<key>lossMode</key>
+	<string>gradientstate</string>
+	<key>mountedsample</key>
+	<string>shouldBuildMaterial</string>
+	<key>specifyGraph</key>
+	<string>rectangleBottom</string>
+	<key>unsortedRecursion</key>
+	<string>initiativeRight</string>
+	<key>validatedecoration</key>
+	<string>shouldProcessDescriptor</string>
+</dict>
+</plist>

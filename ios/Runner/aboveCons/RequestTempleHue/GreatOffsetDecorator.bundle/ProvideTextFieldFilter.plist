@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>calculatedelegate</key>
+	<string>difficultAsset</string>
+	<key>extensionResponse</key>
+	<string>responderdistance</string>
+	<key>gesturedetectorVisibility</key>
+	<string>shouldPauseComposition</string>
+	<key>shouldPrepareClipper</key>
+	<string>presentPainter</string>
+</dict>
+</plist>

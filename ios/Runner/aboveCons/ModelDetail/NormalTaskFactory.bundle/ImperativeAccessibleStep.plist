@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animationFeedback</key>
+	<string>restartRole</string>
+	<key>intuitiveView</key>
+	<string>reactiveMomentum</string>
+	<key>mediocreactivity</key>
+	<string>pinchableStore</string>
+	<key>quaternionDuration</key>
+	<string>symmetricScreen</string>
+	<key>shoulddispatchgraphic</key>
+	<string>validateComposition</string>
+	<key>spotlayerfeedback</key>
+	<string>similarPopup</string>
+</dict>
+</plist>

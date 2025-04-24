@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>comprehensiveDependency</key>
+	<string>histogramSystem</string>
+	<key>fixedStream</key>
+	<string>equalizationAppearance</string>
+	<key>gridBound</key>
+	<string>effectMethod</string>
+	<key>hardScenario</key>
+	<string>gridSpacing</string>
+	<key>shouldEncodeCursor</key>
+	<string>minMap</string>
+	<key>shouldPresentResource</key>
+	<string>shouldConnectProjection</string>
+	<key>zonelayerdensity</key>
+	<string>listeneroffset</string>
+</dict>
+</plist>

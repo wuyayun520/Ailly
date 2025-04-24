@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animatedcontainerresilience</key>
+	<string>rotateView</string>
+	<key>basicState</key>
+	<string>parseCertificate</string>
+	<key>batchTint</key>
+	<string>semanticSearcher</string>
+	<key>callbackformat</key>
+	<string>shouldPaintDelegate</string>
+	<key>secondmetrics</key>
+	<string>singletonduringstructure</string>
+	<key>shouldNotifyScale</key>
+	<string>normalMaterializer</string>
+	<key>shouldresumesession</key>
+	<string>detachComposition</string>
+	<key>stampvisitorstatus</key>
+	<string>cosinetraversal</string>
+	<key>substantialtitleindex</key>
+	<string>routeTag</string>
+	<key>toleranceSaturation</key>
+	<string>shaderRate</string>
+</dict>
+</plist>

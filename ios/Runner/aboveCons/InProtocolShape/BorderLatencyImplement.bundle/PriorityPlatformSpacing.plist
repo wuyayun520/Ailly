@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>denseshape</key>
+	<string>ternarypreview</string>
+	<key>fixedNib</key>
+	<string>mediaqueryOpacity</string>
+	<key>gemdepth</key>
+	<string>canPauseMultiplication</string>
+	<key>singleStatus</key>
+	<string>defaultmusic</string>
+	<key>variantEdge</key>
+	<string>shouldBuildSemantics</string>
+</dict>
+</plist>

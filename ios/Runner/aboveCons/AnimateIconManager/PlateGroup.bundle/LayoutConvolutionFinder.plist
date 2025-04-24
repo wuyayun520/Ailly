@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>alphacharacteristic</key>
+	<string>shouldAnimateWidget</string>
+	<key>easyTrajectory</key>
+	<string>routerEdge</string>
+	<key>equivalentKind</key>
+	<string>curveStyle</string>
+	<key>parallelData</key>
+	<string>temporaryAnalyzer</string>
+	<key>shouldcancelcollection</key>
+	<string>sortedDisclaimer</string>
+	<key>statelessInitiative</key>
+	<string>canTransformPainter</string>
+</dict>
+</plist>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>chapterphaseduration</key>
+	<string>canFetchReduction</string>
+	<key>connectscene</key>
+	<string>shouldRebuildController</string>
+	<key>criticalIcon</key>
+	<string>typicalDrawer</string>
+	<key>interfaceinobserver</key>
+	<string>gesturedetectorComposite</string>
+	<key>offsetresilience</key>
+	<string>publicPolygon</string>
+	<key>unarycontrast</key>
+	<string>compositionalFrame</string>
+</dict>
+</plist>

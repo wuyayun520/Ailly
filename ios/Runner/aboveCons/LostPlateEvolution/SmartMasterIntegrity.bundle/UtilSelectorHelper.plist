@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activityLocation</key>
+	<string>appbarSkewX</string>
+	<key>discardedJoiner</key>
+	<string>shouldStreamThread</string>
+	<key>musicfunctionskewy</key>
+	<string>deferredsignature</string>
+	<key>serializeresource</key>
+	<string>ignoredobserverskewy</string>
+	<key>spriteframeworkinset</key>
+	<string>customizedSample</string>
+	<key>statefulTabBar</key>
+	<string>inkwellChain</string>
+	<key>textureintegration</key>
+	<string>containerwithoutscope</string>
+</dict>
+</plist>

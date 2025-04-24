@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cancelcapacities</key>
+	<string>fetchNavigation</string>
+	<key>confidentialityBehavior</key>
+	<string>canStartChallenge</string>
+	<key>intuitivecreator</key>
+	<string>shouldFormatArithmetic</string>
+	<key>presenterstyleindex</key>
+	<string>staticVector</string>
+	<key>robustTrajectory</key>
+	<string>localizationbeyondparam</string>
+	<key>shouldRebuildCurve</key>
+	<string>variantascomposite</string>
+</dict>
+</plist>

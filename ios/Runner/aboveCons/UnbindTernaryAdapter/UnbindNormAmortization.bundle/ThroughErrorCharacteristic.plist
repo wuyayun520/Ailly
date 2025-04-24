@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>autoPageView</key>
+	<string>loopprototypeinterval</string>
+	<key>cupertinoMerger</key>
+	<string>shouldConnectCard</string>
+	<key>integrityDirection</key>
+	<string>roleTail</string>
+	<key>mediumReliability</key>
+	<string>listviewcontrast</string>
+	<key>textstatesaturation</key>
+	<string>popupspacing</string>
+	<key>tickerVisible</key>
+	<string>significantMobile</string>
+</dict>
+</plist>

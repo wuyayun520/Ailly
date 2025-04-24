@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accordionTriangles</key>
+	<string>canYieldComposition</string>
+	<key>advancedTentative</key>
+	<string>aggregateCubit</string>
+	<key>cosineContrast</key>
+	<string>switchObserver</string>
+	<key>criticalTexture</key>
+	<string>inkwellmode</string>
+	<key>deserializegraph</key>
+	<string>factoryStatus</string>
+	<key>geometricEfficiency</key>
+	<string>shouldListenMatrix</string>
+	<key>provisionBorder</key>
+	<string>nibDistance</string>
+	<key>shouldMountedDocument</key>
+	<string>canRestartSpine</string>
+	<key>statefulCapsule</key>
+	<string>typicalCurve</string>
+</dict>
+</plist>

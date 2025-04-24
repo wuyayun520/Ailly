@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>decorationInset</key>
+	<string>crudeSizedBox</string>
+	<key>directlyChart</key>
+	<string>shouldShowCheckbox</string>
+	<key>euclideanAsync</key>
+	<string>memberCenter</string>
+	<key>geometricTitle</key>
+	<string>descriptorvisible</string>
+	<key>opaqueBoxShadow</key>
+	<string>yieldobserver</string>
+	<key>seamlessCatalyst</key>
+	<string>lastTextField</string>
+	<key>slashwithoutphase</key>
+	<string>volumeFormat</string>
+	<key>substantialReliability</key>
+	<string>canCancelCard</string>
+	<key>tappableInteraction</key>
+	<string>chartName</string>
+</dict>
+</plist>

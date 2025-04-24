@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>arithmeticTangent</key>
+	<string>variantVelocity</string>
+	<key>associatedreliability</key>
+	<string>characteristictag</string>
+	<key>cursorDensity</key>
+	<string>uniformDropdownButton</string>
+	<key>immediatePositioned</key>
+	<string>itemEdge</string>
+	<key>shouldNavigateAxis</key>
+	<string>listenerValidation</string>
+	<key>sophisticatedHash</key>
+	<string>stateLayer</string>
+</dict>
+</plist>

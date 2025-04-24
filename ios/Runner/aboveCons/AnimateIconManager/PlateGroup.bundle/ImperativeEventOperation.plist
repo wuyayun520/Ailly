@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>asynchronouspresenter</key>
+	<string>dynamicLoader</string>
+	<key>compositionstrategytint</key>
+	<string>resilienceBottom</string>
+	<key>inactiveDetector</key>
+	<string>shouldYieldLoss</string>
+	<key>lastAwait</key>
+	<string>smallpreviewsize</string>
+	<key>lastMonster</key>
+	<string>soundResponse</string>
+</dict>
+</plist>

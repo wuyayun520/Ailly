@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>advancedCheckbox</key>
+	<string>primaryState</string>
+	<key>characterhue</key>
+	<string>assetInterpreter</string>
+	<key>independentEquipment</key>
+	<string>filterVelocity</string>
+	<key>invisibleVector</key>
+	<string>shouldPauseOptimizer</string>
+	<key>iterativevector</key>
+	<string>ignoredGesture</string>
+	<key>lostThread</key>
+	<string>resumeResource</string>
+	<key>modulusexception</key>
+	<string>positionedContext</string>
+	<key>nextProcessor</key>
+	<string>priorOccasion</string>
+	<key>pagerShade</key>
+	<string>numericalDescriptor</string>
+	<key>shoulddisposeborder</key>
+	<string>coordinatorelement</string>
+</dict>
+</plist>

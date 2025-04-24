@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>attachchart</key>
+	<string>basicDetail</string>
+	<key>cursorborder</key>
+	<string>canAnimateRemainder</string>
+	<key>entropyasvalue</key>
+	<string>liteEffect</string>
+	<key>oldNotification</key>
+	<string>replaceModal</string>
+	<key>robustAnimation</key>
+	<string>shouldCacheBuilder</string>
+	<key>rowInset</key>
+	<string>baselineuntilaction</string>
+	<key>sustainableSine</key>
+	<string>calculateskin</string>
+</dict>
+</plist>

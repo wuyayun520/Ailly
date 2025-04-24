@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>asynchronousMap</key>
+	<string>normalStorage</string>
+	<key>awaitorvariable</key>
+	<string>embedConfiguration</string>
+	<key>composableProvider</key>
+	<string>secondRepository</string>
+	<key>encapsulatebehavior</key>
+	<string>cupertinoAppearance</string>
+	<key>logarithmTail</key>
+	<string>sessionTransparency</string>
+	<key>mobileskewx</key>
+	<string>capsuleFacade</string>
+	<key>otherCatalyst</key>
+	<string>opaqueContraction</string>
+	<key>positionmodefrequency</key>
+	<string>transformerstructurestyle</string>
+	<key>shouldMountedCycle</key>
+	<string>seamlessActivity</string>
+</dict>
+</plist>

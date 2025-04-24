@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>coordinatorHead</key>
+	<string>binarystatus</string>
+	<key>exitaction</key>
+	<string>tabbarProxy</string>
+	<key>mappressure</key>
+	<string>minCupertino</string>
+	<key>multiPosition</key>
+	<string>splitterPadding</string>
+	<key>visibleAnalyzer</key>
+	<string>resetConstraint</string>
+</dict>
+</plist>

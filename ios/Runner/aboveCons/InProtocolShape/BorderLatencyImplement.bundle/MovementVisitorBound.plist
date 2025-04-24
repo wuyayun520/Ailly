@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>asynchronousalpha</key>
+	<string>relationalLoop</string>
+	<key>beginnerOverlay</key>
+	<string>symmetricTabBar</string>
+	<key>bindtouch</key>
+	<string>viewbufferbrightness</string>
+	<key>canvasintensity</key>
+	<string>titleObserver</string>
+	<key>ignoredColor</key>
+	<string>unsortedGift</string>
+	<key>inactiveInterpolation</key>
+	<string>reactiveImpact</string>
+	<key>numericalBinder</key>
+	<string>currentBehavior</string>
+	<key>secondScreen</key>
+	<string>diffablePager</string>
+	<key>shouldNotifyTangent</key>
+	<string>synchronousAlert</string>
+</dict>
+</plist>

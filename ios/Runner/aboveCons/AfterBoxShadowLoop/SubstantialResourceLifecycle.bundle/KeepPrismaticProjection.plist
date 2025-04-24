@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>agileLayer</key>
+	<string>popZone</string>
+	<key>captionOrientation</key>
+	<string>topicpercontext</string>
+	<key>delicateCell</key>
+	<string>beginnerRange</string>
+	<key>frameLocation</key>
+	<string>precisionmerger</string>
+	<key>interactiveBinder</key>
+	<string>flexPressure</string>
+	<key>persistentAnimator</key>
+	<string>layoutSegment</string>
+	<key>pinchablePager</key>
+	<string>immediateImpression</string>
+	<key>shouldRestartTangent</key>
+	<string>navigatordescription</string>
+</dict>
+</plist>

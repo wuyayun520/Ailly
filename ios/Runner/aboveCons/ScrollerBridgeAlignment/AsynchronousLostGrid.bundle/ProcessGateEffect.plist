@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>dropdownbuttonState</key>
+	<string>comprehensiveRange</string>
+	<key>missedService</key>
+	<string>revisitProgressBar</string>
+	<key>paddingMargin</key>
+	<string>smallBatch</string>
+	<key>scrollSkewY</key>
+	<string>inheritedPlayback</string>
+	<key>shouldSerializeScroll</key>
+	<string>seekResolver</string>
+	<key>usedConstraint</key>
+	<string>tangentStyle</string>
+</dict>
+</plist>

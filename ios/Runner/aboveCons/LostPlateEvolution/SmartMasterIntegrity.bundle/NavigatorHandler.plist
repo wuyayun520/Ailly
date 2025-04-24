@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animateroute</key>
+	<string>widgetactivityinterval</string>
+	<key>builderSpacing</key>
+	<string>hashinset</string>
+	<key>immediateError</key>
+	<string>statelessTimer</string>
+	<key>maingrain</key>
+	<string>canDetachTask</string>
+	<key>pivotalcheckboxtheme</key>
+	<string>cachenavigator</string>
+	<key>revisitgesture</key>
+	<string>keyHero</string>
+	<key>shouldValidateView</key>
+	<string>sustainableFragments</string>
+</dict>
+</plist>

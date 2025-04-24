@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>advancedPager</key>
+	<string>hasternary</string>
+	<key>buttonAppearance</key>
+	<string>unmountedTernary</string>
+	<key>nextTransition</key>
+	<string>shouldcreateskin</string>
+	<key>secondElasticity</key>
+	<string>shouldYieldTouch</string>
+	<key>shouldNotifyProvider</key>
+	<string>mobileBridge</string>
+	<key>symmetricSlash</key>
+	<string>staticMediaQuery</string>
+	<key>workflowflyweightpressure</key>
+	<string>checkboxvisitorbottom</string>
+</dict>
+</plist>

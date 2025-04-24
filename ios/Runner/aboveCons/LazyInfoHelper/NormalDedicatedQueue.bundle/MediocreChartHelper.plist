@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>euclideanError</key>
+	<string>sensorcontainnumber</string>
+	<key>parallelRect</key>
+	<string>arithmeticSorter</string>
+	<key>shouldHandleFragment</key>
+	<string>serializeBullet</string>
+	<key>shouldTrainTool</key>
+	<string>primaryBuffer</string>
+	<key>shouldinflateplayback</key>
+	<string>canEndInteger</string>
+	<key>sliderthroughtemple</key>
+	<string>replaceRadius</string>
+	<key>statefinder</key>
+	<string>chartemitter</string>
+	<key>textOrientation</key>
+	<string>shouldEndPlayback</string>
+</dict>
+</plist>

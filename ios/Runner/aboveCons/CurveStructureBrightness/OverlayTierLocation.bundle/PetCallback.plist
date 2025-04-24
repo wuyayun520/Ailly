@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>directCallback</key>
+	<string>sizedboxreplica</string>
+	<key>ignoredDetail</key>
+	<string>uniqueEffect</string>
+	<key>substantialScreen</key>
+	<string>entropypainter</string>
+	<key>usecasetension</key>
+	<string>loopCycle</string>
+</dict>
+</plist>

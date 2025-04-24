@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>efficiencySize</key>
+	<string>shouldUnmountedHeap</string>
+	<key>hardReduction</key>
+	<string>geometricReduction</string>
+	<key>opaquedecorationhue</key>
+	<string>brushVariable</string>
+	<key>publicCatalyst</key>
+	<string>clipperPadding</string>
+	<key>rectangleBehavior</key>
+	<string>timermesh</string>
+	<key>reducercyclestate</key>
+	<string>listenerstyle</string>
+	<key>standaloneSine</key>
+	<string>intermediateCurve</string>
+</dict>
+</plist>

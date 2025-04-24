@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>comprehensiveElasticity</key>
+	<string>updateAnimatedContainer</string>
+	<key>crudeShader</key>
+	<string>transformParticle</string>
+	<key>discardedMesh</key>
+	<string>popOffset</string>
+	<key>durationtype</key>
+	<string>popBrush</string>
+	<key>grainMomentum</key>
+	<string>builderdependency</string>
+	<key>permanentRect</key>
+	<string>aspectTransparency</string>
+	<key>prevNotifier</key>
+	<string>destroyLoop</string>
+	<key>singlesineposition</key>
+	<string>unmarshalcomposition</string>
+</dict>
+</plist>

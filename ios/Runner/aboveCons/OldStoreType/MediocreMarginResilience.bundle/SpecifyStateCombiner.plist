@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>concurrentcubitfeedback</key>
+	<string>validatecustompaint</string>
+	<key>custompaintincludevar</key>
+	<string>canConnectTabView</string>
+	<key>difficultInterpolation</key>
+	<string>routerinfacade</string>
+	<key>inkwellOffset</key>
+	<string>anchorTag</string>
+	<key>observerpublisher</key>
+	<string>elasticityVisibility</string>
+	<key>opaqueInterpolation</key>
+	<string>positionedInterpreter</string>
+	<key>uniqueDetector</key>
+	<string>animatetextfield</string>
+	<key>utilIndex</key>
+	<string>processHistogram</string>
+	<key>webCurve</key>
+	<string>projectionKind</string>
+</dict>
+</plist>

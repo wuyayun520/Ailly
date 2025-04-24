@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>challengeinvariable</key>
+	<string>generateRadius</string>
+	<key>defaultloss</key>
+	<string>prepareHistogram</string>
+	<key>independentEquipment</key>
+	<string>largeFragment</string>
+	<key>instructionRate</key>
+	<string>subscriptionTension</string>
+	<key>multiCallback</key>
+	<string>shouldPauseCache</string>
+	<key>resizablePosition</key>
+	<string>resizablechart</string>
+	<key>retainedWidget</key>
+	<string>buildProfile</string>
+</dict>
+</plist>

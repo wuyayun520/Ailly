@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accordionCard</key>
+	<string>multiplyModel</string>
+	<key>behaviorPadding</key>
+	<string>injectionBridge</string>
+	<key>dismisssprite</key>
+	<string>gemdecoratorright</string>
+	<key>functionalReceiver</key>
+	<string>localizationprocessbehavior</string>
+	<key>handlerSkewY</key>
+	<string>sinkDelay</string>
+	<key>normalCharacter</key>
+	<string>visibleAccessory</string>
+	<key>shaderSpeed</key>
+	<string>promiseVar</string>
+	<key>shouldHandleScreen</key>
+	<string>canSubscribeEffect</string>
+</dict>
+</plist>

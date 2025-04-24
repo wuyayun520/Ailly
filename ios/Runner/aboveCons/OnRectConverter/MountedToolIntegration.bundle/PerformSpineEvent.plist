@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>assetTail</key>
+	<string>canUnmountAlert</string>
+	<key>associatedDependency</key>
+	<string>configureTween</string>
+	<key>autoImpression</key>
+	<string>extensionMemento</string>
+	<key>intuitiveSlider</key>
+	<string>schemaBehavior</string>
+	<key>optimizerTheme</key>
+	<string>largeLog</string>
+	<key>pivotalResult</key>
+	<string>shouldcancelcycle</string>
+	<key>shouldReplaceBuilder</key>
+	<string>canHandleExpanded</string>
+	<key>shouldpaintgesture</key>
+	<string>drawSink</string>
+	<key>shouldrendercell</key>
+	<string>renderpopup</string>
+	<key>specifyBox</key>
+	<string>canSaveSpecifier</string>
+</dict>
+</plist>

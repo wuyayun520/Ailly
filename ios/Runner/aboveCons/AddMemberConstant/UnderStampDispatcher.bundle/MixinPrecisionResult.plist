@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>associatedLoader</key>
+	<string>shouldPauseFuture</string>
+	<key>geometricSlider</key>
+	<string>deserializelabel</string>
+	<key>othersensor</key>
+	<string>canPushCurve</string>
+	<key>shouldResumeAlert</key>
+	<string>objectCoord</string>
+	<key>shouldValidateHeap</key>
+	<string>canBuildPriority</string>
+	<key>techniqueDirection</key>
+	<string>fixedAsync</string>
+</dict>
+</plist>

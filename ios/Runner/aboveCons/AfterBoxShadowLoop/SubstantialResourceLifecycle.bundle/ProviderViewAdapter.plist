@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>featureEdge</key>
+	<string>futureJob</string>
+	<key>independentBatch</key>
+	<string>comprehensivegram</string>
+	<key>presenterobserveralignment</key>
+	<string>canShowCompletion</string>
+	<key>prevListener</key>
+	<string>interactionBorder</string>
+	<key>radiusRotation</key>
+	<string>measureTransition</string>
+	<key>shouldPresentExpanded</key>
+	<string>standaloneDelivery</string>
+	<key>transformaxis</key>
+	<string>tensorHero</string>
+</dict>
+</plist>

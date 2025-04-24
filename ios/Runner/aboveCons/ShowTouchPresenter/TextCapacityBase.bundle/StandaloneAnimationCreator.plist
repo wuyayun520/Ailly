@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activeOffset</key>
+	<string>controllerspeed</string>
+	<key>animatedFormat</key>
+	<string>concreteRemainder</string>
+	<key>bufferskewx</key>
+	<string>oncapacitiestap</string>
+	<key>equipmentTension</key>
+	<string>mountBehavior</string>
+	<key>interactiveException</key>
+	<string>usedEqualization</string>
+	<key>shouldUnmountedCapsule</key>
+	<string>loaderAlignment</string>
+	<key>uniqueTween</key>
+	<string>keepScreen</string>
+</dict>
+</plist>

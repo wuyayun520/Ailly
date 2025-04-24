@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>custompaintexceptstate</key>
+	<string>marshalHash</string>
+	<key>functionalPrecision</key>
+	<string>canBuildTernary</string>
+	<key>inflatereduction</key>
+	<string>geometricUnary</string>
+	<key>mainSchema</key>
+	<string>emitListView</string>
+	<key>popupRotation</key>
+	<string>canResumeSpecifier</string>
+	<key>shouldInitializeCurve</key>
+	<string>navigatorDensity</string>
+	<key>shouldUpdateDimension</key>
+	<string>immediateTraversal</string>
+	<key>shoulddisposeinitiators</key>
+	<string>reusablefuture</string>
+	<key>tableformat</key>
+	<string>canStreamTheme</string>
+</dict>
+</plist>

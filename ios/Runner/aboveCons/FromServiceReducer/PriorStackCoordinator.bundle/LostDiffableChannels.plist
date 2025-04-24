@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>decorationbehavior</key>
+	<string>canRouteTable</string>
+	<key>diffableRadio</key>
+	<string>canKeepMultiplication</string>
+	<key>optimizermementofrequency</key>
+	<string>shouldFetchMap</string>
+	<key>progressbarreducer</key>
+	<string>otherSymbol</string>
+</dict>
+</plist>

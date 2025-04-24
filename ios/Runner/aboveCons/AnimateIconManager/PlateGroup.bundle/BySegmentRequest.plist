@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>dataFlags</key>
+	<string>sustainablePolyfill</string>
+	<key>desktopFormat</key>
+	<string>deployTitle</string>
+	<key>geometricHandler</key>
+	<string>previewmodevalidation</string>
+	<key>ignoredText</key>
+	<string>canTransformProtocol</string>
+	<key>lossexceptstage</key>
+	<string>setstateTask</string>
+	<key>lostprojection</key>
+	<string>indicatortask</string>
+	<key>monsterPressure</key>
+	<string>dedicatedEvent</string>
+	<key>reactivePreview</key>
+	<string>usedResponder</string>
+	<key>switchpressure</key>
+	<string>beginnerGram</string>
+</dict>
+</plist>

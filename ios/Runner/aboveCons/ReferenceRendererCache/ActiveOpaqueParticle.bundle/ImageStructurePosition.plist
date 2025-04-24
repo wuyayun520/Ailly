@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>dynamicPadding</key>
+	<string>charactergroup</string>
+	<key>materialkernelacceleration</key>
+	<string>sizedboxoutsidetier</string>
+	<key>sharedSine</key>
+	<string>frameSpeed</string>
+	<key>smallLoss</key>
+	<string>characteristicTop</string>
+</dict>
+</plist>

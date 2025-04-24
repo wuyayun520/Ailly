@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>combinerRight</key>
+	<string>painterFacade</string>
+	<key>discardedStore</key>
+	<string>routerTheme</string>
+	<key>meshInteraction</key>
+	<string>lostCapacity</string>
+	<key>permissiveHandler</key>
+	<string>newestZone</string>
+	<key>pinchableAnimation</key>
+	<string>shaderVisibility</string>
+	<key>resolverInset</key>
+	<string>liteBrush</string>
+</dict>
+</plist>

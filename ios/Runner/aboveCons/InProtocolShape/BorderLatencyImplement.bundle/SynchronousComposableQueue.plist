@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>concurrentConsumer</key>
+	<string>frameStyle</string>
+	<key>graphEdge</key>
+	<string>mobileLayout</string>
+	<key>mutableTime</key>
+	<string>shouldRebuildGestureDetector</string>
+	<key>quantizerarithmetic</key>
+	<string>deferredLatency</string>
+	<key>resizablelog</key>
+	<string>reconcileNode</string>
+</dict>
+</plist>

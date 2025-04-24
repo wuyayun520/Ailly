@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>deployinterface</key>
+	<string>positionTask</string>
+	<key>lazyManager</key>
+	<string>shouldFormatGate</string>
+	<key>mainPolygon</key>
+	<string>globalLabel</string>
+	<key>mainUsage</key>
+	<string>emitStorage</string>
+	<key>profileresource</key>
+	<string>criticalRecursion</string>
+	<key>traversalTint</key>
+	<string>normalTitle</string>
+</dict>
+</plist>

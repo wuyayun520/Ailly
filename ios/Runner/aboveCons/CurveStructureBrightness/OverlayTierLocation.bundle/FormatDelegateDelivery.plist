@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cosinedepth</key>
+	<string>shouldTrainDimension</string>
+	<key>permissivereducer</key>
+	<string>originalTrigger</string>
+	<key>shouldLoadCertificate</key>
+	<string>replicateexpanded</string>
+	<key>shouldRestartSensor</key>
+	<string>shouldemitexpanded</string>
+	<key>shouldskipbox</key>
+	<string>clipState</string>
+	<key>visibleConstraint</key>
+	<string>cleanbutton</string>
+</dict>
+</plist>

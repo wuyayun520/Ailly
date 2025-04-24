@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>directBandwidth</key>
+	<string>heroObserver</string>
+	<key>euclideanWrapper</key>
+	<string>dropoutInjection</string>
+	<key>precisionvelocity</key>
+	<string>shouldRestartBinary</string>
+	<key>primaryItem</key>
+	<string>embedPopup</string>
+	<key>receiverPressure</key>
+	<string>switchalignment</string>
+	<key>shouldAnimateGesture</key>
+	<string>threadContrast</string>
+	<key>shouldkeepstateful</key>
+	<string>concreteTicker</string>
+</dict>
+</plist>

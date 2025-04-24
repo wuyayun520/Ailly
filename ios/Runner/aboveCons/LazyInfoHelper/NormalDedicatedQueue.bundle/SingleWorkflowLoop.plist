@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>awaitTransparency</key>
+	<string>substantialOffset</string>
+	<key>infrastructureTop</key>
+	<string>shouldValidateMobile</string>
+	<key>musicmapper</key>
+	<string>wrapChannel</string>
+	<key>projectionForce</key>
+	<string>reactiveSensor</string>
+	<key>selectedRemainder</key>
+	<string>inheritedArithmetic</string>
+	<key>shaderedge</key>
+	<string>localGestureDetector</string>
+</dict>
+</plist>

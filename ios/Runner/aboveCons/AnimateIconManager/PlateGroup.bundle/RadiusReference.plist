@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>kernelName</key>
+	<string>pointCount</string>
+	<key>modelvisitortail</key>
+	<string>serviceOrientation</string>
+	<key>multiPlayback</key>
+	<string>desktopFrame</string>
+	<key>multirowskewx</key>
+	<string>shouldPopCapsule</string>
+	<key>providerSkewX</key>
+	<string>diversifiedAnchor</string>
+	<key>relationalFeature</key>
+	<string>cubitColor</string>
+	<key>respectiveInitiative</key>
+	<string>discoverStore</string>
+	<key>restartasync</key>
+	<string>ephemeralThroughput</string>
+	<key>shouldUnmountBehavior</key>
+	<string>shouldSerializeSignature</string>
+	<key>subtleResource</key>
+	<string>shouldPaintSlash</string>
+</dict>
+</plist>

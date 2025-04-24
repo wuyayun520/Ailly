@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>alphaVelocity</key>
+	<string>shouldConnectRadio</string>
+	<key>assettrigger</key>
+	<string>blocSaturation</string>
+	<key>invisibleconstant</key>
+	<string>backwardTimer</string>
+	<key>shouldTrainCapacities</key>
+	<string>fetchSignature</string>
+	<key>tweenSkewY</key>
+	<string>canAnimateCache</string>
+</dict>
+</plist>

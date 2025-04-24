@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>boxDirection</key>
+	<string>tangentCoord</string>
+	<key>granularEvent</key>
+	<string>webVolume</string>
+	<key>newestSkin</key>
+	<string>skipMediaQuery</string>
+	<key>pivotalVertex</key>
+	<string>assetDepth</string>
+	<key>screenTop</key>
+	<string>drawmobile</string>
+	<key>scrollableBuffer</key>
+	<string>matrixInterval</string>
+	<key>shouldUnmountedConvolution</key>
+	<string>rectifyCoordinator</string>
+</dict>
+</plist>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activeAction</key>
+	<string>shouldShowLog</string>
+	<key>buttonpermutation</key>
+	<string>canPopDecoration</string>
+	<key>fixedCoordinator</key>
+	<string>architectureForce</string>
+	<key>shouldMountPadding</key>
+	<string>webController</string>
+</dict>
+</plist>

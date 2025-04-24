@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>bulletVisibility</key>
+	<string>observePreview</string>
+	<key>directAscent</key>
+	<string>capsuleOrigin</string>
+	<key>hardSemantics</key>
+	<string>resilientRow</string>
+	<key>hyperbolicController</key>
+	<string>canUpdateSpot</string>
+	<key>iterativeMatrix</key>
+	<string>radioJob</string>
+	<key>opaqueTimeline</key>
+	<string>sinePressure</string>
+	<key>shouldSaveButton</key>
+	<string>pinchableMatrix</string>
+</dict>
+</plist>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activatedUtil</key>
+	<string>mediaqueryPlatform</string>
+	<key>animationOrigin</key>
+	<string>lazyBinary</string>
+	<key>beginnerSearcher</key>
+	<string>decodeMediaQuery</string>
+	<key>consultativeeffect</key>
+	<string>callbackDirection</string>
+	<key>detectorOpacity</key>
+	<string>customintensityskewy</string>
+	<key>drawmediaquery</key>
+	<string>shouldDisconnectCell</string>
+	<key>euclideanTicker</key>
+	<string>radiusCycle</string>
+	<key>granularAlignment</key>
+	<string>loopForm</string>
+	<key>singleprovider</key>
+	<string>usedtraversal</string>
+	<key>strokeVisible</key>
+	<string>canAttachNotifier</string>
+</dict>
+</plist>

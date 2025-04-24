@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>asynchronousInteraction</key>
+	<string>searchCurve</string>
+	<key>intermediatemanager</key>
+	<string>shouldShowComposition</string>
+	<key>scrollorientation</key>
+	<string>dedicatedManager</string>
+</dict>
+</plist>

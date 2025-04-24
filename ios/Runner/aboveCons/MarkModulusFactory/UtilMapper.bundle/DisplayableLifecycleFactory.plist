@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>arithmetictweencount</key>
+	<string>criticalAppBar</string>
+	<key>controllerDepth</key>
+	<string>desktopStack</string>
+	<key>explicitMetadata</key>
+	<string>arithmetictext</string>
+	<key>finderDelay</key>
+	<string>canValidateMap</string>
+	<key>fusedgate</key>
+	<string>canSaveWidget</string>
+	<key>parallelAwait</key>
+	<string>pageviewHue</string>
+	<key>scrollableFormat</key>
+	<string>moduleScale</string>
+	<key>shouldCreatePromise</key>
+	<string>numericalSine</string>
+	<key>shouldFetchExponent</key>
+	<string>asynchronousPoint</string>
+	<key>shouldPaintUsage</key>
+	<string>polyfillMargin</string>
+</dict>
+</plist>

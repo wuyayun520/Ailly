@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>persistentHistogram</key>
+	<string>holdlayout</string>
+	<key>shouldAnimateUnary</key>
+	<string>canFetchBaseline</string>
+	<key>shouldCacheCache</key>
+	<string>statelessLocalization</string>
+	<key>shouldPersistBinary</key>
+	<string>reducerwithoutlevel</string>
+	<key>usedTrajectory</key>
+	<string>brushVisibility</string>
+</dict>
+</plist>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>directlyConstant</key>
+	<string>persistentContainer</string>
+	<key>persistentDetector</key>
+	<string>quantizationtext</string>
+	<key>respectiveRange</key>
+	<string>blocOrientation</string>
+	<key>sharedcoordinator</key>
+	<string>integrityTop</string>
+	<key>stepBehavior</key>
+	<string>encodeIsolate</string>
+</dict>
+</plist>

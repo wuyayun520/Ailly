@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>agileConfiguration</key>
+	<string>popGradient</string>
+	<key>disposepresenter</key>
+	<string>transformCache</string>
+	<key>enabledFormat</key>
+	<string>drawerStatus</string>
+	<key>gradientskewx</key>
+	<string>asynchronousintensity</string>
+	<key>subtleEvolution</key>
+	<string>textTint</string>
+	<key>uniqueCache</key>
+	<string>canContinueSine</string>
+</dict>
+</plist>

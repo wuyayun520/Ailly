@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accessibleQueue</key>
+	<string>addReducer</string>
+	<key>agileLayout</key>
+	<string>dispatchCheckbox</string>
+	<key>elasticSpine</key>
+	<string>latencyTag</string>
+	<key>euclideanStoryboard</key>
+	<string>slashType</string>
+	<key>normalMediaQuery</key>
+	<string>serializesignature</string>
+	<key>notationTop</key>
+	<string>encodeSymbol</string>
+	<key>sequentialTriangles</key>
+	<string>processQueue</string>
+	<key>serviceorigin</key>
+	<string>compareResponse</string>
+	<key>shouldShowLabel</key>
+	<string>activatedAperture</string>
+	<key>uniqueGradient</key>
+	<string>shouldHandleMomentum</string>
+</dict>
+</plist>

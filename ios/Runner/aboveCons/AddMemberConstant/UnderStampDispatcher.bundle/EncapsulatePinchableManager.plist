@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activatedoffset</key>
+	<string>intermediateMaterial</string>
+	<key>asynchronousConsumer</key>
+	<string>materialListener</string>
+	<key>computedelegate</key>
+	<string>significantView</string>
+	<key>defaultMaterial</key>
+	<string>rapidMaterial</string>
+	<key>denseNode</key>
+	<string>shouldRouteBoxShadow</string>
+	<key>logaspect</key>
+	<string>resilientconvolutionopacity</string>
+	<key>newestThreshold</key>
+	<string>customDetector</string>
+	<key>shouldHandleSubpixel</key>
+	<string>respondPopup</string>
+</dict>
+</plist>

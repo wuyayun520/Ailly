@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>appbarShape</key>
+	<string>layerParameter</string>
+	<key>globalroletension</key>
+	<string>specifierRight</string>
+	<key>hierarchicalController</key>
+	<string>gemqueue</string>
+	<key>rendererOrientation</key>
+	<string>secondIntensity</string>
+	<key>rendertextfield</key>
+	<string>channelsPhase</string>
+	<key>responderStyle</key>
+	<string>canEncodeSwitch</string>
+</dict>
+</plist>

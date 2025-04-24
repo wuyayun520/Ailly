@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>easyModel</key>
+	<string>functionalDelegate</string>
+	<key>framespacing</key>
+	<string>lockAwait</string>
+	<key>paddingFlags</key>
+	<string>shouldparseappbar</string>
+	<key>seamlessIntensity</key>
+	<string>explicitModulus</string>
+	<key>vectorvertex</key>
+	<string>cacheTangent</string>
+</dict>
+</plist>

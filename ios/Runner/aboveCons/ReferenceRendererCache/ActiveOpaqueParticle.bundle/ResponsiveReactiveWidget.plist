@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>permanentGridView</key>
+	<string>sampleFramework</string>
+	<key>protectedReference</key>
+	<string>seekChannel</string>
+	<key>semanticSlider</key>
+	<string>canMountTable</string>
+	<key>standalonetextvisibility</key>
+	<string>accordionBorder</string>
+	<key>stopinteractor</key>
+	<string>compilepositioned</string>
+</dict>
+</plist>

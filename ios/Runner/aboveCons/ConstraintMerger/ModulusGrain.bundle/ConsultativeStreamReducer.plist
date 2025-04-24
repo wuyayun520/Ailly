@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>commonDelivery</key>
+	<string>canEndGate</string>
+	<key>enabledButton</key>
+	<string>dependencyandmode</string>
+	<key>impressionHead</key>
+	<string>scaleCenter</string>
+	<key>interactiveRestriction</key>
+	<string>unactivatedDescriptor</string>
+	<key>otherRadio</key>
+	<string>visibleChart</string>
+	<key>reactiveInterface</key>
+	<string>executeConstraint</string>
+	<key>scrolltimeline</key>
+	<string>shouldSkipDelegate</string>
+	<key>symmetricCompletion</key>
+	<string>streamProvider</string>
+</dict>
+</plist>

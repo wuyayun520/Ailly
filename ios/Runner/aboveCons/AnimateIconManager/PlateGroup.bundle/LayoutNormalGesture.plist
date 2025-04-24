@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>agileScroller</key>
+	<string>constructEvent</string>
+	<key>cubitTop</key>
+	<string>processloss</string>
+	<key>currentAwait</key>
+	<string>positionedFunction</string>
+	<key>elasticChooser</key>
+	<string>shouldPauseInkWell</string>
+	<key>largeAsync</key>
+	<string>shoulddismissentropy</string>
+	<key>operationTail</key>
+	<string>subtleResolver</string>
+	<key>permutationSize</key>
+	<string>visitLocalization</string>
+	<key>persistentallocator</key>
+	<string>dispatcherCount</string>
+</dict>
+</plist>

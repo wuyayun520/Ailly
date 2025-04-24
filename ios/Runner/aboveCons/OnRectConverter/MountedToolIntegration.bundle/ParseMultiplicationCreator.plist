@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>autoAwait</key>
+	<string>compositionalStrength</string>
+	<key>enabledPopup</key>
+	<string>materializeSize</string>
+	<key>filtercount</key>
+	<string>timercolor</string>
+	<key>fixedTextField</key>
+	<string>bufferimage</string>
+	<key>originalSelector</key>
+	<string>customBinary</string>
+	<key>visibleActivity</key>
+	<string>deprecateNavigator</string>
+</dict>
+</plist>

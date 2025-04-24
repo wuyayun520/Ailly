@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>adaptiveDialogs</key>
+	<string>deserializelayout</string>
+	<key>defaultChecklist</key>
+	<string>fusedDocument</string>
+	<key>permanenttexture</key>
+	<string>canFetchListView</string>
+	<key>presenterSpacing</key>
+	<string>matrixorigin</string>
+	<key>significantRange</key>
+	<string>encapsulateSubscription</string>
+	<key>unsortedListener</key>
+	<string>commonMedia</string>
+</dict>
+</plist>

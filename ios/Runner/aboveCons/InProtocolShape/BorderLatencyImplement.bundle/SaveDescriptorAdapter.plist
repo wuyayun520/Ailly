@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>autoStatus</key>
+	<string>statelessContainer</string>
+	<key>declarativeProjection</key>
+	<string>criticalObject</string>
+	<key>imperativeColor</key>
+	<string>spinChannel</string>
+	<key>logCoord</key>
+	<string>statusCenter</string>
+	<key>shouldPauseCustomPaint</key>
+	<string>canTransformStateful</string>
+	<key>synchronousFilter</key>
+	<string>writeAsset</string>
+</dict>
+</plist>

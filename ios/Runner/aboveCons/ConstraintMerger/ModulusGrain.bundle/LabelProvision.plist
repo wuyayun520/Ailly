@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>agileSpine</key>
+	<string>shouldBuildGrayscale</string>
+	<key>cupertinoConnector</key>
+	<string>lostNavigator</string>
+	<key>inheritedMetrics</key>
+	<string>extensionCount</string>
+	<key>injectcubit</key>
+	<string>animatedTitle</string>
+	<key>mediumRow</key>
+	<string>canRouteHistogram</string>
+	<key>movementStatus</key>
+	<string>challengeSpeed</string>
+	<key>permanentZone</key>
+	<string>otherCube</string>
+	<key>protectedArchitecture</key>
+	<string>shouldRebuildMargin</string>
+	<key>timeContrast</key>
+	<string>advancedAperture</string>
+</dict>
+</plist>

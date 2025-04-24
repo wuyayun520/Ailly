@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>alignmentCount</key>
+	<string>isinstruction</string>
+	<key>geometricPopup</key>
+	<string>canYieldPositioned</string>
+	<key>hyperbolicHeap</key>
+	<string>responderSkewY</string>
+	<key>mainEffect</key>
+	<string>sequentialOffset</string>
+	<key>signatureVisible</key>
+	<string>alignmentOpacity</string>
+	<key>sortedProfile</key>
+	<string>isolateBottom</string>
+</dict>
+</plist>

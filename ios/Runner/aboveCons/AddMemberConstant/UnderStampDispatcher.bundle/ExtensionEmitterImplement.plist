@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>keyradius</key>
+	<string>dispatchrequest</string>
+	<key>presenterAlignment</key>
+	<string>decodemetadata</string>
+	<key>rowperbridge</key>
+	<string>checklistSaturation</string>
+	<key>shouldContinueTangent</key>
+	<string>paddingTransparency</string>
+</dict>
+</plist>

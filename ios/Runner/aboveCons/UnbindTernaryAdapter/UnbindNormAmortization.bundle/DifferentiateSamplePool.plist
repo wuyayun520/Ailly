@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>aspectInset</key>
+	<string>quaternionPadding</string>
+	<key>capsulelocalization</key>
+	<string>shouldUpdateUnary</string>
+	<key>compositionScale</key>
+	<string>sineTheme</string>
+	<key>desktopMonster</key>
+	<string>cachetimer</string>
+	<key>independentTheme</key>
+	<string>mechanismSize</string>
+	<key>sharedCharacter</key>
+	<string>shouldfinishskin</string>
+	<key>shouldBuildSizedBox</key>
+	<string>checklistValidation</string>
+	<key>shouldTransitionExpanded</key>
+	<string>canUnmountedListView</string>
+</dict>
+</plist>

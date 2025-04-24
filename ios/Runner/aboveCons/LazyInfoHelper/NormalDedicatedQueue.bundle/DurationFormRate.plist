@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>ascentTint</key>
+	<string>hashMediator</string>
+	<key>bitratecallback</key>
+	<string>tappableTernary</string>
+	<key>hashShape</key>
+	<string>mobileOption</string>
+	<key>intensityDirection</key>
+	<string>shouldDismissBox</string>
+	<key>layoutstack</key>
+	<string>sizePlatform</string>
+	<key>liteDisclaimer</key>
+	<string>musicEnvironment</string>
+	<key>prevSlider</key>
+	<string>shouldPushOperation</string>
+	<key>shouldunmountindicator</key>
+	<string>widgetversusobserver</string>
+</dict>
+</plist>

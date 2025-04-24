@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>beginnerAspectRatio</key>
+	<string>anchorOrigin</string>
+	<key>borderOrigin</key>
+	<string>directlyTween</string>
+	<key>mediumRepository</key>
+	<string>paintFuture</string>
+	<key>nativeDispatcher</key>
+	<string>secondStorage</string>
+	<key>reusableAppBar</key>
+	<string>volumeInterval</string>
+	<key>shouldBindScaffold</key>
+	<string>sessionsingletontop</string>
+	<key>unsortedFrame</key>
+	<string>custompaintForce</string>
+</dict>
+</plist>

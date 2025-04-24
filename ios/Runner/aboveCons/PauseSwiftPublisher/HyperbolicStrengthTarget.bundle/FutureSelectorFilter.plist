@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activeMultiplication</key>
+	<string>skipReference</string>
+	<key>backwardMesh</key>
+	<string>listenTouch</string>
+	<key>cardBound</key>
+	<string>equalText</string>
+	<key>declarativeSizedBox</key>
+	<string>normalContraction</string>
+	<key>firstAwait</key>
+	<string>segueforce</string>
+	<key>processorSize</key>
+	<string>tappableprogressbar</string>
+	<key>sceneContrast</key>
+	<string>intuitivePlate</string>
+	<key>tensorCapsule</key>
+	<string>declarativePlate</string>
+</dict>
+</plist>

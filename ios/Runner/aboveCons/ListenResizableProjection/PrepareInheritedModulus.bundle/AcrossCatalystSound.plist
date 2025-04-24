@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>materialImpact</key>
+	<string>scrollableMonster</string>
+	<key>mobileFragment</key>
+	<string>protectedRoute</string>
+	<key>scopeDelay</key>
+	<string>notifierEnvironment</string>
+	<key>shouldYieldNotification</key>
+	<string>canPauseAperture</string>
+	<key>sustainableExpanded</key>
+	<string>canAttachBorder</string>
+</dict>
+</plist>

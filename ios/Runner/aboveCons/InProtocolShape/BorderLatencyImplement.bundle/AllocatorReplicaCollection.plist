@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>emitterSpeed</key>
+	<string>updatenode</string>
+	<key>eventschema</key>
+	<string>shouldTransitionLoss</string>
+	<key>lastIntensity</key>
+	<string>shouldDeserializeCompletion</string>
+	<key>litefutureleft</key>
+	<string>utilindex</string>
+	<key>notifystorage</key>
+	<string>channelFormat</string>
+	<key>reusabledisclaimer</key>
+	<string>providerAcceleration</string>
+	<key>shouldbuildinitiators</key>
+	<string>shouldHandleHistogram</string>
+	<key>substantialSine</key>
+	<string>greatResilience</string>
+	<key>ternaryDelay</key>
+	<string>deferredWidget</string>
+</dict>
+</plist>

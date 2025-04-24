@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accessorylocation</key>
+	<string>boxOrigin</string>
+	<key>basedecoration</key>
+	<string>statelessIntensity</string>
+	<key>dynamicIndicator</key>
+	<string>ignoredBullet</string>
+	<key>layerHead</key>
+	<string>builderPressure</string>
+	<key>referenceOpacity</key>
+	<string>renderPoint</string>
+	<key>uniqueService</key>
+	<string>synchronousAnimator</string>
+</dict>
+</plist>

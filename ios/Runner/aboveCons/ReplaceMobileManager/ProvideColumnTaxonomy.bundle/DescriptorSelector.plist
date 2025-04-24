@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>aspectratioStatus</key>
+	<string>respondDuration</string>
+	<key>basicPositioned</key>
+	<string>constructDecoration</string>
+	<key>buildervalidation</key>
+	<string>spotIndex</string>
+	<key>completerspacing</key>
+	<string>shouldConnectBuilder</string>
+	<key>shouldInitializeBorder</key>
+	<string>requiredProcessor</string>
+	<key>shouldStreamCertificate</key>
+	<string>tappableCube</string>
+</dict>
+</plist>

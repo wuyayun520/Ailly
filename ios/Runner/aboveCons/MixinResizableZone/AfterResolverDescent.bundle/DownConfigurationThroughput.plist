@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>channelVisibility</key>
+	<string>normalMission</string>
+	<key>compositionmediatorcoord</key>
+	<string>usageandjob</string>
+	<key>connectorIndex</key>
+	<string>curveScale</string>
+	<key>firstBase</key>
+	<string>dedicatedAnimatedContainer</string>
+	<key>interfaceInterval</key>
+	<string>relationalFlex</string>
+	<key>semanticLatency</key>
+	<string>fragmentsOrigin</string>
+	<key>shouldNotifyInkWell</key>
+	<string>canMountBox</string>
+	<key>skippositioned</key>
+	<string>enabledCursor</string>
+	<key>streamlinefeature</key>
+	<string>visibleSubpixel</string>
+</dict>
+</plist>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>capsuleState</key>
+	<string>updatebrush</string>
+	<key>inheritedLoop</key>
+	<string>staticShader</string>
+	<key>itemFormat</key>
+	<string>scrollableInstruction</string>
+	<key>mediumAudio</key>
+	<string>largePadding</string>
+	<key>opaqueProgressBar</key>
+	<string>numericalBinder</string>
+	<key>otherPresenter</key>
+	<string>shouldNavigateDocument</string>
+	<key>recursionOffset</key>
+	<string>deferredAnimatedContainer</string>
+	<key>rowcompositelocation</key>
+	<string>similarGrain</string>
+</dict>
+</plist>

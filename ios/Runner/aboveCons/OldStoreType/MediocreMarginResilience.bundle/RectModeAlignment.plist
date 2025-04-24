@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>brushSkewX</key>
+	<string>canDisposeCoordinator</string>
+	<key>colorAlignment</key>
+	<string>rapidEqualization</string>
+	<key>eagerRequest</key>
+	<string>mutableStorage</string>
+	<key>independentLoop</key>
+	<string>customizedContraction</string>
+	<key>radioTransparency</key>
+	<string>smallSkin</string>
+	<key>shouldNavigateProfile</key>
+	<string>canDetachSpecifier</string>
+	<key>shouldSkipSymbol</key>
+	<string>storeAdapter</string>
+</dict>
+</plist>

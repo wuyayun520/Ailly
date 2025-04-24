@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>capsuleResponse</key>
+	<string>strokeEdge</string>
+	<key>decorationstate</key>
+	<string>canAttachHistogram</string>
+	<key>defaultListView</key>
+	<string>deserializeMatrix</string>
+	<key>deferredcurve</key>
+	<string>pausereducer</string>
+	<key>materialGem</key>
+	<string>canPopBrush</string>
+	<key>opaqueCharacter</key>
+	<string>canPaintSegue</string>
+	<key>pivotalGem</key>
+	<string>temporaryScroll</string>
+	<key>reusableLabel</key>
+	<string>shouldValidateCosine</string>
+	<key>sessionoffset</key>
+	<string>ternaryBridge</string>
+	<key>vectorVelocity</key>
+	<string>shouldUpdateCurve</string>
+</dict>
+</plist>

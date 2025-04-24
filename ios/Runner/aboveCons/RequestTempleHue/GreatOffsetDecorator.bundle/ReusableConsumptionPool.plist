@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>challengeloop</key>
+	<string>listenerPattern</string>
+	<key>disabledgemrate</key>
+	<string>bulletParameter</string>
+	<key>fixedscene</key>
+	<string>visibleWrapper</string>
+	<key>iterativeCheckbox</key>
+	<string>temporarySine</string>
+	<key>labelevent</key>
+	<string>shouldCacheMap</string>
+	<key>moduleTag</key>
+	<string>accordionPager</string>
+	<key>persistentEqualization</key>
+	<string>aspectexception</string>
+	<key>selectedAnimation</key>
+	<string>specifierForce</string>
+	<key>toolVisible</key>
+	<string>tabbarcolor</string>
+</dict>
+</plist>

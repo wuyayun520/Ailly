@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>explicitaspectstyle</key>
+	<string>deprecateAction</string>
+	<key>requiredhash</key>
+	<string>diffableInteraction</string>
+	<key>scaleDelay</key>
+	<string>extensionOrientation</string>
+	<key>standaloneArithmetic</key>
+	<string>scenarioTransparency</string>
+	<key>strengthorigin</key>
+	<string>titleScope</string>
+	<key>textskewx</key>
+	<string>visibleProvision</string>
+	<key>topicState</key>
+	<string>navigationrate</string>
+</dict>
+</plist>

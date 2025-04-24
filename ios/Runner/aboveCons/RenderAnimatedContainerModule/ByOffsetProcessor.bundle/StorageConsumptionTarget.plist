@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cartesianScenario</key>
+	<string>particleOrigin</string>
+	<key>drawerCoord</key>
+	<string>gradientBound</string>
+	<key>otherMaster</key>
+	<string>significantChooser</string>
+	<key>prevPopup</key>
+	<string>gesturedetectorScale</string>
+	<key>quaternionrate</key>
+	<string>controllerasfunction</string>
+	<key>trajectoryRate</key>
+	<string>initializeQueue</string>
+	<key>visiblepositiontag</key>
+	<string>shoulddisconnecttransition</string>
+</dict>
+</plist>

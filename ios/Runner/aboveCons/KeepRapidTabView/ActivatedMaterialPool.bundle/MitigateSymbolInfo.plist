@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>configurationkind</key>
+	<string>explicitComposition</string>
+	<key>mutableIndicator</key>
+	<string>pinchableChooser</string>
+	<key>showsizedbox</key>
+	<string>shouldCacheBase</string>
+	<key>substantialPadding</key>
+	<string>compositionalProjection</string>
+</dict>
+</plist>

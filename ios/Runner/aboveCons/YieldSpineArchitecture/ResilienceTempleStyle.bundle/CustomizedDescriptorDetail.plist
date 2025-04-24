@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>consumptionSpeed</key>
+	<string>flexibleReduction</string>
+	<key>currentcaption</key>
+	<string>specifyDialogs</string>
+	<key>disabledTask</key>
+	<string>allocatorWork</string>
+	<key>keyTable</key>
+	<string>unsortedDelivery</string>
+	<key>methodlayerinterval</key>
+	<string>radiusstrategytension</string>
+	<key>schedulerHead</key>
+	<string>shouldPushGem</string>
+	<key>shouldDismissPadding</key>
+	<string>shouldLayoutMap</string>
+	<key>strengthHue</key>
+	<string>localReduction</string>
+	<key>transformerprocessor</key>
+	<string>priorityParameter</string>
+</dict>
+</plist>

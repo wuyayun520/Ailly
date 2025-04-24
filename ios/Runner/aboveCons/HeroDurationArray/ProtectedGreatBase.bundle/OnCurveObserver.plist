@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animatedcontainerscope</key>
+	<string>synchronousdelegateshade</string>
+	<key>maincolumn</key>
+	<string>registerInteractor</string>
+	<key>missedCube</key>
+	<string>inflateCycle</string>
+	<key>parallelChallenge</key>
+	<string>beginnerNode</string>
+	<key>remainderDepth</key>
+	<string>aggregateObserver</string>
+	<key>reusableCallback</key>
+	<string>otherAnimation</string>
+	<key>semanticCharacteristic</key>
+	<string>combinerHue</string>
+	<key>temporaryEquivalent</key>
+	<string>priorCertificate</string>
+</dict>
+</plist>

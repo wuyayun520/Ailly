@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>acceleratecatalyst</key>
+	<string>uniqueTechnique</string>
+	<key>activityperpattern</key>
+	<string>immutableSign</string>
+	<key>constraintstate</key>
+	<string>progressbarmapper</string>
+	<key>descentCenter</key>
+	<string>explicitObject</string>
+	<key>layoutresponse</key>
+	<string>crucialSegue</string>
+	<key>methodType</key>
+	<string>appbarPosition</string>
+	<key>shouldFinishNib</key>
+	<string>sustainableutiledge</string>
+	<key>shouldInitializeInstruction</key>
+	<string>annotateTicker</string>
+	<key>subtleProvider</key>
+	<string>spritesound</string>
+	<key>triggerfeedback</key>
+	<string>shouldSerializeCurve</string>
+</dict>
+</plist>

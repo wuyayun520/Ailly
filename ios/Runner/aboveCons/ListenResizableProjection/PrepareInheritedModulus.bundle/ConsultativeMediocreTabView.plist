@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>builderrotation</key>
+	<string>aspectratiostageright</string>
+	<key>checklistSpeed</key>
+	<string>maintainfragment</string>
+	<key>denseCharacteristic</key>
+	<string>shouldEmitCupertino</string>
+	<key>elasticcaption</key>
+	<string>staticStateful</string>
+	<key>hierarchicalLocalization</key>
+	<string>extensionEdge</string>
+	<key>optionSpacing</key>
+	<string>shouldStopInstruction</string>
+	<key>replicaDuration</key>
+	<string>connectChapter</string>
+	<key>shouldformattabbar</key>
+	<string>canBuildNavigator</string>
+	<key>uniqueProtocol</key>
+	<string>substantialStore</string>
+	<key>viewtriangles</key>
+	<string>musicstate</string>
+</dict>
+</plist>

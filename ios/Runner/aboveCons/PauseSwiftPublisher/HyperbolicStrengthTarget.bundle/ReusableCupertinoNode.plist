@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activeCertificate</key>
+	<string>shouldBuildColumn</string>
+	<key>activepositionedoffset</key>
+	<string>startNorm</string>
+	<key>dropdownbuttonposition</key>
+	<string>playbackResponse</string>
+	<key>invisibleoffset</key>
+	<string>validatechannels</string>
+	<key>otherStoryboard</key>
+	<string>cacheslider</string>
+	<key>shouldStreamSignature</key>
+	<string>prismaticutil</string>
+	<key>shouldUnmountedPositioned</key>
+	<string>consumeUseCase</string>
+</dict>
+</plist>

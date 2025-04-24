@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activeMargin</key>
+	<string>receiveCoordinator</string>
+	<key>ignoredtweenvisibility</key>
+	<string>mapperTail</string>
+	<key>kernelobserverlocation</key>
+	<string>shouldListenProject</string>
+	<key>masterfunctiontransparency</key>
+	<string>informationTransparency</string>
+	<key>strengthTint</key>
+	<string>canKeepMediaQuery</string>
+	<key>viewposition</key>
+	<string>canStreamTextField</string>
+</dict>
+</plist>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>advancedSubscriber</key>
+	<string>textureShade</string>
+	<key>eventOrientation</key>
+	<string>positionedSaturation</string>
+	<key>fixedAnimation</key>
+	<string>shouldEncodeStamp</string>
+	<key>lossdrawer</key>
+	<string>widgetPhase</string>
+	<key>lossorientation</key>
+	<string>buildSemantics</string>
+	<key>publicDispatcher</key>
+	<string>crudeGrain</string>
+	<key>radiusevolution</key>
+	<string>marshalmediaquery</string>
+	<key>resizableTransformer</key>
+	<string>animatedcontainertolerance</string>
+	<key>tickerremediation</key>
+	<string>richtextScale</string>
+	<key>toolvaluepadding</key>
+	<string>streambrightness</string>
+</dict>
+</plist>

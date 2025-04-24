@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>liteevent</key>
+	<string>previewtop</string>
+	<key>normalcombiner</key>
+	<string>saveDimension</string>
+	<key>pinchablebuilderformat</key>
+	<string>segueSkewY</string>
+	<key>skinSpacing</key>
+	<string>mountedmediaquery</string>
+	<key>substantialGridView</key>
+	<string>stackdecoratortheme</string>
+	<key>uniformprofile</key>
+	<string>axisEdge</string>
+	<key>unsortedWrapper</key>
+	<string>uniformObject</string>
+	<key>vertexDelay</key>
+	<string>inflateGift</string>
+</dict>
+</plist>

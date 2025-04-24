@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>chooserValidation</key>
+	<string>numericalSymbol</string>
+	<key>explicitStream</key>
+	<string>projectPrototype</string>
+	<key>memberinjection</key>
+	<string>usedIsolate</string>
+	<key>shouldListenTheme</key>
+	<string>animatedAsset</string>
+	<key>shouldRebuildNavigator</key>
+	<string>buttonnearscope</string>
+	<key>shouldunmountsine</key>
+	<string>restoreTopic</string>
+	<key>standaloneSwitch</key>
+	<string>lastRequest</string>
+	<key>strengthDensity</key>
+	<string>techniqueIndex</string>
+	<key>usedResource</key>
+	<string>introspectmetadata</string>
+</dict>
+</plist>

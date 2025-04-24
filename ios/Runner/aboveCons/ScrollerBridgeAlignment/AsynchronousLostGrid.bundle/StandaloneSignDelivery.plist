@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animatedhashtheme</key>
+	<string>heapamortization</string>
+	<key>arithmeticIntegrity</key>
+	<string>backwardTweak</string>
+	<key>basicObserver</key>
+	<string>iterativeRect</string>
+	<key>builderreducer</key>
+	<string>respondMetadata</string>
+	<key>intermediateCurve</key>
+	<string>pushSignature</string>
+	<key>intermediateMap</key>
+	<string>canTransitionCell</string>
+	<key>smallStep</key>
+	<string>stringifycustompaint</string>
+	<key>switchHue</key>
+	<string>soundDistance</string>
+</dict>
+</plist>

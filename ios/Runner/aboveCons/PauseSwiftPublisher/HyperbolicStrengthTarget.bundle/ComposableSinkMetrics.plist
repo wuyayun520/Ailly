@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accordionIcon</key>
+	<string>shouldProcessMovement</string>
+	<key>aspectratioopacity</key>
+	<string>canInflateClipper</string>
+	<key>dynamicdetector</key>
+	<string>oldStateful</string>
+	<key>nativeReducer</key>
+	<string>positionedhue</string>
+	<key>shouldFinishCupertino</key>
+	<string>exitRepository</string>
+</dict>
+</plist>

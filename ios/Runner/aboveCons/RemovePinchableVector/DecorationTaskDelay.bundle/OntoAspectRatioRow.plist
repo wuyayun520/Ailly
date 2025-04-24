@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>beginnerVariant</key>
+	<string>shouldDeserializeAxis</string>
+	<key>detachcache</key>
+	<string>viewreplica</string>
+	<key>ephemeraltexture</key>
+	<string>localCharacteristic</string>
+	<key>fragmentBehavior</key>
+	<string>handlerBuffer</string>
+	<key>overridemargin</key>
+	<string>canDisconnectPlate</string>
+	<key>sizeFlags</key>
+	<string>flexinsidetype</string>
+	<key>unlockbuilder</key>
+	<string>cartesianprovider</string>
+</dict>
+</plist>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activityvisitorbehavior</key>
+	<string>strengthSaturation</string>
+	<key>liteWorkflow</key>
+	<string>allocatorrate</string>
+	<key>mediaqueryMode</key>
+	<string>numericalDisclaimer</string>
+	<key>metricsDistance</key>
+	<string>intensityinteraction</string>
+	<key>reactiveLayout</key>
+	<string>clipperOffset</string>
+	<key>transformlabel</key>
+	<string>initializeSingleton</string>
+</dict>
+</plist>

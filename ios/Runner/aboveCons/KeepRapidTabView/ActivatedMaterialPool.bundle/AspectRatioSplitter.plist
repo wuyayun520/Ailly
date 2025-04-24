@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>hardPrecision</key>
+	<string>initiatorscurve</string>
+	<key>nextMap</key>
+	<string>requestvelocity</string>
+	<key>painterTransparency</key>
+	<string>seamlessSymbol</string>
+	<key>pushstate</key>
+	<string>resourcecount</string>
+	<key>shouldendcertificate</key>
+	<string>subsequentSensor</string>
+	<key>singleBox</key>
+	<string>crudeTouch</string>
+	<key>unactivatedPrecision</key>
+	<string>shearTicker</string>
+</dict>
+</plist>

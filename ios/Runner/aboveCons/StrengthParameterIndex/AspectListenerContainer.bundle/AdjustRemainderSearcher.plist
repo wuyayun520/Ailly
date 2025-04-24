@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>blocFlags</key>
+	<string>webSearcher</string>
+	<key>concreteInfrastructure</key>
+	<string>dynamicSprite</string>
+	<key>formatKind</key>
+	<string>markBloc</string>
+	<key>immediateAnimator</key>
+	<string>composablegridview</string>
+	<key>originalAnimator</key>
+	<string>composableSwitch</string>
+	<key>pivotalFrame</key>
+	<string>differentiateModel</string>
+	<key>semanticbutton</key>
+	<string>shouldPublishAnchor</string>
+	<key>uniqueTitle</key>
+	<string>usagerectangle</string>
+</dict>
+</plist>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>attachzone</key>
+	<string>shouldDecodeNorm</string>
+	<key>cubitStatus</key>
+	<string>animatorLeft</string>
+	<key>curveFeedback</key>
+	<string>rebuildConstraint</string>
+	<key>customRect</key>
+	<string>clipperType</string>
+	<key>multiSemantics</key>
+	<string>popgram</string>
+	<key>nextDependency</key>
+	<string>presentStoryboard</string>
+	<key>previewDepth</key>
+	<string>intermediateOccasion</string>
+	<key>shouldHandleImage</key>
+	<string>indicatoraroundstyle</string>
+	<key>significantCustomPaint</key>
+	<string>positionedDistance</string>
+</dict>
+</plist>

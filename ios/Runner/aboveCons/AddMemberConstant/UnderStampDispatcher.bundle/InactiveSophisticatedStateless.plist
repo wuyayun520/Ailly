@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>clusterFormat</key>
+	<string>inactiveReduction</string>
+	<key>prevemitter</key>
+	<string>primarytext</string>
+	<key>scrollableTask</key>
+	<string>modulusCycle</string>
+	<key>secondsymbol</key>
+	<string>streamPressure</string>
+	<key>sortedStatus</key>
+	<string>curvedespiteproxy</string>
+</dict>
+</plist>

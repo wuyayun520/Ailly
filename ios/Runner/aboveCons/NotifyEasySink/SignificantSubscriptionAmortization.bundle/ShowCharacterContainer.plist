@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>easyMonster</key>
+	<string>writeTimer</string>
+	<key>globalText</key>
+	<string>oldDuration</string>
+	<key>responsiveNode</key>
+	<string>brushtimer</string>
+	<key>shouldPaintSkirt</key>
+	<string>bulletValidation</string>
+	<key>shoulddismissinstruction</key>
+	<string>hierarchicalMesh</string>
+	<key>variantShade</key>
+	<string>resourceparamorigin</string>
+</dict>
+</plist>

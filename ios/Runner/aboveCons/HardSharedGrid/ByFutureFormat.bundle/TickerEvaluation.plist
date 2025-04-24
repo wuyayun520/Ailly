@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>discardedPermutation</key>
+	<string>reactiveNode</string>
+	<key>elasticityshape</key>
+	<string>handlegraph</string>
+	<key>futureresponse</key>
+	<string>symbolkindvalidation</string>
+	<key>inactiveTriangles</key>
+	<string>fusedCompleter</string>
+	<key>shouldCreateGestureDetector</key>
+	<string>specifierTransparency</string>
+	<key>shouldNavigateDimension</key>
+	<string>discoverAction</string>
+</dict>
+</plist>

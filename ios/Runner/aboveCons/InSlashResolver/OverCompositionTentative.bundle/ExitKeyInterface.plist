@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>backwardScroll</key>
+	<string>semanticsPattern</string>
+	<key>declarativeService</key>
+	<string>appbarPosition</string>
+	<key>independentcontroller</key>
+	<string>searchAlignment</string>
+	<key>largeAwait</key>
+	<string>remediationBorder</string>
+	<key>shouldPublishImage</key>
+	<string>locklistener</string>
+	<key>shouldValidateSession</key>
+	<string>canSerializeRadio</string>
+	<key>uniqueCollection</key>
+	<string>liteInterpolation</string>
+	<key>utilShade</key>
+	<string>documentSpacing</string>
+</dict>
+</plist>

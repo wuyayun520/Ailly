@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>appbarMode</key>
+	<string>gemshapeedge</string>
+	<key>basicDispatcher</key>
+	<string>routerKind</string>
+	<key>controllerlayerstatus</key>
+	<string>inflateResult</string>
+	<key>futurecapacity</key>
+	<string>defaulttheme</string>
+	<key>gridBehavior</key>
+	<string>durationstatus</string>
+	<key>intermediateSemantics</key>
+	<string>shouldUpdateConsumer</string>
+	<key>originalCosine</key>
+	<string>notifierScope</string>
+	<key>secondView</key>
+	<string>actionAlignment</string>
+	<key>shouldProcessBuilder</key>
+	<string>statefulprocesshead</string>
+</dict>
+</plist>

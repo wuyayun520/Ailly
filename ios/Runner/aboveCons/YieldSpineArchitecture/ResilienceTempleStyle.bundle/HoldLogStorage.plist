@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>asynchronousTable</key>
+	<string>equalizationContext</string>
+	<key>bulletactivitytransparency</key>
+	<string>equalizationdecoration</string>
+	<key>customSink</key>
+	<string>unaryVisitor</string>
+	<key>detailStatus</key>
+	<string>popupWork</string>
+	<key>draggableInitiators</key>
+	<string>documentbesidevariable</string>
+	<key>immediateReplica</key>
+	<string>directTechnique</string>
+	<key>materialNode</key>
+	<string>workflowamongcontext</string>
+	<key>streamcontainer</key>
+	<string>brushlikecontext</string>
+</dict>
+</plist>

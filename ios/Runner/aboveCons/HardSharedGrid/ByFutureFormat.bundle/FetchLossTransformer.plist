@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>buttonshape</key>
+	<string>layeralongpattern</string>
+	<key>consumptionBrightness</key>
+	<string>rapidStateful</string>
+	<key>drawerreducer</key>
+	<string>hardAwait</string>
+	<key>materialTail</key>
+	<string>subscribeTabView</string>
+	<key>onbuttontap</key>
+	<string>shouldSaveWorkflow</string>
+	<key>pushanimation</key>
+	<string>animateSpot</string>
+</dict>
+</plist>

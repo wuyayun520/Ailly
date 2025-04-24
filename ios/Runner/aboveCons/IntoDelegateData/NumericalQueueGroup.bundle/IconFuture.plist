@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>actionflags</key>
+	<string>shouldListenInterpolation</string>
+	<key>othertable</key>
+	<string>shouldEncodeClipper</string>
+	<key>respectiveTaxonomy</key>
+	<string>canPresentColumn</string>
+	<key>sophisticatedCapsule</key>
+	<string>canSetStateSwift</string>
+	<key>titlejoiner</key>
+	<string>mediumpager</string>
+	<key>usedMapper</key>
+	<string>conformConfiguration</string>
+</dict>
+</plist>

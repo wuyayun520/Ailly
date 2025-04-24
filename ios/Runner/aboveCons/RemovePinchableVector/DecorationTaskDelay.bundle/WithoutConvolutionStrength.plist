@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>observerBrightness</key>
+	<string>shouldparsecontraction</string>
+	<key>permanentVector</key>
+	<string>cubeKind</string>
+	<key>saveaspect</key>
+	<string>aspectformname</string>
+	<key>shouldSaveDecoration</key>
+	<string>componentShape</string>
+	<key>spotbuilder</key>
+	<string>mixinTicker</string>
+	<key>statefulClipper</key>
+	<string>particleVelocity</string>
+	<key>statestageskewy</key>
+	<string>allocateslider</string>
+	<key>thresholdSpacing</key>
+	<string>obtainException</string>
+</dict>
+</plist>

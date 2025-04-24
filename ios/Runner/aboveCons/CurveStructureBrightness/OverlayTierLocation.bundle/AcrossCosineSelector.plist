@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>desktopcursor</key>
+	<string>brushFramework</string>
+	<key>expandedmethodindex</key>
+	<string>defaultappbar</string>
+	<key>numericalVideo</key>
+	<string>shouldHandleBitrate</string>
+	<key>oldComponent</key>
+	<string>bitrateDensity</string>
+	<key>typicalMenu</key>
+	<string>mainMap</string>
+</dict>
+</plist>

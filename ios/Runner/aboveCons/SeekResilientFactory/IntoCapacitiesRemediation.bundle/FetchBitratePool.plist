@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>alphaVisible</key>
+	<string>canConnectEquipment</string>
+	<key>beginnerTabBar</key>
+	<string>embraceTopic</string>
+	<key>dependencytransformer</key>
+	<string>crudeModel</string>
+	<key>eventorientation</key>
+	<string>materialDescent</string>
+	<key>hyperbolicTextField</key>
+	<string>dispatchHeap</string>
+	<key>layoutStatus</key>
+	<string>canNavigateColumn</string>
+	<key>layoutbuilder</key>
+	<string>intermediateIcon</string>
+	<key>semanticRequest</key>
+	<string>serviceBottom</string>
+	<key>shouldCancelGestureDetector</key>
+	<string>sophisticatedTouch</string>
+	<key>shouldContinueMultiplication</key>
+	<string>stopsize</string>
+</dict>
+</plist>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>asyncFeedback</key>
+	<string>linkerLocation</string>
+	<key>disabledPlayback</key>
+	<string>paddingEdge</string>
+	<key>discardedMatrix</key>
+	<string>previewcoord</string>
+	<key>extensionOrientation</key>
+	<string>inflatepreview</string>
+	<key>modelversusobserver</key>
+	<string>usedgrayscale</string>
+	<key>navigationsingleton</key>
+	<string>sophisticatedCharacteristic</string>
+	<key>retainedModal</key>
+	<string>canPersistScroll</string>
+	<key>segmentForce</key>
+	<string>resilienceDepth</string>
+	<key>stoptransition</key>
+	<string>smartRemediation</string>
+</dict>
+</plist>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>bulletpreview</key>
+	<string>persistentPriority</string>
+	<key>copyscreen</key>
+	<string>restartImage</string>
+	<key>currentCubit</key>
+	<string>newestAspect</string>
+	<key>currentResolver</key>
+	<string>pinchableRectangle</string>
+	<key>delicateLifecycle</key>
+	<string>interfaceValidation</string>
+	<key>immediateSubpixel</key>
+	<string>subtleConnector</string>
+	<key>inkwelltaxonomy</key>
+	<string>executeService</string>
+	<key>pivotalprecisionstatus</key>
+	<string>defaultternary</string>
+	<key>routeoperationdirection</key>
+	<string>uniquecursortop</string>
+</dict>
+</plist>

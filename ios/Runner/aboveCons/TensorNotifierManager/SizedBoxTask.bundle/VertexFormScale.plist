@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>advancedGem</key>
+	<string>transformappbar</string>
+	<key>crucialslider</key>
+	<string>isolatebrightness</string>
+	<key>easyIntensity</key>
+	<string>fixedChecklist</string>
+	<key>mutablePicker</key>
+	<string>elementFlags</string>
+	<key>prevAspectRatio</key>
+	<string>writeController</string>
+	<key>resourcedescent</key>
+	<string>pushPresenter</string>
+	<key>scaffoldinset</key>
+	<string>originaltaskskewy</string>
+	<key>shouldParseAlpha</key>
+	<string>firstShape</string>
+	<key>unregisterstateful</key>
+	<string>cacheRadio</string>
+</dict>
+</plist>

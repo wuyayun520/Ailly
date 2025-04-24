@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>associatedSorter</key>
+	<string>observermodestatus</string>
+	<key>directlyInitiators</key>
+	<string>routearoundwork</string>
+	<key>displayableImage</key>
+	<string>agileImage</string>
+	<key>enabledSink</key>
+	<string>canStreamAspectRatio</string>
+	<key>repositorycycleresponse</key>
+	<string>nodetimeline</string>
+	<key>shouldDetachStateless</key>
+	<string>modeltrigger</string>
+	<key>shouldrestartscreen</key>
+	<string>undertakeBuilder</string>
+	<key>significantAspectRatio</key>
+	<string>agileAnimation</string>
+	<key>sophisticatedScene</key>
+	<string>independentcubename</string>
+</dict>
+</plist>

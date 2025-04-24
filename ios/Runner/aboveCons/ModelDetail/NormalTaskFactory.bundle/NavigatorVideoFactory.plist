@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>crudetopic</key>
+	<string>discardedCustomPaint</string>
+	<key>cupertinoTransparency</key>
+	<string>queueresponse</string>
+	<key>dedicatedTween</key>
+	<string>pushBehavior</string>
+	<key>easychartvelocity</key>
+	<string>injectionOpacity</string>
+	<key>geometricSegment</key>
+	<string>imperativeBinary</string>
+	<key>globalProvision</key>
+	<string>columnstructurestatus</string>
+	<key>mainTextField</key>
+	<string>menuDepth</string>
+	<key>particlescale</key>
+	<string>profileLeft</string>
+	<key>pushprovider</key>
+	<string>shouldpresentgridview</string>
+	<key>substantialDrawer</key>
+	<string>reduceCurve</string>
+</dict>
+</plist>

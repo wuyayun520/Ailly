@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>beginnerCell</key>
+	<string>navigateexponent</string>
+	<key>cardLeft</key>
+	<string>nextDetail</string>
+	<key>combinerBehavior</key>
+	<string>channelsMargin</string>
+	<key>emitterBorder</key>
+	<string>unsortedAlert</string>
+	<key>factoryprocessfrequency</key>
+	<string>materializerBrightness</string>
+	<key>gemoftier</key>
+	<string>streamStyle</string>
+	<key>groupinteraction</key>
+	<string>localizationOpacity</string>
+	<key>rapidGift</key>
+	<string>canStopInkWell</string>
+	<key>tabbarDirection</key>
+	<string>defaultChecklist</string>
+</dict>
+</plist>

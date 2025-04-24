@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>dependencytail</key>
+	<string>notifierProxy</string>
+	<key>granularConsumption</key>
+	<string>parallelInjection</string>
+	<key>ignoredWorkflow</key>
+	<string>stackentity</string>
+	<key>nextPet</key>
+	<string>decoupleTimer</string>
+	<key>shouldFinishUnary</key>
+	<string>fusedfinder</string>
+	<key>synchronousMechanism</key>
+	<string>loadCoordinator</string>
+</dict>
+</plist>

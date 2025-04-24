@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cartesianEfficiency</key>
+	<string>transformState</string>
+	<key>currentMargin</key>
+	<string>fusedStep</string>
+	<key>emitterOffset</key>
+	<string>nodeCenter</string>
+	<key>reducerSkewY</key>
+	<string>lazyIndicator</string>
+	<key>responsiveRemainder</key>
+	<string>scenarioDuration</string>
+	<key>shouldReplaceSession</key>
+	<string>bundlePopup</string>
+	<key>statelessPermutation</key>
+	<string>canTrainObserver</string>
+	<key>unactivatedBandwidth</key>
+	<string>adjustAwait</string>
+</dict>
+</plist>

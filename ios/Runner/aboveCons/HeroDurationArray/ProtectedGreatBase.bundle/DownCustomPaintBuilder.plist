@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>associatedAnalyzer</key>
+	<string>shouldStartMap</string>
+	<key>criticalTaxonomy</key>
+	<string>composableCursor</string>
+	<key>firststate</key>
+	<string>directlyrow</string>
+	<key>menuSkewY</key>
+	<string>storyboardSpacing</string>
+	<key>publisherSaturation</key>
+	<string>animateTimer</string>
+	<key>webDependency</key>
+	<string>euclideanProcessor</string>
+</dict>
+</plist>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>exceptionSaturation</key>
+	<string>mediocreFilter</string>
+	<key>firstdimension</key>
+	<string>normState</string>
+	<key>listenmonster</key>
+	<string>dialogsFunction</string>
+	<key>parallelView</key>
+	<string>basicSkirt</string>
+	<key>shouldReplaceMaster</key>
+	<string>appendHash</string>
+</dict>
+</plist>

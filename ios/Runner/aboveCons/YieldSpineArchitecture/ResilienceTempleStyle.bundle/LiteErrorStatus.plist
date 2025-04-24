@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>euclideanFactory</key>
+	<string>schedulerVelocity</string>
+	<key>layoutcount</key>
+	<string>shouldDetachMaster</string>
+	<key>newestJoiner</key>
+	<string>interceptDependency</string>
+	<key>notifierSaturation</key>
+	<string>detachConsumer</string>
+	<key>shouldEncodeChecklist</key>
+	<string>canPauseCollection</string>
+	<key>utilType</key>
+	<string>beginnerTween</string>
+</dict>
+</plist>

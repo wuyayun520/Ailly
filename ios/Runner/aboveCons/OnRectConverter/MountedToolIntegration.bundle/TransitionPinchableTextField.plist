@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>composableasync</key>
+	<string>shouldEncodeUsage</string>
+	<key>lastDescent</key>
+	<string>globalMaterializer</string>
+	<key>normalMethod</key>
+	<string>staticTernary</string>
+	<key>sequentialText</key>
+	<string>titlecontextresponse</string>
+	<key>shouldInitializeShader</key>
+	<string>commonPosition</string>
+	<key>shouldPublishCompletion</key>
+	<string>firstcoordinatorstate</string>
+	<key>synchronousGraph</key>
+	<string>listenStamp</string>
+	<key>threadTail</key>
+	<string>shouldNavigateSpecifier</string>
+</dict>
+</plist>

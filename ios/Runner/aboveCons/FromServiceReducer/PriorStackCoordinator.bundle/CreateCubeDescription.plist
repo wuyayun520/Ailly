@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>concreteAnalyzer</key>
+	<string>shouldAttachSymbol</string>
+	<key>explicitInterpolation</key>
+	<string>lockCallback</string>
+	<key>fixedHero</key>
+	<string>directlyReference</string>
+	<key>reusableCursor</key>
+	<string>difficultBullet</string>
+	<key>shouldSubscribeOverlay</key>
+	<string>rectamortization</string>
+	<key>storageduringpattern</key>
+	<string>multiTabView</string>
+</dict>
+</plist>

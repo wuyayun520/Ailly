@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>configurationlevelcontrast</key>
+	<string>firstReceiver</string>
+	<key>decorationmerger</key>
+	<string>functionalRect</string>
+	<key>subscriptionDistance</key>
+	<string>painterDensity</string>
+	<key>usageTail</key>
+	<string>stringifyPresenter</string>
+</dict>
+</plist>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>charttransformer</key>
+	<string>connectAppBar</string>
+	<key>menuparamcoord</key>
+	<string>significantSample</string>
+	<key>mobileCoordinator</key>
+	<string>gradientobserverscale</string>
+	<key>promiseposition</key>
+	<string>completioncolor</string>
+	<key>statusKind</key>
+	<string>quantizerAllocator</string>
+	<key>uniformAspect</key>
+	<string>setstateMusic</string>
+	<key>vectorphasemode</key>
+	<string>advancedPositioned</string>
+</dict>
+</plist>

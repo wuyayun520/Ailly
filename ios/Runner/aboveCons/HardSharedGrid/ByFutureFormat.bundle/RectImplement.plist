@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>deferredsensorlocation</key>
+	<string>immediateError</string>
+	<key>opaqueOffset</key>
+	<string>declarativeStrength</string>
+	<key>optimizerRate</key>
+	<string>shouldDispatchGestureDetector</string>
+	<key>shouldFinishMovement</key>
+	<string>requiredSwitch</string>
+	<key>usedDelegate</key>
+	<string>commonPolyfill</string>
+	<key>viewreducer</key>
+	<string>timeOpacity</string>
+</dict>
+</plist>

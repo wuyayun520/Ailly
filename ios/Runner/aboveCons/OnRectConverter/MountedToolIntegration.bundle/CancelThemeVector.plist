@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>advancedcoordinator</key>
+	<string>agileArchitecture</string>
+	<key>convolutionBorder</key>
+	<string>exitScene</string>
+	<key>shouldPrepareSlash</key>
+	<string>rowWork</string>
+	<key>shouldcreatebullet</key>
+	<string>usageOpacity</string>
+	<key>shouldskipview</key>
+	<string>constrainttop</string>
+</dict>
+</plist>

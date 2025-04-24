@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>capsulebehavior</key>
+	<string>consultativeMap</string>
+	<key>globalsession</key>
+	<string>prepareFragment</string>
+	<key>handlemobile</key>
+	<string>connectCell</string>
+	<key>hierarchicalOffset</key>
+	<string>shouldDetachTabView</string>
+	<key>interactiveOffset</key>
+	<string>consultativeHash</string>
+	<key>shouldStartHistogram</key>
+	<string>sizedboxOperation</string>
+	<key>sortedCheckbox</key>
+	<string>animatedAsync</string>
+	<key>sortedContainer</key>
+	<string>backwardGem</string>
+	<key>standalonecallbackmargin</key>
+	<string>shouldBindBehavior</string>
+	<key>synchronousTask</key>
+	<string>inactiverecursion</string>
+</dict>
+</plist>

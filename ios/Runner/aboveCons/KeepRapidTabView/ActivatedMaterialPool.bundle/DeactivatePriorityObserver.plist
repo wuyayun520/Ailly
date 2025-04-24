@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cupertinoThroughput</key>
+	<string>replaceReducer</string>
+	<key>discardedPriority</key>
+	<string>diffableCharacter</string>
+	<key>ignoredScalability</key>
+	<string>curvesensor</string>
+	<key>materialmatrix</key>
+	<string>interpolateGrid</string>
+	<key>playbackoutsidecommand</key>
+	<string>uniformSize</string>
+</dict>
+</plist>

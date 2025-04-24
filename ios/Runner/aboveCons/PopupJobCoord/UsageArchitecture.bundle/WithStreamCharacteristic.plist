@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>checkboxtentative</key>
+	<string>featureWork</string>
+	<key>listenerSpeed</key>
+	<string>createSegue</string>
+	<key>multiStorage</key>
+	<string>queueTier</string>
+	<key>shouldDeserializeThread</key>
+	<string>richtextincludecycle</string>
+	<key>tickeruntilmediator</key>
+	<string>reliabilitySize</string>
+</dict>
+</plist>

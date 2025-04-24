@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activityFlags</key>
+	<string>shouldSetStateStamp</string>
+	<key>disparateDescent</key>
+	<string>blocEnvironment</string>
+	<key>dynamicConfiguration</key>
+	<string>poolslash</string>
+	<key>grainorstyle</key>
+	<string>asyncAcceleration</string>
+	<key>lazyLayout</key>
+	<string>prismaticDelegate</string>
+	<key>shouldStreamHeap</key>
+	<string>activeGift</string>
+</dict>
+</plist>

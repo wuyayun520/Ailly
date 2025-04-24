@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>deferredContainer</key>
+	<string>priorResource</string>
+	<key>impressionMomentum</key>
+	<string>canInflateTextField</string>
+	<key>independentImage</key>
+	<string>animationMode</string>
+	<key>removeentropy</key>
+	<string>arithmeticMargin</string>
+	<key>statefulLoader</key>
+	<string>shouldStartMaster</string>
+	<key>staticTolerance</key>
+	<string>shouldMountedDocument</string>
+</dict>
+</plist>

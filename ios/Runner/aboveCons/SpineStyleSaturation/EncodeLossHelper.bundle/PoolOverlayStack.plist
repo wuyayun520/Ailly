@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animationbesidecycle</key>
+	<string>priorNavigator</string>
+	<key>axisnearoperation</key>
+	<string>mediaqueryasscope</string>
+	<key>chooserResponse</key>
+	<string>acceleratedecoration</string>
+	<key>consultativenotifier</key>
+	<string>dimensionComposite</string>
+	<key>cupertinoGrain</key>
+	<string>canCreateLabel</string>
+	<key>independentGrid</key>
+	<string>canFinishReference</string>
+	<key>layoutaction</key>
+	<string>smartStateless</string>
+	<key>rapidStrength</key>
+	<string>selectedradio</string>
+	<key>shouldunmountedmonster</key>
+	<string>canDetachVariant</string>
+</dict>
+</plist>

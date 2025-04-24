@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>converterInterval</key>
+	<string>mutableConfiguration</string>
+	<key>draggableManager</key>
+	<string>kernelDecorator</string>
+	<key>eagerState</key>
+	<string>looptaskpressure</string>
+	<key>formathero</key>
+	<string>playbackStage</string>
+	<key>insteadsegment</key>
+	<string>augmentInteractor</string>
+	<key>mediumReliability</key>
+	<string>popLoss</string>
+	<key>unactivatedFlex</key>
+	<string>delegateCenter</string>
+</dict>
+</plist>

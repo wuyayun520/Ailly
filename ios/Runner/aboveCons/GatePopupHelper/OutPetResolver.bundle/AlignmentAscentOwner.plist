@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cupertinocount</key>
+	<string>geometricFragment</string>
+	<key>delegatezone</key>
+	<string>accordionLoop</string>
+	<key>enabledradiusstatus</key>
+	<string>eventorientation</string>
+	<key>formatStatus</key>
+	<string>resumeListView</string>
+	<key>musicCount</key>
+	<string>liteAppBar</string>
+	<key>resilientSingleton</key>
+	<string>shapeFrequency</string>
+	<key>substantialRemainder</key>
+	<string>ignoredCapsule</string>
+	<key>tappableTable</key>
+	<string>robustProtocol</string>
+</dict>
+</plist>

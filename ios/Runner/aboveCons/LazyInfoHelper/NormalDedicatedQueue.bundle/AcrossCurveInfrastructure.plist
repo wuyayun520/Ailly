@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>configurationcharacteristic</key>
+	<string>displayLayer</string>
+	<key>profileScale</key>
+	<string>easyBandwidth</string>
+	<key>seamlessPager</key>
+	<string>typicalSegment</string>
+	<key>secondDistinction</key>
+	<string>shouldContinuePositioned</string>
+	<key>shouldPersistSizedBox</key>
+	<string>bufferVelocity</string>
+	<key>sortedColor</key>
+	<string>statelessContainer</string>
+	<key>workflowCount</key>
+	<string>shouldRouteLogarithm</string>
+</dict>
+</plist>

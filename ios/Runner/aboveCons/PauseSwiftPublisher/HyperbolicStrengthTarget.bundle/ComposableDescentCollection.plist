@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>analyzebuffer</key>
+	<string>audiodirection</string>
+	<key>containertask</key>
+	<string>reconcileVector</string>
+	<key>iterativeIsolate</key>
+	<string>canResumeAccessory</string>
+	<key>primaryButton</key>
+	<string>materialCertificate</string>
+	<key>scrollableStore</key>
+	<string>toleranceCenter</string>
+	<key>shouldHandleMobile</key>
+	<string>iterativeHandler</string>
+	<key>unaryStatus</key>
+	<string>shouldEncodeTextField</string>
+	<key>webfeaturecontrast</key>
+	<string>schedulerDelay</string>
+</dict>
+</plist>

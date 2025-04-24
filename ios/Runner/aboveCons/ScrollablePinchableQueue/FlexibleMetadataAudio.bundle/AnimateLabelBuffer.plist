@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>associatedrequest</key>
+	<string>reactiveEntity</string>
+	<key>equipmentcontrast</key>
+	<string>criticalMatrix</string>
+	<key>exceptiontop</key>
+	<string>observerKind</string>
+	<key>gatestatus</key>
+	<string>defaultalpha</string>
+</dict>
+</plist>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>anchorenvironmentforce</key>
+	<string>strokeAppearance</string>
+	<key>commonConstant</key>
+	<string>desktopUnary</string>
+	<key>shouldnavigateprovider</key>
+	<string>canStreamTabBar</string>
+	<key>statefulBase</key>
+	<string>initializeTechnique</string>
+</dict>
+</plist>

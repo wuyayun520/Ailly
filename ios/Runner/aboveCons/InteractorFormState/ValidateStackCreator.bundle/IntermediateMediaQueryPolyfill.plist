@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>analyzeradius</key>
+	<string>routerName</string>
+	<key>basicAxis</key>
+	<string>observerHue</string>
+	<key>basicColor</key>
+	<string>shouldMountedCollection</string>
+	<key>binaryBehavior</key>
+	<string>shouldPrepareTabBar</string>
+	<key>invisibleCaption</key>
+	<string>seekdependency</string>
+	<key>isolatebrightness</key>
+	<string>respondView</string>
+	<key>shouldContinueExpanded</key>
+	<string>layoutMomentum</string>
+	<key>shouldMountBase</key>
+	<string>canEndCursor</string>
+	<key>webAxis</key>
+	<string>appbarComposite</string>
+</dict>
+</plist>

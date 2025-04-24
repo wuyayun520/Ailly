@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>baselinespacing</key>
+	<string>registerService</string>
+	<key>basicpageviewpressure</key>
+	<string>cellscheduler</string>
+	<key>inkwelledge</key>
+	<string>customTrajectory</string>
+	<key>protocolSpacing</key>
+	<string>desktopNavigator</string>
+	<key>semanticColor</key>
+	<string>finderCoord</string>
+	<key>sizedboxanimator</key>
+	<string>uniqueCombiner</string>
+</dict>
+</plist>

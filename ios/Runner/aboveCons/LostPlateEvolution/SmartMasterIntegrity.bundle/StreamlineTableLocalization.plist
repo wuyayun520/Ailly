@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>arithmeticAspect</key>
+	<string>currentVolume</string>
+	<key>arithmeticworkstate</key>
+	<string>baselineuntilstage</string>
+	<key>declarativePopup</key>
+	<string>canDispatchBatch</string>
+	<key>largeresourceborder</key>
+	<string>navigatorFrequency</string>
+	<key>lastResponder</key>
+	<string>customizedAnchor</string>
+	<key>marginpressure</key>
+	<string>saveBehavior</string>
+	<key>shouldSerializeSkirt</key>
+	<string>timerright</string>
+	<key>tappableGesture</key>
+	<string>autoTimeline</string>
+</dict>
+</plist>

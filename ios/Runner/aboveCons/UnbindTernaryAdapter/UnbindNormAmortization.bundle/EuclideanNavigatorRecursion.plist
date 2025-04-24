@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animatedLoader</key>
+	<string>cancelConstraint</string>
+	<key>petprovider</key>
+	<string>insteadProvider</string>
+	<key>pinchableIsolate</key>
+	<string>aspectratioPrototype</string>
+	<key>shouldMountedBullet</key>
+	<string>triggerPressure</string>
+	<key>shouldUnbindContainer</key>
+	<string>serializehash</string>
+	<key>tweenTop</key>
+	<string>resolveRepository</string>
+</dict>
+</plist>

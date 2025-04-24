@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>futurevolume</key>
+	<string>activeInteraction</string>
+	<key>painterrotation</key>
+	<string>shouldTransformSession</string>
+	<key>shouldUnmountWorkflow</key>
+	<string>scrollablemarginhue</string>
+	<key>signatureworkcenter</key>
+	<string>shouldEmitTheme</string>
+	<key>spriteBehavior</key>
+	<string>canvasLocation</string>
+	<key>usedSplitter</key>
+	<string>encodeVariant</string>
+</dict>
+</plist>

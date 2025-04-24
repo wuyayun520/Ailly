@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>capacitiesLeft</key>
+	<string>formatVisible</string>
+	<key>currentgrayscale</key>
+	<string>disabledTicker</string>
+	<key>inflategradient</key>
+	<string>channeltweak</string>
+	<key>newestAlignment</key>
+	<string>symbolSaturation</string>
+	<key>resourcethreshold</key>
+	<string>accelerateContainer</string>
+	<key>shouldCreateTernary</key>
+	<string>groupHead</string>
+	<key>shouldPauseCanvas</key>
+	<string>localizationatlevel</string>
+	<key>unsortedSize</key>
+	<string>secondImage</string>
+</dict>
+</plist>

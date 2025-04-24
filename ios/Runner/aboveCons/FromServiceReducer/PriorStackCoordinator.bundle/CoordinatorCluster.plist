@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>concreteTrigger</key>
+	<string>detectorForce</string>
+	<key>functionalHandler</key>
+	<string>gesturedetectorMomentum</string>
+	<key>immediateDialogs</key>
+	<string>listenerfromproxy</string>
+	<key>latencyBrightness</key>
+	<string>ignoredInitiative</string>
+	<key>mergerShape</key>
+	<string>canUnmountedAspectRatio</string>
+	<key>normalNotifier</key>
+	<string>unscheduleRepository</string>
+	<key>remediationTint</key>
+	<string>shouldPublishDialogs</string>
+	<key>throughputborder</key>
+	<string>zoneVar</string>
+	<key>uniqueComposition</key>
+	<string>aspectratioBridge</string>
+</dict>
+</plist>

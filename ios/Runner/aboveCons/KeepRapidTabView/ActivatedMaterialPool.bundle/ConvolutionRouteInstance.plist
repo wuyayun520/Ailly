@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cleanradius</key>
+	<string>enumerateNode</string>
+	<key>densefragments</key>
+	<string>inflateAnimation</string>
+	<key>descriptionShape</key>
+	<string>mediumListener</string>
+	<key>easyPrecision</key>
+	<string>presenterBound</string>
+	<key>gestureBehavior</key>
+	<string>shouldSkipCycle</string>
+	<key>interactionDensity</key>
+	<string>multiScreen</string>
+	<key>progressbarValidation</key>
+	<string>shouldPushTask</string>
+	<key>shouldpublishmaster</key>
+	<string>displayablepainter</string>
+	<key>singleDescription</key>
+	<string>skirtVelocity</string>
+</dict>
+</plist>

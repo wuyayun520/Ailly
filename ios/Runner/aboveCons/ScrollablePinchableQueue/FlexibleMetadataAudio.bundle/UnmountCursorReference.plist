@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animatorfrequency</key>
+	<string>diffablemenu</string>
+	<key>commonDecoration</key>
+	<string>prevCupertino</string>
+	<key>custompaintstructuretint</key>
+	<string>viewoutsidecommand</string>
+	<key>groupSaturation</key>
+	<string>interfaceResponse</string>
+	<key>optionamongtype</key>
+	<string>reduceResolver</string>
+	<key>shouldDeserializeTabBar</key>
+	<string>tappableaccessory</string>
+	<key>symmetricTaxonomy</key>
+	<string>currentPromise</string>
+	<key>tensorChannels</key>
+	<string>refreshDescription</string>
+	<key>traversalOffset</key>
+	<string>evaluationCenter</string>
+	<key>visibleListener</key>
+	<string>sequentialScenario</string>
+</dict>
+</plist>

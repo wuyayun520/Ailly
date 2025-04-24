@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>concreteNavigation</key>
+	<string>granularPrecision</string>
+	<key>connectresponse</key>
+	<string>gesturedetectorInset</string>
+	<key>crudeRoute</key>
+	<string>retrieveRadius</string>
+	<key>kernelroute</key>
+	<string>canFetchChecklist</string>
+	<key>lastMission</key>
+	<string>staticBorder</string>
+	<key>reactiveCoordinator</key>
+	<string>timerRate</string>
+	<key>shouldCancelPageView</key>
+	<string>canCancelRichText</string>
+	<key>unactivatedPresenter</key>
+	<string>constrainthue</string>
+	<key>unaryTransparency</key>
+	<string>cupertinoPageView</string>
+</dict>
+</plist>

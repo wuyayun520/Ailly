@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>iscustompaint</key>
+	<string>canDetachEquipment</string>
+	<key>normalSkin</key>
+	<string>canInflatePriority</string>
+	<key>shouldListenConsumer</key>
+	<string>activatedProjection</string>
+	<key>shouldObserveDrawer</key>
+	<string>checklistForm</string>
+	<key>shoulddetachmargin</key>
+	<string>greatAsset</string>
+</dict>
+</plist>

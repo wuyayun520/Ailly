@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>buttonprocessstatus</key>
+	<string>canPersistTransition</string>
+	<key>functionalternaryresponse</key>
+	<string>dedicatedInkWell</string>
+	<key>immutableRecursion</key>
+	<string>collectionTag</string>
+	<key>shouldEndMedia</key>
+	<string>composableTextField</string>
+	<key>utildata</key>
+	<string>canDeserializeClipper</string>
+</dict>
+</plist>

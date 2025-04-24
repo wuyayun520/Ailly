@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>discardedHero</key>
+	<string>explicitDependency</string>
+	<key>localdispatcher</key>
+	<string>stepnavigator</string>
+	<key>nodeinterval</key>
+	<string>hierarchicalOffset</string>
+	<key>observetask</key>
+	<string>greatInterface</string>
+	<key>otherPlayback</key>
+	<string>deactivatePresenter</string>
+	<key>quaternionTag</key>
+	<string>cardTheme</string>
+	<key>roletransition</key>
+	<string>extensionTask</string>
+	<key>scaleContrast</key>
+	<string>diffableResilience</string>
+	<key>segmentaboutmediator</key>
+	<string>mutablePolyfill</string>
+	<key>statelessscenario</key>
+	<string>cartesianAllocator</string>
+</dict>
+</plist>

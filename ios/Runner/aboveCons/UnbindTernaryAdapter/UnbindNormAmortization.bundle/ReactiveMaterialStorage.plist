@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>consumebitrate</key>
+	<string>textacceleration</string>
+	<key>containerOffset</key>
+	<string>shouldSkipProfile</string>
+	<key>detectorFlags</key>
+	<string>visibleMonster</string>
+	<key>mainLoss</key>
+	<string>maintainException</string>
+	<key>menuresilience</key>
+	<string>interfaceVar</string>
+	<key>petAlignment</key>
+	<string>normalSensor</string>
+	<key>sceneColor</key>
+	<string>similarJoiner</string>
+	<key>substantialRadio</key>
+	<string>axismodeinteraction</string>
+	<key>uniformOffset</key>
+	<string>canStopNib</string>
+	<key>volumecoord</key>
+	<string>permanentInterpolation</string>
+</dict>
+</plist>

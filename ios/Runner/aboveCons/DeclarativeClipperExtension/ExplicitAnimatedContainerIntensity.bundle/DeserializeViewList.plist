@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>behaviorVisibility</key>
+	<string>stampisolate</string>
+	<key>computecompleter</key>
+	<string>canBuildMediaQuery</string>
+	<key>deferredRange</key>
+	<string>canTransformSignature</string>
+	<key>delegateflyweightposition</key>
+	<string>mobileHandler</string>
+	<key>injectionoutsideoperation</key>
+	<string>seamlessButton</string>
+	<key>materialprovision</key>
+	<string>canDecodeScale</string>
+	<key>referencemechanism</key>
+	<string>reducerflyweightmode</string>
+	<key>shouldCreateKernel</key>
+	<string>imperativeCreator</string>
+</dict>
+</plist>

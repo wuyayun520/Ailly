@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>currentException</key>
+	<string>plateVar</string>
+	<key>easyProjection</key>
+	<string>constraintviawork</string>
+	<key>kernelVisible</key>
+	<string>shouldpersistheap</string>
+	<key>semanticTangent</key>
+	<string>immutablebuffer</string>
+	<key>shouldAttachObserver</key>
+	<string>commonConvolution</string>
+	<key>shouldDispatchResource</key>
+	<string>eagerAnimator</string>
+	<key>shouldSaveAccessory</key>
+	<string>triggerorientation</string>
+	<key>significantInterpolation</key>
+	<string>unactivatedScroll</string>
+	<key>sustainableAnimatedContainer</key>
+	<string>hasResource</string>
+</dict>
+</plist>

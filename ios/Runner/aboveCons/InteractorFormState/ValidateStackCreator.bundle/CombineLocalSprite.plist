@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activeAlignment</key>
+	<string>elasticMerger</string>
+	<key>animatorFrequency</key>
+	<string>canSkipMediaQuery</string>
+	<key>channelshade</key>
+	<string>advancedMediaQuery</string>
+	<key>controllerrate</key>
+	<string>findLoop</string>
+	<key>flexibledecoration</key>
+	<string>converterFormat</string>
+	<key>intuitiveTabBar</key>
+	<string>scrollerMargin</string>
+	<key>invisibleobserver</key>
+	<string>heapDuration</string>
+	<key>losssize</key>
+	<string>canSetStateCanvas</string>
+	<key>webChecklist</key>
+	<string>shouldSkipActivity</string>
+</dict>
+</plist>

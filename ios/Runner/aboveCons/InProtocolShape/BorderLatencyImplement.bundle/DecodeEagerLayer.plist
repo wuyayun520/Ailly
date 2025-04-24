@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accordionEquivalent</key>
+	<string>playbackstrength</string>
+	<key>cleanlogarithm</key>
+	<string>publicLatency</string>
+	<key>delegateAcceleration</key>
+	<string>cubecallback</string>
+	<key>entityscale</key>
+	<string>uniformMesh</string>
+	<key>mediocreContrast</key>
+	<string>capsuleTag</string>
+	<key>originalFuture</key>
+	<string>smartProtocol</string>
+	<key>publicCompletion</key>
+	<string>storePhase</string>
+	<key>shouldPaintCube</key>
+	<string>dimensionInset</string>
+	<key>strokeShade</key>
+	<string>sophisticatedNode</string>
+	<key>usedMember</key>
+	<string>combineSize</string>
+</dict>
+</plist>

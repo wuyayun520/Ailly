@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>aspectresilience</key>
+	<string>chooserBorder</string>
+	<key>associatedstamp</key>
+	<string>aggregateConstraint</string>
+	<key>dynamicTouch</key>
+	<string>projectInset</string>
+	<key>fusedvertex</key>
+	<string>canvasScope</string>
+	<key>hardPolygon</key>
+	<string>defaultProject</string>
+	<key>symmetricmatrix</key>
+	<string>concreteQueue</string>
+</dict>
+</plist>

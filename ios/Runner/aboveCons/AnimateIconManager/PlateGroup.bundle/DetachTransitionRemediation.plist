@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>constantBorder</key>
+	<string>pointTemple</string>
+	<key>interfacesubscriber</key>
+	<string>nodeFormat</string>
+	<key>intermediatePosition</key>
+	<string>axisDistance</string>
+	<key>masterformat</key>
+	<string>shouldNavigateSwift</string>
+	<key>resizableText</key>
+	<string>tweenChain</string>
+	<key>scrollableChooser</key>
+	<string>capsulePlatform</string>
+	<key>tabvieweffect</key>
+	<string>symmetricExpanded</string>
+	<key>workflowanimation</key>
+	<string>unactivatedSkirt</string>
+</dict>
+</plist>

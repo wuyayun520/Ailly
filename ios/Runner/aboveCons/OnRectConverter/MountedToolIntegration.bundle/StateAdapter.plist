@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activatedStroke</key>
+	<string>activeNavigator</string>
+	<key>associatesemantics</key>
+	<string>hasCapsule</string>
+	<key>commonSensor</key>
+	<string>imperativeSubscription</string>
+	<key>componentSkewX</key>
+	<string>shouldCreateController</string>
+	<key>evaluationTail</key>
+	<string>handlemember</string>
+	<key>independentThreshold</key>
+	<string>symmetricColor</string>
+	<key>persistentHandler</key>
+	<string>nibOffset</string>
+	<key>tabledespiteinterpreter</key>
+	<string>batchEdge</string>
+	<key>tabviewInterval</key>
+	<string>relationalResponder</string>
+	<key>typicalCaption</key>
+	<string>pushRoute</string>
+</dict>
+</plist>

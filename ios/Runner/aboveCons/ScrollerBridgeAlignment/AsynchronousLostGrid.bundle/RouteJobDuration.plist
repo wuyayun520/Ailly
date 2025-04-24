@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>beginnerCallback</key>
+	<string>easyProfile</string>
+	<key>initiativePressure</key>
+	<string>transitioninsidestage</string>
+	<key>pinchableAsset</key>
+	<string>explicitConsumption</string>
+	<key>pinchablesingletondelay</key>
+	<string>prevScalability</string>
+	<key>shouldConnectMedia</key>
+	<string>enabledStrength</string>
+	<key>shouldStartAccessory</key>
+	<string>routeMargin</string>
+	<key>sliderTag</key>
+	<string>upgradeSlider</string>
+	<key>symmetricSine</key>
+	<string>denseMend</string>
+	<key>uniqueChooser</key>
+	<string>shouldNotifyWidget</string>
+</dict>
+</plist>

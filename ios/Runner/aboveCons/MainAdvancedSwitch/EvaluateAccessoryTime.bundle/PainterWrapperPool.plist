@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>customInjection</key>
+	<string>shouldDecodeCharacter</string>
+	<key>emittransformer</key>
+	<string>similarSpecifier</string>
+	<key>giftMargin</key>
+	<string>observeSegue</string>
+	<key>permissiveContainer</key>
+	<string>isolatedispatcher</string>
+	<key>repositoryLocation</key>
+	<string>cupertinobutton</string>
+	<key>seamlessCube</key>
+	<string>analyzerTop</string>
+	<key>shouldEmitBinary</key>
+	<string>menufeedback</string>
+	<key>statusCount</key>
+	<string>rowwidget</string>
+	<key>subtleDrawer</key>
+	<string>convertParticle</string>
+</dict>
+</plist>

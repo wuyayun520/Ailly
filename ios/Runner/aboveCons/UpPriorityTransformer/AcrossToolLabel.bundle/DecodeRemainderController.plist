@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>interactorTail</key>
+	<string>canShowNorm</string>
+	<key>mutableKernel</key>
+	<string>reductionOffset</string>
+	<key>normalTolerance</key>
+	<string>parseInterface</string>
+	<key>normlayerstyle</key>
+	<string>canFetchMaster</string>
+	<key>observerperplatform</key>
+	<string>processCube</string>
+	<key>shouldDisconnectMission</key>
+	<string>pivotalRange</string>
+	<key>sophisticatedcapacitiesdistance</key>
+	<string>invisibleRadius</string>
+</dict>
+</plist>

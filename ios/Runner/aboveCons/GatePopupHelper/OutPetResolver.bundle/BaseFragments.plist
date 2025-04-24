@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>chooserHead</key>
+	<string>shearCoordinator</string>
+	<key>handlecanvas</key>
+	<string>constantInset</string>
+	<key>prevsensor</key>
+	<string>slashcoordinator</string>
+	<key>reactiveStrength</key>
+	<string>otherContraction</string>
+	<key>semanticCharacteristic</key>
+	<string>colorForce</string>
+</dict>
+</plist>

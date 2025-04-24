@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accordionStream</key>
+	<string>webAmortization</string>
+	<key>borderbehavior</key>
+	<string>eagertime</string>
+	<key>callbackSpeed</key>
+	<string>connectorSpeed</string>
+	<key>compositionalShader</key>
+	<string>canBindDelegate</string>
+	<key>customMatrix</key>
+	<string>capacitiesForm</string>
+	<key>priorMend</key>
+	<string>customRichText</string>
+	<key>reactiveevent</key>
+	<string>textfieldVelocity</string>
+	<key>secondThreshold</key>
+	<string>keepBrush</string>
+	<key>serviceHead</key>
+	<string>paintPositioned</string>
+</dict>
+</plist>

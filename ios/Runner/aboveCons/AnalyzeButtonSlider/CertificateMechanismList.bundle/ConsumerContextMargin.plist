@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>channelsmodule</key>
+	<string>processStore</string>
+	<key>dimensionslider</key>
+	<string>appbarcycleorientation</string>
+	<key>granularUtil</key>
+	<string>canRenderGift</string>
+	<key>keyGrain</key>
+	<string>processTimer</string>
+	<key>performprecision</key>
+	<string>custompaintBehavior</string>
+	<key>requestPosition</key>
+	<string>rapidWidget</string>
+	<key>staticFilter</key>
+	<string>labelCenter</string>
+</dict>
+</plist>

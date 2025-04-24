@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>deactivateheap</key>
+	<string>mainAnimatedContainer</string>
+	<key>nextTrigger</key>
+	<string>benchmarkVector</string>
+	<key>searcherDelay</key>
+	<string>tablestyle</string>
+	<key>shouldInflateMovement</key>
+	<string>euclideannib</string>
+	<key>shouldPresentBuilder</key>
+	<string>unbindFlex</string>
+</dict>
+</plist>

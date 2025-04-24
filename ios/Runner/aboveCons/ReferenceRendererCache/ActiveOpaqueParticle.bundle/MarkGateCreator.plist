@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>clipperstatename</key>
+	<string>methodformbottom</string>
+	<key>intuitiveMenu</key>
+	<string>diffableDescent</string>
+	<key>navigationrestriction</key>
+	<string>independentGestureDetector</string>
+	<key>shouldFetchHeap</key>
+	<string>destroyManager</string>
+	<key>shouldmountedaspectratio</key>
+	<string>fusedoffsetspacing</string>
+	<key>unactivatedTaxonomy</key>
+	<string>asynchronousBinary</string>
+</dict>
+</plist>

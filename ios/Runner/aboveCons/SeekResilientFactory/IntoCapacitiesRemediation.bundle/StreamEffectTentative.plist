@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>borderInteraction</key>
+	<string>samplestrength</string>
+	<key>crucialCache</key>
+	<string>instructionEnvironment</string>
+	<key>secondActivity</key>
+	<string>serializeModulus</string>
+	<key>titlecount</key>
+	<string>criticalFactory</string>
+</dict>
+</plist>

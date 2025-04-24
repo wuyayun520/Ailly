@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>adaptiveSession</key>
+	<string>cupertinoloop</string>
+	<key>ascentbound</key>
+	<string>commonCanvas</string>
+	<key>commonAppBar</key>
+	<string>clipFeature</string>
+	<key>disclaimerDepth</key>
+	<string>largeText</string>
+	<key>embedgram</key>
+	<string>easyPreview</string>
+	<key>scalereliability</key>
+	<string>mountedCell</string>
+	<key>tensorCapacities</key>
+	<string>canDismissSkin</string>
+	<key>varianttopic</key>
+	<string>shouldMountLogarithm</string>
+</dict>
+</plist>

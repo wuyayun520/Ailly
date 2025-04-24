@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>completionFeedback</key>
+	<string>replaceAsset</string>
+	<key>descriptorOffset</key>
+	<string>addRequest</string>
+	<key>explicitDecoration</key>
+	<string>canLoadProfile</string>
+	<key>injectioncontrast</key>
+	<string>activatedPager</string>
+	<key>shouldCacheResource</key>
+	<string>navigatorStage</string>
+	<key>shouldPopPoint</key>
+	<string>greatText</string>
+	<key>shouldTrainProject</key>
+	<string>cacheAperture</string>
+	<key>uniqueBehavior</key>
+	<string>sensorTension</string>
+</dict>
+</plist>

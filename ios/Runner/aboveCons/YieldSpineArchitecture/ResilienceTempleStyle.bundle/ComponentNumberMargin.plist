@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>disconnectimage</key>
+	<string>sequentialSlash</string>
+	<key>explicitchooser</key>
+	<string>grainMediator</string>
+	<key>initializeswitch</key>
+	<string>unmountednode</string>
+	<key>isGem</key>
+	<string>mendSkewY</string>
+	<key>petCount</key>
+	<string>nibBrightness</string>
+</dict>
+</plist>

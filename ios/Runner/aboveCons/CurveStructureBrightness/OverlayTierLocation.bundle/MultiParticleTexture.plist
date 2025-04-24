@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>addanimatedcontainer</key>
+	<string>fusedTimer</string>
+	<key>boxshadowType</key>
+	<string>canDisconnectMonster</string>
+	<key>fragmentsValidation</key>
+	<string>capsuleDuration</string>
+	<key>gesturethandecorator</key>
+	<string>dropdownbuttonVisibility</string>
+	<key>persistentUsage</key>
+	<string>shouldSaveCell</string>
+	<key>shouldSkipAlpha</key>
+	<string>canListenStateless</string>
+	<key>sizespacing</key>
+	<string>unbindTable</string>
+	<key>staticStream</key>
+	<string>criticalBoxShadow</string>
+	<key>substantialbutton</key>
+	<string>provisionStatus</string>
+</dict>
+</plist>

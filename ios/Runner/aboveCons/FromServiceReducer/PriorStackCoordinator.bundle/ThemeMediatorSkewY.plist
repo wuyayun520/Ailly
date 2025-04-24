@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>disparateProject</key>
+	<string>subtleBehavior</string>
+	<key>iconFormat</key>
+	<string>seamlessmenu</string>
+	<key>responsiveaudio</key>
+	<string>crudeScreen</string>
+	<key>seamlessVolume</key>
+	<string>hasMultiplication</string>
+	<key>shouldListenCanvas</key>
+	<string>currentTransition</string>
+	<key>sortedResilience</key>
+	<string>wrapperalignment</string>
+</dict>
+</plist>

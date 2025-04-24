@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>customizedSample</key>
+	<string>embraceCoordinator</string>
+	<key>erasecontroller</key>
+	<string>showListView</string>
+	<key>mutableScope</key>
+	<string>setstateChecklist</string>
+	<key>mutableanimation</key>
+	<string>shouldPushDrawer</string>
+	<key>sharedFinder</key>
+	<string>specifyCapacities</string>
+	<key>shouldDecodeArithmetic</key>
+	<string>scaleBridge</string>
+</dict>
+</plist>

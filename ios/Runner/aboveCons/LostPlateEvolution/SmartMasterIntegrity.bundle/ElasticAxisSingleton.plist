@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>composableZone</key>
+	<string>fixedRow</string>
+	<key>dedicatedInitiators</key>
+	<string>gateAdapter</string>
+	<key>firstIndicator</key>
+	<string>rectangleForce</string>
+	<key>lastHistogram</key>
+	<string>rectifyPopup</string>
+	<key>reusableTechnique</key>
+	<string>compositionbufferdirection</string>
+	<key>sessionactionskewy</key>
+	<string>swiftRotation</string>
+	<key>wrapperStyle</key>
+	<string>topicLocation</string>
+</dict>
+</plist>

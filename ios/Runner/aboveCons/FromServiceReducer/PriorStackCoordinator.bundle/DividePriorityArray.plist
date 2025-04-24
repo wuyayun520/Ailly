@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>channelmodename</key>
+	<string>canFetchTernary</string>
+	<key>consultativeTransition</key>
+	<string>displayableOffset</string>
+	<key>directlySign</key>
+	<string>tabviewFacade</string>
+	<key>enabledNavigation</key>
+	<string>activatedDropdownButton</string>
+	<key>publisherOrientation</key>
+	<string>accordionentropystatus</string>
+	<key>shouldObserveCompletion</key>
+	<string>skirtcyclecolor</string>
+</dict>
+</plist>

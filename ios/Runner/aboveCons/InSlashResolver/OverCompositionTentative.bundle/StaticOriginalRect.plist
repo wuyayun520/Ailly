@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>directMap</key>
+	<string>statefulAnimatedContainer</string>
+	<key>lastAspectRatio</key>
+	<string>movementleft</string>
+	<key>visibleMaterializer</key>
+	<string>listenerthanvalue</string>
+</dict>
+</plist>

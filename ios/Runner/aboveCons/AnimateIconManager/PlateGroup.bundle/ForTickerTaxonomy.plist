@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>actioninsidevariable</key>
+	<string>permissiveWrapper</string>
+	<key>cubeStatus</key>
+	<string>inactiveContainer</string>
+	<key>interactiveCubit</key>
+	<string>canAttachGridView</string>
+	<key>nodeEdge</key>
+	<string>musicValue</string>
+	<key>rapidDispatcher</key>
+	<string>shouldDetachInterpolation</string>
+	<key>shouldFinishColumn</key>
+	<string>routeThread</string>
+	<key>sineStyle</key>
+	<string>holdAllocator</string>
+	<key>unmountrepository</key>
+	<string>activatedPadding</string>
+</dict>
+</plist>

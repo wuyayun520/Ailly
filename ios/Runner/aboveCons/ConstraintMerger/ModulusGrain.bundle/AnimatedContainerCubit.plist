@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>columnvisible</key>
+	<string>unbindAnimation</string>
+	<key>layoutresult</key>
+	<string>capturetabbar</string>
+	<key>protectedSession</key>
+	<string>resilientPicker</string>
+	<key>rowtimeline</key>
+	<string>vectorizeawait</string>
+	<key>shouldPaintStateless</key>
+	<string>dedicatedThreshold</string>
+	<key>shouldProcessBrush</key>
+	<string>canRestartColumn</string>
+	<key>unsortedProvider</key>
+	<string>rapidcombiner</string>
+</dict>
+</plist>

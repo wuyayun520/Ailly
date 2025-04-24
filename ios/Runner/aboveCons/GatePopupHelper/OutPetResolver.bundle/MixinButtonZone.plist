@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>inheritedScaffold</key>
+	<string>generatescroll</string>
+	<key>interpolationPadding</key>
+	<string>difficultChallenge</string>
+	<key>isIcon</key>
+	<string>intermediateConverter</string>
+	<key>normalDispatcher</key>
+	<string>dropoutoffset</string>
+	<key>opaqueBinder</key>
+	<string>canUnbindMargin</string>
+	<key>shouldsetstaterow</key>
+	<string>hasprojection</string>
+	<key>spineMomentum</key>
+	<string>shouldRouteLog</string>
+</dict>
+</plist>

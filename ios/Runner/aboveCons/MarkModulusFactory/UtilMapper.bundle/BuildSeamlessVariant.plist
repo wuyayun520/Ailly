@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>builderequivalent</key>
+	<string>durationmediatortype</string>
+	<key>pickerShade</key>
+	<string>playmetadata</string>
+	<key>shouldDismissHistogram</key>
+	<string>ephemeralRichText</string>
+	<key>tableagainstdecorator</key>
+	<string>visibleInformation</string>
+</dict>
+</plist>

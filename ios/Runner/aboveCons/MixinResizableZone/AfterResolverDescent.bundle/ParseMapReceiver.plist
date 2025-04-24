@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>autoConverter</key>
+	<string>vectorIndex</string>
+	<key>enabledGrain</key>
+	<string>repositoryorientation</string>
+	<key>hardDelegate</key>
+	<string>lostDispatcher</string>
+	<key>inactiveArchitecture</key>
+	<string>interpolateDuration</string>
+	<key>liteState</key>
+	<string>assetrate</string>
+	<key>notificationbeyondflyweight</key>
+	<string>synchronousPromise</string>
+	<key>resilientDisclaimer</key>
+	<string>usedPresenter</string>
+	<key>subtleDialogs</key>
+	<string>dimensionforce</string>
+</dict>
+</plist>

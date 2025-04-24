@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accessoryininterpreter</key>
+	<string>copySprite</string>
+	<key>defaultPositioned</key>
+	<string>greatpresenter</string>
+	<key>euclideanLayer</key>
+	<string>reflectTopic</string>
+	<key>immediateAnimator</key>
+	<string>observersplitter</string>
+	<key>interactoroperationtop</key>
+	<string>standaloneTabView</string>
+	<key>labelmediatorstyle</key>
+	<string>shouldDismissPromise</string>
+	<key>persistentTool</key>
+	<string>numericalBuilder</string>
+</dict>
+</plist>

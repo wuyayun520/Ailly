@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>margintension</key>
+	<string>sortedBehavior</string>
+	<key>nativeArithmetic</key>
+	<string>sharedScheduler</string>
+	<key>originalConsumer</key>
+	<string>visualizeTransition</string>
+	<key>resetalignment</key>
+	<string>radioVariable</string>
+	<key>robustInformation</key>
+	<string>scrolltype</string>
+	<key>screenforcycle</key>
+	<string>spotNumber</string>
+	<key>shouldPrepareAccessory</key>
+	<string>hasPlate</string>
+</dict>
+</plist>

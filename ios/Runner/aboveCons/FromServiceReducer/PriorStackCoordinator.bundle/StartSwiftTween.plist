@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>defaultkernel</key>
+	<string>freeticker</string>
+	<key>draggableReduction</key>
+	<string>shouldValidateChannels</string>
+	<key>oldAnalyzer</key>
+	<string>spotsound</string>
+	<key>playbacktypesaturation</key>
+	<string>threadDistance</string>
+	<key>singleProcessor</key>
+	<string>transformAsset</string>
+	<key>transitionscenario</key>
+	<string>streamEnvironment</string>
+</dict>
+</plist>

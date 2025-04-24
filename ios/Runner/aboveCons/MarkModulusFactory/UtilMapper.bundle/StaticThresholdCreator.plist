@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>appbarinteraction</key>
+	<string>shouldDispatchStep</string>
+	<key>chapterForce</key>
+	<string>intermediateDelivery</string>
+	<key>convolutionShape</key>
+	<string>pageviewMomentum</string>
+	<key>crucialStroke</key>
+	<string>schemaTint</string>
+	<key>destroyutil</key>
+	<string>specifySizedBox</string>
+	<key>previewimage</key>
+	<string>gemduration</string>
+	<key>scaleRotation</key>
+	<string>intensityType</string>
+	<key>uniformMobile</key>
+	<string>denseutil</string>
+</dict>
+</plist>

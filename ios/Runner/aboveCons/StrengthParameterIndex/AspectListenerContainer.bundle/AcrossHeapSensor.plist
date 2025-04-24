@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>assetInteraction</key>
+	<string>shouldPaintOperation</string>
+	<key>customizedstepoffset</key>
+	<string>scalelabel</string>
+	<key>originalskin</key>
+	<string>autoMargin</string>
+	<key>resilientAnimation</key>
+	<string>normalNavigator</string>
+	<key>scrollableMend</key>
+	<string>uniformCustomPaint</string>
+</dict>
+</plist>

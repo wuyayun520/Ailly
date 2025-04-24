@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>logtransition</key>
+	<string>decodeStateful</string>
+	<key>permanentMediaQuery</key>
+	<string>shouldDismissEqualization</string>
+	<key>promiseTension</key>
+	<string>statefulAppearance</string>
+	<key>shouldPersistRoute</key>
+	<string>shouldAnimateProjection</string>
+	<key>shouldReplaceBloc</key>
+	<string>diffableAudio</string>
+	<key>shouldmountedpriority</key>
+	<string>autoOption</string>
+	<key>soundBrightness</key>
+	<string>creatorvelocity</string>
+</dict>
+</plist>

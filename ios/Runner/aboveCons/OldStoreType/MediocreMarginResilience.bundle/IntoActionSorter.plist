@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>asyncAppearance</key>
+	<string>alphaCycle</string>
+	<key>grayscaleDelay</key>
+	<string>lazyLifecycle</string>
+	<key>shouldNavigateCharacter</key>
+	<string>canMountedStamp</string>
+	<key>tensorSink</key>
+	<string>shouldDismissBloc</string>
+	<key>usedTool</key>
+	<string>shouldMountLayout</string>
+</dict>
+</plist>

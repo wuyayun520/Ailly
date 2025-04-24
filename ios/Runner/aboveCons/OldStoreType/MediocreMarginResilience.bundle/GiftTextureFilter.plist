@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activedecorationacceleration</key>
+	<string>cursorRotation</string>
+	<key>disabledTabBar</key>
+	<string>staticstream</string>
+	<key>diversifiedlabel</key>
+	<string>othertweak</string>
+	<key>flexibleStatus</key>
+	<string>inheritedRect</string>
+	<key>functionalObject</key>
+	<string>compositionDensity</string>
+	<key>paintasync</key>
+	<string>customBullet</string>
+	<key>shouldTransitionUnary</key>
+	<string>shouldPrepareIcon</string>
+	<key>sophisticatedMenu</key>
+	<string>elementOpacity</string>
+</dict>
+</plist>

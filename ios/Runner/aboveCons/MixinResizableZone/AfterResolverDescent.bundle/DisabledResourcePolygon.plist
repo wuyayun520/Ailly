@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>concreteMargin</key>
+	<string>cursorShade</string>
+	<key>invisiblesensor</key>
+	<string>requestComposite</string>
+	<key>liteService</key>
+	<string>shouldPrepareDuration</string>
+	<key>multiShader</key>
+	<string>asyncinitiative</string>
+	<key>parallelDisclaimer</key>
+	<string>associatecontainer</string>
+	<key>shouldNotifyOption</key>
+	<string>canShowHero</string>
+	<key>shouldPersistGem</key>
+	<string>intermediateRenderer</string>
+</dict>
+</plist>

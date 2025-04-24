@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>asynchronousBoxShadow</key>
+	<string>curvereliability</string>
+	<key>fixedChooser</key>
+	<string>smarttitle</string>
+	<key>modulusRight</key>
+	<string>fixedGraph</string>
+	<key>pickername</key>
+	<string>hierarchicalLatency</string>
+	<key>shouldInitializeTextField</key>
+	<string>channelBehavior</string>
+</dict>
+</plist>

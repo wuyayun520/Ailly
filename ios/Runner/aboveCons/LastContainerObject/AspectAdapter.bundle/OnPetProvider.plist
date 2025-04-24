@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>currentSubscriber</key>
+	<string>membercontroller</string>
+	<key>gatevariablerotation</key>
+	<string>shouldDetachTheme</string>
+	<key>missedResult</key>
+	<string>positionActivity</string>
+	<key>rapidSpecifier</key>
+	<string>freeMethod</string>
+	<key>shouldStopTabView</key>
+	<string>quaternionbottom</string>
+</dict>
+</plist>

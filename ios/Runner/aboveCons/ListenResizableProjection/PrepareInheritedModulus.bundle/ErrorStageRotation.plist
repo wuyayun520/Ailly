@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>completerAppearance</key>
+	<string>fixedImpression</string>
+	<key>constraintinteraction</key>
+	<string>canPaintShader</string>
+	<key>hasBase</key>
+	<string>pivotalResilience</string>
+	<key>intuitiveResource</key>
+	<string>requiredScalability</string>
+	<key>missedstoryboardedge</key>
+	<string>zonebridgecount</string>
+	<key>mountedbaseline</key>
+	<string>embedDuration</string>
+	<key>nextReliability</key>
+	<string>queueFlyweight</string>
+	<key>staticScroll</key>
+	<string>semanticConstraint</string>
+</dict>
+</plist>

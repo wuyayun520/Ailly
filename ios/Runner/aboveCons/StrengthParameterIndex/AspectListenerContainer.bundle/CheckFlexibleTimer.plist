@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>certificateprocesstop</key>
+	<string>detachlocalization</string>
+	<key>finderspeed</key>
+	<string>tensorCheckbox</string>
+	<key>sharedGrain</key>
+	<string>presentInkWell</string>
+	<key>statefultolerance</key>
+	<string>seguedelivery</string>
+</dict>
+</plist>

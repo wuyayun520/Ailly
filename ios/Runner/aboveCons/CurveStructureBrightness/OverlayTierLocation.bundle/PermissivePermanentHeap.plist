@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>contractionTransparency</key>
+	<string>futuredrawer</string>
+	<key>controllerflags</key>
+	<string>managerStrategy</string>
+	<key>criticalCell</key>
+	<string>canSubscribeTernary</string>
+	<key>discardeditem</key>
+	<string>reusableAspect</string>
+	<key>mapperState</key>
+	<string>protocolTask</string>
+	<key>synchronousDelivery</key>
+	<string>assetParam</string>
+</dict>
+</plist>

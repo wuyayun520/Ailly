@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>associatedConsumption</key>
+	<string>canRouteMobile</string>
+	<key>histogramBound</key>
+	<string>shouldFinishCoordinator</string>
+	<key>missedSign</key>
+	<string>streamOrientation</string>
+	<key>parallelKernel</key>
+	<string>heapFrequency</string>
+	<key>rowSize</key>
+	<string>cubeBuffer</string>
+	<key>searchbutton</key>
+	<string>brushoutsidecycle</string>
+	<key>servicecontrast</key>
+	<string>delegateSink</string>
+	<key>shouldRenderIndicator</key>
+	<string>offsetDelegate</string>
+</dict>
+</plist>

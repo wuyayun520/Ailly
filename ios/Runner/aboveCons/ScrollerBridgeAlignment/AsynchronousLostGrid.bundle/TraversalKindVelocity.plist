@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>baselinelifecycle</key>
+	<string>specifyerrorsaturation</string>
+	<key>consultativequeueindex</key>
+	<string>fusedTicker</string>
+	<key>customInfrastructure</key>
+	<string>viewScope</string>
+	<key>desktopIntensity</key>
+	<string>convolutionroute</string>
+	<key>extensionRate</key>
+	<string>pivotalTheme</string>
+	<key>intermediateMenu</key>
+	<string>maxNotifier</string>
+	<key>paddingDuration</key>
+	<string>shouldEndShader</string>
+	<key>scrollType</key>
+	<string>colorskewy</string>
+	<key>shouldSerializeBatch</key>
+	<string>spotState</string>
+	<key>tangentDuration</key>
+	<string>immediatetoolskewy</string>
+</dict>
+</plist>

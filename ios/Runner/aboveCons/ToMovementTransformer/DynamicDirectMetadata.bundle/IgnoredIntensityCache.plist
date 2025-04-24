@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>immutableArithmetic</key>
+	<string>brushBehavior</string>
+	<key>infoDistance</key>
+	<string>operationtag</string>
+	<key>lostOverlay</key>
+	<string>resilientEffect</string>
+	<key>mountedtransition</key>
+	<string>endConstraint</string>
+	<key>mutableTentative</key>
+	<string>instantiatePresenter</string>
+	<key>sharedStateless</key>
+	<string>trainExtension</string>
+	<key>shouldsubscriberadio</key>
+	<string>operationVelocity</string>
+	<key>singlePlate</key>
+	<string>screenbufferpressure</string>
+</dict>
+</plist>

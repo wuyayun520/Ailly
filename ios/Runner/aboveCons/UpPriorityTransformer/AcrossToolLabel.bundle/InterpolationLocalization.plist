@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>componentcontrast</key>
+	<string>reactiveshadercount</string>
+	<key>coordinatorwithoutsingleton</key>
+	<string>shouldPublishHistogram</string>
+	<key>entityDirection</key>
+	<string>injectionflags</string>
+	<key>explicitScreen</key>
+	<string>canValidateAlpha</string>
+	<key>granularscreen</key>
+	<string>pendingOperation</string>
+	<key>iterativeHistogram</key>
+	<string>equipmentbloc</string>
+	<key>materializeprogressbar</key>
+	<string>processduration</string>
+	<key>prismaticbloc</key>
+	<string>canUnmountedGraphic</string>
+	<key>secondSlash</key>
+	<string>smallGroup</string>
+</dict>
+</plist>

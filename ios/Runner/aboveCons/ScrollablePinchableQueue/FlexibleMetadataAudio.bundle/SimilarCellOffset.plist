@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>consumptionBottom</key>
+	<string>tableframeworkinset</string>
+	<key>scenarioBehavior</key>
+	<string>sizedboxPressure</string>
+	<key>stopexception</key>
+	<string>missedTernary</string>
+	<key>sustainableVector</key>
+	<string>diffablePopup</string>
+	<key>unsortedCosine</key>
+	<string>replaceConstraint</string>
+</dict>
+</plist>

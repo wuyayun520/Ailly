@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>alertlevelstate</key>
+	<string>gesturedetectorComposite</string>
+	<key>consultativeCache</key>
+	<string>hyperbolicCallback</string>
+	<key>customPriority</key>
+	<string>shouldShowTable</string>
+	<key>desktopInfrastructure</key>
+	<string>decorationAdapter</string>
+	<key>efficiencyDirection</key>
+	<string>euclideanSemantics</string>
+	<key>formatAcceleration</key>
+	<string>shouldSetStateFragment</string>
+	<key>immutableFlex</key>
+	<string>integerFeedback</string>
+	<key>movecompletion</key>
+	<string>metadatabrightness</string>
+	<key>respectiveGraph</key>
+	<string>volumeDirection</string>
+	<key>shouldMountedModulus</key>
+	<string>localTentative</string>
+</dict>
+</plist>

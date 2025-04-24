@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>comprehensiveOverlay</key>
+	<string>detailVisible</string>
+	<key>crudeDocument</key>
+	<string>keyCapsule</string>
+	<key>descriptionpressure</key>
+	<string>rapidController</string>
+	<key>equalizationview</key>
+	<string>fusedConfiguration</string>
+	<key>hasmap</key>
+	<string>litescroller</string>
+	<key>seguealignment</key>
+	<string>registerDescription</string>
+	<key>standaloneSignature</key>
+	<string>asyncCount</string>
+	<key>statelessVariant</key>
+	<string>visualizeGrain</string>
+</dict>
+</plist>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>advancedModel</key>
+	<string>shouldEmitTheme</string>
+	<key>deferredTernary</key>
+	<string>shouldDispatchMember</string>
+	<key>pinchableoffsetcenter</key>
+	<string>toolbeyondpattern</string>
+	<key>shouldEndChannels</key>
+	<string>labelDelay</string>
+	<key>unactivatedQueue</key>
+	<string>deferredCreator</string>
+	<key>vertexTransparency</key>
+	<string>shouldKeepGift</string>
+</dict>
+</plist>

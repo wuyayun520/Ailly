@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>beginnerTweak</key>
+	<string>transitionFlags</string>
+	<key>coordinatorelasticity</key>
+	<string>chaptertriangles</string>
+	<key>customrichtextstate</key>
+	<string>singlePresenter</string>
+	<key>opaquePositioned</key>
+	<string>shouldEmitView</string>
+	<key>originalConverter</key>
+	<string>shouldpushobserver</string>
+	<key>otherReduction</key>
+	<string>compositionForm</string>
+	<key>prevResilience</key>
+	<string>benchmarkAllocator</string>
+	<key>resizableRecursion</key>
+	<string>navigateEqualization</string>
+	<key>sequentialBrush</key>
+	<string>seguematrix</string>
+	<key>transitionforenvironment</key>
+	<string>lazyImage</string>
+</dict>
+</plist>

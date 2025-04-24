@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>checklistlayerpadding</key>
+	<string>handlerLocation</string>
+	<key>imagePressure</key>
+	<string>pinchablePriority</string>
+	<key>layerTop</key>
+	<string>entitykindhead</string>
+	<key>missedspecifierbehavior</key>
+	<string>shouldUnbindInterpolation</string>
+	<key>restorelocalization</key>
+	<string>subtleFragment</string>
+	<key>sortedOccasion</key>
+	<string>shouldStopContainer</string>
+</dict>
+</plist>

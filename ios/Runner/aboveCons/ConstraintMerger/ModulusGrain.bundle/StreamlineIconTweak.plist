@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>displayableslidervalidation</key>
+	<string>shouldInflateGridView</string>
+	<key>firstMesh</key>
+	<string>canPopBorder</string>
+	<key>gatephaseorigin</key>
+	<string>declarativePolygon</string>
+	<key>graphDelay</key>
+	<string>shouldContinueSlash</string>
+	<key>interactorSaturation</key>
+	<string>reduceaxis</string>
+	<key>mediocreEntropy</key>
+	<string>descriptioninterval</string>
+	<key>shouldDetachGridView</key>
+	<string>entityDistance</string>
+</dict>
+</plist>

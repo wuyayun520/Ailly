@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>amortizationBehavior</key>
+	<string>activateAwait</string>
+	<key>easyInteractor</key>
+	<string>mainTopic</string>
+	<key>enabledHeap</key>
+	<string>adaptivedispatcher</string>
+	<key>protectedChecklist</key>
+	<string>shouldLoadLog</string>
+	<key>repositorydescent</key>
+	<string>loadCatalyst</string>
+	<key>respectiveDisclaimer</key>
+	<string>parallelConnector</string>
+	<key>shouldSetStateNib</key>
+	<string>zoneState</string>
+</dict>
+</plist>

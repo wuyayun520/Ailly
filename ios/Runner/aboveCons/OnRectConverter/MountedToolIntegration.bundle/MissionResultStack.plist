@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>autoCompletion</key>
+	<string>playbackEnvironment</string>
+	<key>infoBound</key>
+	<string>completerVisitor</string>
+	<key>notifyarithmetic</key>
+	<string>flexiblePainter</string>
+	<key>subtleStack</key>
+	<string>cleanLayer</string>
+</dict>
+</plist>

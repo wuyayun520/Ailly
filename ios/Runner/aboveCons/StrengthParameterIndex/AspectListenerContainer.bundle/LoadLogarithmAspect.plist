@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>associatedActivity</key>
+	<string>unsortedTolerance</string>
+	<key>beginnerColor</key>
+	<string>tappablegesturedirection</string>
+	<key>defaultTouch</key>
+	<string>copyFactory</string>
+	<key>opaqueZone</key>
+	<string>channelsInteraction</string>
+	<key>rapidAction</key>
+	<string>persistentPresenter</string>
+	<key>shouldLoadEntropy</key>
+	<string>lostrectforce</string>
+	<key>shouldYieldSpecifier</key>
+	<string>discardedMovement</string>
+	<key>temporaryScaffold</key>
+	<string>lastDrawer</string>
+	<key>uniqueRow</key>
+	<string>checklistParam</string>
+</dict>
+</plist>

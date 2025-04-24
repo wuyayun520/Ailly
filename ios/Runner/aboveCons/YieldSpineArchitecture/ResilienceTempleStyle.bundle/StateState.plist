@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>continuebutton</key>
+	<string>queuemesh</string>
+	<key>eagerShader</key>
+	<string>parseTouch</string>
+	<key>scrollableSubscription</key>
+	<string>responsiveRect</string>
+	<key>shouldPersistUnary</key>
+	<string>comprehensiveAccessory</string>
+	<key>shouldTransitionLog</key>
+	<string>hyperbolicScreen</string>
+	<key>shouldfinishmultiplication</key>
+	<string>numericalElasticity</string>
+</dict>
+</plist>

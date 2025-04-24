@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animatedHistogram</key>
+	<string>findRepository</string>
+	<key>audioFrequency</key>
+	<string>deferredCallback</string>
+	<key>crucialTicker</key>
+	<string>emitInkWell</string>
+	<key>fixedContraction</key>
+	<string>handleAnchor</string>
+	<key>independentElasticity</key>
+	<string>cycleflags</string>
+	<key>seamlessnode</key>
+	<string>previewbufferspeed</string>
+	<key>shouldEncodeConvolution</key>
+	<string>statelesslooptail</string>
+	<key>textcompositeopacity</key>
+	<string>liteFactory</string>
+	<key>usedThread</key>
+	<string>copymaster</string>
+</dict>
+</plist>

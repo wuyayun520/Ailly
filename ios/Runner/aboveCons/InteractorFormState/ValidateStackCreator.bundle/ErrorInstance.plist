@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cosineTension</key>
+	<string>modelBrightness</string>
+	<key>cupertinoValidation</key>
+	<string>richtexttransformer</string>
+	<key>displayableBloc</key>
+	<string>bulletName</string>
+	<key>firstHash</key>
+	<string>firstScope</string>
+	<key>inactiveskirt</key>
+	<string>canRouteBehavior</string>
+	<key>intermediateTangent</key>
+	<string>canRouteNorm</string>
+	<key>momentumState</key>
+	<string>usedFrame</string>
+	<key>shouldDispatchGestureDetector</key>
+	<string>activeTolerance</string>
+</dict>
+</plist>

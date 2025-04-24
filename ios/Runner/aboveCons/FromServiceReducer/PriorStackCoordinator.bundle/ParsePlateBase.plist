@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>enabledUseCase</key>
+	<string>synchronousRole</string>
+	<key>gramaction</key>
+	<string>resultDelay</string>
+	<key>modelbesidelayer</key>
+	<string>alphaHead</string>
+	<key>nodeaboutbuffer</key>
+	<string>explicitChapter</string>
+	<key>notificationHue</key>
+	<string>poolText</string>
+	<key>responsiveTheme</key>
+	<string>stringifyResult</string>
+	<key>shouldrenderfuture</key>
+	<string>materialScope</string>
+</dict>
+</plist>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>mechanismOffset</key>
+	<string>symmetricScroll</string>
+	<key>rangemargin</key>
+	<string>endSizedBox</string>
+	<key>shouldCancelAnimation</key>
+	<string>canLoadEquipment</string>
+	<key>toolInterval</key>
+	<string>switchactionresponse</string>
+</dict>
+</plist>

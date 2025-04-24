@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>localizationspacing</key>
+	<string>switchTension</string>
+	<key>oldThreshold</key>
+	<string>overlayTag</string>
+	<key>publishexception</key>
+	<string>capacitySpeed</string>
+	<key>savemodulus</key>
+	<string>showChart</string>
+	<key>selectedworkflow</key>
+	<string>shouldTrainCapacities</string>
+	<key>shouldDismissBullet</key>
+	<string>transitiontentative</string>
+	<key>shouldunmountcache</key>
+	<string>shouldshowmonster</string>
+	<key>subpixelLocation</key>
+	<string>unsortedStateless</string>
+	<key>subsequentTabView</key>
+	<string>marginlayout</string>
+</dict>
+</plist>

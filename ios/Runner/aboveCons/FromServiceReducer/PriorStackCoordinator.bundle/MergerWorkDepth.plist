@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>crudeTangent</key>
+	<string>shouldbuildplayback</string>
+	<key>descriptionBrightness</key>
+	<string>disabledRouter</string>
+	<key>lostSensor</key>
+	<string>adaptivehash</string>
+	<key>mainDrawer</key>
+	<string>disconnectBitrate</string>
+	<key>notationContrast</key>
+	<string>interactiveElasticity</string>
+	<key>permanentLabel</key>
+	<string>writeTransition</string>
+	<key>responseleveldepth</key>
+	<string>scrollableInjection</string>
+	<key>shouldCancelSample</key>
+	<string>registerTween</string>
+</dict>
+</plist>

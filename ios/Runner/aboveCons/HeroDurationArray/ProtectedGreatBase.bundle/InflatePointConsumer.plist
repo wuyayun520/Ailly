@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>checklistproxycolor</key>
+	<string>animatedAudio</string>
+	<key>criticalMaster</key>
+	<string>compositionFacade</string>
+	<key>directSpot</key>
+	<string>decoupleParticle</string>
+	<key>eagerdropdownbutton</key>
+	<string>retainedObserver</string>
+	<key>keypolyfill</key>
+	<string>canAnimateCache</string>
+	<key>resizableScale</key>
+	<string>draggablebutton</string>
+	<key>shouldCancelScreen</key>
+	<string>retainedNotification</string>
+	<key>shouldStreamReference</key>
+	<string>beginnerEquivalent</string>
+	<key>uniqueTask</key>
+	<string>notifyPrecision</string>
+</dict>
+</plist>

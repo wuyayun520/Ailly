@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accordionBaseline</key>
+	<string>anchorValue</string>
+	<key>channelspadding</key>
+	<string>shouldLayoutSession</string>
+	<key>fixedHeap</key>
+	<string>sliderSkewY</string>
+	<key>reductionSpeed</key>
+	<string>decoupleStore</string>
+	<key>shouldCreateLabel</key>
+	<string>shouldSerializeProtocol</string>
+</dict>
+</plist>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>alignmentInterval</key>
+	<string>greatBandwidth</string>
+	<key>hashState</key>
+	<string>variantstructurestate</string>
+	<key>interactiveService</key>
+	<string>alignmentValidation</string>
+	<key>intuitiveAmortization</key>
+	<string>canDecodeMonster</string>
+	<key>lazyProfile</key>
+	<string>canMountLog</string>
+	<key>pinchableRange</key>
+	<string>activatecoordinator</string>
+	<key>queuemethodtint</key>
+	<string>futureStrategy</string>
+	<key>smallCell</key>
+	<string>inheritedGestureDetector</string>
+	<key>statefulTernary</key>
+	<string>tickercontextedge</string>
+	<key>transitionForce</key>
+	<string>giftRotation</string>
+</dict>
+</plist>

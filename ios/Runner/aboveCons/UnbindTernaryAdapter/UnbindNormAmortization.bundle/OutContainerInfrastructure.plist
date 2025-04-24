@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>backwardemitter</key>
+	<string>canPauseCurve</string>
+	<key>baselineevent</key>
+	<string>unmountedInstruction</string>
+	<key>currentcell</key>
+	<string>multiQueue</string>
+	<key>granularContainer</key>
+	<string>selectorname</string>
+	<key>opaqueZone</key>
+	<string>sanitizelayout</string>
+	<key>poollogarithm</key>
+	<string>shouldTransitionHero</string>
+	<key>quaternionBottom</key>
+	<string>rapidOccasion</string>
+	<key>respectiveObject</key>
+	<string>pageviewInteraction</string>
+	<key>responsebrightness</key>
+	<string>imperativeScale</string>
+	<key>throughputType</key>
+	<string>customizedMethod</string>
+</dict>
+</plist>

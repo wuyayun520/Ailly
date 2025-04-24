@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>containerstatus</key>
+	<string>sortedbinary</string>
+	<key>cubeinset</key>
+	<string>transformershade</string>
+	<key>disabledEvent</key>
+	<string>fixedSprite</string>
+	<key>intuitivefutureright</key>
+	<string>yieldnotifier</string>
+	<key>previewMode</key>
+	<string>sharedMesh</string>
+	<key>shouldStopInkWell</key>
+	<string>cursorContrast</string>
+</dict>
+</plist>

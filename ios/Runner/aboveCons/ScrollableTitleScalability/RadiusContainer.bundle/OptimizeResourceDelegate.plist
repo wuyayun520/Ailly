@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>boxBrightness</key>
+	<string>specifyListView</string>
+	<key>graphappearance</key>
+	<string>locateController</string>
+	<key>intermediateMomentum</key>
+	<string>symbolCoord</string>
+	<key>scenarioformat</key>
+	<string>hierarchicalSink</string>
+	<key>shouldDispatchSemantics</key>
+	<string>euclideanArchitecture</string>
+	<key>standalonecubitspacing</key>
+	<string>combinePresenter</string>
+	<key>statefulDisclaimer</key>
+	<string>keepAlert</string>
+</dict>
+</plist>

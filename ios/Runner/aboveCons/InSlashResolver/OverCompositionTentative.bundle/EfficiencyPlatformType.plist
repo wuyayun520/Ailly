@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>colorCenter</key>
+	<string>partitionnavigator</string>
+	<key>constrainttheme</key>
+	<string>canRenderSession</string>
+	<key>hyperbolicnodeskewy</key>
+	<string>numericalScale</string>
+	<key>materialobservershape</key>
+	<string>soundrate</string>
+	<key>searcherVisibility</key>
+	<string>tappableDecoration</string>
+	<key>secondJoiner</key>
+	<string>canObserveComposition</string>
+	<key>shouldHandleLabel</key>
+	<string>featureTier</string>
+	<key>shouldInflateView</key>
+	<string>routeDirection</string>
+	<key>shouldRestartRadio</key>
+	<string>repositorytempleopacity</string>
+</dict>
+</plist>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>directMusic</key>
+	<string>shouldObserveNorm</string>
+	<key>dismisscontraction</key>
+	<string>indicatorAppearance</string>
+	<key>impressiontop</key>
+	<string>responsivePresenter</string>
+	<key>materialLog</key>
+	<string>singleobservervisibility</string>
+	<key>notificationdirection</key>
+	<string>ignoredModel</string>
+	<key>otherStream</key>
+	<string>similarcollection</string>
+	<key>vertexFlags</key>
+	<string>storageAdapter</string>
+	<key>visibleFragment</key>
+	<string>triggerBound</string>
+</dict>
+</plist>

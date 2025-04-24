@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>associatedternaryinterval</key>
+	<string>canObserveBaseline</string>
+	<key>directCombiner</key>
+	<string>nativeWidget</string>
+	<key>greatRouter</key>
+	<string>shouldLayoutEffect</string>
+	<key>hasvariant</key>
+	<string>basicUsage</string>
+	<key>sortedTheme</key>
+	<string>eagerBandwidth</string>
+	<key>specifyCurve</key>
+	<string>delicateStep</string>
+</dict>
+</plist>

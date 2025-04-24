@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cardOrientation</key>
+	<string>onstatelesstap</string>
+	<key>displayactivity</key>
+	<string>pinchableListView</string>
+	<key>dropdownbuttonTop</key>
+	<string>drawerType</string>
+	<key>flextraversal</key>
+	<string>lostImage</string>
+	<key>notationDirection</key>
+	<string>decoupleusecase</string>
+	<key>rapidStamp</key>
+	<string>rectvelocity</string>
+	<key>shouldAnimateController</key>
+	<string>baselinetension</string>
+	<key>shouldCacheTextField</key>
+	<string>shouldTransitionBullet</string>
+	<key>statefulternaryvisibility</key>
+	<string>ignoredRole</string>
+</dict>
+</plist>

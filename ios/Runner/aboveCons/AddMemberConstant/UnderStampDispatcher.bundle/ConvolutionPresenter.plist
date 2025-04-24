@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>disabledAxis</key>
+	<string>missedLoss</string>
+	<key>responsiveTraversal</key>
+	<string>actionForm</string>
+	<key>shouldListenDimension</key>
+	<string>requestPadding</string>
+	<key>unsortedTechnique</key>
+	<string>cupertinoTint</string>
+</dict>
+</plist>

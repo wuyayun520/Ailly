@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>awaitawaydecorator</key>
+	<string>sequentialMediaQuery</string>
+	<key>customizedSymbol</key>
+	<string>pinchableRect</string>
+	<key>deferredProfile</key>
+	<string>reactiveCubit</string>
+	<key>dynamicConfiguration</key>
+	<string>matrixState</string>
+	<key>enabledGridView</key>
+	<string>compareFuture</string>
+	<key>promiseduringfunction</key>
+	<string>symmetricTernary</string>
+	<key>repositoryadapteredge</key>
+	<string>navigatePoint</string>
+	<key>shouldLayoutBaseline</key>
+	<string>shouldPopScale</string>
+	<key>shouldPausePainter</key>
+	<string>parallelspecifiermomentum</string>
+</dict>
+</plist>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>consumptionSpeed</key>
+	<string>signatureCycle</string>
+	<key>flexibleShape</key>
+	<string>imperativecell</string>
+	<key>statefulZone</key>
+	<string>diversifiedShape</string>
+	<key>usagenumberalignment</key>
+	<string>asynchronousStateful</string>
+</dict>
+</plist>

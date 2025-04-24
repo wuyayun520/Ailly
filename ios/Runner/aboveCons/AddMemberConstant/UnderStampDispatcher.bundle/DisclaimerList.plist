@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>arithmeticRenderer</key>
+	<string>shouldTransitionMargin</string>
+	<key>mergerTag</key>
+	<string>firstSkin</string>
+	<key>regulateusage</key>
+	<string>replaceSession</string>
+	<key>standaloneNavigation</key>
+	<string>shouldDisposeProvider</string>
+	<key>typicalresponse</key>
+	<string>measuretransformer</string>
+</dict>
+</plist>

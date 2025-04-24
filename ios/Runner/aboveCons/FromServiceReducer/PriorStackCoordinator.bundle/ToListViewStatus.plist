@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>easyPicker</key>
+	<string>mainPreview</string>
+	<key>elasticTechnique</key>
+	<string>synchronousRoute</string>
+	<key>globalCatalyst</key>
+	<string>sampleVisible</string>
+	<key>invisibleReliability</key>
+	<string>deferredobservercount</string>
+	<key>notificationrotation</key>
+	<string>commonAppBar</string>
+	<key>storageconnector</key>
+	<string>interpolationScale</string>
+	<key>swiftdelay</key>
+	<string>keepBox</string>
+</dict>
+</plist>

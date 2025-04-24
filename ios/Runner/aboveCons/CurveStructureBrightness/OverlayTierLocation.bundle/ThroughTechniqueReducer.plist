@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>documentVisible</key>
+	<string>toolCenter</string>
+	<key>enabledMultiplication</key>
+	<string>flexibleHeap</string>
+	<key>groupStyle</key>
+	<string>pagerContrast</string>
+	<key>interfaceviastage</key>
+	<string>mutablePet</string>
+	<key>missionPadding</key>
+	<string>statefulObject</string>
+	<key>normalMaster</key>
+	<string>workflowatbuffer</string>
+	<key>shouldPublishInteger</key>
+	<string>shouldYieldController</string>
+	<key>statelessTernary</key>
+	<string>rolestate</string>
+	<key>subtleCupertino</key>
+	<string>shouldCacheSegment</string>
+</dict>
+</plist>

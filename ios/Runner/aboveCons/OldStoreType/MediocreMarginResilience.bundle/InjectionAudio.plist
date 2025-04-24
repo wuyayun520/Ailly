@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>aspectratiousecase</key>
+	<string>configurationformspacing</string>
+	<key>fillusecase</key>
+	<string>statefulParameter</string>
+	<key>managerresponse</key>
+	<string>shouldCancelRadio</string>
+	<key>multiImpression</key>
+	<string>setupDuration</string>
+	<key>repositoryShade</key>
+	<string>canTransitionCurve</string>
+	<key>ternaryOrientation</key>
+	<string>shouldPushSwift</string>
+</dict>
+</plist>

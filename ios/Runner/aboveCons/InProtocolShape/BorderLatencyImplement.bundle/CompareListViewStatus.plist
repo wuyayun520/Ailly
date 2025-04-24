@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>boxshadowpressure</key>
+	<string>spinGroup</string>
+	<key>cacheValidation</key>
+	<string>cupertinoContext</string>
+	<key>decorationBehavior</key>
+	<string>sequentialsingletontag</string>
+	<key>indicatorparameterspeed</key>
+	<string>shearCompleter</string>
+	<key>particlethreshold</key>
+	<string>mainprovider</string>
+	<key>rangetension</key>
+	<string>denseTime</string>
+	<key>shouldUnbindUnary</key>
+	<string>receiverOrigin</string>
+	<key>shouldconnectskirt</key>
+	<string>desktopClipper</string>
+	<key>touchinitiators</key>
+	<string>enabledreferenceorientation</string>
+	<key>vectorTheme</key>
+	<string>webBox</string>
+</dict>
+</plist>

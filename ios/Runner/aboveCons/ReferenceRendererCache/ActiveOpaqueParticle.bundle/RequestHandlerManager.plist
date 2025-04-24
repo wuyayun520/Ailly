@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activeSink</key>
+	<string>canNotifyGradient</string>
+	<key>completionSkewY</key>
+	<string>selectorType</string>
+	<key>handlerStyle</key>
+	<string>errorHead</string>
+	<key>oldWidget</key>
+	<string>shouldKeepEqualization</string>
+	<key>shouldCancelTask</key>
+	<string>shouldBindIcon</string>
+	<key>widgettop</key>
+	<string>reusableTicker</string>
+</dict>
+</plist>

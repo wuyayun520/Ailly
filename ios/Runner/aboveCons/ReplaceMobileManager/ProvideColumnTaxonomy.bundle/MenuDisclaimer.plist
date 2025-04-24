@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activeParticle</key>
+	<string>sizedboxanalyzer</string>
+	<key>constantdensity</key>
+	<string>spriteJob</string>
+	<key>crudeUsage</key>
+	<string>subtlePicker</string>
+	<key>declarativechartacceleration</key>
+	<string>mutableflextension</string>
+	<key>hassine</key>
+	<string>fragmentsTint</string>
+	<key>inheritedGridView</key>
+	<string>canParseSizedBox</string>
+	<key>liteCoordinator</key>
+	<string>shaderMomentum</string>
+	<key>mainSpot</key>
+	<string>shouldparsedropdownbutton</string>
+	<key>semanticcoordinatorborder</key>
+	<string>robustOption</string>
+	<key>sophisticatedprogressbarbrightness</key>
+	<string>unmountBehavior</string>
+</dict>
+</plist>

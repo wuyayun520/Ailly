@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>decorationstyle</key>
+	<string>iconcontainchain</string>
+	<key>deserializesegment</key>
+	<string>shouldContinueCollection</string>
+	<key>diffableMapper</key>
+	<string>apertureScope</string>
+	<key>dropdownbuttonchaindistance</key>
+	<string>constructParticle</string>
+	<key>euclideanTaxonomy</key>
+	<string>scrollableColumn</string>
+	<key>newestmodulus</key>
+	<string>canEndContraction</string>
+	<key>rapidDispatcher</key>
+	<string>persistDecoration</string>
+	<key>reusableCoordinator</key>
+	<string>stopanimation</string>
+	<key>shouldPaintSwift</key>
+	<string>entropythreshold</string>
+	<key>sortedCurve</key>
+	<string>topicbottom</string>
+</dict>
+</plist>

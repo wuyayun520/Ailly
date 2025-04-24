@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>associatedIntegrity</key>
+	<string>granularUsage</string>
+	<key>explicitRole</key>
+	<string>robustSlash</string>
+	<key>navigationagainstactivity</key>
+	<string>exceptionname</string>
+	<key>newestPicker</key>
+	<string>accessiblenotifierleft</string>
+	<key>previewfeedback</key>
+	<string>tweakInteraction</string>
+	<key>restartcontainer</key>
+	<string>robustElement</string>
+	<key>shouldShowSlider</key>
+	<string>commonFilter</string>
+	<key>taskDistance</key>
+	<string>catalystcontaindecorator</string>
+</dict>
+</plist>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>comprehensiveService</key>
+	<string>dataSaturation</string>
+	<key>graindetail</key>
+	<string>mutableSchema</string>
+	<key>shouldPauseGradient</key>
+	<string>obtainObserver</string>
+	<key>shouldPrepareScreen</key>
+	<string>visualizeInteractor</string>
+	<key>shouldyieldstateless</key>
+	<string>poolText</string>
+	<key>staticReducer</key>
+	<string>logincludeplatform</string>
+</dict>
+</plist>

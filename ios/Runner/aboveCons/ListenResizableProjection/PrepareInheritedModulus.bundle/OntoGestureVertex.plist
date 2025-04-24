@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>formatAppearance</key>
+	<string>vectorizeCubit</string>
+	<key>gridviewShade</key>
+	<string>repositorylinker</string>
+	<key>loopcallback</key>
+	<string>canBindLayout</string>
+	<key>mendTag</key>
+	<string>canDisconnectHeap</string>
+	<key>otherService</key>
+	<string>canTransformBullet</string>
+	<key>relationalSchema</key>
+	<string>unmarshalFactory</string>
+	<key>resilientCupertino</key>
+	<string>navigatorVar</string>
+	<key>shouldRestartColumn</key>
+	<string>intermediateMechanism</string>
+	<key>tensordependencybrightness</key>
+	<string>declarativeRouter</string>
+</dict>
+</plist>

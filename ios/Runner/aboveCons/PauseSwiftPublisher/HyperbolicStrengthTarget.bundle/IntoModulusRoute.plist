@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>associateddrawer</key>
+	<string>diffableTrajectory</string>
+	<key>ignoredLogarithm</key>
+	<string>shouldHandleScale</string>
+	<key>paintlog</key>
+	<string>buttonTint</string>
+	<key>scalabilityFrequency</key>
+	<string>shouldStartIcon</string>
+	<key>shouldDisconnectRole</key>
+	<string>ignoredElasticity</string>
+	<key>significantDescriptor</key>
+	<string>rectIndex</string>
+	<key>soundStatus</key>
+	<string>polyfillInteraction</string>
+</dict>
+</plist>

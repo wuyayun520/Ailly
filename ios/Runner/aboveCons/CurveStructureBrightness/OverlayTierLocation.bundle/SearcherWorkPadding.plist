@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>asynchronousView</key>
+	<string>themeVisible</string>
+	<key>inheritedTimer</key>
+	<string>enumeratePopup</string>
+	<key>missedChart</key>
+	<string>createcontroller</string>
+	<key>shouldPaintCapsule</key>
+	<string>permissiveCycle</string>
+	<key>shouldPaintFlex</key>
+	<string>spineMomentum</string>
+	<key>spotRight</key>
+	<string>uniformSingleton</string>
+	<key>statelessDuration</key>
+	<string>responsiveOffset</string>
+	<key>temporaryWrapper</key>
+	<string>visitBuffer</string>
+</dict>
+</plist>

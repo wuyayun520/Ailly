@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>brushalignment</key>
+	<string>combinerValidation</string>
+	<key>cosineShade</key>
+	<string>canStopBox</string>
+	<key>eagerNotification</key>
+	<string>intermediateMatrix</string>
+	<key>encodeentity</key>
+	<string>smartInterpolation</string>
+	<key>materialReplica</key>
+	<string>apertureFunction</string>
+	<key>uniqueParticle</key>
+	<string>activatedInterpolation</string>
+</dict>
+</plist>

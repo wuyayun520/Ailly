@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>asynchronousBloc</key>
+	<string>pivotaldimension</string>
+	<key>dedicatedTransition</key>
+	<string>tappableDescent</string>
+	<key>dependencyInterval</key>
+	<string>trainCard</string>
+	<key>recursionkind</key>
+	<string>signgraph</string>
+	<key>shouldobservestateful</key>
+	<string>bindStep</string>
+	<key>significantBloc</key>
+	<string>staticTimer</string>
+	<key>symmetricItem</key>
+	<string>computeIsolate</string>
+</dict>
+</plist>

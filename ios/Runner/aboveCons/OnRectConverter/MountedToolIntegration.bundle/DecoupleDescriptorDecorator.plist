@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>euclideanCard</key>
+	<string>declarativeHandler</string>
+	<key>histogramsize</key>
+	<string>diffableIndicator</string>
+	<key>permanentherocontrast</key>
+	<string>documentDuration</string>
+	<key>robustChannels</key>
+	<string>dispatchchannel</string>
+	<key>scopeVelocity</key>
+	<string>sequentialradiodelay</string>
+	<key>shouldPresentWorkflow</key>
+	<string>disabledShape</string>
+</dict>
+</plist>

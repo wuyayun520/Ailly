@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>advancedCube</key>
+	<string>modelContext</string>
+	<key>drawerPressure</key>
+	<string>promiseIndex</string>
+	<key>pinchableButton</key>
+	<string>ignoredRecursion</string>
+	<key>primaryOperation</key>
+	<string>deferredRoute</string>
+	<key>seamlessHash</key>
+	<string>unmarshalStream</string>
+	<key>shouldPushThread</key>
+	<string>sequentialService</string>
+	<key>storageformat</key>
+	<string>animateicon</string>
+</dict>
+</plist>

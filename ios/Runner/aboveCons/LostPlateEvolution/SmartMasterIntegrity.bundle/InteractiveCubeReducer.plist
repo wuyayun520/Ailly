@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accessoryconsumption</key>
+	<string>transposeLayer</string>
+	<key>activeBandwidth</key>
+	<string>mobileScene</string>
+	<key>denseMediaQuery</key>
+	<string>autoLoader</string>
+	<key>immediateSwitch</key>
+	<string>hashProxy</string>
+	<key>imperativeFeature</key>
+	<string>canDisposeTextField</string>
+	<key>normalConfidentiality</key>
+	<string>concurrentEfficiency</string>
+	<key>persistcontroller</key>
+	<string>staticSignature</string>
+	<key>requiredError</key>
+	<string>executeAwait</string>
+	<key>substantialLayer</key>
+	<string>shouldStreamCell</string>
+</dict>
+</plist>

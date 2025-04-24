@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cubeHead</key>
+	<string>custompaintTransparency</string>
+	<key>numericalOperation</key>
+	<string>popScaffold</string>
+	<key>segmentforaction</key>
+	<string>animatoredge</string>
+	<key>specifyStatus</key>
+	<string>gridcompositeskewx</string>
+	<key>visibleerroracceleration</key>
+	<string>animatedgraincolor</string>
+</dict>
+</plist>

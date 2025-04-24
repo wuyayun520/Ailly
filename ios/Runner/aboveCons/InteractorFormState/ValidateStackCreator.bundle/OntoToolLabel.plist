@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>beginnerCapacities</key>
+	<string>checklistMargin</string>
+	<key>custompaintmesh</key>
+	<string>tweenPadding</string>
+	<key>mutableDependency</key>
+	<string>shouldNotifyBaseline</string>
+	<key>normalTable</key>
+	<string>cancelPet</string>
+	<key>numericalEvent</key>
+	<string>routeraroundadapter</string>
+	<key>opaqueslash</key>
+	<string>alphaDensity</string>
+	<key>robustTouch</key>
+	<string>hasCycle</string>
+	<key>shouldShowSkin</key>
+	<string>nibsingletonname</string>
+	<key>sophisticatedTime</key>
+	<string>gramawayobserver</string>
+</dict>
+</plist>

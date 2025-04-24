@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cursorfuture</key>
+	<string>concurrentEntity</string>
+	<key>interactiveEmitter</key>
+	<string>resolverduration</string>
+	<key>polygonKind</key>
+	<string>ternaryVisitor</string>
+	<key>priorElement</key>
+	<string>dispatchBehavior</string>
+	<key>retainedQuaternion</key>
+	<string>showTool</string>
+	<key>smallMaterial</key>
+	<string>concurrentMaterial</string>
+	<key>soundSkewX</key>
+	<string>actionLevel</string>
+</dict>
+</plist>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>asyncfinder</key>
+	<string>asynchronousAwait</string>
+	<key>dataStatus</key>
+	<string>shouldSkipImage</string>
+	<key>fusedskin</key>
+	<string>nextStatus</string>
+	<key>interactiveBullet</key>
+	<string>tabbarfeedback</string>
+	<key>presentfeature</key>
+	<string>callbackBuffer</string>
+	<key>radiobesidepattern</key>
+	<string>mediaqueryParam</string>
+</dict>
+</plist>

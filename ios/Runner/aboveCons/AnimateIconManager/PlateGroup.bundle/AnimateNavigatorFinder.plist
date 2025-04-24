@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cartesianobserverlocation</key>
+	<string>lazyTernary</string>
+	<key>composableDistinction</key>
+	<string>persistentDrawer</string>
+	<key>cupertinoVelocity</key>
+	<string>optimizeIsolate</string>
+	<key>defaultslider</key>
+	<string>selectedMap</string>
+	<key>deferredGrain</key>
+	<string>offsetDecorator</string>
+	<key>densePageView</key>
+	<string>shouldUnmountNotification</string>
+	<key>mutableStorage</key>
+	<string>appbarFormat</string>
+	<key>scenarioTransparency</key>
+	<string>sequentialProvision</string>
+	<key>smartModule</key>
+	<string>shearService</string>
+</dict>
+</plist>

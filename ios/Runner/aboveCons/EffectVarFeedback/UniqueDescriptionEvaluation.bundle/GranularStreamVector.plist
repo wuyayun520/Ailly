@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>anchorscale</key>
+	<string>refreshTitle</string>
+	<key>consumptionbrightness</key>
+	<string>nodestrategysaturation</string>
+	<key>grainanimator</key>
+	<string>shouldLoadMission</string>
+	<key>hyperbolicLoop</key>
+	<string>sizeCommand</string>
+	<key>sessionduration</key>
+	<string>canDeserializeProjection</string>
+	<key>setstatemetadata</key>
+	<string>paddingSingleton</string>
+	<key>sortedbuttonorigin</key>
+	<string>statelessTimeline</string>
+	<key>textureduration</key>
+	<string>canUnmountMomentum</string>
+	<key>unarycluster</key>
+	<string>listenerInteraction</string>
+</dict>
+</plist>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cubeInset</key>
+	<string>shouldMountBoxShadow</string>
+	<key>eventorientation</key>
+	<string>compositionalNotification</string>
+	<key>permissiveReliability</key>
+	<string>shouldPrepareInitiators</string>
+	<key>priorOperation</key>
+	<string>lossIndex</string>
+	<key>shouldValidateEqualization</key>
+	<string>modalCoord</string>
+</dict>
+</plist>

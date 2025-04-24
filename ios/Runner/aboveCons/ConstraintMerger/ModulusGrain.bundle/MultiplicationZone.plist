@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>associatedrouteinset</key>
+	<string>textValidation</string>
+	<key>captioncallback</key>
+	<string>providerOpacity</string>
+	<key>inheritedAudio</key>
+	<string>visitGrid</string>
+	<key>newestanimatedcontainerdistance</key>
+	<string>numericalChannel</string>
+	<key>publicScale</key>
+	<string>gesturedetectorHue</string>
+	<key>quantizationtext</key>
+	<string>logarithmPressure</string>
+	<key>shouldStopListView</key>
+	<string>hierarchicalsliderskewy</string>
+	<key>transformerbuilder</key>
+	<string>curveDirection</string>
+	<key>widgetsystemsaturation</key>
+	<string>accessorysprite</string>
+</dict>
+</plist>

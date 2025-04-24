@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cupertinoagainstwork</key>
+	<string>discardedAxis</string>
+	<key>dataBorder</key>
+	<string>synchronoustabbar</string>
+	<key>extendtext</key>
+	<string>baselineOffset</string>
+	<key>oncompletiontap</key>
+	<string>canTrainModal</string>
+	<key>parallelController</key>
+	<string>triggerFrequency</string>
+	<key>scrollablelabel</key>
+	<string>shouldNotifyAnimatedContainer</string>
+	<key>seamlessInteraction</key>
+	<string>maxNotification</string>
+	<key>sharedVideo</key>
+	<string>decoupleWidget</string>
+</dict>
+</plist>

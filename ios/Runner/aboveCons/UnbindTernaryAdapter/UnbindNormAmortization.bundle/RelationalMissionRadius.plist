@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accessibleComposition</key>
+	<string>mountedMission</string>
+	<key>autoInteraction</key>
+	<string>permanentrepository</string>
+	<key>customizedProjection</key>
+	<string>symmetricMultiplication</string>
+	<key>firstMerger</key>
+	<string>impressionOrientation</string>
+	<key>iterativeJoiner</key>
+	<string>provideCoordinator</string>
+	<key>shouldLoadPositioned</key>
+	<string>regulateAnimation</string>
+	<key>statelessListener</key>
+	<string>boxshadowSpeed</string>
+</dict>
+</plist>

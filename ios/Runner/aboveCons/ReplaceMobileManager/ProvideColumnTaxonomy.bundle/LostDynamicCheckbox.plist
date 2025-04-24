@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>analyzerSize</key>
+	<string>instantiateError</string>
+	<key>flexibleRenderer</key>
+	<string>integerDuration</string>
+	<key>inkwellfeedback</key>
+	<string>transitionLeft</string>
+	<key>iterativeAperture</key>
+	<string>concurrentVolume</string>
+	<key>methodamortization</key>
+	<string>exitStore</string>
+	<key>multiCombiner</key>
+	<string>permanentInjection</string>
+	<key>originalAlignment</key>
+	<string>missionPattern</string>
+	<key>shouldUnmountCatalyst</key>
+	<string>immutableStream</string>
+	<key>updatecomposition</key>
+	<string>completerobservertheme</string>
+</dict>
+</plist>

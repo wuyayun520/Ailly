@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>boxVelocity</key>
+	<string>shouldInflateGradient</string>
+	<key>composableVideo</key>
+	<string>layoutLoss</string>
+	<key>interactorTransparency</key>
+	<string>intermediateChannel</string>
+	<key>ismodal</key>
+	<string>lifecycleShade</string>
+	<key>numericalMatrix</key>
+	<string>paintervertex</string>
+	<key>permanentMargin</key>
+	<string>shouldMountSubpixel</string>
+</dict>
+</plist>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>composableStroke</key>
+	<string>euclideanRouter</string>
+	<key>disabledCompleter</key>
+	<string>materialShader</string>
+	<key>elasticTransition</key>
+	<string>onstackchanged</string>
+	<key>framescheduler</key>
+	<string>undertakeUtil</string>
+	<key>functionalEvent</key>
+	<string>shouldSetStateDropdownButton</string>
+	<key>liteInteraction</key>
+	<string>cupertinoBridge</string>
+	<key>unaryOffset</key>
+	<string>explicitClipper</string>
+	<key>usecaseinsidefunction</key>
+	<string>optionState</string>
+</dict>
+</plist>

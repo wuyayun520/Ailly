@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accordionButton</key>
+	<string>shouldDecodeMatrix</string>
+	<key>composableClipper</key>
+	<string>persistentradiusorientation</string>
+	<key>invisibleCharacteristic</key>
+	<string>shouldStopSpecifier</string>
+	<key>materialPresenter</key>
+	<string>activetimer</string>
+	<key>occasionrotation</key>
+	<string>handlerTail</string>
+	<key>reactiveTime</key>
+	<string>instantiateFrame</string>
+	<key>responsiveTransition</key>
+	<string>diffablestateful</string>
+	<key>stackAcceleration</key>
+	<string>shouldProcessLogarithm</string>
+	<key>textfieldBorder</key>
+	<string>smallMechanism</string>
+</dict>
+</plist>

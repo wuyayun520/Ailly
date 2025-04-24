@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>eagerDelegate</key>
+	<string>crudeTheme</string>
+	<key>equalizationvalueflags</key>
+	<string>dismissTopic</string>
+	<key>inheritedSlider</key>
+	<string>mountLog</string>
+	<key>managerBehavior</key>
+	<string>radioFacade</string>
+	<key>rowtension</key>
+	<string>directlyBox</string>
+	<key>shouldRouteSwift</key>
+	<string>textPrototype</string>
+	<key>spotawayfacade</key>
+	<string>aspectspeed</string>
+</dict>
+</plist>

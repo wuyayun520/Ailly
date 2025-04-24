@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animatorAlignment</key>
+	<string>eraseAnimation</string>
+	<key>convolutionValidation</key>
+	<string>shouldLayoutStamp</string>
+	<key>multiplicationdepth</key>
+	<string>beginnerComponent</string>
+	<key>mutableSubpixel</key>
+	<string>tasktemplebrightness</string>
+	<key>shouldRebuildBox</key>
+	<string>mainInteractor</string>
+	<key>standalonePriority</key>
+	<string>defaultMobile</string>
+	<key>standaloneUnary</key>
+	<string>elasticRemainder</string>
+	<key>transitionTop</key>
+	<string>cosinethreshold</string>
+</dict>
+</plist>

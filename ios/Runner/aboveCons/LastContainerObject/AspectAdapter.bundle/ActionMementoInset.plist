@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>anchorBehavior</key>
+	<string>priorUnary</string>
+	<key>denseflexstyle</key>
+	<string>connectCoordinator</string>
+	<key>herotransformer</key>
+	<string>smallLifecycle</string>
+	<key>mainsessionstyle</key>
+	<string>subsequentSprite</string>
+	<key>prismaticHero</key>
+	<string>aggregateBuffer</string>
+	<key>shouldTransitionMaterial</key>
+	<string>fixedPicker</string>
+	<key>specifySwift</key>
+	<string>handlerContrast</string>
+	<key>subsequentStoryboard</key>
+	<string>transformerDepth</string>
+</dict>
+</plist>

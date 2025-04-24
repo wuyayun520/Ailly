@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>dropdownbuttonLocation</key>
+	<string>disconnectcompletion</string>
+	<key>durationlocation</key>
+	<string>permissiveFragment</string>
+	<key>factorybeyondparam</key>
+	<string>streamBridge</string>
+	<key>intuitivedimensiondensity</key>
+	<string>priorframetype</string>
+	<key>manageragainstlayer</key>
+	<string>generateException</string>
+	<key>pointTransparency</key>
+	<string>explicitTime</string>
+	<key>shouldProcessSegment</key>
+	<string>resilientBrush</string>
+	<key>singledescription</key>
+	<string>remediationBound</string>
+</dict>
+</plist>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>endresponse</key>
+	<string>unsortedBase</string>
+	<key>eventforce</key>
+	<string>clipperShade</string>
+	<key>immediateNode</key>
+	<string>channelTask</string>
+	<key>pushtween</key>
+	<string>unschedulecycle</string>
+	<key>shouldValidateStamp</key>
+	<string>canRebuildChallenge</string>
+</dict>
+</plist>

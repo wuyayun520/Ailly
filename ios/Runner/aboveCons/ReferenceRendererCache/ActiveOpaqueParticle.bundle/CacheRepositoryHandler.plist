@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animationmode</key>
+	<string>remainderParam</string>
+	<key>associatedawaitoffset</key>
+	<string>regulateManager</string>
+	<key>axischooser</key>
+	<string>dynamicCapsule</string>
+	<key>cubitwithmemento</key>
+	<string>curvevisitorvisibility</string>
+	<key>draggableArithmetic</key>
+	<string>statelessMultiplication</string>
+	<key>lastTween</key>
+	<string>transposeListener</string>
+	<key>shouldvalidatepet</key>
+	<string>newestMechanism</string>
+</dict>
+</plist>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>advancedEntropy</key>
+	<string>presenterduringactivity</string>
+	<key>crudeInfo</key>
+	<string>canObservePlate</string>
+	<key>fragmentDepth</key>
+	<string>shouldRenderModulus</string>
+	<key>lazyCustomPaint</key>
+	<string>formattag</string>
+	<key>liteBuilder</key>
+	<string>easytweenpressure</string>
+	<key>precisionforstage</key>
+	<string>listviewStructure</string>
+	<key>significantResult</key>
+	<string>baselineDelay</string>
+	<key>touchTag</key>
+	<string>shouldAttachColumn</string>
+</dict>
+</plist>

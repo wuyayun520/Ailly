@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accordionBehavior</key>
+	<string>popupFormat</string>
+	<key>bulletSkewY</key>
+	<string>adaptiveOperation</string>
+	<key>cellStyle</key>
+	<string>chartPrototype</string>
+	<key>immediateModal</key>
+	<string>initiativeBottom</string>
+	<key>isolateevent</key>
+	<string>canResumeConsumer</string>
+	<key>iterativeInkWell</key>
+	<string>gatereducer</string>
+	<key>permissiveAxis</key>
+	<string>locategesturedetector</string>
+	<key>primaryBase</key>
+	<string>navigatorBuffer</string>
+	<key>shouldunmounteddescriptor</key>
+	<string>denseMusic</string>
+</dict>
+</plist>

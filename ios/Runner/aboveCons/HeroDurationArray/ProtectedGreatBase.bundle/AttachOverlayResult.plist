@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cosinefeedback</key>
+	<string>materializerTransparency</string>
+	<key>directSample</key>
+	<string>isolatesingletoninterval</string>
+	<key>flexibleAmortization</key>
+	<string>synchronousActivity</string>
+	<key>gatemethod</key>
+	<string>uniformConstant</string>
+	<key>gridPressure</key>
+	<string>concreteCurve</string>
+	<key>mobileSpine</key>
+	<string>storelinker</string>
+	<key>opaqueMaterial</key>
+	<string>selectedcard</string>
+	<key>shouldConnectOperation</key>
+	<string>awaitBorder</string>
+</dict>
+</plist>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>disabledMomentum</key>
+	<string>shouldtransitionchallenge</string>
+	<key>integerSkewX</key>
+	<string>resilienceSpeed</string>
+	<key>resilientStatus</key>
+	<string>schedulerow</string>
+	<key>shouldStreamHero</key>
+	<string>tappableException</string>
+	<key>vertexAcceleration</key>
+	<string>restoreService</string>
+	<key>vertexMomentum</key>
+	<string>normalAsset</string>
+</dict>
+</plist>

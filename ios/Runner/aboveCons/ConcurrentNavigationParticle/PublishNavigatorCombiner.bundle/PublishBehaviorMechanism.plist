@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>chapterasinterpreter</key>
+	<string>publishRole</string>
+	<key>elasticitySaturation</key>
+	<string>profileservice</string>
+	<key>inheritedSession</key>
+	<string>observeDescriptor</string>
+	<key>multiplicationFrequency</key>
+	<string>spotOpacity</string>
+	<key>shouldSubscribeMonster</key>
+	<string>popStorage</string>
+	<key>shouldunbindcomposition</key>
+	<string>checkboxTier</string>
+	<key>visitlistview</key>
+	<string>compositionalService</string>
+</dict>
+</plist>

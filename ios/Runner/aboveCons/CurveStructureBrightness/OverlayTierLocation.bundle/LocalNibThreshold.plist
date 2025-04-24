@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>declarativeVideo</key>
+	<string>maintainLoop</string>
+	<key>margindistinction</key>
+	<string>quitView</string>
+	<key>notificationTheme</key>
+	<string>deferredTimer</string>
+	<key>similarHistogram</key>
+	<string>segmentRate</string>
+	<key>topiccolor</key>
+	<string>shouldUnmountGate</string>
+	<key>workflowAcceleration</key>
+	<string>detachTitle</string>
+	<key>wrapperOrigin</key>
+	<string>readcertificate</string>
+</dict>
+</plist>

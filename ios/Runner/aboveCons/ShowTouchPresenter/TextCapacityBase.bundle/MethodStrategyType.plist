@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>adaptiveAlpha</key>
+	<string>robustContrast</string>
+	<key>granularAllocator</key>
+	<string>canDeserializeAspectRatio</string>
+	<key>ignoredMomentum</key>
+	<string>resilientDialogs</string>
+	<key>normalMechanism</key>
+	<string>toolNumber</string>
+	<key>reducerLocation</key>
+	<string>concurrentSign</string>
+	<key>shouldYieldLabel</key>
+	<string>positionResponse</string>
+	<key>smartSample</key>
+	<string>permutationCoord</string>
+	<key>statelessCenter</key>
+	<string>cardsincefacade</string>
+	<key>unsortedGridView</key>
+	<string>resultBehavior</string>
+</dict>
+</plist>

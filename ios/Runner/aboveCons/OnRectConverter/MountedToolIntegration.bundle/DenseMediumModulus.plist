@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>checklistSkewX</key>
+	<string>transformerduringoperation</string>
+	<key>customgatespacing</key>
+	<string>parallelscroll</string>
+	<key>shouldNavigateCapsule</key>
+	<string>unmountedReduction</string>
+</dict>
+</plist>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>basicVideo</key>
+	<string>singlePriority</string>
+	<key>imageright</key>
+	<string>canUpdateCursor</string>
+	<key>immediateOperation</key>
+	<string>consultativeDropdownButton</string>
+	<key>iterativeObserver</key>
+	<string>limittask</string>
+	<key>missionEdge</key>
+	<string>shouldDispatchScroll</string>
+	<key>referencetransparency</key>
+	<string>fusedExpanded</string>
+	<key>responsiveFormat</key>
+	<string>ephemeralColumn</string>
+	<key>timeVisibility</key>
+	<string>sophisticatedInteger</string>
+	<key>timerSpacing</key>
+	<string>heroshape</string>
+</dict>
+</plist>

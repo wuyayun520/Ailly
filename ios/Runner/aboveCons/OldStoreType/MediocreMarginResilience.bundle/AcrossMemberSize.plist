@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activitybinder</key>
+	<string>convolutionBehavior</string>
+	<key>arithmeticCube</key>
+	<string>updateNorm</string>
+	<key>documentmargin</key>
+	<string>materializeException</string>
+	<key>imageexceptstate</key>
+	<string>shouldSkipSpecifier</string>
+	<key>largeCupertino</key>
+	<string>embedPresenter</string>
+	<key>reduceconstraint</key>
+	<string>shouldrouteaspect</string>
+	<key>respondlayout</key>
+	<string>denseTechnique</string>
+	<key>sortedChannel</key>
+	<string>segmentInterpreter</string>
+</dict>
+</plist>

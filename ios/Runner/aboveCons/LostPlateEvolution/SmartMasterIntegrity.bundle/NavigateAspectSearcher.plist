@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>delegatePressure</key>
+	<string>canUnmountTabView</string>
+	<key>detectorOpacity</key>
+	<string>integerVar</string>
+	<key>euclideanItem</key>
+	<string>menudistance</string>
+	<key>gateDistance</key>
+	<string>isBitrate</string>
+	<key>intuitiveRichText</key>
+	<string>obtainTransition</string>
+	<key>statelessflyweightfrequency</key>
+	<string>connectorFeedback</string>
+	<key>techniquelayerdelay</key>
+	<string>deployState</string>
+</dict>
+</plist>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>channelappearance</key>
+	<string>associatedNorm</string>
+	<key>compositionalBox</key>
+	<string>eventBridge</string>
+	<key>iterativePolyfill</key>
+	<string>canValidateStack</string>
+	<key>primaryInteraction</key>
+	<string>completedLog</string>
+	<key>referencevarcoord</key>
+	<string>animatedFrame</string>
+	<key>shaderTag</key>
+	<string>desktopPager</string>
+</dict>
+</plist>

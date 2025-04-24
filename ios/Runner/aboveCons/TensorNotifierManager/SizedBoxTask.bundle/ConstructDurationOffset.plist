@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>baselineplatformcontrast</key>
+	<string>metadataSystem</string>
+	<key>containerduringcontext</key>
+	<string>canPersistMedia</string>
+	<key>descriptorAlignment</key>
+	<string>custompaintStructure</string>
+	<key>onmembertap</key>
+	<string>continueRow</string>
+	<key>publicRecursion</key>
+	<string>canStreamRow</string>
+	<key>smallInstruction</key>
+	<string>skirtawaybuffer</string>
+</dict>
+</plist>

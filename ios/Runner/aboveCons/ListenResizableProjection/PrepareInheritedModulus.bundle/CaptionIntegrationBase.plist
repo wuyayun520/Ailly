@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accordionroletransparency</key>
+	<string>overlayLayer</string>
+	<key>concurrentFragments</key>
+	<string>finderTag</string>
+	<key>imperativeWrapper</key>
+	<string>notationMomentum</string>
+	<key>iterativePicker</key>
+	<string>notifierlayer</string>
+	<key>numericalbloc</key>
+	<string>specifyTweak</string>
+	<key>resizableScroll</key>
+	<string>currentbloc</string>
+</dict>
+</plist>

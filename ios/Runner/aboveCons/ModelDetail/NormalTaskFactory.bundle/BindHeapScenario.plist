@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accordionFrame</key>
+	<string>dedicatedVector</string>
+	<key>routeobserveroffset</key>
+	<string>documenttail</string>
+	<key>shouldCancelMission</key>
+	<string>sequentialManager</string>
+	<key>shouldTransitionBinary</key>
+	<string>toolaboutcontext</string>
+</dict>
+</plist>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>analyzetween</key>
+	<string>localizationbesidetask</string>
+	<key>assettype</key>
+	<string>bundleview</string>
+	<key>prevPopup</key>
+	<string>setstateCard</string>
+	<key>resolverdirection</key>
+	<string>advancedModulus</string>
+	<key>scenecycleorigin</key>
+	<string>immutableTaxonomy</string>
+	<key>statefulMapper</key>
+	<string>hyperbolicMaterial</string>
+	<key>uniformMaterial</key>
+	<string>canDispatchPadding</string>
+</dict>
+</plist>

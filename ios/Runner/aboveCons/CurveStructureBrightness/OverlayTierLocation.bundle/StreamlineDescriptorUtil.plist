@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>formatstore</key>
+	<string>activatedIntegration</string>
+	<key>permissiveinteractor</key>
+	<string>captionTransparency</string>
+	<key>shouldKeepLayout</key>
+	<string>geometricSensor</string>
+	<key>shouldNotifyStoryboard</key>
+	<string>shouldPaintTransition</string>
+	<key>stateEdge</key>
+	<string>shouldSerializeScaffold</string>
+	<key>thresholdFeedback</key>
+	<string>concreteSubscriber</string>
+	<key>usedhandlerscale</key>
+	<string>shouldUpdateSlash</string>
+</dict>
+</plist>

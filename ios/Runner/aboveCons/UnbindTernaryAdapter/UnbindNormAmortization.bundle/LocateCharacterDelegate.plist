@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>controllervolume</key>
+	<string>updateLocalization</string>
+	<key>dedicatedcontractionfrequency</key>
+	<string>canSkipEntropy</string>
+	<key>distinctionSaturation</key>
+	<string>escalateStream</string>
+	<key>granularAlpha</key>
+	<string>resizableInjection</string>
+	<key>provisionKind</key>
+	<string>processRouter</string>
+	<key>routeBorder</key>
+	<string>synchronizeQueue</string>
+</dict>
+</plist>

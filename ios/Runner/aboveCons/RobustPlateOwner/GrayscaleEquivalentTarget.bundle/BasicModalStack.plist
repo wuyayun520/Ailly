@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>currenterrorvelocity</key>
+	<string>beginnergrayscaleedge</string>
+	<key>materialReduction</key>
+	<string>criticalCursor</string>
+	<key>retrieveinterface</key>
+	<string>canLoadBrush</string>
+	<key>scaleobserver</key>
+	<string>descriptorFramework</string>
+	<key>shouldpopbox</key>
+	<string>euclideanAction</string>
+	<key>smartLoss</key>
+	<string>skipDecoration</string>
+	<key>symbolSpeed</key>
+	<string>immutableTolerance</string>
+</dict>
+</plist>

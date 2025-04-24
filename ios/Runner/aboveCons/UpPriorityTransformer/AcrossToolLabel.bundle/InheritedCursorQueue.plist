@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>autoLayout</key>
+	<string>navigatorlikeoperation</string>
+	<key>dedicatedCreator</key>
+	<string>modulusTint</string>
+	<key>dedicatedListener</key>
+	<string>permissiveobserverrotation</string>
+	<key>discardedChecklist</key>
+	<string>checkboxLocation</string>
+	<key>shouldProcessNorm</key>
+	<string>lossduringbuffer</string>
+	<key>singleEntity</key>
+	<string>intermediateTween</string>
+	<key>zoneefficiency</key>
+	<string>gestureForce</string>
+</dict>
+</plist>

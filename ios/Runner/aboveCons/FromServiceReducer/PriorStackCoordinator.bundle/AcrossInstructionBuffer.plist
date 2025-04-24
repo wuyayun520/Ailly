@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cartesianScene</key>
+	<string>moveLayout</string>
+	<key>evaluateoffset</key>
+	<string>cancelMovement</string>
+	<key>independentSwift</key>
+	<string>smartquaternion</string>
+	<key>restrictionBottom</key>
+	<string>visibleCompletion</string>
+	<key>resumeoffset</key>
+	<string>pendingBase</string>
+</dict>
+</plist>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>adaptiveMaterial</key>
+	<string>rendererOffset</string>
+	<key>dedicatedboxright</key>
+	<string>parsedependency</string>
+	<key>euclideancursor</key>
+	<string>serviceShade</string>
+	<key>greatCell</key>
+	<string>receiverPosition</string>
+	<key>interactorFormat</key>
+	<string>managerAction</string>
+	<key>resilientTabView</key>
+	<string>cacheStateless</string>
+	<key>semanticTool</key>
+	<string>canSkipNib</string>
+</dict>
+</plist>

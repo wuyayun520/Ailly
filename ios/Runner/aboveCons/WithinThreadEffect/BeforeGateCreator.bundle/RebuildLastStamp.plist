@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>arithmeticQueue</key>
+	<string>dynamicQuaternion</string>
+	<key>calculatepresenter</key>
+	<string>dropdownbuttonVisibility</string>
+	<key>discardedInterface</key>
+	<string>prevEvolution</string>
+	<key>efficiencyPressure</key>
+	<string>difficultSingleton</string>
+	<key>entityRotation</key>
+	<string>sharedAmortization</string>
+	<key>eventinterval</key>
+	<string>canFinishAnimatedContainer</string>
+	<key>schemaAppearance</key>
+	<string>touchDirection</string>
+	<key>stackShape</key>
+	<string>activatedTabView</string>
+	<key>temporaryConstraint</key>
+	<string>sequentialFrame</string>
+</dict>
+</plist>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>advancedSize</key>
+	<string>holdException</string>
+	<key>binaryanimation</key>
+	<string>resetDependency</string>
+	<key>compositionalinteraction</key>
+	<string>relationalmembertheme</string>
+	<key>consultativeCard</key>
+	<string>replicaBound</string>
+	<key>dynamicChecklist</key>
+	<string>limitError</string>
+	<key>indicatorHead</key>
+	<string>binderdirection</string>
+	<key>observerworkalignment</key>
+	<string>unregisterSprite</string>
+	<key>parallelScroll</key>
+	<string>concreteMaterializer</string>
+</dict>
+</plist>

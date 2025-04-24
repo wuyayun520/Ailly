@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>concreteProvision</key>
+	<string>permanentBrush</string>
+	<key>elasticPositioned</key>
+	<string>completionAlignment</string>
+	<key>integrationTransparency</key>
+	<string>graphparameterinset</string>
+	<key>saveentropy</key>
+	<string>retainConstraint</string>
+</dict>
+</plist>

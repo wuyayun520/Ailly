@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>dialogsLocation</key>
+	<string>isContainer</string>
+	<key>managerFormat</key>
+	<string>utilVariable</string>
+	<key>resilienceBorder</key>
+	<string>lostSound</string>
+	<key>specifyStateless</key>
+	<string>unmountDuration</string>
+	<key>temporaryExtension</key>
+	<string>notifierScope</string>
+	<key>toollocation</key>
+	<string>tentativeCoord</string>
+	<key>unactivatedFormat</key>
+	<string>alphachapter</string>
+</dict>
+</plist>

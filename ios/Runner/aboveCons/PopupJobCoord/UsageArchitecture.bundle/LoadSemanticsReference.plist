@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>greatListView</key>
+	<string>shouldCacheSignature</string>
+	<key>invisibleradioalignment</key>
+	<string>compositionalNode</string>
+	<key>liteChannels</key>
+	<string>nativeMobile</string>
+	<key>nextTopic</key>
+	<string>debugInjection</string>
+	<key>scrollableDrawer</key>
+	<string>ephemeralPresenter</string>
+	<key>shouldDecodeAperture</key>
+	<string>navigatoraroundcycle</string>
+	<key>shouldPrepareCharacter</key>
+	<string>destroyListener</string>
+</dict>
+</plist>

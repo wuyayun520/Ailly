@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>composableListView</key>
+	<string>distinctionShape</string>
+	<key>composableMaster</key>
+	<string>interpolationCycle</string>
+	<key>queuelatency</key>
+	<string>modulustexture</string>
+	<key>shaderStyle</key>
+	<string>minAnimation</string>
+	<key>shouldDisconnectCoordinator</key>
+	<string>shouldTransitionSwitch</string>
+	<key>shouldListenScroll</key>
+	<string>encodeview</string>
+	<key>tappableThroughput</key>
+	<string>seamlessHash</string>
+</dict>
+</plist>

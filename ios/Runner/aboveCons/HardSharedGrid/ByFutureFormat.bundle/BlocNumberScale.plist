@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>discardedFragment</key>
+	<string>heapdelay</string>
+	<key>equalizationtype</key>
+	<string>shouldLoadArithmetic</string>
+	<key>navigatorname</key>
+	<string>crucialShader</string>
+	<key>smartCupertino</key>
+	<string>mutableTouch</string>
+	<key>smartfeatureshape</key>
+	<string>collectionComposite</string>
+	<key>specifyTweak</key>
+	<string>imperativeWrapper</string>
+	<key>validateview</key>
+	<string>giftPressure</string>
+</dict>
+</plist>

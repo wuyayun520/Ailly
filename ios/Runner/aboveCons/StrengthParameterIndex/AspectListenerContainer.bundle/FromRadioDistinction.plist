@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>bindstate</key>
+	<string>shouldListenRole</string>
+	<key>cartesianTicker</key>
+	<string>groupexceptjob</string>
+	<key>normalConfiguration</key>
+	<string>dedicatedMovement</string>
+	<key>shouldAnimateScroll</key>
+	<string>canMountedCursor</string>
+</dict>
+</plist>

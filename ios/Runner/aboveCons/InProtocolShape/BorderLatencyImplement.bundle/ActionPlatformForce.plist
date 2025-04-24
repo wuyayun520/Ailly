@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>advancedFeature</key>
+	<string>widgetMargin</string>
+	<key>currentgate</key>
+	<string>synchronizeTransformer</string>
+	<key>desktopBehavior</key>
+	<string>prevresilience</string>
+	<key>disconnectstep</key>
+	<string>batchOrigin</string>
+	<key>fixedComponent</key>
+	<string>inkwellTransparency</string>
+	<key>missedSpot</key>
+	<string>shouldUnbindDocument</string>
+	<key>primaryposition</key>
+	<string>factoryanimation</string>
+	<key>transformerrestriction</key>
+	<string>sequentialChannels</string>
+</dict>
+</plist>

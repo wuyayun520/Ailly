@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>arithmeticEfficiency</key>
+	<string>cycleintegrity</string>
+	<key>catalystAppearance</key>
+	<string>directMediaQuery</string>
+	<key>directlySplitter</key>
+	<string>scrollableAmortization</string>
+	<key>dynamicProjection</key>
+	<string>shouldEncodeOperation</string>
+	<key>materialDropdownButton</key>
+	<string>prevDuration</string>
+	<key>permanentGroup</key>
+	<string>unsortedAlignment</string>
+	<key>presentcontraction</key>
+	<string>shouldReplaceArithmetic</string>
+	<key>scrollableProvider</key>
+	<string>revisitFactory</string>
+</dict>
+</plist>

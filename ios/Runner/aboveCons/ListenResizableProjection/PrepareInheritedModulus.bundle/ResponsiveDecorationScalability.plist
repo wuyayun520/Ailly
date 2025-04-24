@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animatedPromise</key>
+	<string>attachlayer</string>
+	<key>autoTransition</key>
+	<string>canSetStateAxis</string>
+	<key>directScroll</key>
+	<string>interpolationDirection</string>
+	<key>disclaimerRotation</key>
+	<string>desktopInitiative</string>
+	<key>euclideanframefeedback</key>
+	<string>newestproviderdelay</string>
+	<key>rowLeft</key>
+	<string>shouldStartOptimizer</string>
+	<key>switchlifecycle</key>
+	<string>mainRouter</string>
+</dict>
+</plist>

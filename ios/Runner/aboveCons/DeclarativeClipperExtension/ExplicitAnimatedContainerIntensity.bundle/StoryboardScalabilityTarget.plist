@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>associatedCubit</key>
+	<string>queueMargin</string>
+	<key>invokearithmetic</key>
+	<string>showgroup</string>
+	<key>petCenter</key>
+	<string>scrollableBitrate</string>
+	<key>shouldFinishTable</key>
+	<string>commonConfiguration</string>
+	<key>shouldSubscribeInkWell</key>
+	<string>smartNotation</string>
+	<key>unregisterimage</key>
+	<string>pickerPadding</string>
+</dict>
+</plist>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>ignoredSlider</key>
+	<string>actionMomentum</string>
+	<key>measuretitle</key>
+	<string>responsiveDuration</string>
+	<key>otherSegment</key>
+	<string>gridTint</string>
+	<key>performalert</key>
+	<string>shouldContinueGrayscale</string>
+	<key>permissiveMerger</key>
+	<string>canInflateWidget</string>
+	<key>shouldListenModal</key>
+	<string>dedicatedTexture</string>
+	<key>staticVolume</key>
+	<string>scrollableTicker</string>
+</dict>
+</plist>

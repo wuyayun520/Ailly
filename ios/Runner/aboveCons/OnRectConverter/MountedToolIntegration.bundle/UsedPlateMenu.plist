@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>associatedtweenbottom</key>
+	<string>rapidMenu</string>
+	<key>deliveryTail</key>
+	<string>prismaticcallback</string>
+	<key>nativeMaterial</key>
+	<string>processobserver</string>
+	<key>oncustompaintchanged</key>
+	<string>canStartSample</string>
+	<key>repositorybridgescale</key>
+	<string>shouldParseInitiators</string>
+</dict>
+</plist>

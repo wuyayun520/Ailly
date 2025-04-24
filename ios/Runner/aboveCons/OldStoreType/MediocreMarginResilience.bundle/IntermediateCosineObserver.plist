@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cupertinoprocessor</key>
+	<string>inactiveReplica</string>
+	<key>imperativeDescription</key>
+	<string>canPresentTask</string>
+	<key>joinerForce</key>
+	<string>subtleItem</string>
+	<key>notifierstylekind</key>
+	<string>tabviewCycle</string>
+	<key>sharedPreview</key>
+	<string>canEndMatrix</string>
+</dict>
+</plist>

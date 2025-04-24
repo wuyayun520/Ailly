@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>fusedBinary</key>
+	<string>immediateGroup</string>
+	<key>masterValidation</key>
+	<string>statefulPadding</string>
+	<key>profileIndex</key>
+	<string>storeDecorator</string>
+	<key>relationalfactorycenter</key>
+	<string>tickerbymethod</string>
+	<key>renderresponse</key>
+	<string>intensitylocation</string>
+	<key>shouldroutegate</key>
+	<string>canEncodeMember</string>
+</dict>
+</plist>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>concreteAxis</key>
+	<string>sessionJob</string>
+	<key>localCycle</key>
+	<string>tensorObject</string>
+	<key>mainZone</key>
+	<string>enumerateFrame</string>
+	<key>otherRenderer</key>
+	<string>upgradeIntensity</string>
+	<key>reusableslider</key>
+	<string>quantizationEvent</string>
+</dict>
+</plist>

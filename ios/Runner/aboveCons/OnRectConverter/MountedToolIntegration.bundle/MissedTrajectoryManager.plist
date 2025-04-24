@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accessiblenibdistance</key>
+	<string>disabledListView</string>
+	<key>advancedSplitter</key>
+	<string>concurrentChapter</string>
+	<key>integrationRate</key>
+	<string>resumeSegment</string>
+	<key>operationFormat</key>
+	<string>grainTint</string>
+	<key>pinchableSchema</key>
+	<string>priorElement</string>
+	<key>protectedContainer</key>
+	<string>cupertinoEvaluation</string>
+</dict>
+</plist>

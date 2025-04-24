@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>annotatevector</key>
+	<string>haspoint</string>
+	<key>draggableTween</key>
+	<string>hasSpecifier</string>
+	<key>firstConsumer</key>
+	<string>nextTentative</string>
+	<key>semanticGroup</key>
+	<string>typicalworkflow</string>
+	<key>shouldSerializePlate</key>
+	<string>statefulOptimizer</string>
+</dict>
+</plist>

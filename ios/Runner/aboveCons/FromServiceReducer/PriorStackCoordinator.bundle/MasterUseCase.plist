@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>channelsorcycle</key>
+	<string>shapeOrigin</string>
+	<key>localizationinphase</key>
+	<string>shouldAttachKernel</string>
+	<key>presenterSkewY</key>
+	<string>shouldPresentAnimatedContainer</string>
+	<key>secondProject</key>
+	<string>scrollabletextsaturation</string>
+	<key>sensorflyweightspacing</key>
+	<string>lostMedia</string>
+	<key>specifyaccessorytheme</key>
+	<string>futureContrast</string>
+	<key>tangentprovision</key>
+	<string>providerAppearance</string>
+	<key>visibleCharacter</key>
+	<string>accessibleCube</string>
+</dict>
+</plist>

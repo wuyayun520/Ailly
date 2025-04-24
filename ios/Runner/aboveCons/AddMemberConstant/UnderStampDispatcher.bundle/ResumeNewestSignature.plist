@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activatedRemainder</key>
+	<string>liteProjection</string>
+	<key>fixedtaskhue</key>
+	<string>shouldAttachFlex</string>
+	<key>imperativeMethod</key>
+	<string>textFormat</string>
+	<key>priorThreshold</key>
+	<string>interactiveComposition</string>
+	<key>progressbarShade</key>
+	<string>configurationShape</string>
+	<key>shouldFinishExpanded</key>
+	<string>comprehensiveScenario</string>
+	<key>uniformaspectratio</key>
+	<string>endoverlay</string>
+	<key>webUtil</key>
+	<string>canStreamChecklist</string>
+</dict>
+</plist>

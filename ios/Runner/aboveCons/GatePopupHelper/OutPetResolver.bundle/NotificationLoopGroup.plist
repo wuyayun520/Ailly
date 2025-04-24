@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>lossType</key>
+	<string>statelessIndicator</string>
+	<key>recursionName</key>
+	<string>shouldunmountednib</string>
+	<key>subtleCreator</key>
+	<string>awaitCycle</string>
+	<key>temporarymaterialright</key>
+	<string>shouldCacheSpecifier</string>
+</dict>
+</plist>

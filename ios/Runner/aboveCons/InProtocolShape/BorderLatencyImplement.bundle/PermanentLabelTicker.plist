@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>collectionOpacity</key>
+	<string>dedicatedSine</string>
+	<key>diffableInjection</key>
+	<string>emitGroup</string>
+	<key>enabledConstraint</key>
+	<string>sliderMomentum</string>
+	<key>missedinkwellinteraction</key>
+	<string>shouldPublishBorder</string>
+	<key>shouldHandleDimension</key>
+	<string>canFetchEquipment</string>
+	<key>usagePadding</key>
+	<string>canInflateTransition</string>
+</dict>
+</plist>

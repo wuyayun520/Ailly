@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>dialogsEdge</key>
+	<string>tangentAlignment</string>
+	<key>draggableAnchor</key>
+	<string>resizableMatrix</string>
+	<key>mediaqueryfeedback</key>
+	<string>radiusbesidecomposite</string>
+	<key>mutableScroll</key>
+	<string>canParseCache</string>
+	<key>smartPositioned</key>
+	<string>shouldEmitMatrix</string>
+	<key>tappableSensor</key>
+	<string>implementconstraint</string>
+</dict>
+</plist>

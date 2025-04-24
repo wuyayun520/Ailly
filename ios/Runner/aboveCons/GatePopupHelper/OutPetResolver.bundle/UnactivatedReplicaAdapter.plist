@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>aperturevalidation</key>
+	<string>detachposition</string>
+	<key>cacheBottom</key>
+	<string>canRouteTabBar</string>
+	<key>flexRate</key>
+	<string>loadRoute</string>
+	<key>hyperbolicrouteindex</key>
+	<string>shouldBindStateless</string>
+	<key>pinchableAscent</key>
+	<string>overlayVariable</string>
+	<key>primaryconfiguration</key>
+	<string>largeLayout</string>
+	<key>rangeKind</key>
+	<string>featureWork</string>
+	<key>titleOrientation</key>
+	<string>delegateCubit</string>
+</dict>
+</plist>

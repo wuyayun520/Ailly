@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>commonObserver</key>
+	<string>canDismissExtension</string>
+	<key>debugevent</key>
+	<string>projectionoutsidesystem</string>
+	<key>disabledvertex</key>
+	<string>shouldSubscribeDescriptor</string>
+	<key>elasticElement</key>
+	<string>similarSink</string>
+	<key>independentLayer</key>
+	<string>newestEquivalent</string>
+	<key>navigateresolver</key>
+	<string>pickerKind</string>
+	<key>oldmonster</key>
+	<string>oldVariant</string>
+	<key>shouldCancelActivity</key>
+	<string>canDeserializeContainer</string>
+	<key>shouldSubscribeMaterial</key>
+	<string>canUpdatePrecision</string>
+	<key>visualizeexception</key>
+	<string>shouldNavigateRow</string>
+</dict>
+</plist>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>catalystBottom</key>
+	<string>shouldSubscribeGem</string>
+	<key>materialSpot</key>
+	<string>schemaLocation</string>
+	<key>missedCoordinator</key>
+	<string>shadersincescope</string>
+	<key>reductionVisible</key>
+	<string>modulusLevel</string>
+	<key>shouldKeepFuture</key>
+	<string>storyboardOpacity</string>
+	<key>shouldpaintplayback</key>
+	<string>spinRequest</string>
+	<key>toleranceMode</key>
+	<string>lockStorage</string>
+</dict>
+</plist>

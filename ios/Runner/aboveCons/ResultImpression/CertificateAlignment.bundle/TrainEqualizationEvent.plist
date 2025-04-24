@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cursorMargin</key>
+	<string>bindOption</string>
+	<key>layoutlabel</key>
+	<string>renameIntensity</string>
+	<key>lostMultiplication</key>
+	<string>previewBuffer</string>
+	<key>offsetOrientation</key>
+	<string>composableaccessoryfeedback</string>
+	<key>prevTabView</key>
+	<string>presenterValidation</string>
+	<key>replacemodal</key>
+	<string>accessibleException</string>
+	<key>shouldSubscribeCompletion</key>
+	<string>reactiveRole</string>
+	<key>workflowHue</key>
+	<string>transitionMaster</string>
+</dict>
+</plist>

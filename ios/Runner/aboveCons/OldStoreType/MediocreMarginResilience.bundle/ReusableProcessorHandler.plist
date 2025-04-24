@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>agileSchema</key>
+	<string>hardNotifier</string>
+	<key>compositiontaxonomy</key>
+	<string>keyConstraint</string>
+	<key>discardedspine</key>
+	<string>mapStyle</string>
+	<key>resilientfactory</key>
+	<string>containerobserverinset</string>
+	<key>scaffoldlikememento</key>
+	<string>semanticsShade</string>
+	<key>shaderDepth</key>
+	<string>spineappearance</string>
+	<key>shouldSerializeRemainder</key>
+	<string>pinchableMenu</string>
+	<key>typicalExponent</key>
+	<string>persistentcolumnstate</string>
+</dict>
+</plist>

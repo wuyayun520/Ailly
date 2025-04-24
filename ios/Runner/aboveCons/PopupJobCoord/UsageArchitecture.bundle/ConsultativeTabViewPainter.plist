@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>distinctionContrast</key>
+	<string>sustainablecollectionsize</string>
+	<key>drawerVisibility</key>
+	<string>detachOption</string>
+	<key>largeAspect</key>
+	<string>dynamicMovement</string>
+	<key>lastPet</key>
+	<string>permissiveRemainder</string>
+	<key>pinchabletopic</key>
+	<string>pendingBorder</string>
+	<key>shouldUnmountPlayback</key>
+	<string>compositionalAnimator</string>
+	<key>visibleLatency</key>
+	<string>loaderOrientation</string>
+</dict>
+</plist>

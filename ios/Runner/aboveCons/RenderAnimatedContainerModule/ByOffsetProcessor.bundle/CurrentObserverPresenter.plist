@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accordionScaffold</key>
+	<string>yieldsymbol</string>
+	<key>callbackaboutmode</key>
+	<string>responseDelay</string>
+	<key>iterativeSpot</key>
+	<string>fixedAxis</string>
+	<key>occasionvalidation</key>
+	<string>listenerPlatform</string>
+	<key>protectednavigationoffset</key>
+	<string>marshalPreview</string>
+	<key>subsequentResolver</key>
+	<string>persistentrecursion</string>
+	<key>threadDuration</key>
+	<string>canPublishStateless</string>
+</dict>
+</plist>

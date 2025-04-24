@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>advancedModulus</key>
+	<string>interactiveRenderer</string>
+	<key>deferredemitter</key>
+	<string>ephemeralReceiver</string>
+	<key>loopedge</key>
+	<string>vectorizeLayer</string>
+	<key>resilientComponent</key>
+	<string>associatedCell</string>
+	<key>sinkFlags</key>
+	<string>canNavigateDimension</string>
+</dict>
+</plist>

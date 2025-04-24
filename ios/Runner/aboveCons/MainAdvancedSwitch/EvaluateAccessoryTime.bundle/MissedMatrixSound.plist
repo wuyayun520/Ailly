@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>directlyIntensity</key>
+	<string>readStorage</string>
+	<key>exceptionposition</key>
+	<string>lastCallback</string>
+	<key>fusedUsage</key>
+	<string>shouldFormatTangent</string>
+	<key>implementtransition</key>
+	<string>modeldescent</string>
+	<key>shouldpersistchecklist</key>
+	<string>unmountedRoute</string>
+	<key>transitionInteraction</key>
+	<string>deferredExpanded</string>
+</dict>
+</plist>

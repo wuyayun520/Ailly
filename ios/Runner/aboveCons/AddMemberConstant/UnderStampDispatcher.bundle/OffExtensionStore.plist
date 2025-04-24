@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>compositionalNotifier</key>
+	<string>multiEqualization</string>
+	<key>deserializecallback</key>
+	<string>isolatestructureforce</string>
+	<key>discardedGift</key>
+	<string>graphduration</string>
+	<key>fusedisolate</key>
+	<string>actionstructureinset</string>
+	<key>sharedPreview</key>
+	<string>immutableTolerance</string>
+</dict>
+</plist>

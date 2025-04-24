@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>greatInfo</key>
+	<string>handleCompletion</string>
+	<key>loopascent</key>
+	<string>sustainableAsync</string>
+	<key>selectedcapsule</key>
+	<string>positionedSkewY</string>
+	<key>serviceSpeed</key>
+	<string>shouldPublishBorder</string>
+</dict>
+</plist>

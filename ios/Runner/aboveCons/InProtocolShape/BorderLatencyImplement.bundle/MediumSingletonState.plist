@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accessoryStyle</key>
+	<string>durationactionposition</string>
+	<key>asynchronousView</key>
+	<string>sessiontop</string>
+	<key>compositionalCurve</key>
+	<string>globalchapteralignment</string>
+	<key>concurrentStateful</key>
+	<string>largedialogs</string>
+	<key>disclaimerContrast</key>
+	<string>shouldRebuildStack</string>
+	<key>nibmenu</key>
+	<string>modalCenter</string>
+</dict>
+</plist>

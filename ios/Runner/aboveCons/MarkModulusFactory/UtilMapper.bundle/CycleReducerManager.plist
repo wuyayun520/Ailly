@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>customEvaluation</key>
+	<string>resiliencerotation</string>
+	<key>disparateTimer</key>
+	<string>eagerRow</string>
+	<key>inactiveisolateleft</key>
+	<string>nextPreview</string>
+	<key>tensorticker</key>
+	<string>shouldDisposeMediaQuery</string>
+</dict>
+</plist>

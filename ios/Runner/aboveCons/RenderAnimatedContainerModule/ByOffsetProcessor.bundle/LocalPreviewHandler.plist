@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>discardedEfficiency</key>
+	<string>serializeMember</string>
+	<key>interactorappearance</key>
+	<string>mediaqueryPlatform</string>
+	<key>musicStyle</key>
+	<string>controllerviaphase</string>
+	<key>resilientConsumer</key>
+	<string>showInteractor</string>
+	<key>titleormethod</key>
+	<string>shouldPublishConvolution</string>
+</dict>
+</plist>

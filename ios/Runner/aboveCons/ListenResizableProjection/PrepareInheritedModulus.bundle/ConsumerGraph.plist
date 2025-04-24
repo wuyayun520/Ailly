@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>assetreplica</key>
+	<string>pausepoint</string>
+	<key>bloclistener</key>
+	<string>chartRight</string>
+	<key>cartesianVideo</key>
+	<string>regulateGroup</string>
+	<key>managerworktheme</key>
+	<string>advancedsegmenttail</string>
+	<key>mutableScale</key>
+	<string>shouldNotifyStack</string>
+	<key>priorContrast</key>
+	<string>notifyAspectRatio</string>
+	<key>resizableScene</key>
+	<string>observeSink</string>
+	<key>shouldLoadDrawer</key>
+	<string>animatedusecasebound</string>
+	<key>substantialcallback</key>
+	<string>bitratehash</string>
+</dict>
+</plist>

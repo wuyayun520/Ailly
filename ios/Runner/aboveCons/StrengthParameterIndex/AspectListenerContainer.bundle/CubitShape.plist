@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>batchbesideenvironment</key>
+	<string>robustAnalyzer</string>
+	<key>iconTheme</key>
+	<string>moveListener</string>
+	<key>layoutcomponent</key>
+	<string>concreteWorkflow</string>
+	<key>missedConfiguration</key>
+	<string>shouldNavigateButton</string>
+	<key>shaderInset</key>
+	<string>searchicon</string>
+	<key>shouldDisposeSlash</key>
+	<string>repositoryFacade</string>
+	<key>singlePoint</key>
+	<string>numericalNotation</string>
+	<key>statelessSkewY</key>
+	<string>groupDistance</string>
+	<key>touchdrawer</key>
+	<string>startCupertino</string>
+</dict>
+</plist>

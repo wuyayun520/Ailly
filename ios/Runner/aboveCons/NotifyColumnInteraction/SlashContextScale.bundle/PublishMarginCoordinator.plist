@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>actionimpression</key>
+	<string>createEquipment</string>
+	<key>discardedMetadata</key>
+	<string>basicLoop</string>
+	<key>eagerPublisher</key>
+	<string>shouldMountSegue</string>
+	<key>explicitAnimatedContainer</key>
+	<string>mediaqueryVelocity</string>
+	<key>factoryTransparency</key>
+	<string>currentError</string>
+	<key>reducerMomentum</key>
+	<string>workflowTheme</string>
+	<key>smartPainter</key>
+	<string>unsortedinteractortag</string>
+	<key>tensorevaluation</key>
+	<string>canEncodeBorder</string>
+</dict>
+</plist>

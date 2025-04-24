@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>completerVisible</key>
+	<string>shouldDispatchAppBar</string>
+	<key>connectorTop</key>
+	<string>fetchCurve</string>
+	<key>draggableWrapper</key>
+	<string>shouldSetStatePainter</string>
+	<key>dynamicRole</key>
+	<string>enhanceModel</string>
+	<key>layoutstyleskewx</key>
+	<string>offsetFeedback</string>
+	<key>shouldPrepareKernel</key>
+	<string>liteItem</string>
+	<key>topictaskoffset</key>
+	<string>mobilePlatform</string>
+</dict>
+</plist>

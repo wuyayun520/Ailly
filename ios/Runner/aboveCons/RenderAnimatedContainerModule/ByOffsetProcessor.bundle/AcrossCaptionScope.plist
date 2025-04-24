@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>missedCube</key>
+	<string>seamlessCubit</string>
+	<key>mitigatecompleter</key>
+	<string>exitLayer</string>
+	<key>multiCubit</key>
+	<string>handleFlex</string>
+	<key>taskSkewX</key>
+	<string>shaderrenderer</string>
+</dict>
+</plist>

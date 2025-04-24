@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>allocatorTint</key>
+	<string>shearSink</string>
+	<key>dedicatedInteractor</key>
+	<string>binderLocation</string>
+	<key>displayableMesh</key>
+	<string>discardedSink</string>
+	<key>intermediatecard</key>
+	<string>deflateSlider</string>
+	<key>invisibleZone</key>
+	<string>draggableButton</string>
+	<key>permanentMaterial</key>
+	<string>mutableParticle</string>
+	<key>primaryRemediation</key>
+	<string>cancelExtension</string>
+	<key>reusableContraction</key>
+	<string>deactivateCallback</string>
+	<key>shouldSkipText</key>
+	<string>elementDelay</string>
+</dict>
+</plist>

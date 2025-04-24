@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>decodetheme</key>
+	<string>scenarioRotation</string>
+	<key>eagercapsule</key>
+	<string>calculateText</string>
+	<key>intuitiveEmitter</key>
+	<string>matrixBuffer</string>
+	<key>intuitiveShader</key>
+	<string>clipperCoord</string>
+	<key>largeinfrastructure</key>
+	<string>disparateCache</string>
+	<key>nextemitter</key>
+	<string>completedTernary</string>
+	<key>persistentScene</key>
+	<string>autoPoint</string>
+	<key>publicview</key>
+	<string>delegateTransformer</string>
+	<key>standaloneSelector</key>
+	<string>otherModel</string>
+	<key>webState</key>
+	<string>concreteActivity</string>
+</dict>
+</plist>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>pinchableLogarithm</key>
+	<string>concatenateCompleter</string>
+	<key>responsivestateless</key>
+	<string>performPosition</string>
+	<key>sharedCaption</key>
+	<string>spriteSingleton</string>
+	<key>shouldKeepConvolution</key>
+	<string>priorTransition</string>
+</dict>
+</plist>

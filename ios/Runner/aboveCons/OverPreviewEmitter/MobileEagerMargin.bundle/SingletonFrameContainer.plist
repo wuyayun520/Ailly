@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>metadataforsystem</key>
+	<string>canDeserializeTernary</string>
+	<key>pageviewvideo</key>
+	<string>playbackfunctionmode</string>
+	<key>respectiveStateful</key>
+	<string>ignoredKernel</string>
+	<key>semanticListView</key>
+	<string>shouldFetchTangent</string>
+	<key>shouldRebuildHeap</key>
+	<string>sortedThroughput</string>
+	<key>shouldlayoutfuture</key>
+	<string>channelsContext</string>
+	<key>shouldsubscribecollection</key>
+	<string>immediateSemantics</string>
+	<key>shouldsubscribethread</key>
+	<string>scaleVisitor</string>
+	<key>textfieldindex</key>
+	<string>playAsset</string>
+</dict>
+</plist>

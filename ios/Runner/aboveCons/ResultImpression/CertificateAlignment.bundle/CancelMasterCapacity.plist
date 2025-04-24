@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>builderCoord</key>
+	<string>lostTimeline</string>
+	<key>deferredCallback</key>
+	<string>temporaryTimeline</string>
+	<key>disabledConstant</key>
+	<string>multiplicationedge</string>
+	<key>mobileinstruction</key>
+	<string>augmentallocator</string>
+	<key>polygonRotation</key>
+	<string>swiftstorage</string>
+	<key>prismaticGestureDetector</key>
+	<string>canHandleSlider</string>
+	<key>resizablecontroller</key>
+	<string>advancedstack</string>
+	<key>uniformPublisher</key>
+	<string>canFinishCompletion</string>
+</dict>
+</plist>

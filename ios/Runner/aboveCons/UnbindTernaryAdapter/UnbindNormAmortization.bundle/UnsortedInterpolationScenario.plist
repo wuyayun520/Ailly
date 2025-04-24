@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>combinercoord</key>
+	<string>seekTween</string>
+	<key>customUseCase</key>
+	<string>hasnorm</string>
+	<key>draggableAnalogy</key>
+	<string>tweenTint</string>
+	<key>listenerLeft</key>
+	<string>canDetachProjection</string>
+	<key>providerSkewX</key>
+	<string>textureasparam</string>
+	<key>schedulerRight</key>
+	<string>sophisticatedRenderer</string>
+	<key>shouldDispatchConsumer</key>
+	<string>autoResponse</string>
+	<key>shoulddismisschecklist</key>
+	<string>controlleratvalue</string>
+</dict>
+</plist>

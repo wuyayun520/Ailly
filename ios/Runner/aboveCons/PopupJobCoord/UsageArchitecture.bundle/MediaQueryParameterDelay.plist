@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>alignmentkindbehavior</key>
+	<string>fixedAperture</string>
+	<key>componentStatus</key>
+	<string>threadOrientation</string>
+	<key>immediateDialogs</key>
+	<string>smartElement</string>
+	<key>shouldPublishView</key>
+	<string>publisherType</string>
+	<key>smallconsumption</key>
+	<string>paintpopup</string>
+	<key>subpixelexceptprocess</key>
+	<string>mediaquerywithframework</string>
+	<key>titleBrightness</key>
+	<string>shouldBindColumn</string>
+	<key>trainservice</key>
+	<string>lastModal</string>
+</dict>
+</plist>

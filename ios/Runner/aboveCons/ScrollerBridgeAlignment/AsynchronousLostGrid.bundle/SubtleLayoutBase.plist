@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>enabledDetail</key>
+	<string>splitterColor</string>
+	<key>interactorbufferappearance</key>
+	<string>overlaylevelhue</string>
+	<key>notifierForce</key>
+	<string>displayableContainer</string>
+	<key>richtextCenter</key>
+	<string>sortedCycle</string>
+	<key>singleExtension</key>
+	<string>relationalinteger</string>
+	<key>specifierStyle</key>
+	<string>parseMargin</string>
+</dict>
+</plist>

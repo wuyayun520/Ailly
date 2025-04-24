@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activitycluster</key>
+	<string>customizedPresenter</string>
+	<key>finderFormat</key>
+	<string>canUnmountedSession</string>
+	<key>formatLocation</key>
+	<string>difficultRestriction</string>
+	<key>nativeHero</key>
+	<string>releaseRect</string>
+	<key>tasklayerdelay</key>
+	<string>mediaPrototype</string>
+</dict>
+</plist>

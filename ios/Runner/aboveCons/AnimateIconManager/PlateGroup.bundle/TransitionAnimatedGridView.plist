@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>basePadding</key>
+	<string>rangeVisible</string>
+	<key>mutableTransition</key>
+	<string>comprehensiveMobile</string>
+	<key>presenteffect</key>
+	<string>similarSemantics</string>
+	<key>replicaContrast</key>
+	<string>delegateResource</string>
+	<key>shouldRoutePlayback</key>
+	<string>yieldActivity</string>
+	<key>timerDepth</key>
+	<string>shouldMountSpot</string>
+	<key>titleStyle</key>
+	<string>presenterdecoratorshape</string>
+</dict>
+</plist>

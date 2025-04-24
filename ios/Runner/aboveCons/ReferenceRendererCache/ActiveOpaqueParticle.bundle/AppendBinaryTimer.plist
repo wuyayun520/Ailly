@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>dispatchlistener</key>
+	<string>scrollableSplitter</string>
+	<key>eagerCycle</key>
+	<string>shouldSerializeAspectRatio</string>
+	<key>shouldPopLayout</key>
+	<string>shouldPersistInteger</string>
+	<key>shouldnotifygraphic</key>
+	<string>framevisitorstate</string>
+	<key>substantialusage</key>
+	<string>rebuildSlash</string>
+	<key>volumeVelocity</key>
+	<string>pushDecoration</string>
+</dict>
+</plist>

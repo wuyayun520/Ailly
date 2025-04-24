@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>bandwidthleft</key>
+	<string>reusableImpact</string>
+	<key>cursorScale</key>
+	<string>scenarioContrast</string>
+	<key>immutableSkin</key>
+	<string>shouldemitdialogs</string>
+	<key>interactorSpeed</key>
+	<string>customizedGesture</string>
+	<key>multiplicationlistener</key>
+	<string>singletonPrototype</string>
+	<key>remediationcount</key>
+	<string>shouldUpdateBrush</string>
+	<key>singleInterface</key>
+	<string>navigateExpanded</string>
+	<key>trianglesKind</key>
+	<string>substantialTime</string>
+</dict>
+</plist>

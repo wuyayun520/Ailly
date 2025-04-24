@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>axisMargin</key>
+	<string>logarithmLeft</string>
+	<key>currentBox</key>
+	<string>selectedresource</string>
+	<key>desktopObserver</key>
+	<string>alignmentcontextcontrast</string>
+	<key>resilientinteractorcolor</key>
+	<string>parallelCursor</string>
+	<key>selectorbrightness</key>
+	<string>canEndStateless</string>
+	<key>shouldAttachRichText</key>
+	<string>releaseVector</string>
+	<key>spotOrigin</key>
+	<string>animatedMenu</string>
+	<key>utilschema</key>
+	<string>animatorDirection</string>
+</dict>
+</plist>

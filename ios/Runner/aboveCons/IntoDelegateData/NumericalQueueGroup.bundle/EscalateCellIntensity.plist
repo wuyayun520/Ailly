@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>graphType</key>
+	<string>registerBuilder</string>
+	<key>inactivecustompaintshape</key>
+	<string>shouldDisposeTangent</string>
+	<key>mechanismDuration</key>
+	<string>canLoadFragment</string>
+	<key>provisionfrequency</key>
+	<string>canConnectChannels</string>
+	<key>reactiveLayout</key>
+	<string>disabledFrame</string>
+	<key>shouldPauseIcon</key>
+	<string>gesturedetectorLevel</string>
+	<key>singleRect</key>
+	<string>hierarchicalDescription</string>
+	<key>staticFeature</key>
+	<string>arithmeticVariable</string>
+</dict>
+</plist>

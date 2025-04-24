@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>agileConstraint</key>
+	<string>particleBorder</string>
+	<key>concurrentResource</key>
+	<string>prismaticTween</string>
+	<key>dispatchasset</key>
+	<string>blocFacade</string>
+	<key>equalizationslider</key>
+	<string>mutableInfo</string>
+	<key>escalatetexture</key>
+	<string>functionalSingleton</string>
+	<key>mediumVector</key>
+	<string>associatedChallenge</string>
+	<key>sortedinteraction</key>
+	<string>aspectratioBorder</string>
+	<key>subtleEvaluation</key>
+	<string>mergerMomentum</string>
+</dict>
+</plist>

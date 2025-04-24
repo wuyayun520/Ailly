@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accordionMobile</key>
+	<string>addDescription</string>
+	<key>customizedBuffer</key>
+	<string>nativeOverlay</string>
+	<key>reactiveTask</key>
+	<string>normVelocity</string>
+	<key>relationalStatus</key>
+	<string>unsortedData</string>
+	<key>resizableRestriction</key>
+	<string>transitionbesidevariable</string>
+	<key>seamlessTechnique</key>
+	<string>canInitializeMedia</string>
+	<key>secondCheckbox</key>
+	<string>hasCustomPaint</string>
+	<key>semanticschooser</key>
+	<string>coordinatorvalueorigin</string>
+	<key>sensorhead</key>
+	<string>listenerprototypeposition</string>
+	<key>sinkexcepttask</key>
+	<string>asynchronousScalability</string>
+</dict>
+</plist>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>batchoffset</key>
+	<string>cloneStream</string>
+	<key>curveDuration</key>
+	<string>timerProcess</string>
+	<key>prismaticGem</key>
+	<string>shouldPrepareSlider</string>
+	<key>selectednib</key>
+	<string>prevModule</string>
+	<key>shouldFormatKernel</key>
+	<string>attachGridView</string>
+	<key>shouldUpdateMonster</key>
+	<string>detachReducer</string>
+	<key>shouldpersistgridview</key>
+	<string>popDescription</string>
+</dict>
+</plist>

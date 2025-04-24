@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>boxshadowrate</key>
+	<string>canTransitionPositioned</string>
+	<key>controllerservice</key>
+	<string>checkSingleton</string>
+	<key>customInterpolation</key>
+	<string>synchronouscubitright</string>
+	<key>dialogsstagename</key>
+	<string>shouldProcessPadding</string>
+	<key>initiatorsInterval</key>
+	<string>basicLog</string>
+	<key>receiveheap</key>
+	<string>displayableCurve</string>
+	<key>relationalmethodshape</key>
+	<string>primaryNotation</string>
+	<key>shouldSerializeFuture</key>
+	<string>gradientBridge</string>
+	<key>startfragment</key>
+	<string>canShowFuture</string>
+</dict>
+</plist>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accessibleProvider</key>
+	<string>embedResolver</string>
+	<key>apertureappearance</key>
+	<string>activePolygon</string>
+	<key>configurationshape</key>
+	<string>variantDepth</string>
+	<key>detectorSkewY</key>
+	<string>provisionSize</string>
+	<key>eventsaturation</key>
+	<string>debugStore</string>
+	<key>mobileCache</key>
+	<string>similarSink</string>
+</dict>
+</plist>

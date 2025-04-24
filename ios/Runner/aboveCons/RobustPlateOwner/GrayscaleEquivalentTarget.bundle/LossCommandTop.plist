@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>descriptorDelay</key>
+	<string>canSerializeStateless</string>
+	<key>firstNotation</key>
+	<string>observeNib</string>
+	<key>priorityobject</key>
+	<string>animationhue</string>
+	<key>relationalStateful</key>
+	<string>emitCard</string>
+	<key>reusablecharacteropacity</key>
+	<string>zoneIndex</string>
+	<key>shouldSetStatePoint</key>
+	<string>yieldlayout</string>
+	<key>shouldTransitionOptimizer</key>
+	<string>parseModel</string>
+	<key>synchronousGem</key>
+	<string>canFormatContraction</string>
+</dict>
+</plist>

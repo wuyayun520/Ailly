@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>discardedAspectRatio</key>
+	<string>bindStoryboard</string>
+	<key>evaluationForce</key>
+	<string>chooserDepth</string>
+	<key>immediateFactory</key>
+	<string>permanentDropdownButton</string>
+	<key>independentConstraint</key>
+	<string>resilientInterface</string>
+	<key>mobileOperation</key>
+	<string>servicefromjob</string>
+	<key>rapidAspectRatio</key>
+	<string>encodeMission</string>
+	<key>scopePressure</key>
+	<string>desktopGradient</string>
+	<key>sharedArithmetic</key>
+	<string>shouldinitializemodal</string>
+	<key>sortedAsset</key>
+	<string>storyboardStyle</string>
+	<key>statelesslayoutleft</key>
+	<string>cupertinoDescent</string>
+</dict>
+</plist>

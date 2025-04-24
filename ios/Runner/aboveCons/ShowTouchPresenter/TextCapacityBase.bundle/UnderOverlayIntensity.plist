@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>associatedTexture</key>
+	<string>basicResponder</string>
+	<key>chartAlignment</key>
+	<string>standaloneGraphic</string>
+	<key>distinctioninteraction</key>
+	<string>declarativeDescriptor</string>
+	<key>pickerOffset</key>
+	<string>directlyLoop</string>
+	<key>restrictionTension</key>
+	<string>sensorBridge</string>
+	<key>specifyInstruction</key>
+	<string>observerAlignment</string>
+	<key>statefulGrain</key>
+	<string>gramDirection</string>
+	<key>tappableWrapper</key>
+	<string>dataHue</string>
+</dict>
+</plist>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>baseDelay</key>
+	<string>imageOrigin</string>
+	<key>curvespeed</key>
+	<string>textfieldEdge</string>
+	<key>diversifiedGate</key>
+	<string>traversalFeedback</string>
+	<key>shouldDisconnectAspectRatio</key>
+	<string>chartOrigin</string>
+	<key>shouldDismissSkin</key>
+	<string>futureborder</string>
+	<key>unsortedUseCase</key>
+	<string>graphVisitor</string>
+</dict>
+</plist>

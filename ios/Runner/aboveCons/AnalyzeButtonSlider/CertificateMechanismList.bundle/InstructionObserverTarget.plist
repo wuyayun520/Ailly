@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>comprehensiveFormat</key>
+	<string>prismaticRichText</string>
+	<key>errorshape</key>
+	<string>deprecateText</string>
+	<key>mobileObserver</key>
+	<string>shouldFetchAspectRatio</string>
+	<key>protectedInjection</key>
+	<string>discardedSizedBox</string>
+	<key>shouldlayoutgesturedetector</key>
+	<string>statefulMaster</string>
+	<key>symmetricRepository</key>
+	<string>interactiveResponse</string>
+	<key>synchronousPositioned</key>
+	<string>multiCapacity</string>
+</dict>
+</plist>

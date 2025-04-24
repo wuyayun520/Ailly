@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>crudematerializer</key>
+	<string>setstateGate</string>
+	<key>imperativeFeature</key>
+	<string>robustCapsule</string>
+	<key>rendercosine</key>
+	<string>disposeMediaQuery</string>
+	<key>shouldValidateProject</key>
+	<string>textfieldProxy</string>
+	<key>singlerepository</key>
+	<string>backwardInjection</string>
+	<key>singletondelay</key>
+	<string>aspectratioTag</string>
+	<key>smartvolume</key>
+	<string>canLoadImage</string>
+	<key>specifyMesh</key>
+	<string>fetchColumn</string>
+	<key>vectorCount</key>
+	<string>timerTask</string>
+</dict>
+</plist>

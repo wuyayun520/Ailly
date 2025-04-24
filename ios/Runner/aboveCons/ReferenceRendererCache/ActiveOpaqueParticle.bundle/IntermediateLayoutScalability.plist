@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>bulletFormat</key>
+	<string>makeChapter</string>
+	<key>handleractionorientation</key>
+	<string>shouldPopShader</string>
+	<key>isolatelocation</key>
+	<string>seamlessgroup</string>
+	<key>tableSaturation</key>
+	<string>tensorDelegate</string>
+	<key>taskflags</key>
+	<string>composableTentative</string>
+	<key>typicalVector</key>
+	<string>keepContainer</string>
+</dict>
+</plist>

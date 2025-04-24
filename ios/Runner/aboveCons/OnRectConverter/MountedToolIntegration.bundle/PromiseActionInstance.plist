@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>axisofcomposite</key>
+	<string>insteadvariant</string>
+	<key>commonResponse</key>
+	<string>cacheCoordinator</string>
+	<key>declarativeBatch</key>
+	<string>expandedType</string>
+	<key>integermargin</key>
+	<string>stackDensity</string>
+	<key>invisiblecontroller</key>
+	<string>unbindFuture</string>
+	<key>missedNotification</key>
+	<string>materialTag</string>
+	<key>semanticService</key>
+	<string>associatedThreshold</string>
+	<key>throughputOpacity</key>
+	<string>injectionasfunction</string>
+</dict>
+</plist>

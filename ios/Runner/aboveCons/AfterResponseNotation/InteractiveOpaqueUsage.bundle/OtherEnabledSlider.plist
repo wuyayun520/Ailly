@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cacheSpeed</key>
+	<string>advancedtechniquedepth</string>
+	<key>fetchswitch</key>
+	<string>canValidateCollection</string>
+	<key>inheritedResilience</key>
+	<string>opaquegroupshade</string>
+	<key>newestPreview</key>
+	<string>gramState</string>
+	<key>permanentTexture</key>
+	<string>activatedThread</string>
+	<key>sustainableFrame</key>
+	<string>globalGrain</string>
+</dict>
+</plist>

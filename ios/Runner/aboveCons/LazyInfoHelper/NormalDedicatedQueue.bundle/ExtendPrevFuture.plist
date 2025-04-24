@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>constantRate</key>
+	<string>screenMediator</string>
+	<key>criticalcontroller</key>
+	<string>bindSkin</string>
+	<key>diversifiedPolygon</key>
+	<string>observePlate</string>
+	<key>mapflags</key>
+	<string>fragmentPressure</string>
+	<key>pivotalSpine</key>
+	<string>granularScheduler</string>
+	<key>primarylossmode</key>
+	<string>autoRemediation</string>
+	<key>rapidSlider</key>
+	<string>euclideandescriptor</string>
+	<key>reducermerger</key>
+	<string>persistsubpixel</string>
+	<key>resolvershape</key>
+	<string>permanentContainer</string>
+	<key>strokeSkewY</key>
+	<string>signlayout</string>
+</dict>
+</plist>

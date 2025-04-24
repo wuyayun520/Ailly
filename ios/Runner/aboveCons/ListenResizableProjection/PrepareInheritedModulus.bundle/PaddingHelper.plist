@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cartesianResource</key>
+	<string>appbarState</string>
+	<key>dropdownbuttonValidation</key>
+	<string>loopBottom</string>
+	<key>elasticModal</key>
+	<string>dimensionDecorator</string>
+	<key>hardstorecoord</key>
+	<string>shouldCancelStream</string>
+	<key>otherevent</key>
+	<string>shouldCreateWidget</string>
+	<key>responsiveinteractor</key>
+	<string>nextAsync</string>
+	<key>shouldRouteReduction</key>
+	<string>rectmementoinset</string>
+	<key>statefulMapper</key>
+	<string>shouldSetStateCharacter</string>
+</dict>
+</plist>

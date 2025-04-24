@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>documentEdge</key>
+	<string>pivotalStatus</string>
+	<key>liteTopic</key>
+	<string>uniqueDelivery</string>
+	<key>shouldRenderChecklist</key>
+	<string>shouldDisposeCurve</string>
+	<key>shouldShowCupertino</key>
+	<string>prismaticTolerance</string>
+	<key>vectormaterial</key>
+	<string>euclideanBloc</string>
+</dict>
+</plist>

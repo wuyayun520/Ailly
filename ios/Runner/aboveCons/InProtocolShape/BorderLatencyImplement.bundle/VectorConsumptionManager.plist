@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>disabledColumn</key>
+	<string>easyImage</string>
+	<key>hashparamfrequency</key>
+	<string>explicitIntegration</string>
+	<key>lazyAllocator</key>
+	<string>draggableMember</string>
+	<key>unsortedGate</key>
+	<string>completionedge</string>
+</dict>
+</plist>

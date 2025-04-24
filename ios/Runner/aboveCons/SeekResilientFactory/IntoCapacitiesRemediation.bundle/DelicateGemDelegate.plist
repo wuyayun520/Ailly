@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>brushSpacing</key>
+	<string>unregisterState</string>
+	<key>decorationname</key>
+	<string>resilienceFlags</string>
+	<key>observecheckbox</key>
+	<string>skipComposition</string>
+	<key>overlayspacing</key>
+	<string>seamlessCell</string>
+	<key>rectangleSpacing</key>
+	<string>observeprovider</string>
+	<key>shouldFetchKernel</key>
+	<string>disclaimerTint</string>
+	<key>shouldPauseArithmetic</key>
+	<string>continueBehavior</string>
+	<key>threadright</key>
+	<string>sortedFrame</string>
+</dict>
+</plist>

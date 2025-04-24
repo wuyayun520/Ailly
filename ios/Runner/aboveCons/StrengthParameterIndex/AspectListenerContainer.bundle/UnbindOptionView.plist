@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>directVideo</key>
+	<string>routeAccessory</string>
+	<key>imperativeOverlay</key>
+	<string>routematerial</string>
+	<key>inactiveTextField</key>
+	<string>deferredInfrastructure</string>
+	<key>kernelbehavior</key>
+	<string>clearInjection</string>
+	<key>previewactioninterval</key>
+	<string>descriptorInset</string>
+	<key>richtextcompositedepth</key>
+	<string>aspectratioForce</string>
+	<key>robustExtension</key>
+	<string>memberalignment</string>
+	<key>shouldStopLayout</key>
+	<string>shouldStreamSegue</string>
+</dict>
+</plist>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cupertinoException</key>
+	<string>currentbullet</string>
+	<key>featureDelay</key>
+	<string>bindCatalyst</string>
+	<key>permanentSubpixel</key>
+	<string>canRouteFlex</string>
+	<key>resizablearithmetic</key>
+	<string>shouldEncodeTransition</string>
+	<key>retainedInterface</key>
+	<string>shouldPublishFuture</string>
+	<key>viewamongmediator</key>
+	<string>shouldProcessMaster</string>
+</dict>
+</plist>

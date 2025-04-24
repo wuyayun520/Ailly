@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animatedBuilder</key>
+	<string>numericalFactory</string>
+	<key>geometricSearcher</key>
+	<string>singletonOffset</string>
+	<key>paddingMomentum</key>
+	<string>inflateAnimatedContainer</string>
+	<key>shouldCacheLayout</key>
+	<string>listviewcenter</string>
+	<key>skinPosition</key>
+	<string>significanttextinset</string>
+</dict>
+</plist>

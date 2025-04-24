@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>appbarshade</key>
+	<string>activatedRenderer</string>
+	<key>characteristicinset</key>
+	<string>providerreliability</string>
+	<key>dimensionPressure</key>
+	<string>schedulerTail</string>
+	<key>mediumManager</key>
+	<string>shouldTrainGridView</string>
+	<key>reductionAppearance</key>
+	<string>effectInterval</string>
+	<key>shouldSetStateInkWell</key>
+	<string>expandedHead</string>
+	<key>shouldShowExtension</key>
+	<string>scrollablePresenter</string>
+	<key>strengthAcceleration</key>
+	<string>canMountedStamp</string>
+	<key>tweenandplatform</key>
+	<string>logarithmslider</string>
+</dict>
+</plist>

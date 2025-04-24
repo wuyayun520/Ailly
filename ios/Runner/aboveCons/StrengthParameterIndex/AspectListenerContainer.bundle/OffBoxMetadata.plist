@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>customRenderer</key>
+	<string>resilientConstant</string>
+	<key>explicitException</key>
+	<string>evolutionValidation</string>
+	<key>hasplayback</key>
+	<string>vertexHue</string>
+	<key>immutableOperation</key>
+	<string>standaloneHeap</string>
+	<key>interactiveSplitter</key>
+	<string>shouldKeepLogarithm</string>
+	<key>mainReplica</key>
+	<string>shouldBuildObserver</string>
+	<key>originalRouter</key>
+	<string>distinctionOrientation</string>
+	<key>priorOptimizer</key>
+	<string>easyWidget</string>
+	<key>protocolmethodname</key>
+	<string>techniqueStatus</string>
+	<key>statefulinstruction</key>
+	<string>canPublishIcon</string>
+</dict>
+</plist>

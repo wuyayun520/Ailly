@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>deferredIsolate</key>
+	<string>newestmanagerflags</string>
+	<key>draggablebufferorigin</key>
+	<string>shouldTrainSizedBox</string>
+	<key>eagerModel</key>
+	<string>wrapperMode</string>
+	<key>executegrid</key>
+	<string>requiredMediaQuery</string>
+	<key>gesturedetectorFlags</key>
+	<string>shouldCancelHeap</string>
+	<key>interactivecell</key>
+	<string>mechanismMode</string>
+	<key>persistentIntensity</key>
+	<string>composableImpact</string>
+	<key>scrollableDescriptor</key>
+	<string>destroyFactory</string>
+	<key>tickerDistance</key>
+	<string>canRebuildEntropy</string>
+</dict>
+</plist>

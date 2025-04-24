@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>customizedCapacity</key>
+	<string>accessibleMerger</string>
+	<key>custompaintOffset</key>
+	<string>retainedAnimatedContainer</string>
+	<key>explicitNib</key>
+	<string>sceneschema</string>
+	<key>globalMedia</key>
+	<string>reducerShape</string>
+	<key>globalUsage</key>
+	<string>geometricPainter</string>
+	<key>lastReplica</key>
+	<string>startFuture</string>
+	<key>otherVertex</key>
+	<string>euclideanNavigator</string>
+	<key>schedulemethod</key>
+	<string>shouldRebuildExponent</string>
+</dict>
+</plist>

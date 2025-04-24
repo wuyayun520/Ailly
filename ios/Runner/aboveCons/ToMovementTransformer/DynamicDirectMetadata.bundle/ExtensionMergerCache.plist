@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>arithmeticsound</key>
+	<string>localizationForce</string>
+	<key>collectionspacing</key>
+	<string>storeuntilphase</string>
+	<key>shouldUnmountedIcon</key>
+	<string>finishAlert</string>
+	<key>subpixelindex</key>
+	<string>literesponse</string>
+	<key>swiftduration</key>
+	<string>resizerouter</string>
+	<key>tappableImpact</key>
+	<string>canInitializeSine</string>
+</dict>
+</plist>

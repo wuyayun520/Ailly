@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>acceleratecard</key>
+	<string>accessoryinterval</string>
+	<key>concurrentCoordinator</key>
+	<string>movementcallback</string>
+	<key>modulusBound</key>
+	<string>semanticMobile</string>
+	<key>observecolumn</key>
+	<string>primarySearcher</string>
+	<key>parallelGroup</key>
+	<string>copyConstraint</string>
+	<key>shouldMountedCompletion</key>
+	<string>ascentOpacity</string>
+	<key>sliderSkewX</key>
+	<string>confidentialityTail</string>
+	<key>stepFeedback</key>
+	<string>shouldLoadGesture</string>
+	<key>storageAppearance</key>
+	<string>backwardOperation</string>
+</dict>
+</plist>

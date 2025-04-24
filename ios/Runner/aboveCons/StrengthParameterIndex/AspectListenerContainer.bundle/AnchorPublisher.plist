@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>associatedmultiplicationstatus</key>
+	<string>sharedcurve</string>
+	<key>composableoperationstatus</key>
+	<string>sortedReducer</string>
+	<key>enabledmanager</key>
+	<string>synchronousImage</string>
+	<key>explicitTransformer</key>
+	<string>accessibleService</string>
+	<key>immediateMatrix</key>
+	<string>initializetextfield</string>
+	<key>interfacelevelmomentum</key>
+	<string>challengerepository</string>
+	<key>keyGroup</key>
+	<string>restartmatrix</string>
+	<key>oldReducer</key>
+	<string>gridformat</string>
+	<key>shouldrebuildstoryboard</key>
+	<string>publisherPadding</string>
+</dict>
+</plist>

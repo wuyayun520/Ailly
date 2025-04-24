@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>concreteFeature</key>
+	<string>flexState</string>
+	<key>eagerMap</key>
+	<string>constraintstyle</string>
+	<key>ignoredMechanism</key>
+	<string>autoTaxonomy</string>
+	<key>interactorrestriction</key>
+	<string>vertexTheme</string>
+	<key>multiprecision</key>
+	<string>oldButton</string>
+	<key>routerdrawer</key>
+	<string>keyScenario</string>
+	<key>shouldYieldLogarithm</key>
+	<string>positionedmodule</string>
+</dict>
+</plist>

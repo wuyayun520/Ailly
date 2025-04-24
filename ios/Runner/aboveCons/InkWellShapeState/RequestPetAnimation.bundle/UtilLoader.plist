@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>clipperFeedback</key>
+	<string>scaffoldObserver</string>
+	<key>dataposition</key>
+	<string>elementDistance</string>
+	<key>disabledIntegration</key>
+	<string>directcachecenter</string>
+	<key>disabledRouter</key>
+	<string>shouldHandleFragment</string>
+	<key>interactionPosition</key>
+	<string>infoSpacing</string>
+	<key>linkerAcceleration</key>
+	<string>unsortedBatch</string>
+	<key>retainlayout</key>
+	<string>delicateLoop</string>
+	<key>uniqueDistinction</key>
+	<string>promiseCycle</string>
+</dict>
+</plist>

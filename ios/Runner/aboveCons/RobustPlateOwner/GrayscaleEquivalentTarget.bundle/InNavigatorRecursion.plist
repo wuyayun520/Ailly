@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accessoryDensity</key>
+	<string>sliderSize</string>
+	<key>agileHistogram</key>
+	<string>sensorDepth</string>
+	<key>cartesianEquivalent</key>
+	<string>tabviewDepth</string>
+	<key>cellEdge</key>
+	<string>retainListener</string>
+	<key>fusedTitle</key>
+	<string>restartProfile</string>
+	<key>mainGrain</key>
+	<string>directlyGradient</string>
+	<key>shouldFinishObserver</key>
+	<string>skinEnvironment</string>
+	<key>symmetricObserver</key>
+	<string>intermediatescaffoldpressure</string>
+</dict>
+</plist>

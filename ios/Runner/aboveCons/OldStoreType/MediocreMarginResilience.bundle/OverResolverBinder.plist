@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>deferredDimension</key>
+	<string>retrieveQueue</string>
+	<key>primaryChecklist</key>
+	<string>shouldvalidatemodulus</string>
+	<key>shouldKeepInitiators</key>
+	<string>subsequentCapacity</string>
+</dict>
+</plist>

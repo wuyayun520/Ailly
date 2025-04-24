@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>dialogsDistance</key>
+	<string>shouldcancelmember</string>
+	<key>firstLayer</key>
+	<string>boxshadowstatus</string>
+	<key>radiusmatrix</key>
+	<string>arithmeticRestriction</string>
+	<key>scrollablerowfrequency</key>
+	<string>radiocommandspacing</string>
+	<key>seamlessInterpolation</key>
+	<string>playPosition</string>
+	<key>secondHandler</key>
+	<string>iscontraction</string>
+	<key>shouldRebuildAccessory</key>
+	<string>introspectManager</string>
+	<key>taxonomyCoord</key>
+	<string>persistentAxis</string>
+	<key>transitionBrightness</key>
+	<string>accelerateEvent</string>
+</dict>
+</plist>

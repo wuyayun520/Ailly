@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>blocsystemfeedback</key>
+	<string>gridviewScale</string>
+	<key>missionOpacity</key>
+	<string>unbindCard</string>
+	<key>relationalCollection</key>
+	<string>geometricListView</string>
+	<key>shouldRebuildFragment</key>
+	<string>responsiveDialogs</string>
+	<key>symmetricTransition</key>
+	<string>reflectParticle</string>
+	<key>transitionHead</key>
+	<string>canFinishEntropy</string>
+</dict>
+</plist>

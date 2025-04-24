@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>radiusForce</key>
+	<string>onshadertap</string>
+	<key>sharedDetector</key>
+	<string>completionAlignment</string>
+	<key>shouldEmitConstraint</key>
+	<string>mountedMargin</string>
+	<key>specifyEfficiency</key>
+	<string>unbindFragment</string>
+</dict>
+</plist>

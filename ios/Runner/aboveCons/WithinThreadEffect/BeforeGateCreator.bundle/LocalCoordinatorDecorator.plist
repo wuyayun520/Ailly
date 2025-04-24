@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>associatedContrast</key>
+	<string>gestureVelocity</string>
+	<key>callbackRight</key>
+	<string>desktopFlex</string>
+	<key>consumeservice</key>
+	<string>multiplicationInteraction</string>
+	<key>detailbottom</key>
+	<string>difficultTool</string>
+	<key>optimizermesh</key>
+	<string>activatedcapsule</string>
+	<key>otherUnary</key>
+	<string>deployResponse</string>
+	<key>particleprovision</key>
+	<string>shouldLayoutTool</string>
+	<key>standaloneVolume</key>
+	<string>localizationdecoratorforce</string>
+</dict>
+</plist>

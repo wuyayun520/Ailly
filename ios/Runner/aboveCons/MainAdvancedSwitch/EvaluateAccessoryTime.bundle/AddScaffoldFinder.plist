@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cartesianinitiators</key>
+	<string>workflowSaturation</string>
+	<key>featureType</key>
+	<string>shouldsubscribebehavior</string>
+	<key>futuresystemleft</key>
+	<string>selectorSkewX</string>
+	<key>insteadtable</key>
+	<string>statefulScheduler</string>
+	<key>priorPadding</key>
+	<string>meshLeft</string>
+</dict>
+</plist>

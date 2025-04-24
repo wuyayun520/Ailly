@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>analogyoffset</key>
+	<string>dialogsbehavior</string>
+	<key>concurrentCharacteristic</key>
+	<string>emitStateless</string>
+	<key>effectmargin</key>
+	<string>performQueue</string>
+	<key>inflatepriority</key>
+	<string>inactiveRenderer</string>
+	<key>instructionLeft</key>
+	<string>repositoryfromprototype</string>
+	<key>permanentDistinction</key>
+	<string>ignoredScenario</string>
+	<key>pivotalnormcoord</key>
+	<string>differentiatesingleton</string>
+	<key>selectorScale</key>
+	<string>ascentshade</string>
+	<key>titlecompositesize</key>
+	<string>mainAlpha</string>
+</dict>
+</plist>

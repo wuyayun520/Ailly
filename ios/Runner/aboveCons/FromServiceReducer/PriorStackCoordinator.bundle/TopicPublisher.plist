@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>associatedConstraint</key>
+	<string>sustainableEntity</string>
+	<key>builderpager</key>
+	<string>isolateAction</string>
+	<key>commonSegment</key>
+	<string>localbuilder</string>
+	<key>diversifiedPager</key>
+	<string>consumptionDensity</string>
+	<key>eagerInitiators</key>
+	<string>shouldCancelWorkflow</string>
+	<key>exceptionPressure</key>
+	<string>boxshadowconsumption</string>
+	<key>functionalSorter</key>
+	<string>temporaryTransformer</string>
+	<key>shoulddecodecheckbox</key>
+	<string>publicMaterial</string>
+	<key>shouldtrainprojection</key>
+	<string>shouldSetStateDocument</string>
+	<key>webImpact</key>
+	<string>canStartFragment</string>
+</dict>
+</plist>

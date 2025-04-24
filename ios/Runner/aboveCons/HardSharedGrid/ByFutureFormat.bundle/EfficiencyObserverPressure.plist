@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>advancedGesture</key>
+	<string>adjustNavigator</string>
+	<key>dependencyalongvariable</key>
+	<string>liteShader</string>
+	<key>entitytentative</key>
+	<string>directChart</string>
+	<key>interactiveDuration</key>
+	<string>cacheconfidentiality</string>
+	<key>isCard</key>
+	<string>resilientDrawer</string>
+	<key>mapperDuration</key>
+	<string>positionedresolver</string>
+	<key>radiustypeflags</key>
+	<string>shouldDispatchGesture</string>
+	<key>shouldrestartbullet</key>
+	<string>cursorStructure</string>
+	<key>sortedInkWell</key>
+	<string>canFinishBrush</string>
+	<key>synchronousLayer</key>
+	<string>actionBrightness</string>
+</dict>
+</plist>

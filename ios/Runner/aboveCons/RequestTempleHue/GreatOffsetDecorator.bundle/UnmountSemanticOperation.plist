@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>aspectratioForce</key>
+	<string>restrictionAppearance</string>
+	<key>customTentative</key>
+	<string>sceneintegrity</string>
+	<key>firstAnalyzer</key>
+	<string>shouldDispatchGem</string>
+	<key>interactiveProfile</key>
+	<string>activityshapevisible</string>
+	<key>intermediatehash</key>
+	<string>disposeAspectRatio</string>
+	<key>permissiveSingleton</key>
+	<string>tickersound</string>
+	<key>shouldAttachContainer</key>
+	<string>prepareSlider</string>
+	<key>tentativeCenter</key>
+	<string>replacerouter</string>
+</dict>
+</plist>

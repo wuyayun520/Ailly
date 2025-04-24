@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>isSymbol</key>
+	<string>prismaticColor</string>
+	<key>shouldBindShader</key>
+	<string>encapsulateTexture</string>
+	<key>shouldRenderScale</key>
+	<string>invisibleusecase</string>
+	<key>ternarymerger</key>
+	<string>queueBrightness</string>
+	<key>wrapperBound</key>
+	<string>hashMemento</string>
+</dict>
+</plist>

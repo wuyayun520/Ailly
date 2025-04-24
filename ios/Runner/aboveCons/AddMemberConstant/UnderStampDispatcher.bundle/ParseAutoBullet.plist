@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>navigationLeft</key>
+	<string>presenterSpeed</string>
+	<key>previewTop</key>
+	<string>activateQueue</string>
+	<key>publicRow</key>
+	<string>directlyGestureDetector</string>
+	<key>staticStack</key>
+	<string>precisionAcceleration</string>
+	<key>subsequentPermutation</key>
+	<string>composableCollection</string>
+	<key>viewTension</key>
+	<string>divideScene</string>
+	<key>viewcallback</key>
+	<string>upgradeSize</string>
+</dict>
+</plist>

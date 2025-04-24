@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>allocatorsystemtransparency</key>
+	<string>shouldCancelTable</string>
+	<key>basicSkin</key>
+	<string>canCacheStoryboard</string>
+	<key>crudeMedia</key>
+	<string>descriptionChain</string>
+	<key>entityHead</key>
+	<string>shouldValidateProtocol</string>
+	<key>shouldSubscribeSegue</key>
+	<string>usageFunction</string>
+	<key>sortedCapacities</key>
+	<string>nextResponder</string>
+	<key>sustainableMapper</key>
+	<string>desktopCanvas</string>
+</dict>
+</plist>

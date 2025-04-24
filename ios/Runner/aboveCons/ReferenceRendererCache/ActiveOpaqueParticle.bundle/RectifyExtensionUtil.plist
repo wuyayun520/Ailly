@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>displayableAspectRatio</key>
+	<string>tabviewAppearance</string>
+	<key>elasticsize</key>
+	<string>protocolVar</string>
+	<key>impressionState</key>
+	<string>checkboxPlatform</string>
+	<key>inheritedSegue</key>
+	<string>restoreNode</string>
+	<key>volumeColor</key>
+	<string>builderskewx</string>
+</dict>
+</plist>

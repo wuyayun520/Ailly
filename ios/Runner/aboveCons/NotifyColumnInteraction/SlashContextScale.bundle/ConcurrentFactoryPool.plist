@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>appbarwithstyle</key>
+	<string>rebuildextension</string>
+	<key>composableDimension</key>
+	<string>shouldFinishCompletion</string>
+	<key>efficiencytheme</key>
+	<string>timerInset</string>
+	<key>joinerDirection</key>
+	<string>customBloc</string>
+	<key>multiplicationalignment</key>
+	<string>shouldLoadSwitch</string>
+	<key>providername</key>
+	<string>routeinteraction</string>
+	<key>routeoperationalignment</key>
+	<string>directlyCharacter</string>
+	<key>screenbuilder</key>
+	<string>playUtil</string>
+</dict>
+</plist>

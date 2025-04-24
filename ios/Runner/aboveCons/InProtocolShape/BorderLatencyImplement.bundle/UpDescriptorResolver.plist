@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>alertflyweightsaturation</key>
+	<string>draggableVariant</string>
+	<key>displayableScroll</key>
+	<string>shouldAnimatePoint</string>
+	<key>draggableDetector</key>
+	<string>shouldHandleGrayscale</string>
+	<key>eagerEffect</key>
+	<string>pendingCertificate</string>
+	<key>publishtransformer</key>
+	<string>inactiveTool</string>
+	<key>respectiveMap</key>
+	<string>advancedInstruction</string>
+	<key>shouldContinuePlayback</key>
+	<string>firstCharacter</string>
+	<key>shouldDispatchPainter</key>
+	<string>channelsPlatform</string>
+	<key>shouldPaintStoryboard</key>
+	<string>shouldValidateHeap</string>
+</dict>
+</plist>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>completionOrigin</key>
+	<string>animatedcontainerDecorator</string>
+	<key>shouldRestartSkin</key>
+	<string>responseAcceleration</string>
+</dict>
+</plist>

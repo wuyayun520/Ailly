@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>directState</key>
+	<string>keyDocument</string>
+	<key>dynamicPresenter</key>
+	<string>annotateButton</string>
+	<key>lazyMaster</key>
+	<string>canRenderMusic</string>
+	<key>tweenBrightness</key>
+	<string>colorBound</string>
+	<key>updatedescriptor</key>
+	<string>validateaccessory</string>
+</dict>
+</plist>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>concurrentSink</key>
+	<string>commonAnalyzer</string>
+	<key>criticalProjection</key>
+	<string>scalabilityCenter</string>
+	<key>durationkindtail</key>
+	<string>sceneDepth</string>
+	<key>labeltask</key>
+	<string>combineTitle</string>
+	<key>precisionSaturation</key>
+	<string>hierarchicalContainer</string>
+	<key>subscriberValidation</key>
+	<string>tableStrategy</string>
+	<key>sustainableDescent</key>
+	<string>soundCount</string>
+	<key>uniformSubscription</key>
+	<string>vertexColor</string>
+</dict>
+</plist>

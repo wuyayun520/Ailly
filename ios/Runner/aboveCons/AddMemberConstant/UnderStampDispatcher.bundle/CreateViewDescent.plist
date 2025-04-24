@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>alphaRight</key>
+	<string>similarEffect</string>
+	<key>compiledescription</key>
+	<string>multiplyAllocator</string>
+	<key>groupTransparency</key>
+	<string>requestmodule</string>
+	<key>musicprogressbar</key>
+	<string>constraintscroller</string>
+	<key>strengthContrast</key>
+	<string>directMechanism</string>
+</dict>
+</plist>

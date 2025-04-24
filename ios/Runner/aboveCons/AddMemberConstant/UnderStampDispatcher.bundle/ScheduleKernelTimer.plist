@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>aggregateresolver</key>
+	<string>dropdownbuttonState</string>
+	<key>diffableDelivery</key>
+	<string>asyncFormat</string>
+	<key>drawerMargin</key>
+	<string>sorterRight</string>
+	<key>materialcubit</key>
+	<string>visualizeAwait</string>
+	<key>radiusvisitorskewy</key>
+	<string>explicitPlate</string>
+	<key>retainedmaptheme</key>
+	<string>stackLevel</string>
+	<key>symbolHue</key>
+	<string>receiveintensity</string>
+</dict>
+</plist>

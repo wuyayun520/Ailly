@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>axisShape</key>
+	<string>onscrollchanged</string>
+	<key>joinerFeedback</key>
+	<string>beginnerTransition</string>
+	<key>mediaqueryStatus</key>
+	<string>overlayVar</string>
+	<key>replaceshader</key>
+	<string>sequentialArchitecture</string>
+</dict>
+</plist>

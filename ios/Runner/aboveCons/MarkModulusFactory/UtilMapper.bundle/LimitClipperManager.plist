@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>crudecaption</key>
+	<string>canFinishModulus</string>
+	<key>cubitselector</key>
+	<string>selectedmaster</string>
+	<key>inheritedManager</key>
+	<string>bulletState</string>
+	<key>isnavigator</key>
+	<string>maprepository</string>
+	<key>onnormtap</key>
+	<string>shouldrebuildbitrate</string>
+	<key>permissiveNotation</key>
+	<string>deserializebinary</string>
+	<key>processorDepth</key>
+	<string>challengeSkewX</string>
+	<key>staticDependency</key>
+	<string>shouldConnectSample</string>
+	<key>streamlinecontraction</key>
+	<string>inheritedProject</string>
+	<key>unmountedaperture</key>
+	<string>interactorVar</string>
+</dict>
+</plist>

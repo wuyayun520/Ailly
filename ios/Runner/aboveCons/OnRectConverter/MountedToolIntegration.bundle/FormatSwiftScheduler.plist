@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>diffableModal</key>
+	<string>statefulSpeed</string>
+	<key>directInjection</key>
+	<string>insteadhandler</string>
+	<key>drawerScale</key>
+	<string>pivotalStateless</string>
+	<key>mainLayout</key>
+	<string>largeInterpolation</string>
+	<key>responsiveCard</key>
+	<string>shouldSetStateMission</string>
+	<key>sanitizeconfiguration</key>
+	<string>sinkskewx</string>
+</dict>
+</plist>

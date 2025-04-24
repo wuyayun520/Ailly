@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>directSlider</key>
+	<string>moveFeature</string>
+	<key>impactScale</key>
+	<string>consumerInset</string>
+	<key>isslash</key>
+	<string>graphSize</string>
+	<key>pushview</key>
+	<string>protocolFacade</string>
+	<key>shouldFetchLabel</key>
+	<string>overlaystyledelay</string>
+	<key>smallMobile</key>
+	<string>responsiveTicker</string>
+	<key>statelessScheduler</key>
+	<string>renderCanvas</string>
+</dict>
+</plist>

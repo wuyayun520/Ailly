@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>controllerformat</key>
+	<string>invisibleRadius</string>
+	<key>draggableSpecifier</key>
+	<string>canSkipSignature</string>
+	<key>explicitCube</key>
+	<string>graphdespiteshape</string>
+	<key>explicitEfficiency</key>
+	<string>basicInformation</string>
+	<key>rapidchartborder</key>
+	<string>largeSensor</string>
+	<key>stopslider</key>
+	<string>interfaceBehavior</string>
+</dict>
+</plist>

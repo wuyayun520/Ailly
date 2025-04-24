@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activatedrouter</key>
+	<string>catalystFunction</string>
+	<key>appbarAcceleration</key>
+	<string>pinchableTernary</string>
+	<key>denseScalability</key>
+	<string>canCacheFuture</string>
+	<key>movementposition</key>
+	<string>intensityelasticity</string>
+	<key>reducerbound</key>
+	<string>shouldPauseNorm</string>
+	<key>shouldUnmountedBuilder</key>
+	<string>activeTrajectory</string>
+	<key>usedProvision</key>
+	<string>deferredStateless</string>
+	<key>usedTraversal</key>
+	<string>textSkewY</string>
+</dict>
+</plist>

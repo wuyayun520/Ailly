@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>materialChapter</key>
+	<string>polygonFrequency</string>
+	<key>permissivePainter</key>
+	<string>updateUnary</string>
+	<key>shouldDismissScreen</key>
+	<string>diffableJoiner</string>
+	<key>shouldTransformScaffold</key>
+	<string>unmarshalRoute</string>
+	<key>shouldValidateMovement</key>
+	<string>concreteEffect</string>
+	<key>specifyProgressBar</key>
+	<string>createhandler</string>
+</dict>
+</plist>

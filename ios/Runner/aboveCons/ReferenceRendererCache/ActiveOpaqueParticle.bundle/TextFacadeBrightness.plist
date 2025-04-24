@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>bandwidthCenter</key>
+	<string>synchronousMetadata</string>
+	<key>displayablespine</key>
+	<string>utilinsidesystem</string>
+	<key>newestChannel</key>
+	<string>chapterbandwidth</string>
+	<key>polygonSize</key>
+	<string>certificateBridge</string>
+	<key>respondmodel</key>
+	<string>popTabView</string>
+	<key>scopekind</key>
+	<string>accessibleLabel</string>
+	<key>secondPicker</key>
+	<string>selectedstoryboard</string>
+	<key>shouldPopSegue</key>
+	<string>keyTime</string>
+	<key>synchronousIntegrity</key>
+	<string>canvasFunction</string>
+</dict>
+</plist>

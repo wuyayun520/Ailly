@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activatefeature</key>
+	<string>desktopSignature</string>
+	<key>enabledCatalyst</key>
+	<string>invisibleDialogs</string>
+	<key>shouldUnmountedBinary</key>
+	<string>canDismissReference</string>
+	<key>significantTime</key>
+	<string>radiusComposite</string>
+</dict>
+</plist>

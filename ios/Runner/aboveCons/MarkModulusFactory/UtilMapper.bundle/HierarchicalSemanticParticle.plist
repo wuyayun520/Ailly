@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>granularFormat</key>
+	<string>mapkindbound</string>
+	<key>priorityascommand</key>
+	<string>discardedThreshold</string>
+	<key>shouldSetStateMaster</key>
+	<string>constantFormat</string>
+	<key>synchronousInfo</key>
+	<string>grainCenter</string>
+	<key>usagemementotail</key>
+	<string>radiusIndex</string>
+</dict>
+</plist>

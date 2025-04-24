@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>errorLocation</key>
+	<string>deserializeChannels</string>
+	<key>offsetticker</key>
+	<string>divideFrame</string>
+	<key>shouldDetachAlpha</key>
+	<string>remainderWork</string>
+	<key>shouldPauseAxis</key>
+	<string>shouldSerializeSpot</string>
+</dict>
+</plist>

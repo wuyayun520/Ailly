@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cellAppearance</key>
+	<string>euclideanAlpha</string>
+	<key>compositionalcarddelay</key>
+	<string>protocolBottom</string>
+	<key>controlleroutsidestyle</key>
+	<string>interceptView</string>
+	<key>diversifiedUsage</key>
+	<string>alignmentRight</string>
+	<key>materialdropdownbuttontype</key>
+	<string>currentstream</string>
+</dict>
+</plist>

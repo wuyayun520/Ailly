@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>backwardAlignment</key>
+	<string>themeSingleton</string>
+	<key>basetentative</key>
+	<string>equipmentPosition</string>
+	<key>explicitModal</key>
+	<string>shouldEmitProtocol</string>
+	<key>inactiveScroll</key>
+	<string>enabledDisclaimer</string>
+	<key>nativespecifierduration</key>
+	<string>initiatorsMemento</string>
+	<key>nibOrientation</key>
+	<string>columnVisible</string>
+	<key>shouldAnimateMember</key>
+	<string>mountmaster</string>
+</dict>
+</plist>

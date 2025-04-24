@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>defaultBrush</key>
+	<string>variantVelocity</string>
+	<key>largeRepository</key>
+	<string>denseCurve</string>
+	<key>mediumMaterial</key>
+	<string>invisibleBuilder</string>
+	<key>shouldBuildStamp</key>
+	<string>allocatorappearance</string>
+	<key>shouldStreamResource</key>
+	<string>elasticChooser</string>
+	<key>storeconstraint</key>
+	<string>shouldUnbindGridView</string>
+	<key>subsequentAscent</key>
+	<string>grainScale</string>
+	<key>unmountedlayout</key>
+	<string>serializeSegue</string>
+	<key>webPolygon</key>
+	<string>expandedDensity</string>
+</dict>
+</plist>

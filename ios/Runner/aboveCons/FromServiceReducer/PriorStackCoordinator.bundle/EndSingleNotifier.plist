@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>basiccapacities</key>
+	<string>canInitializeLog</string>
+	<key>futureName</key>
+	<string>shouldLoadTernary</string>
+	<key>shouldConnectPlayback</key>
+	<string>displayableChapter</string>
+	<key>temporaryInjection</key>
+	<string>nodemodeopacity</string>
+</dict>
+</plist>

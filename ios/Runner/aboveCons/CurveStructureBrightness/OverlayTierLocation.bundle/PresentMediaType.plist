@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>autoCube</key>
+	<string>markbehavior</string>
+	<key>geometricMusic</key>
+	<string>shouldRouteBinary</string>
+	<key>imperativewidget</key>
+	<string>lostLatency</string>
+	<key>mutableMatrix</key>
+	<string>cubeName</string>
+	<key>zonePosition</key>
+	<string>canRebuildCharacter</string>
+</dict>
+</plist>

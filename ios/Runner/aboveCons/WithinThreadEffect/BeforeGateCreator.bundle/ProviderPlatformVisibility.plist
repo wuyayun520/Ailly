@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>bitratetint</key>
+	<string>measureChapter</string>
+	<key>builderTint</key>
+	<string>refreshbaseline</string>
+	<key>lostAxis</key>
+	<string>shouldProcessAnimation</string>
+	<key>mapperMargin</key>
+	<string>tweeninnumber</string>
+	<key>sceneInset</key>
+	<string>rotateCurve</string>
+	<key>shouldTransitionTechnique</key>
+	<string>sizelevelmode</string>
+	<key>singleChapter</key>
+	<string>canCreateInkWell</string>
+	<key>taskentity</key>
+	<string>singletonshapebound</string>
+</dict>
+</plist>

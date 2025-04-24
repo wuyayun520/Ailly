@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>capsuleAcceleration</key>
+	<string>shouldRenderCycle</string>
+	<key>pagerTail</key>
+	<string>useddispatcher</string>
+	<key>temporaryContrast</key>
+	<string>signVariable</string>
+</dict>
+</plist>

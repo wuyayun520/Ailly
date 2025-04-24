@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>mobileAspect</key>
+	<string>streamInstruction</string>
+	<key>normalInfo</key>
+	<string>normalGridView</string>
+	<key>presenterVisibility</key>
+	<string>createChannels</string>
+	<key>shoulddismissprecision</key>
+	<string>shouldFinishStep</string>
+	<key>shouldinitializebox</key>
+	<string>shouldTransitionMember</string>
+</dict>
+</plist>

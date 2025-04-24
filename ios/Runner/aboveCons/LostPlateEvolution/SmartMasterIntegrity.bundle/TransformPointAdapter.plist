@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>alignmentTint</key>
+	<string>currentTechnique</string>
+	<key>criticalSignature</key>
+	<string>observeIcon</string>
+	<key>delegateSkewY</key>
+	<string>convertChart</string>
+	<key>delicateStorage</key>
+	<string>persistentStream</string>
+	<key>petprogressbar</key>
+	<string>radiusAlignment</string>
+	<key>requiredException</key>
+	<string>flexiblePriority</string>
+	<key>seamlessanimator</key>
+	<string>activeBoxShadow</string>
+	<key>selectedRemainder</key>
+	<string>selectedProfile</string>
+	<key>shaderRotation</key>
+	<string>descriptorCount</string>
+</dict>
+</plist>

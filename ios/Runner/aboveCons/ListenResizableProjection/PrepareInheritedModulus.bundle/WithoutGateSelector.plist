@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>easyplate</key>
+	<string>concatenateStore</string>
+	<key>ignoredTentative</key>
+	<string>activatedEntity</string>
+	<key>imperativePoint</key>
+	<string>presentAlert</string>
+	<key>invisibledialogsskewx</key>
+	<string>schemaLocation</string>
+	<key>opaquefactorysize</key>
+	<string>markLocalization</string>
+	<key>symmetricDependency</key>
+	<string>shouldReplaceCube</string>
+	<key>vectorInteraction</key>
+	<string>shouldPersistMember</string>
+	<key>vertexPadding</key>
+	<string>activeObserver</string>
+</dict>
+</plist>

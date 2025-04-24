@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>consultativeLoop</key>
+	<string>offsetfromactivity</string>
+	<key>customizedsubpixelbrightness</key>
+	<string>resolverContext</string>
+	<key>rapidgraphic</key>
+	<string>insteadController</string>
+	<key>retainedBuffer</key>
+	<string>materialBrush</string>
+	<key>shouldPopBuilder</key>
+	<string>streamtraversal</string>
+</dict>
+</plist>

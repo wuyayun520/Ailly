@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>ascentBrightness</key>
+	<string>borderRate</string>
+	<key>colorShape</key>
+	<string>hasRadio</string>
+	<key>inheritedTriangles</key>
+	<string>hasFuture</string>
+	<key>shouldLoadRemainder</key>
+	<string>unactivatedAnalogy</string>
+	<key>significantCubit</key>
+	<string>shaderflyweightpadding</string>
+	<key>synchronousProtocol</key>
+	<string>animationobserver</string>
+</dict>
+</plist>

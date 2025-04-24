@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>asynchronousTexture</key>
+	<string>extensionFlyweight</string>
+	<key>currenttouch</key>
+	<string>behaviorSpacing</string>
+	<key>customizedTriangles</key>
+	<string>largetable</string>
+	<key>denseSensor</key>
+	<string>materialGate</string>
+	<key>enabledTolerance</key>
+	<string>interpolationSaturation</string>
+	<key>newestAnalyzer</key>
+	<string>quaternionLeft</string>
+	<key>shouldDecodeModulus</key>
+	<string>advancedStateful</string>
+	<key>shouldcreateproject</key>
+	<string>particleoffset</string>
+	<key>sophisticatedcoordinatortension</key>
+	<string>dimensionVisible</string>
+	<key>topicinterval</key>
+	<string>intuitiveCallback</string>
+</dict>
+</plist>

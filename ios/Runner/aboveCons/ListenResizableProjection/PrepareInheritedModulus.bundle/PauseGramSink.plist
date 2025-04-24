@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>amortizationTag</key>
+	<string>timelineAppearance</string>
+	<key>brushfeature</key>
+	<string>benchmarkInteractor</string>
+	<key>heapBottom</key>
+	<string>shouldProcessBitrate</string>
+	<key>lazySymbol</key>
+	<string>statelessBloc</string>
+	<key>normalModal</key>
+	<string>equalInjection</string>
+	<key>reduceraroundactivity</key>
+	<string>providetable</string>
+	<key>shouldAttachHeap</key>
+	<string>replicaState</string>
+	<key>shouldDetachGem</key>
+	<string>heapleft</string>
+	<key>shouldMountEquipment</key>
+	<string>interfaceAppearance</string>
+	<key>spininterface</key>
+	<string>hardAnimatedContainer</string>
+</dict>
+</plist>

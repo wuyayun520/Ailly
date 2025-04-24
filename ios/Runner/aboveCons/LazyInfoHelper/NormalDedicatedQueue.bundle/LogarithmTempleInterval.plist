@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cupertinoRole</key>
+	<string>sustainableDelivery</string>
+	<key>largeModule</key>
+	<string>subscriptionContext</string>
+	<key>restartstateful</key>
+	<string>titleJob</string>
+	<key>shouldDecodeRadio</key>
+	<string>occasionLocation</string>
+	<key>shouldFormatContainer</key>
+	<string>transitionOrigin</string>
+	<key>tappableRemediation</key>
+	<string>canFinishInteger</string>
+</dict>
+</plist>

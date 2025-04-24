@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>oldExponent</key>
+	<string>normalCreator</string>
+	<key>prevTransformer</key>
+	<string>lastlistener</string>
+	<key>quitcontroller</key>
+	<string>temporaryPublisher</string>
+	<key>shouldcontinuemaster</key>
+	<string>usageName</string>
+	<key>symmetricCapacities</key>
+	<string>independentLoss</string>
+</dict>
+</plist>

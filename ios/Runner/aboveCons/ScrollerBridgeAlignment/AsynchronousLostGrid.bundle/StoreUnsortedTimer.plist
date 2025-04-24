@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>gesturedetectorSaturation</key>
+	<string>defaultcapacities</string>
+	<key>onswifttap</key>
+	<string>imperativeDistinction</string>
+	<key>semanticScenario</key>
+	<string>shouldPushModal</string>
+	<key>staticGrayscale</key>
+	<string>shouldSubscribeTask</string>
+</dict>
+</plist>

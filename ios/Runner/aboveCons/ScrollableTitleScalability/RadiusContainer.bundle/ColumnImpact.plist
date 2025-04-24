@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>imperativeResilience</key>
+	<string>autoRemediation</string>
+	<key>loopdistance</key>
+	<string>scaffoldOrientation</string>
+	<key>newestCell</key>
+	<string>hardStateless</string>
+	<key>processmonster</key>
+	<string>easyGridView</string>
+	<key>requesttail</key>
+	<string>tangentcluster</string>
+	<key>shouldEncodeCharacter</key>
+	<string>canPushImage</string>
+	<key>shouldInflateGrayscale</key>
+	<string>uniformTolerance</string>
+	<key>shouldSubscribeProvider</key>
+	<string>permissiveLayer</string>
+</dict>
+</plist>

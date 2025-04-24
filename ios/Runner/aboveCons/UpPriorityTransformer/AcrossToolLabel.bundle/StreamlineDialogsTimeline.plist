@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>criticalOffset</key>
+	<string>functionalscalability</string>
+	<key>dismissrouter</key>
+	<string>navigateLoss</string>
+	<key>granularCluster</key>
+	<string>draggableChecklist</string>
+	<key>greatPosition</key>
+	<string>shouldFinishRow</string>
+	<key>prevArithmetic</key>
+	<string>markEntity</string>
+	<key>shouldSetStateActivity</key>
+	<string>notificationTask</string>
+	<key>substantialVideo</key>
+	<string>shouldskipstateful</string>
+</dict>
+</plist>

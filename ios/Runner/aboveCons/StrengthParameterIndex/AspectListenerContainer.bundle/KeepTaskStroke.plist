@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animationscheduler</key>
+	<string>shouldCancelCell</string>
+	<key>diversifiedmenu</key>
+	<string>backwardGridView</string>
+	<key>instructionschema</key>
+	<string>requiredCanvas</string>
+	<key>interactiveDescription</key>
+	<string>playbackStrategy</string>
+	<key>materialType</key>
+	<string>requiredtaskvalidation</string>
+	<key>permissiveHash</key>
+	<string>shouldDisposeCharacter</string>
+	<key>rapidModal</key>
+	<string>shouldDecodeMaster</string>
+	<key>shouldProcessUnary</key>
+	<string>originalScroller</string>
+	<key>shouldRebuildDimension</key>
+	<string>channelTheme</string>
+	<key>spinetension</key>
+	<string>graininsidejob</string>
+</dict>
+</plist>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>amortizationOffset</key>
+	<string>greatmanager</string>
+	<key>coordinatorservice</key>
+	<string>vectorvalidation</string>
+	<key>hierarchicalReliability</key>
+	<string>synchronousTouch</string>
+	<key>keyTentative</key>
+	<string>standaloneGesture</string>
+	<key>routeranalyzer</key>
+	<string>arithmeticinterfacedistance</string>
+	<key>scheduletext</key>
+	<string>decorationLevel</string>
+	<key>vertexRight</key>
+	<string>observerComposite</string>
+</dict>
+</plist>

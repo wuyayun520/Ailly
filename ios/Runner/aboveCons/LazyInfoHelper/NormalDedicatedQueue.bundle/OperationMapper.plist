@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>framethanstyle</key>
+	<string>deserializeAnimation</string>
+	<key>fusedTolerance</key>
+	<string>firstVolume</string>
+	<key>permanentTransition</key>
+	<string>prevMenu</string>
+	<key>playbackframeworkcolor</key>
+	<string>resizableDropdownButton</string>
+	<key>publicChart</key>
+	<string>persistGestureDetector</string>
+	<key>significantEffect</key>
+	<string>shaderMethod</string>
+	<key>spriteHue</key>
+	<string>activatedException</string>
+</dict>
+</plist>

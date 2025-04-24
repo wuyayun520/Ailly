@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>customConstant</key>
+	<string>enhanceMethod</string>
+	<key>liteSubpixel</key>
+	<string>gemevolution</string>
+	<key>materialPoint</key>
+	<string>hierarchicalconsumer</string>
+	<key>sharedroutestatus</key>
+	<string>replaceborder</string>
+	<key>sinkalignment</key>
+	<string>prevcallback</string>
+	<key>threadduringsystem</key>
+	<string>processConstraint</string>
+</dict>
+</plist>

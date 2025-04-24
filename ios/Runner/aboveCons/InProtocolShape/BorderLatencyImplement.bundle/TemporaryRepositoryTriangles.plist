@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accessoryAcceleration</key>
+	<string>multiCosine</string>
+	<key>buttontraversal</key>
+	<string>pinchablealpha</string>
+	<key>injectionDensity</key>
+	<string>staticIsolate</string>
+	<key>litefeaturefrequency</key>
+	<string>storeFlyweight</string>
+	<key>multiRepository</key>
+	<string>canPublishSession</string>
+	<key>otherProjection</key>
+	<string>attachMomentum</string>
+	<key>rectfunctionvelocity</key>
+	<string>implementAction</string>
+	<key>segmentHead</key>
+	<string>unactivatedBrush</string>
+	<key>vertexMode</key>
+	<string>defaultequipment</string>
+	<key>visibleCycle</key>
+	<string>shouldRouteSymbol</string>
+</dict>
+</plist>

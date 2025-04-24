@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cartesianAmortization</key>
+	<string>flexibleWorkflow</string>
+	<key>chooserRotation</key>
+	<string>imperativePopup</string>
+	<key>opaqueSubpixel</key>
+	<string>restartCaption</string>
+	<key>shouldListenBoxShadow</key>
+	<string>shouldRenderTouch</string>
+	<key>shouldPresentMultiplication</key>
+	<string>singletonTask</string>
+</dict>
+</plist>

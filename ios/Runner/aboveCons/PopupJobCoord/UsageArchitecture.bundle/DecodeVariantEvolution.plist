@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>assetRotation</key>
+	<string>invisibleReliability</string>
+	<key>beginnerMethod</key>
+	<string>shouldRebuildTable</string>
+	<key>curveBottom</key>
+	<string>canUpdateGem</string>
+	<key>dialogsAcceleration</key>
+	<string>tensorStorage</string>
+	<key>fusedScenario</key>
+	<string>draggableParticle</string>
+	<key>queuesound</key>
+	<string>activateOffset</string>
+	<key>resizegraph</key>
+	<string>shouldAnimateBrush</string>
+	<key>shouldMountedSegment</key>
+	<string>permanentTernary</string>
+	<key>shouldTrainBinary</key>
+	<string>cellProxy</string>
+</dict>
+</plist>

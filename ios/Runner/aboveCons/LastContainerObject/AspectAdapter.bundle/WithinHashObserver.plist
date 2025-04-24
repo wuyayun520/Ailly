@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>elasticScalability</key>
+	<string>shouldParseScreen</string>
+	<key>permanentInstruction</key>
+	<string>otherRow</string>
+	<key>provisionPosition</key>
+	<string>dispatchHistogram</string>
+	<key>usagemodule</key>
+	<string>protectedLogarithm</string>
+</dict>
+</plist>

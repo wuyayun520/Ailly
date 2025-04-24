@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>displayableVector</key>
+	<string>unactivatedBinary</string>
+	<key>gramDistance</key>
+	<string>dismissresource</string>
+	<key>granularLabel</key>
+	<string>makeFeature</string>
+	<key>shouldTransformLog</key>
+	<string>marginSpacing</string>
+	<key>statelessMetrics</key>
+	<string>shouldAttachBullet</string>
+	<key>tabviewFeedback</key>
+	<string>tappableContraction</string>
+	<key>topicSpacing</key>
+	<string>multiplicationInteraction</string>
+	<key>upgraderequest</key>
+	<string>dynamicMethod</string>
+</dict>
+</plist>

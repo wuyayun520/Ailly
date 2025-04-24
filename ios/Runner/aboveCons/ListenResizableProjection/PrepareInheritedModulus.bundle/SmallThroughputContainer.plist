@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>characterscheduler</key>
+	<string>decodePresenter</string>
+	<key>dedicatedcontraction</key>
+	<string>usedTernary</string>
+	<key>directlyaudio</key>
+	<string>boxshadowprogressbar</string>
+	<key>expandedPressure</key>
+	<string>scalabilityTransparency</string>
+	<key>iterativeCatalyst</key>
+	<string>requiredScope</string>
+	<key>notificationDuration</key>
+	<string>shouldProcessButton</string>
+	<key>shouldSubscribeIndicator</key>
+	<string>retainFrame</string>
+	<key>transitionSize</key>
+	<string>preparewidget</string>
+</dict>
+</plist>

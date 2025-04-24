@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>deliverySkewX</key>
+	<string>pinchableEmitter</string>
+	<key>nextEquivalent</key>
+	<string>canMountedContraction</string>
+	<key>shouldLoadContraction</key>
+	<string>accordionAction</string>
+	<key>smallgridviewopacity</key>
+	<string>triggerKind</string>
+	<key>transitionVisibility</key>
+	<string>concatenatevariant</string>
+	<key>uniformState</key>
+	<string>singleAspect</string>
+</dict>
+</plist>

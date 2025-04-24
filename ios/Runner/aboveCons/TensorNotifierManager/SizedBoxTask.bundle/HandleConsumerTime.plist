@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cancelcomposition</key>
+	<string>catalystSize</string>
+	<key>canvasasmemento</key>
+	<string>playbackrate</string>
+	<key>handletextfield</key>
+	<string>pushStream</string>
+	<key>istransition</key>
+	<string>immediateBuilder</string>
+	<key>missionSaturation</key>
+	<string>singleCompleter</string>
+	<key>tangentPadding</key>
+	<string>deserializeException</string>
+</dict>
+</plist>

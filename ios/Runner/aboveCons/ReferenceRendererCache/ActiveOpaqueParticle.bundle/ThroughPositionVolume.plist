@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>modelfunctionvisibility</key>
+	<string>callbackTail</string>
+	<key>pointresponse</key>
+	<string>navigationBound</string>
+	<key>prevShader</key>
+	<string>loadSlash</string>
+	<key>requiredDocument</key>
+	<string>canSerializeAlert</string>
+	<key>shouldSetStatePromise</key>
+	<string>rectSkewX</string>
+	<key>titlebrightness</key>
+	<string>parallelBuffer</string>
+	<key>unaryuntilcycle</key>
+	<string>smallListener</string>
+</dict>
+</plist>

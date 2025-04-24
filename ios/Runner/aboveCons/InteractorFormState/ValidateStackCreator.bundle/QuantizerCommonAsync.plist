@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>builderStyle</key>
+	<string>largeSink</string>
+	<key>deferredTable</key>
+	<string>canEmitModal</string>
+	<key>immediateResponder</key>
+	<string>publicAllocator</string>
+	<key>publisherOrigin</key>
+	<string>richtextHue</string>
+	<key>shouldTransitionMedia</key>
+	<string>blocTint</string>
+	<key>tappablereplica</key>
+	<string>accordionRemainder</string>
+</dict>
+</plist>

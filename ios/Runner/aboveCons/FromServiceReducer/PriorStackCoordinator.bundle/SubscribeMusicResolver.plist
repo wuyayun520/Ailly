@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>persistentReducer</key>
+	<string>restartTechnique</string>
+	<key>profileFeedback</key>
+	<string>preparePositioned</string>
+	<key>setupanimatedcontainer</key>
+	<string>kernelDecorator</string>
+	<key>smallRadius</key>
+	<string>advancedCubit</string>
+	<key>stopchecklist</key>
+	<string>unmountSlash</string>
+</dict>
+</plist>

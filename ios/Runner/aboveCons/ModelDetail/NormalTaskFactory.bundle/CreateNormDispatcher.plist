@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animatedtimeline</key>
+	<string>setstateOverlay</string>
+	<key>currentpadding</key>
+	<string>projectionLocation</string>
+	<key>descriptorbound</key>
+	<string>mediabesidenumber</string>
+	<key>flexibleTexture</key>
+	<string>vectorvelocity</string>
+	<key>fusedCaption</key>
+	<string>pinchableTexture</string>
+	<key>localResponse</key>
+	<string>robustWorkflow</string>
+	<key>shouldAttachContraction</key>
+	<string>singletonCenter</string>
+	<key>trianglesPressure</key>
+	<string>normStyle</string>
+	<key>uniqueScheduler</key>
+	<string>replacetransformer</string>
+</dict>
+</plist>

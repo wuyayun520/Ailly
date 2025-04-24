@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activatedConstant</key>
+	<string>shouldPersistHero</string>
+	<key>adaptiveLogarithm</key>
+	<string>cacheremainder</string>
+	<key>deployasset</key>
+	<string>eagerScalability</string>
+	<key>rendertitle</key>
+	<string>uniqueButton</string>
+	<key>requestnumbersaturation</key>
+	<string>serializeView</string>
+</dict>
+</plist>

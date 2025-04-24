@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>enabledRecursion</key>
+	<string>gridviewBridge</string>
+	<key>entropybeyondstrategy</key>
+	<string>interactorprovider</string>
+	<key>inheritedState</key>
+	<string>multiAnchor</string>
+	<key>listviewslider</key>
+	<string>intermediatedrawer</string>
+	<key>shouldUnbindLoss</key>
+	<string>managerawaypattern</string>
+</dict>
+</plist>

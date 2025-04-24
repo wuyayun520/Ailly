@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>clearusage</key>
+	<string>completionSystem</string>
+	<key>directCaption</key>
+	<string>canPauseShader</string>
+	<key>onboxtap</key>
+	<string>observeListView</string>
+	<key>resumeresponse</key>
+	<string>splitterAlignment</string>
+	<key>smartContrast</key>
+	<string>shouldSaveInterpolation</string>
+	<key>threadPosition</key>
+	<string>trajectoryType</string>
+</dict>
+</plist>

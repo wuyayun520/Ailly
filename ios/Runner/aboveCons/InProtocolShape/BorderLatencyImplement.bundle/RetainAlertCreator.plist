@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>sceneprototypevisibility</key>
+	<string>rapidNavigator</string>
+	<key>smartUseCase</key>
+	<string>largeVolume</string>
+	<key>subscriptionbeyondcontext</key>
+	<string>providerdelay</string>
+	<key>sustainablePlate</key>
+	<string>statelessRectangle</string>
+	<key>tasktype</key>
+	<string>coordinatorvariableacceleration</string>
+</dict>
+</plist>

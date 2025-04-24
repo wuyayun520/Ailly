@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>intuitiveStack</key>
+	<string>canBindConstraint</string>
+	<key>progressbarAlignment</key>
+	<string>offsetValidation</string>
+	<key>resolverdata</key>
+	<string>reactiveListener</string>
+	<key>shouldCreateEffect</key>
+	<string>discoverController</string>
+	<key>sophisticatedPriority</key>
+	<string>timerTransparency</string>
+	<key>statelessGrain</key>
+	<string>displayableVertex</string>
+</dict>
+</plist>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>commonMapper</key>
+	<string>disconnectIcon</string>
+	<key>functionalAlpha</key>
+	<string>canConnectSensor</string>
+	<key>intermediatedropdownbutton</key>
+	<string>associateDependency</string>
+	<key>invisiblechecklist</key>
+	<string>canBindComposition</string>
+	<key>layoutvalidation</key>
+	<string>canHandleEqualization</string>
+	<key>metricsSkewX</key>
+	<string>capsuleFlags</string>
+	<key>nextShape</key>
+	<string>gridviewinkind</string>
+	<key>segueBorder</key>
+	<string>groupValidation</string>
+	<key>temporaryEntity</key>
+	<string>boxHue</string>
+</dict>
+</plist>

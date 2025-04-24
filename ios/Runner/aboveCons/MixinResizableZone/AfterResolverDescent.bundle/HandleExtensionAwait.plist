@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>boxKind</key>
+	<string>equalError</string>
+	<key>delicateData</key>
+	<string>desktopSize</string>
+	<key>dropdownbuttoncontainmode</key>
+	<string>refactorpositioned</string>
+	<key>geometricpetlocation</key>
+	<string>draggableswifttheme</string>
+	<key>intuitivecontroller</key>
+	<string>textfieldAppearance</string>
+	<key>methodInterval</key>
+	<string>groupSaturation</string>
+	<key>sortedTool</key>
+	<string>cartesianDescription</string>
+</dict>
+</plist>

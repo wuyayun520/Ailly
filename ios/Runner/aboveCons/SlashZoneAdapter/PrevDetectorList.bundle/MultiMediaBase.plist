@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cartesianGradient</key>
+	<string>masterVelocity</string>
+	<key>logFrequency</key>
+	<string>canRestartTextField</string>
+	<key>mobileInteraction</key>
+	<string>flexibleAnalyzer</string>
+	<key>notificationviatask</key>
+	<string>graphicDirection</string>
+	<key>tabviewstorage</key>
+	<string>factoryFlyweight</string>
+	<key>uniformReceiver</key>
+	<string>disconnectBorder</string>
+</dict>
+</plist>

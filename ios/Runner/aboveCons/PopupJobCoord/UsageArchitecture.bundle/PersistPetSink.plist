@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animategrid</key>
+	<string>canSetStateInterpolation</string>
+	<key>aspectratiotail</key>
+	<string>seamlessHash</string>
+	<key>mediaquerySkewX</key>
+	<string>rebuildCurve</string>
+	<key>missedProcessor</key>
+	<string>texturesystemhead</string>
+	<key>normInteraction</key>
+	<string>finderLocation</string>
+	<key>reactiveLifecycle</key>
+	<string>disparateAllocator</string>
+	<key>requeststream</key>
+	<string>reusableIcon</string>
+	<key>shouldRouteDialogs</key>
+	<string>writePosition</string>
+	<key>shoulddisposeaspectratio</key>
+	<string>streamEqualization</string>
+</dict>
+</plist>

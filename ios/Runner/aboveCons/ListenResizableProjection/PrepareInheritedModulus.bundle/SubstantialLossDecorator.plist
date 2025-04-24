@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>dimensionedge</key>
+	<string>yieldarithmetic</string>
+	<key>hierarchicalImage</key>
+	<string>shouldParseScaffold</string>
+	<key>quitgroup</key>
+	<string>markbuffer</string>
+	<key>resilientDistinction</key>
+	<string>retrieveLabel</string>
+	<key>shouldEndMusic</key>
+	<string>reusableNotification</string>
+	<key>singleaccessory</key>
+	<string>paddingOrientation</string>
+	<key>sliderDirection</key>
+	<string>radiusInteraction</string>
+	<key>smartTexture</key>
+	<string>transformerlocation</string>
+</dict>
+</plist>

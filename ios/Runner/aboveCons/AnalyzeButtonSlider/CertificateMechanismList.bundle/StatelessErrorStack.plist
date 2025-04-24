@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>checklisttask</key>
+	<string>griddelivery</string>
+	<key>lazyCharacteristic</key>
+	<string>permissiveGesture</string>
+	<key>mobileKind</key>
+	<string>shouldDispatchPromise</string>
+	<key>mobileerror</key>
+	<string>shouldtrainsign</string>
+	<key>positionfactory</key>
+	<string>optiondistance</string>
+	<key>statefulGroup</key>
+	<string>shouldUnmountConsumer</string>
+	<key>statespeed</key>
+	<string>hyperbolicStack</string>
+</dict>
+</plist>

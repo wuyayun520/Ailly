@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cartesianPet</key>
+	<string>polygonMode</string>
+	<key>dependencybymemento</key>
+	<string>eagerindicatorinset</string>
+	<key>desktopBatch</key>
+	<string>parallelElasticity</string>
+	<key>loadclipper</key>
+	<string>adjustLoop</string>
+	<key>permanentCapsule</key>
+	<string>skinCount</string>
+	<key>secondCustomPaint</key>
+	<string>synchronousData</string>
+</dict>
+</plist>

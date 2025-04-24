@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>basicmodel</key>
+	<string>usageBottom</string>
+	<key>bloccycleposition</key>
+	<string>canRenderObserver</string>
+	<key>masterSpeed</key>
+	<string>connectlabel</string>
+	<key>modelbeyondtask</key>
+	<string>associatedDependency</string>
+	<key>partitionrouter</key>
+	<string>missedsubpixelalignment</string>
+	<key>shouldPauseAspect</key>
+	<string>canRebuildCycle</string>
+</dict>
+</plist>

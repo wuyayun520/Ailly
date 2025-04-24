@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>criticalSink</key>
+	<string>toolenvironmenttension</string>
+	<key>draggableRow</key>
+	<string>disabledColor</string>
+	<key>fixeddelegateflags</key>
+	<string>queueRight</string>
+	<key>protectedMetrics</key>
+	<string>initiativePadding</string>
+	<key>reliabilityPressure</key>
+	<string>respectiveVolume</string>
+</dict>
+</plist>

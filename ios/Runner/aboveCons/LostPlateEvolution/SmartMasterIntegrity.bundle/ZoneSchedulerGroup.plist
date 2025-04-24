@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>assetAlignment</key>
+	<string>borderFrequency</string>
+	<key>channelsRotation</key>
+	<string>projectionDepth</string>
+	<key>curveSpacing</key>
+	<string>interactorBottom</string>
+	<key>customizedAllocator</key>
+	<string>convolutionStyle</string>
+	<key>imperativeequivalent</key>
+	<string>materialcoordinatordirection</string>
+	<key>opaquepainter</key>
+	<string>implementGrain</string>
+	<key>scenecontaincomposite</key>
+	<string>otherCollection</string>
+	<key>schemaLocation</key>
+	<string>radiustolerance</string>
+	<key>synchronousRectangle</key>
+	<string>shouldDisposeCupertino</string>
+	<key>usedremainderrotation</key>
+	<string>shouldBindSignature</string>
+</dict>
+</plist>

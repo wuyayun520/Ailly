@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>adaptiveChannels</key>
+	<string>textpressure</string>
+	<key>ephemeralData</key>
+	<string>cartesianCharacteristic</string>
+	<key>largeInformation</key>
+	<string>deferredTouch</string>
+	<key>remaindersingleton</key>
+	<string>removeDependency</string>
+	<key>shouldCacheSwitch</key>
+	<string>asynchronousAlert</string>
+</dict>
+</plist>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animatedcontainerMode</key>
+	<string>scrollableIntensity</string>
+	<key>capacityIndex</key>
+	<string>painterbottom</string>
+	<key>criticalBandwidth</key>
+	<string>shouldBindDimension</string>
+	<key>gradientview</key>
+	<string>resizableTextField</string>
+	<key>selectedExpanded</key>
+	<string>thememode</string>
+	<key>semanticTabView</key>
+	<string>cubitOperation</string>
+	<key>standaloneLinker</key>
+	<string>animateManager</string>
+	<key>storageuntilinterpreter</key>
+	<string>lazyInitiators</string>
+</dict>
+</plist>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>actionSpeed</key>
+	<string>vectorAdapter</string>
+	<key>cartesianSwitch</key>
+	<string>shouldPaintNorm</string>
+	<key>cosinecontainmethod</key>
+	<string>streamframeworkspeed</string>
+	<key>desktopParticle</key>
+	<string>projectrate</string>
+	<key>detailCount</key>
+	<string>presenterfeedback</string>
+	<key>gridpatternedge</key>
+	<string>shouldYieldChallenge</string>
+	<key>shouldDecodeCosine</key>
+	<string>transitionscalability</string>
+	<key>textureName</key>
+	<string>mediumReplica</string>
+	<key>transitionreplica</key>
+	<string>cupertinoContrast</string>
+</dict>
+</plist>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>directlyScroll</key>
+	<string>orchestrateView</string>
+	<key>euclideanClipper</key>
+	<string>canUnmountedSymbol</string>
+	<key>masterShade</key>
+	<string>pinchableRouter</string>
+	<key>movementstagevisible</key>
+	<string>relationalGroup</string>
+	<key>shouldLayoutAnimatedContainer</key>
+	<string>crucialGrain</string>
+	<key>singleInfo</key>
+	<string>canLayoutProject</string>
+</dict>
+</plist>

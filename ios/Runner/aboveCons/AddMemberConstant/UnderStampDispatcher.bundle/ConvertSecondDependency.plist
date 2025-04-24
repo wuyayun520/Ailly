@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>advancedPriority</key>
+	<string>dependencydepth</string>
+	<key>directlySemantics</key>
+	<string>customizedaspect</string>
+	<key>immutableResponder</key>
+	<string>modelInset</string>
+	<key>indicatortypebehavior</key>
+	<string>canPersistTabBar</string>
+	<key>protectednotation</key>
+	<string>asyncVisibility</string>
+	<key>rectangleSkewY</key>
+	<string>replicateHandler</string>
+	<key>robustAppBar</key>
+	<string>missionborder</string>
+	<key>shouldDismissArithmetic</key>
+	<string>restoreDelegate</string>
+	<key>shouldSerializeSpecifier</key>
+	<string>canUnmountBoxShadow</string>
+</dict>
+</plist>

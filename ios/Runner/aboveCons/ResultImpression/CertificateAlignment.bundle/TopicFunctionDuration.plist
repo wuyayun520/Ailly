@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>descriptionShape</key>
+	<string>staticPadding</string>
+	<key>directMap</key>
+	<string>mainBuffer</string>
+	<key>lifecyclekind</key>
+	<string>boxshadowName</string>
+	<key>signatureBrightness</key>
+	<string>tappablebehavior</string>
+</dict>
+</plist>

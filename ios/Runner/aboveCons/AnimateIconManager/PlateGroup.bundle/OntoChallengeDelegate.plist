@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>consumptionvisible</key>
+	<string>specifyFeature</string>
+	<key>handlerconnector</key>
+	<string>distinctionedge</string>
+	<key>normalMaster</key>
+	<string>navigatorPadding</string>
+	<key>opaqueShape</key>
+	<string>storyboardInset</string>
+	<key>pushcontainer</key>
+	<string>exceptiontheme</string>
+	<key>scaleAcceleration</key>
+	<string>colorMomentum</string>
+	<key>shouldRebuildAppBar</key>
+	<string>basicImpression</string>
+	<key>shouldcachetouch</key>
+	<string>protectedAppBar</string>
+	<key>stampSize</key>
+	<string>bufferLeft</string>
+</dict>
+</plist>

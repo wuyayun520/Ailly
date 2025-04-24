@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>constraintrotation</key>
+	<string>unmountStoryboard</string>
+	<key>heroAppearance</key>
+	<string>assetinformation</string>
+	<key>inactiveconsumerposition</key>
+	<string>finishCoordinator</string>
+	<key>initializeslider</key>
+	<string>connecttexture</string>
+	<key>routertheme</key>
+	<string>mediocreDocument</string>
+	<key>shouldStartCustomPaint</key>
+	<string>singletonSize</string>
+	<key>shouldYieldStep</key>
+	<string>unmountPlate</string>
+</dict>
+</plist>

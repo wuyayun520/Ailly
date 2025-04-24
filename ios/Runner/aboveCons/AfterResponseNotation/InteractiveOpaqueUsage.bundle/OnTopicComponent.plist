@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>blocincycle</key>
+	<string>persisttopic</string>
+	<key>columnhue</key>
+	<string>asynchronousMobile</string>
+	<key>containerstroke</key>
+	<string>ignoredRouter</string>
+	<key>easyWorkflow</key>
+	<string>asynchronousprovider</string>
+	<key>projectForce</key>
+	<string>canObserveCoordinator</string>
+	<key>richtextstorage</key>
+	<string>statelessHead</string>
+	<key>textureSaturation</key>
+	<string>draggableChooser</string>
+	<key>viewabouttier</key>
+	<string>executeLayer</string>
+	<key>wrapsprite</key>
+	<string>extendTransformer</string>
+</dict>
+</plist>

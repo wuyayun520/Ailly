@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>expandedindex</key>
+	<string>persistentNavigator</string>
+	<key>imperativePainter</key>
+	<string>canInitializeMap</string>
+	<key>mediaInset</key>
+	<string>explicithandler</string>
+	<key>secondSegue</key>
+	<string>specifyConsumer</string>
+	<key>semanticActivity</key>
+	<string>concurrentProgressBar</string>
+</dict>
+</plist>

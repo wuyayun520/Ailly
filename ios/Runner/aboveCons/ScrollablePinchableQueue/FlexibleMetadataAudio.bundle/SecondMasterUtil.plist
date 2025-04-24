@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>basicAxis</key>
+	<string>largerecttag</string>
+	<key>diversifiedHistogram</key>
+	<string>skipResource</string>
+	<key>draggableScreen</key>
+	<string>apertureMode</string>
+	<key>optimizerAcceleration</key>
+	<string>shouldunmounttouch</string>
+	<key>optionalignment</key>
+	<string>capacitiesloop</string>
+	<key>stackdrawer</key>
+	<string>canDispatchPet</string>
+	<key>sustainableTrajectory</key>
+	<string>respectiveContainer</string>
+</dict>
+</plist>

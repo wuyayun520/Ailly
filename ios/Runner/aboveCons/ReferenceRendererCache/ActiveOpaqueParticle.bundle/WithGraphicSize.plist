@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>axistrigger</key>
+	<string>inheritedIntensity</string>
+	<key>denseScope</key>
+	<string>updateEffect</string>
+	<key>lazyAwait</key>
+	<string>seamlessOption</string>
+	<key>nativeAspect</key>
+	<string>flexibleAspectRatio</string>
+	<key>robustsegmentright</key>
+	<string>deferredbaselinestatus</string>
+	<key>strengthMode</key>
+	<string>prismaticOption</string>
+	<key>textureaspect</key>
+	<string>rectDecorator</string>
+</dict>
+</plist>

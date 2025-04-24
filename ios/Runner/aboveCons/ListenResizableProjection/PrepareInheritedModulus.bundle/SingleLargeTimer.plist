@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>detailColor</key>
+	<string>consumerBridge</string>
+	<key>disparateSearcher</key>
+	<string>transitionBridge</string>
+	<key>nextCubit</key>
+	<string>impressionLocation</string>
+	<key>scalabilitySpeed</key>
+	<string>localizationTransparency</string>
+	<key>selectedBehavior</key>
+	<string>resizableObserver</string>
+	<key>storyboardmaterializer</key>
+	<string>canLoadScreen</string>
+	<key>subscriptiondirection</key>
+	<string>shouldPersistAxis</string>
+</dict>
+</plist>

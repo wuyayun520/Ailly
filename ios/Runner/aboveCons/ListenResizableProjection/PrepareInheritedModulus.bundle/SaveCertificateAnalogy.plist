@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>greatAxis</key>
+	<string>immediateGesture</string>
+	<key>shouldTrainOverlay</key>
+	<string>respectiveStream</string>
+	<key>significantVolume</key>
+	<string>expandedInterval</string>
+	<key>tangentTail</key>
+	<string>mediumStore</string>
+</dict>
+</plist>

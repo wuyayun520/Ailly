@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>buildresult</key>
+	<string>modelHead</string>
+	<key>commonCycle</key>
+	<string>clearError</string>
+	<key>denseSelector</key>
+	<string>deserializeInteractor</string>
+	<key>ephemeralDependency</key>
+	<string>resultForm</string>
+	<key>movementfromphase</key>
+	<string>newestText</string>
+	<key>shouldDispatchBatch</key>
+	<string>restartBrush</string>
+	<key>shouldStartUsage</key>
+	<string>musicVar</string>
+	<key>smallpolygon</key>
+	<string>immutableChannel</string>
+	<key>spriteAcceleration</key>
+	<string>prismaticPolyfill</string>
+</dict>
+</plist>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>eagerConvolution</key>
+	<string>gridviewCenter</string>
+	<key>integerFrequency</key>
+	<string>textDensity</string>
+	<key>provisionHue</key>
+	<string>smallUseCase</string>
+	<key>responseVelocity</key>
+	<string>pinchableMember</string>
+	<key>shouldMountChannels</key>
+	<string>indicatorCommand</string>
+	<key>shouldRouteSegue</key>
+	<string>shouldListenCollection</string>
+</dict>
+</plist>

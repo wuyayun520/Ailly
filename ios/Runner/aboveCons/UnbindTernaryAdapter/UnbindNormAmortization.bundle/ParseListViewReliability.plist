@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>ephemeralAlignment</key>
+	<string>independentTweak</string>
+	<key>fixedBloc</key>
+	<string>cursorSystem</string>
+	<key>oldInteger</key>
+	<string>replicateAnimation</string>
+	<key>overridehandler</key>
+	<string>shouldTransitionAnimation</string>
+	<key>presentawait</key>
+	<string>directImpact</string>
+	<key>rectifydescriptor</key>
+	<string>converterTension</string>
+	<key>shouldDisposeExpanded</key>
+	<string>expandedinteraction</string>
+	<key>shouldPrepareNavigator</key>
+	<string>reliabilityKind</string>
+	<key>subsequentProvider</key>
+	<string>resizeGrain</string>
+</dict>
+</plist>

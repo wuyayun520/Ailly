@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>baselineinsidecycle</key>
+	<string>characterSpacing</string>
+	<key>challengeValidation</key>
+	<string>canAnimatePainter</string>
+	<key>defaultSensor</key>
+	<string>listenPriority</string>
+	<key>disabledMapper</key>
+	<string>endcharacter</string>
+	<key>evaluationHue</key>
+	<string>mitigateoption</string>
+	<key>modelvisible</key>
+	<string>entropyProcess</string>
+	<key>pausetopic</key>
+	<string>semanticArithmetic</string>
+	<key>setstategraphic</key>
+	<string>eraseAsync</string>
+	<key>shoulddisconnectmodal</key>
+	<string>clipsegment</string>
+	<key>symmetricDescription</key>
+	<string>eventtop</string>
+</dict>
+</plist>

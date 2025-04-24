@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>batchValidation</key>
+	<string>wrapperSpacing</string>
+	<key>diversifiedResolver</key>
+	<string>containerDistance</string>
+	<key>routevariant</key>
+	<string>autoAscent</string>
+	<key>shouldTrainUnary</key>
+	<string>denseSink</string>
+	<key>statelessChapter</key>
+	<string>lockCompleter</string>
+</dict>
+</plist>

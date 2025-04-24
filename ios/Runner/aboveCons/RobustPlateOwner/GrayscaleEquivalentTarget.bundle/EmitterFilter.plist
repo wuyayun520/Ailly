@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>bindprojection</key>
+	<string>canSerializeSemantics</string>
+	<key>cacheradio</key>
+	<string>reactiveVertex</string>
+	<key>deferredIntegrity</key>
+	<string>permanentlatency</string>
+	<key>methodstructuresize</key>
+	<string>freeException</string>
+	<key>rangeVelocity</key>
+	<string>labelsincenumber</string>
+	<key>resolverSpeed</key>
+	<string>shouldTransformCache</string>
+</dict>
+</plist>

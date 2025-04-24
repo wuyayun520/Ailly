@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activeTitle</key>
+	<string>navigatorPlatform</string>
+	<key>enabledButton</key>
+	<string>flexibleConsumption</string>
+	<key>subtleScheduler</key>
+	<string>stopSegue</string>
+	<key>throughputStyle</key>
+	<string>lostCombiner</string>
+	<key>triggerForce</key>
+	<string>startHero</string>
+</dict>
+</plist>

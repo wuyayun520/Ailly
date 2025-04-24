@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>crudeStep</key>
+	<string>shouldPrepareMovement</string>
+	<key>graphicFlags</key>
+	<string>concreteLatency</string>
+	<key>numericalResponder</key>
+	<string>crucialInfo</string>
+	<key>resilienceRate</key>
+	<string>shouldNavigateTask</string>
+	<key>roleVelocity</key>
+	<string>symmetricScheduler</string>
+	<key>unaryconfiguration</key>
+	<string>prepareLayout</string>
+	<key>yieldinteger</key>
+	<string>retrieveAllocator</string>
+</dict>
+</plist>

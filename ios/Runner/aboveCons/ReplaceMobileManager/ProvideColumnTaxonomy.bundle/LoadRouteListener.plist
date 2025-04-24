@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accordionException</key>
+	<string>gramParameter</string>
+	<key>cupertinointeraction</key>
+	<string>webFeature</string>
+	<key>displayableremainderrotation</key>
+	<string>unsortedScale</string>
+	<key>dynamicsinkcontrast</key>
+	<string>composableAnimator</string>
+	<key>entropyBound</key>
+	<string>futureasync</string>
+	<key>hasBullet</key>
+	<string>canPaintInteger</string>
+</dict>
+</plist>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>addspecifier</key>
+	<string>hierarchicalThroughput</string>
+	<key>cancelgraph</key>
+	<string>plateFlyweight</string>
+	<key>criticalInterface</key>
+	<string>materialResponder</string>
+	<key>discardedchapterhue</key>
+	<string>shouldReplaceTextField</string>
+	<key>prevPositioned</key>
+	<string>quantizertopic</string>
+	<key>shouldPresentMap</key>
+	<string>immutableCapsule</string>
+	<key>temporaryDetector</key>
+	<string>geometricbitratename</string>
+	<key>variantKind</key>
+	<string>tabviewfunctionposition</string>
+</dict>
+</plist>

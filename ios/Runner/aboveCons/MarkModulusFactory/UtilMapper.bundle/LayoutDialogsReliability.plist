@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>combinerKind</key>
+	<string>immediateHeap</string>
+	<key>discardedItem</key>
+	<string>entropyBridge</string>
+	<key>logarithmOffset</key>
+	<string>imageEdge</string>
+	<key>mutablePicker</key>
+	<string>fetchCertificate</string>
+	<key>opaqueSine</key>
+	<string>clearTask</string>
+	<key>shouldLoadCard</key>
+	<string>aspectratioPhase</string>
+	<key>stamplinker</key>
+	<string>dropdownbuttonCount</string>
+	<key>tableVisibility</key>
+	<string>resilientVertex</string>
+	<key>timelineFrequency</key>
+	<string>notifyAppBar</string>
+	<key>widgetaboutplatform</key>
+	<string>smartDelivery</string>
+</dict>
+</plist>

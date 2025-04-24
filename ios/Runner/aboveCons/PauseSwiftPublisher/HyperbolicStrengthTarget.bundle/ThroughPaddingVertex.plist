@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>canvasdescent</key>
+	<string>scaffoldaction</string>
+	<key>completeraroundstyle</key>
+	<string>cupertinoexceptaction</string>
+	<key>compositionalBitrate</key>
+	<string>defaultExtension</string>
+	<key>comprehensivePlayback</key>
+	<string>quantizationSubscription</string>
+	<key>directlyTexture</key>
+	<string>unscheduleSubscription</string>
+	<key>loopinmode</key>
+	<string>previewmaterial</string>
+	<key>otherCurve</key>
+	<string>globalProject</string>
+	<key>resizableRecursion</key>
+	<string>momentumCoord</string>
+	<key>transformerMode</key>
+	<string>respectiveOption</string>
+</dict>
+</plist>

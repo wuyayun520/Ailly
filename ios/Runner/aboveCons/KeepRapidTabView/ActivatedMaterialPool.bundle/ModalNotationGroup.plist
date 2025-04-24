@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>binderAlignment</key>
+	<string>smallStorage</string>
+	<key>exceptionResponse</key>
+	<string>canCreateScroll</string>
+	<key>itemResponse</key>
+	<string>processFuture</string>
+	<key>lockradius</key>
+	<string>shouldHandleObserver</string>
+	<key>scrollableMultiplication</key>
+	<string>canDecodeGram</string>
+	<key>shouldAnimateModal</key>
+	<string>gesturedetectorTier</string>
+	<key>sineshape</key>
+	<string>locateInteractor</string>
+	<key>trajectorymargin</key>
+	<string>explicitSchema</string>
+</dict>
+</plist>

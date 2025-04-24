@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animatorFrequency</key>
+	<string>decodeText</string>
+	<key>beginnerInteraction</key>
+	<string>shouldHandleStep</string>
+	<key>sharedState</key>
+	<string>columnOperation</string>
+	<key>shouldPauseNavigation</key>
+	<string>optimizerassystem</string>
+	<key>shouldTransformMobile</key>
+	<string>pendingDrawer</string>
+	<key>sliderframe</key>
+	<string>flexflags</string>
+</dict>
+</plist>

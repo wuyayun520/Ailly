@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>firstAppBar</key>
+	<string>entropyVisitor</string>
+	<key>largeItem</key>
+	<string>slideraroundmethod</string>
+	<key>oldConstraint</key>
+	<string>discardedchooser</string>
+	<key>respectivecontroller</key>
+	<string>backwardTabView</string>
+	<key>shouldSerializeEffect</key>
+	<string>providerinprocess</string>
+	<key>tappableScreen</key>
+	<string>evaluationOpacity</string>
+</dict>
+</plist>

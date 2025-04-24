@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activatedflexappearance</key>
+	<string>shouldAttachAperture</string>
+	<key>asyncInteraction</key>
+	<string>reusableButton</string>
+	<key>cupertinoRoute</key>
+	<string>canAnimateDialogs</string>
+	<key>directlyticker</key>
+	<string>originalRow</string>
+	<key>iterativeCatalyst</key>
+	<string>shouldsavecard</string>
+	<key>missedDrawer</key>
+	<string>propagateHash</string>
+	<key>mobileEquipment</key>
+	<string>popTable</string>
+	<key>serializepreview</key>
+	<string>shouldUnmountedTheme</string>
+</dict>
+</plist>

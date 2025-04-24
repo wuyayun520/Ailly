@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>builderSkewY</key>
+	<string>deactivateAction</string>
+	<key>customInfrastructure</key>
+	<string>configureLocalization</string>
+	<key>efficiencyContrast</key>
+	<string>tangentspeed</string>
+	<key>intuitiveRestriction</key>
+	<string>mountedlog</string>
+	<key>mobileRect</key>
+	<string>dedicatedlogarithmbound</string>
+	<key>servicebufferhue</key>
+	<string>switchHue</string>
+	<key>statelessAspect</key>
+	<string>associatedGesture</string>
+	<key>substantialTouch</key>
+	<string>hyperbolicdescription</string>
+	<key>tappableService</key>
+	<string>builderspeed</string>
+</dict>
+</plist>

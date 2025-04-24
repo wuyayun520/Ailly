@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>exponentstate</key>
+	<string>equipmentTier</string>
+	<key>featuredirection</key>
+	<string>factoryinset</string>
+	<key>hasRole</key>
+	<string>canUnbindNavigator</string>
+	<key>overridetask</key>
+	<string>spineacceleration</string>
+	<key>responsepicker</key>
+	<string>shouldFormatFuture</string>
+	<key>retainedtangentcount</key>
+	<string>ignoredConstant</string>
+	<key>scaledistance</key>
+	<string>canBuildTask</string>
+	<key>shouldFetchCustomPaint</key>
+	<string>insteadPresenter</string>
+	<key>shouldNavigateCheckbox</key>
+	<string>advancedSemantics</string>
+</dict>
+</plist>

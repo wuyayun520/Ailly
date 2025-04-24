@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animatedcontainervarcoord</key>
+	<string>dimensioncubit</string>
+	<key>deserializesymbol</key>
+	<string>documentisolate</string>
+	<key>integerOffset</key>
+	<string>reusableConsumer</string>
+	<key>lazyInstruction</key>
+	<string>keepCell</string>
+	<key>nodeBorder</key>
+	<string>sensorVariable</string>
+	<key>relationalTransition</key>
+	<string>shouldFetchAlert</string>
+	<key>shouldUnbindStateful</key>
+	<string>adjustCompleter</string>
+</dict>
+</plist>

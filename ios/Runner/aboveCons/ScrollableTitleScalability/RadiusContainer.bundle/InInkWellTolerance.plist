@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>diffablequeueresponse</key>
+	<string>shouldFetchConvolution</string>
+	<key>immutableStoryboard</key>
+	<string>anchororientation</string>
+	<key>imperativeanimation</key>
+	<string>euclideanCycle</string>
+	<key>intuitiveevent</key>
+	<string>subtleSensor</string>
+	<key>mediocreMediaQuery</key>
+	<string>rapidGift</string>
+	<key>parallelState</key>
+	<string>protectedCapacities</string>
+	<key>symmetriclog</key>
+	<string>referenceStage</string>
+</dict>
+</plist>

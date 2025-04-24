@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cubitdepth</key>
+	<string>disconnectAspectRatio</string>
+	<key>iterativeEffect</key>
+	<string>vectorizeAwait</string>
+	<key>respectiveNotation</key>
+	<string>skipLogarithm</string>
+	<key>shouldBuildDecoration</key>
+	<string>hasClipper</string>
+	<key>statusValidation</key>
+	<string>descriptionObserver</string>
+</dict>
+</plist>

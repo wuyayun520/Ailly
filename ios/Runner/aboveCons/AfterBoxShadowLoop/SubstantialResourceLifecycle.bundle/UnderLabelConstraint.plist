@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animatedcontainerPadding</key>
+	<string>deserializeStore</string>
+	<key>channelstransparency</key>
+	<string>methodHead</string>
+	<key>globalBinary</key>
+	<string>equalizationFlags</string>
+	<key>gridColor</key>
+	<string>makeFactory</string>
+	<key>hasHero</key>
+	<string>diffableMatrix</string>
+	<key>invisiblePager</key>
+	<string>autoThroughput</string>
+	<key>rendererFlags</key>
+	<string>sortedSwitch</string>
+	<key>sequentialSkirt</key>
+	<string>arithmeticDialogs</string>
+	<key>uniqueNode</key>
+	<string>statefulStyle</string>
+</dict>
+</plist>

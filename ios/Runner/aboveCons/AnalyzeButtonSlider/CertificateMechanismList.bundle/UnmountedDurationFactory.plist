@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>eagerAnimation</key>
+	<string>joinerVisibility</string>
+	<key>eagerLog</key>
+	<string>canReplaceTangent</string>
+	<key>easyResponse</key>
+	<string>quantizationReducer</string>
+	<key>nativeDescription</key>
+	<string>uniformArchitecture</string>
+	<key>parallelSpot</key>
+	<string>declarativeStamp</string>
+	<key>protectedObserver</key>
+	<string>transformmultiplication</string>
+	<key>publicColor</key>
+	<string>transformUsage</string>
+	<key>renderstoryboard</key>
+	<string>customaction</string>
+	<key>shouldResumeBox</key>
+	<string>secondError</string>
+	<key>shouldTransitionTransition</key>
+	<string>customSegment</string>
+</dict>
+</plist>

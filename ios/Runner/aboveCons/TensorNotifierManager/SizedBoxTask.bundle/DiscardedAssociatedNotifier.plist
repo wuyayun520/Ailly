@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>columnDirection</key>
+	<string>canvastail</string>
+	<key>durationchart</key>
+	<string>explicittextureformat</string>
+	<key>firstEvolution</key>
+	<string>transitionmetadata</string>
+	<key>inheritedBehavior</key>
+	<string>zoneObserver</string>
+	<key>localPet</key>
+	<string>baselineTail</string>
+	<key>tappablehandler</key>
+	<string>canPauseSwift</string>
+</dict>
+</plist>

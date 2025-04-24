@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>directbulletpadding</key>
+	<string>navigatesign</string>
+	<key>disparateManager</key>
+	<string>defaultlistview</string>
+	<key>durationdisclaimer</key>
+	<string>standaloneMatrix</string>
+	<key>elasticTheme</key>
+	<string>symmetricScroll</string>
+	<key>ignoredInfrastructure</key>
+	<string>canNavigateSession</string>
+	<key>materialResult</key>
+	<string>materialGem</string>
+	<key>shouldtransformremainder</key>
+	<string>compositionalScroller</string>
+	<key>sortedDimension</key>
+	<string>mutableAnalogy</string>
+	<key>storyboardfromobserver</key>
+	<string>autoProtocol</string>
+</dict>
+</plist>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>criticalRemediation</key>
+	<string>protectedPreview</string>
+	<key>priorityScale</key>
+	<string>startGem</string>
+	<key>resourceposition</key>
+	<string>tensorScaffold</string>
+	<key>unaryValidation</key>
+	<string>providerFramework</string>
+</dict>
+</plist>

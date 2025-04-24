@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>buttonTension</key>
+	<string>reduceRow</string>
+	<key>customInstruction</key>
+	<string>variantDecorator</string>
+	<key>independentMovement</key>
+	<string>advancedItem</string>
+	<key>memberDistance</key>
+	<string>elementcoord</string>
+	<key>scaffoldthroughstage</key>
+	<string>observerTension</string>
+	<key>specifyAnimatedContainer</key>
+	<string>typicalFragments</string>
+</dict>
+</plist>

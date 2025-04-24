@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>compositionTag</key>
+	<string>canHandleScale</string>
+	<key>criticalinteractormode</key>
+	<string>mediaInteraction</string>
+	<key>currentRect</key>
+	<string>dialogsatmediator</string>
+	<key>heapqueue</key>
+	<string>cupertinoVariant</string>
+	<key>lazySwift</key>
+	<string>playAlignment</string>
+	<key>processorDuration</key>
+	<string>shouldPublishMedia</string>
+	<key>unactivatedLifecycle</key>
+	<string>cupertinoreliability</string>
+</dict>
+</plist>

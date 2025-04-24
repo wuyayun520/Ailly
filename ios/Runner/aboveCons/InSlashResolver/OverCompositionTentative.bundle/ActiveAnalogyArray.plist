@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>diffableStore</key>
+	<string>smallScreen</string>
+	<key>isGradient</key>
+	<string>pushDocument</string>
+	<key>lastView</key>
+	<string>gesturedetectorTag</string>
+	<key>mobileFormat</key>
+	<string>shouldCacheLog</string>
+	<key>seamlessThread</key>
+	<string>equivalentOffset</string>
+	<key>selectorDensity</key>
+	<string>reactiveLabel</string>
+</dict>
+</plist>

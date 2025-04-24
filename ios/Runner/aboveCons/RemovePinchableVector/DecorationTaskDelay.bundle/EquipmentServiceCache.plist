@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>associatesign</key>
+	<string>shouldsubscribebutton</string>
+	<key>directlyrichtext</key>
+	<string>monsterJob</string>
+	<key>shouldPauseTernary</key>
+	<string>resilienceDuration</string>
+	<key>shouldStartColumn</key>
+	<string>shouldDispatchCursor</string>
+	<key>variantShade</key>
+	<string>accessibleWorkflow</string>
+</dict>
+</plist>

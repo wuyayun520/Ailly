@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>concurrentLayout</key>
+	<string>relationalContainer</string>
+	<key>dynamicConvolution</key>
+	<string>restoreOffset</string>
+	<key>localStoryboard</key>
+	<string>elasticSegment</string>
+	<key>polyfillTransparency</key>
+	<string>featureLeft</string>
+	<key>rectType</key>
+	<string>lastIntegration</string>
+	<key>rectangleTag</key>
+	<string>uniformSorter</string>
+	<key>rendererPadding</key>
+	<string>fixedStatus</string>
+	<key>textShade</key>
+	<string>selectedStateful</string>
+</dict>
+</plist>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>dedicatedElasticity</key>
+	<string>imageSkewX</string>
+	<key>diversifiedCheckbox</key>
+	<string>accordionTolerance</string>
+	<key>flexibleScreen</key>
+	<string>smallInstruction</string>
+	<key>frameSkewY</key>
+	<string>descriptorResponse</string>
+	<key>missedSize</key>
+	<string>shouldResumeCursor</string>
+	<key>mobileamortization</key>
+	<string>curveOperation</string>
+	<key>pushlog</key>
+	<string>shouldBuildPlate</string>
+	<key>shouldAnimateBullet</key>
+	<string>shouldProcessCustomPaint</string>
+	<key>typicalSession</key>
+	<string>defaultAlpha</string>
+</dict>
+</plist>

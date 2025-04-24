@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>commondelivery</key>
+	<string>difficultRectangle</string>
+	<key>diffablePager</key>
+	<string>cartesianConsumer</string>
+	<key>normsorter</key>
+	<string>publisherVisibility</string>
+	<key>smartBorder</key>
+	<string>canPersistTernary</string>
+	<key>standaloneInfrastructure</key>
+	<string>observeObserver</string>
+	<key>statelessDispatcher</key>
+	<string>crudeBase</string>
+	<key>subsequentCharacteristic</key>
+	<string>switchMediator</string>
+	<key>sustainableTraversal</key>
+	<string>storeTransparency</string>
+</dict>
+</plist>

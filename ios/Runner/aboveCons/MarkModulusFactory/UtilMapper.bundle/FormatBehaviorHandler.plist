@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>explicitBandwidth</key>
+	<string>optimizerBound</string>
+	<key>oldDependency</key>
+	<string>typicalcheckbox</string>
+	<key>routerrestriction</key>
+	<string>resolveQueue</string>
+	<key>shouldNavigateListView</key>
+	<string>shouldemitcube</string>
+	<key>shouldParseListView</key>
+	<string>greatEntity</string>
+	<key>subscriptionHue</key>
+	<string>containerpadding</string>
+</dict>
+</plist>

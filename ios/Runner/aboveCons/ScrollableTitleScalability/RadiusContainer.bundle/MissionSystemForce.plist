@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>capsuleopacity</key>
+	<string>queueFeedback</string>
+	<key>completerKind</key>
+	<string>elasticClipper</string>
+	<key>consumptionDistance</key>
+	<string>shouldSkipEquipment</string>
+	<key>cursorvisibility</key>
+	<string>callbackInterpreter</string>
+	<key>gridScale</key>
+	<string>persistAlpha</string>
+	<key>meshinset</key>
+	<string>showGram</string>
+	<key>seamlessActivity</key>
+	<string>canDispatchGesture</string>
+	<key>shouldMountedSizedBox</key>
+	<string>streamlineResolver</string>
+	<key>subtleLabel</key>
+	<string>iterativebaseline</string>
+	<key>webProcessor</key>
+	<string>completionAcceleration</string>
+</dict>
+</plist>

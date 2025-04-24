@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>anchorOffset</key>
+	<string>canListenCoordinator</string>
+	<key>consumptionAppearance</key>
+	<string>addRow</string>
+	<key>decodegesture</key>
+	<string>interpolationTag</string>
+	<key>missedmedia</key>
+	<string>tweenmementoforce</string>
+	<key>offsetSkewY</key>
+	<string>multiSegment</string>
+	<key>pivotalChooser</key>
+	<string>mediaqueryFormat</string>
+</dict>
+</plist>

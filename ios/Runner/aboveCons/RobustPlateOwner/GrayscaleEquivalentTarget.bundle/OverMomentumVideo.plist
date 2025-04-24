@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>appbarTransparency</key>
+	<string>easyCreator</string>
+	<key>firstanchor</key>
+	<string>basicInjection</string>
+	<key>optimizebutton</key>
+	<string>maxDelegate</string>
+	<key>primaryCupertino</key>
+	<string>topicState</string>
+	<key>reusablePoint</key>
+	<string>drawerShape</string>
+	<key>subsequentpageview</key>
+	<string>containerDirection</string>
+	<key>unactivatedCapacities</key>
+	<string>subscribeStamp</string>
+</dict>
+</plist>

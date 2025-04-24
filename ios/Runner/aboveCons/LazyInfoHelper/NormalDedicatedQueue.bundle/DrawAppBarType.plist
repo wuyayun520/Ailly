@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>firstConfiguration</key>
+	<string>eventBridge</string>
+	<key>layerfromstructure</key>
+	<string>protocolaboutshape</string>
+	<key>liteSpine</key>
+	<string>fillReducer</string>
+	<key>locatepreview</key>
+	<string>nibconverter</string>
+	<key>mediocreDimension</key>
+	<string>operationAdapter</string>
+	<key>onstoryboardtap</key>
+	<string>singletonbehavior</string>
+	<key>resultFlags</key>
+	<string>storageType</string>
+	<key>webDependency</key>
+	<string>shouldPaintAlert</string>
+</dict>
+</plist>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>publicSizedBox</key>
+	<string>custompaintSingleton</string>
+	<key>scaleSpeed</key>
+	<string>oldMediaQuery</string>
+	<key>shouldDisconnectEntropy</key>
+	<string>orchestrateQueue</string>
+	<key>shouldStartPriority</key>
+	<string>visualizeinterpolation</string>
+	<key>tentativeDirection</key>
+	<string>shouldResumeSwitch</string>
+	<key>unsortedScene</key>
+	<string>utilMediator</string>
+</dict>
+</plist>

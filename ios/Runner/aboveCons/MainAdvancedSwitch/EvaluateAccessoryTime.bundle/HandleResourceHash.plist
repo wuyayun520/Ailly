@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>behaviorFormat</key>
+	<string>pushFlex</string>
+	<key>firstGesture</key>
+	<string>sharedShader</string>
+	<key>lossscopelocation</key>
+	<string>momentumsensor</string>
+	<key>otherinteractor</key>
+	<string>fusedProvider</string>
+	<key>pivotalAspect</key>
+	<string>initializeInterface</string>
+	<key>scenebytask</key>
+	<string>scrollablemend</string>
+	<key>shouldDisconnectEqualization</key>
+	<string>rectifyBloc</string>
+	<key>shouldSetStateAxis</key>
+	<string>difficultdispatcher</string>
+	<key>tickerresponder</key>
+	<string>agileDrawer</string>
+	<key>uniqueimage</key>
+	<string>inheritedJoiner</string>
+</dict>
+</plist>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>awaitinteraction</key>
+	<string>bloclayerorigin</string>
+	<key>diffableTimeline</key>
+	<string>invisibleMatrix</string>
+	<key>featurefromshape</key>
+	<string>amortizationColor</string>
+	<key>permissiveResponder</key>
+	<string>disparateGestureDetector</string>
+	<key>positioninterval</key>
+	<string>permissiveConsumer</string>
+	<key>radiocoordinator</key>
+	<string>beginnerobservermargin</string>
+	<key>reactiveScenario</key>
+	<string>accelerateLayout</string>
+	<key>singleSemantics</key>
+	<string>directSwift</string>
+	<key>spotBrightness</key>
+	<string>buildDescriptor</string>
+</dict>
+</plist>

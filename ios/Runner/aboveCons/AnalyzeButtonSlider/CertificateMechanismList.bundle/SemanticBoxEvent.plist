@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>intuitiveSign</key>
+	<string>adaptiveSemantics</string>
+	<key>radioplatformforce</key>
+	<string>dedicatedstorage</string>
+	<key>routeprovider</key>
+	<string>consumeHash</string>
+	<key>seamlessCupertino</key>
+	<string>cancelTheme</string>
+	<key>taskimpact</key>
+	<string>thresholdState</string>
+</dict>
+</plist>

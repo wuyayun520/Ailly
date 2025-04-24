@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>beginnerActivity</key>
+	<string>gestureStage</string>
+	<key>elasticlistviewduration</key>
+	<string>shouldendnotifier</string>
+	<key>promiseCoord</key>
+	<string>specifyMusic</string>
+	<key>shouldHandleTransition</key>
+	<string>alphaStage</string>
+	<key>storageAcceleration</key>
+	<string>aspectratioMargin</string>
+	<key>unactivatedConfiguration</key>
+	<string>backwardModule</string>
+	<key>visualizeticker</key>
+	<string>encapsulateTween</string>
+	<key>wrapdescription</key>
+	<string>shouldTransitionBase</string>
+</dict>
+</plist>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>customizedVariant</key>
+	<string>giftForce</string>
+	<key>enabledRow</key>
+	<string>buildBoxShadow</string>
+	<key>expandedmenu</key>
+	<string>usedresponseorientation</string>
+	<key>impressionDuration</key>
+	<string>smartImpression</string>
+	<key>rowTension</key>
+	<string>shouldsetstateunary</string>
+	<key>serviceShape</key>
+	<string>shouldDisposeNotification</string>
+	<key>shouldReplacePositioned</key>
+	<string>deactivateCoordinator</string>
+	<key>themeresource</key>
+	<string>prismaticWrapper</string>
+</dict>
+</plist>

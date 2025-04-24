@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>customVolume</key>
+	<string>extendStorage</string>
+	<key>denseScope</key>
+	<string>futureevent</string>
+	<key>mainChapter</key>
+	<string>pivotalStream</string>
+	<key>shouldfetchtabbar</key>
+	<string>shouldFetchPositioned</string>
+	<key>stackstrategymode</key>
+	<string>synchronousFragments</string>
+</dict>
+</plist>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activatedstatus</key>
+	<string>canPrepareDescriptor</string>
+	<key>beginnerColumn</key>
+	<string>resilientText</string>
+	<key>columndata</key>
+	<string>declarativeDescent</string>
+	<key>directTriangles</key>
+	<string>compositionEdge</string>
+	<key>queuemethodposition</key>
+	<string>pushScreen</string>
+	<key>shouldInflateMedia</key>
+	<string>cancelListView</string>
+	<key>shouldUnmountTabView</key>
+	<string>writedropdownbutton</string>
+	<key>tensorTechnique</key>
+	<string>agilePopup</string>
+</dict>
+</plist>

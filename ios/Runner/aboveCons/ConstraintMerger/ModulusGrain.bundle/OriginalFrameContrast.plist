@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animatortag</key>
+	<string>viewBrightness</string>
+	<key>bufferBrightness</key>
+	<string>serializeProvider</string>
+	<key>canvasInset</key>
+	<string>notifierSaturation</string>
+	<key>concurrenthashrotation</key>
+	<string>metadatashade</string>
+	<key>inheritedcontainer</key>
+	<string>brushVisitor</string>
+	<key>sinestrategyinset</key>
+	<string>boxshadowTemple</string>
+	<key>sophisticatedcontrolleropacity</key>
+	<string>revisitView</string>
+	<key>threadmementodirection</key>
+	<string>shouldSkipVariant</string>
+</dict>
+</plist>

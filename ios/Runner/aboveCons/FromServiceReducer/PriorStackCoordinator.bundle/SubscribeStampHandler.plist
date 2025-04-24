@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>aggregatestep</key>
+	<string>navigationagainstenvironment</string>
+	<key>deployhandler</key>
+	<string>logjobtop</string>
+	<key>explicitanchor</key>
+	<string>materialMedia</string>
+	<key>hardIntegrity</key>
+	<string>metricsRotation</string>
+	<key>lazyCard</key>
+	<string>streamScale</string>
+	<key>memberBrightness</key>
+	<string>marshalRadius</string>
+	<key>paintlog</key>
+	<string>removeQueue</string>
+	<key>shouldAnimateOptimizer</key>
+	<string>transposeCompleter</string>
+	<key>sortedProjection</key>
+	<string>priorityTier</string>
+</dict>
+</plist>

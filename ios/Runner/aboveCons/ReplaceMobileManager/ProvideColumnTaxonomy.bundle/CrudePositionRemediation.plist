@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>agilemember</key>
+	<string>elasticDetector</string>
+	<key>arithmeticBox</key>
+	<string>canHandleRemainder</string>
+	<key>composableMerger</key>
+	<string>agileMember</string>
+	<key>profilenavigation</key>
+	<string>invisibleUsage</string>
+	<key>shouldEmitConvolution</key>
+	<string>originalReference</string>
+	<key>shouldMountedPet</key>
+	<string>shouldCreateCatalyst</string>
+	<key>shouldPopTextField</key>
+	<string>relationalbox</string>
+	<key>statelessAcceleration</key>
+	<string>unactivatedGridView</string>
+	<key>toolState</key>
+	<string>statelessAllocator</string>
+	<key>uniquePriority</key>
+	<string>channelBrightness</string>
+</dict>
+</plist>

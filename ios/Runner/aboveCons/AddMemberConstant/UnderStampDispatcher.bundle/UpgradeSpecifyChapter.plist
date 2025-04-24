@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activatedtransition</key>
+	<string>prevAnimatedContainer</string>
+	<key>autoAction</key>
+	<string>uniqueArithmetic</string>
+	<key>basePosition</key>
+	<string>currentStroke</string>
+	<key>binaryvertex</key>
+	<string>timerSkewX</string>
+	<key>columnbeyondtier</key>
+	<string>canKeepBaseline</string>
+	<key>customTool</key>
+	<string>buttonLevel</string>
+	<key>intuitiveMend</key>
+	<string>cartesianGestureDetector</string>
+	<key>originalDetector</key>
+	<string>endSlider</string>
+	<key>seamlessLocalization</key>
+	<string>plateColor</string>
+</dict>
+</plist>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>advancedDialogs</key>
+	<string>euclideanListener</string>
+	<key>finishpoint</key>
+	<string>replacemission</string>
+	<key>inforotation</key>
+	<string>mutableListener</string>
+	<key>setstateticker</key>
+	<string>projectionOrientation</string>
+	<key>unactivatedSign</key>
+	<string>detailInteraction</string>
+</dict>
+</plist>

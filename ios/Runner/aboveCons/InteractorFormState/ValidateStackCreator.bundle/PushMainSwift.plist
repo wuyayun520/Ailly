@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>composableNotation</key>
+	<string>limitProvider</string>
+	<key>comprehensiveMatrix</key>
+	<string>mapObserver</string>
+	<key>disabledSine</key>
+	<string>marshalPresenter</string>
+	<key>reactiveException</key>
+	<string>shouldShowDocument</string>
+	<key>reactiveRect</key>
+	<string>deserializeEntity</string>
+	<key>shouldConnectRow</key>
+	<string>resourceviaframework</string>
+</dict>
+</plist>

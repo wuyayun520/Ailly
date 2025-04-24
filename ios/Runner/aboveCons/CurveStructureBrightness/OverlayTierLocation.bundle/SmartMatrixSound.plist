@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>constantBound</key>
+	<string>delegateScene</string>
+	<key>missedNib</key>
+	<string>functionalchapter</string>
+	<key>precisionTop</key>
+	<string>schedulerstyle</string>
+	<key>shouldMountedDrawer</key>
+	<string>baselineIndex</string>
+	<key>shoulddispatchlayout</key>
+	<string>transformInkWell</string>
+	<key>shouldpopheap</key>
+	<string>resultlistener</string>
+	<key>swiftdescription</key>
+	<string>animatedresourceorigin</string>
+</dict>
+</plist>

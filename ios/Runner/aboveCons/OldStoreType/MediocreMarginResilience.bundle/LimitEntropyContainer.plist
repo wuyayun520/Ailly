@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>analyzerResponse</key>
+	<string>canUnmountedSkin</string>
+	<key>pinchableFuture</key>
+	<string>formatValidation</string>
+	<key>shouldEncodeScroll</key>
+	<string>decodeCupertino</string>
+	<key>subtleColor</key>
+	<string>selectorTag</string>
+</dict>
+</plist>

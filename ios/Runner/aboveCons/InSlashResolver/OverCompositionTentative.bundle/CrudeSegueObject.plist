@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>channelsInset</key>
+	<string>disabledEntity</string>
+	<key>interactorPosition</key>
+	<string>eagerLogarithm</string>
+	<key>normalVector</key>
+	<string>shouldKeepScroll</string>
+	<key>smallVector</key>
+	<string>shoulddeserializeaxis</string>
+</dict>
+</plist>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>draggablecellformat</key>
+	<string>associatedOccasion</string>
+	<key>flexibleColor</key>
+	<string>selectedStateful</string>
+	<key>fusedStorage</key>
+	<string>coordinatorOperation</string>
+	<key>independentGestureDetector</key>
+	<string>evaluationValidation</string>
+	<key>reactivemapper</key>
+	<string>boxshadowObserver</string>
+	<key>shouldunbindmedia</key>
+	<string>progressbarScale</string>
+</dict>
+</plist>

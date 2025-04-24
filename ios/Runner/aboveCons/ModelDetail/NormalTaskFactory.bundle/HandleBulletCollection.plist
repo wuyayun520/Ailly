@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>directQueue</key>
+	<string>delicatePublisher</string>
+	<key>lostMenu</key>
+	<string>playcontroller</string>
+	<key>notifierOffset</key>
+	<string>formatLog</string>
+	<key>priorConfidentiality</key>
+	<string>provisionTension</string>
+	<key>responsiveMedia</key>
+	<string>webTimer</string>
+	<key>unbindmedia</key>
+	<string>hasLoss</string>
+</dict>
+</plist>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>firstProcessor</key>
+	<string>shouldStopEffect</string>
+	<key>paddingEdge</key>
+	<string>axisbywork</string>
+	<key>parseoptimizer</key>
+	<string>easyStamp</string>
+	<key>pivotalThroughput</key>
+	<string>shouldNotifyRemainder</string>
+	<key>seamlessInkWell</key>
+	<string>animationbound</string>
+</dict>
+</plist>

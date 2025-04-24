@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>dynamicPainter</key>
+	<string>significantmanager</string>
+	<key>hierarchicalMetrics</key>
+	<string>texturewithoutjob</string>
+	<key>lifecycleVisibility</key>
+	<string>animationParameter</string>
+	<key>oldRoute</key>
+	<string>mediaqueryVisitor</string>
+	<key>shouldPaintBatch</key>
+	<string>crudeintensity</string>
+	<key>tentativeBorder</key>
+	<string>ignoredModule</string>
+	<key>topicCoord</key>
+	<string>detectorVelocity</string>
+</dict>
+</plist>

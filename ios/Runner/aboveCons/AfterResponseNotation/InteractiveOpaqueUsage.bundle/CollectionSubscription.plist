@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activatecell</key>
+	<string>observePrecision</string>
+	<key>asynchronousEquivalent</key>
+	<string>originalBorder</string>
+	<key>largeScroller</key>
+	<string>shouldTransitionAspectRatio</string>
+	<key>lazyInitiative</key>
+	<string>scalecompositemode</string>
+	<key>modelresponse</key>
+	<string>shouldFormatBitrate</string>
+	<key>singleCallback</key>
+	<string>emitGrain</string>
+	<key>sophisticatedcollectionstatus</key>
+	<string>processcomposition</string>
+</dict>
+</plist>

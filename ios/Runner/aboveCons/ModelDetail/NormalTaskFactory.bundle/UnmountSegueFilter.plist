@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>advancedCallback</key>
+	<string>canCreateScale</string>
+	<key>autorowdistance</key>
+	<string>paddingevolution</string>
+	<key>cartesianInstruction</key>
+	<string>directResource</string>
+	<key>granularPolygon</key>
+	<string>iterativeActivity</string>
+	<key>ignoredtangentbrightness</key>
+	<string>canObservePlate</string>
+	<key>mountclipper</key>
+	<string>quitFeature</string>
+	<key>multiAccessory</key>
+	<string>captionOffset</string>
+	<key>nextTransformer</key>
+	<string>resetContainer</string>
+	<key>shouldPresentSymbol</key>
+	<string>decodeerror</string>
+</dict>
+</plist>

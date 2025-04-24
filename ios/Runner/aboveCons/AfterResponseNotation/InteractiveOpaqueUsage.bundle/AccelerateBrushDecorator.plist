@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>concreteSink</key>
+	<string>shouldAnimateSegue</string>
+	<key>finderShade</key>
+	<string>onaxistap</string>
+	<key>mapSpeed</key>
+	<string>shouldTransformRoute</string>
+	<key>resolverBrightness</key>
+	<string>priorConsumption</string>
+	<key>shouldPersistReference</key>
+	<string>architectureShape</string>
+	<key>shouldconnecttechnique</key>
+	<string>sizedboxHue</string>
+</dict>
+</plist>

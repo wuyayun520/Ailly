@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>defaultcard</key>
+	<string>beginnerTween</string>
+	<key>directLoss</key>
+	<string>agileConnector</string>
+	<key>geometriccolor</key>
+	<string>aspectratioNumber</string>
+	<key>parallelTimer</key>
+	<string>geometricComponent</string>
+	<key>replaceasync</key>
+	<string>temporaryPicker</string>
+	<key>serviceleveltail</key>
+	<string>canSavePadding</string>
+	<key>shouldDispatchController</key>
+	<string>pauseDuration</string>
+	<key>significantSegue</key>
+	<string>mountedProvider</string>
+</dict>
+</plist>

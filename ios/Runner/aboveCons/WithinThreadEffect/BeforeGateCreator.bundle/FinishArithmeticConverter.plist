@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>awaitframe</key>
+	<string>sharedCaption</string>
+	<key>completerDistance</key>
+	<string>logfeature</string>
+	<key>loopvalidation</key>
+	<string>limitresult</string>
+	<key>mobilePadding</key>
+	<string>persistentaudio</string>
+	<key>modalgrain</key>
+	<string>protocolhead</string>
+	<key>resilientMethod</key>
+	<string>textureSize</string>
+	<key>sharedConsumer</key>
+	<string>canLoadScreen</string>
+	<key>uniqueReliability</key>
+	<string>canCacheMatrix</string>
+</dict>
+</plist>

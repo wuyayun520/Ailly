@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>disclaimeredge</key>
+	<string>colorformat</string>
+	<key>lazyscroll</key>
+	<string>ishistogram</string>
+	<key>mediumDrawer</key>
+	<string>attachGrayscale</string>
+	<key>numericalMediaQuery</key>
+	<string>binaryInset</string>
+	<key>storyboardtheme</key>
+	<string>parallelTransformer</string>
+	<key>touchtop</key>
+	<string>numericalBatch</string>
+</dict>
+</plist>

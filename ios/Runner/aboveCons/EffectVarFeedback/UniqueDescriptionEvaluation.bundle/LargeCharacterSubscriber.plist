@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>commonbatchspeed</key>
+	<string>unbindFlex</string>
+	<key>dependencyjobrotation</key>
+	<string>emitQueue</string>
+	<key>filterTop</key>
+	<string>emitMatrix</string>
+	<key>intermediatebuilder</key>
+	<string>heroProcess</string>
+	<key>iterativeObserver</key>
+	<string>findProvider</string>
+	<key>mobileConfidentiality</key>
+	<string>responsiveConsumption</string>
+</dict>
+</plist>

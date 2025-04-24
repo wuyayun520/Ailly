@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>backwardSink</key>
+	<string>independentchecklist</string>
+	<key>capsuleversusstructure</key>
+	<string>shouldhandlepageview</string>
+	<key>movementRate</key>
+	<string>maxDialogs</string>
+	<key>promiseOpacity</key>
+	<string>notifyexponent</string>
+	<key>sessionIndex</key>
+	<string>currentInitiators</string>
+	<key>sineLeft</key>
+	<string>canProcessStateless</string>
+	<key>singlelistview</key>
+	<string>shouldEndRow</string>
+	<key>switchstatus</key>
+	<string>desktopAnalyzer</string>
+	<key>touchposition</key>
+	<string>sharedGate</string>
+</dict>
+</plist>

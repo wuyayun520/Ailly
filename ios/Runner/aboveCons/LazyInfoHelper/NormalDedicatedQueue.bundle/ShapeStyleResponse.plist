@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>bufferTransparency</key>
+	<string>interactiveClipper</string>
+	<key>difficultLocalization</key>
+	<string>shouldEndIcon</string>
+	<key>lostShader</key>
+	<string>shouldDismissTable</string>
+	<key>numericalDetail</key>
+	<string>threadBottom</string>
+	<key>sharedDetail</key>
+	<string>discardedConfidentiality</string>
+	<key>shouldinitializecollection</key>
+	<string>graphicMediator</string>
+	<key>significantBuffer</key>
+	<string>nativeActivity</string>
+	<key>significantIcon</key>
+	<string>interfaceadapterdelay</string>
+	<key>switchmend</key>
+	<string>ignoredgemcount</string>
+	<key>threadcharacteristic</key>
+	<string>seamlessPopup</string>
+</dict>
+</plist>

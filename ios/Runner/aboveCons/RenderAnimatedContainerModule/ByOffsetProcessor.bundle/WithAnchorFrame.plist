@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>blocRotation</key>
+	<string>reductionlevelresponse</string>
+	<key>crucialsize</key>
+	<string>annotateRadius</string>
+	<key>gridlinker</key>
+	<string>rectBound</string>
+	<key>inheritedSubscriber</key>
+	<string>nibRotation</string>
+	<key>queuelocation</key>
+	<string>publisherSkewY</string>
+	<key>thresholdAcceleration</key>
+	<string>lazycard</string>
+	<key>visitcoordinator</key>
+	<string>diversifiedBorder</string>
+</dict>
+</plist>

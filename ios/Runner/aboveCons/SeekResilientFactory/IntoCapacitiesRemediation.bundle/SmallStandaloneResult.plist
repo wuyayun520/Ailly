@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>fusedImage</key>
+	<string>concurrentCollection</string>
+	<key>hierarchicalListener</key>
+	<string>provisionScale</string>
+	<key>integrityCenter</key>
+	<string>inflateOverlay</string>
+	<key>missedScope</key>
+	<string>primarycontrollertension</string>
+	<key>prevResource</key>
+	<string>compositionalScene</string>
+</dict>
+</plist>

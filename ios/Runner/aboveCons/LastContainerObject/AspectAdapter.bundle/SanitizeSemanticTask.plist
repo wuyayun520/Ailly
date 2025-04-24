@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>compositionalProvision</key>
+	<string>completedSignature</string>
+	<key>immutableCard</key>
+	<string>localizationType</string>
+	<key>informationMode</key>
+	<string>modalPadding</string>
+	<key>previewContrast</key>
+	<string>unsortedEvent</string>
+	<key>shouldStartInstruction</key>
+	<string>shouldContinueNavigation</string>
+	<key>singleGrain</key>
+	<string>brushFrequency</string>
+</dict>
+</plist>

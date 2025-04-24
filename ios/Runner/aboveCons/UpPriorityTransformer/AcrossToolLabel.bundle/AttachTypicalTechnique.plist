@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>gesturedetectorVelocity</key>
+	<string>benchmarkalpha</string>
+	<key>onscaffoldchanged</key>
+	<string>rendererLocation</string>
+	<key>permanentmomentumspacing</key>
+	<string>collectionCenter</string>
+	<key>resultprototypeflags</key>
+	<string>profileAsset</string>
+	<key>retainstoryboard</key>
+	<string>navigationSize</string>
+	<key>sinkName</key>
+	<string>interactiveElement</string>
+	<key>usedMesh</key>
+	<string>infrastructureKind</string>
+</dict>
+</plist>

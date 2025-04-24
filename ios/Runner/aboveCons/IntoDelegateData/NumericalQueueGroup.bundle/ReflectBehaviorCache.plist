@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>otherVector</key>
+	<string>clipperVisible</string>
+	<key>parallelAllocator</key>
+	<string>deferredChart</string>
+	<key>partitionprojection</key>
+	<string>materialdelay</string>
+	<key>respectiveMonster</key>
+	<string>disabledDependency</string>
+	<key>shouldBindOperation</key>
+	<string>similarError</string>
+	<key>shouldDismissScale</key>
+	<string>pickerContrast</string>
+	<key>shouldRebuildNavigation</key>
+	<string>resultscale</string>
+	<key>shouldupdatethread</key>
+	<string>materialOperation</string>
+	<key>touchtask</key>
+	<string>synchronousTolerance</string>
+</dict>
+</plist>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>architectureTail</key>
+	<string>progressbarFormat</string>
+	<key>beginnerGestureDetector</key>
+	<string>displayableTernary</string>
+	<key>elasticityHue</key>
+	<string>criticalLocalization</string>
+	<key>usageMode</key>
+	<string>defaultcomposition</string>
+</dict>
+</plist>

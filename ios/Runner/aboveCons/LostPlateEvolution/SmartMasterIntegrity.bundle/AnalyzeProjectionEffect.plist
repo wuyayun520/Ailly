@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>dedicatedGift</key>
+	<string>canPushChallenge</string>
+	<key>difficultGraph</key>
+	<string>associateRoute</string>
+	<key>directChallenge</key>
+	<string>initializeSegue</string>
+	<key>equivalentTension</key>
+	<string>yieldnorm</string>
+	<key>modulusInset</key>
+	<string>preveffecttransparency</string>
+	<key>pinchableTrigger</key>
+	<string>respondSink</string>
+	<key>positiondisclaimer</key>
+	<string>canFinishExtension</string>
+	<key>publicScalability</key>
+	<string>statefulMediator</string>
+	<key>usecaseTag</key>
+	<string>customColumn</string>
+</dict>
+</plist>

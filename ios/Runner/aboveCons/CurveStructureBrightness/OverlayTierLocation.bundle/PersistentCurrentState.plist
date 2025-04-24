@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>autoReducer</key>
+	<string>reusableMapper</string>
+	<key>combinerDensity</key>
+	<string>techniqueOpacity</string>
+	<key>endcycle</key>
+	<string>replaceGraphic</string>
+	<key>lasttransition</key>
+	<string>memberOrientation</string>
+	<key>publicChannels</key>
+	<string>publishDocument</string>
+	<key>schedulerIndex</key>
+	<string>tensorReducer</string>
+	<key>shouldContinueReference</key>
+	<string>immediateAlert</string>
+	<key>streamactivityhead</key>
+	<string>loadUsage</string>
+</dict>
+</plist>

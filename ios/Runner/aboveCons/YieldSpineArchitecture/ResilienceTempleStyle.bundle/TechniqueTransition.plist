@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>defaultcube</key>
+	<string>shouldLoadDrawer</string>
+	<key>granularTolerance</key>
+	<string>staticTween</string>
+	<key>invisibleRepository</key>
+	<string>setstateclipper</string>
+	<key>notifydrawer</key>
+	<string>equipmentstatus</string>
+</dict>
+</plist>

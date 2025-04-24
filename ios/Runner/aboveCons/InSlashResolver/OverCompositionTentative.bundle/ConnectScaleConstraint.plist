@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>autoBaseline</key>
+	<string>priorityPadding</string>
+	<key>displayableconnector</key>
+	<string>canMountCache</string>
+	<key>eagerCombiner</key>
+	<string>canInitializeTheme</string>
+	<key>mapperName</key>
+	<string>mediavisible</string>
+	<key>playstateless</key>
+	<string>shouldResumeEffect</string>
+	<key>processorFlags</key>
+	<string>canFinishOptimizer</string>
+	<key>skinBrightness</key>
+	<string>presentMovement</string>
+	<key>statefulSingleton</key>
+	<string>cycleFeedback</string>
+</dict>
+</plist>

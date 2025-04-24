@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>adaptiveRoute</key>
+	<string>dropdownbuttonTransparency</string>
+	<key>customizedFrame</key>
+	<string>lastborder</string>
+	<key>geometricReduction</key>
+	<string>cupertinoText</string>
+	<key>normalDuration</key>
+	<string>shouldYieldVariant</string>
+	<key>shouldLoadIndicator</key>
+	<string>consultativeaspect</string>
+	<key>smallStatus</key>
+	<string>oldBehavior</string>
+	<key>taxonomyLocation</key>
+	<string>shouldvalidatenavigation</string>
+</dict>
+</plist>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activePresenter</key>
+	<string>mobileelement</string>
+	<key>advancedThreshold</key>
+	<string>hierarchicalVideo</string>
+	<key>decodefuture</key>
+	<string>explicitIntensity</string>
+	<key>errorRate</key>
+	<string>insteadInterface</string>
+	<key>inheritedLayout</key>
+	<string>buttonbottom</string>
+	<key>mapperCount</key>
+	<string>immediatePriority</string>
+	<key>permanentInformation</key>
+	<string>resilienceIndex</string>
+	<key>relationalSign</key>
+	<string>canPaintNavigation</string>
+</dict>
+</plist>

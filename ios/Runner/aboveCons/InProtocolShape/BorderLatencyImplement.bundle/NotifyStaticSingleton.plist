@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>elasticMatrix</key>
+	<string>spinCoordinator</string>
+	<key>inactivelossvalidation</key>
+	<string>entityStructure</string>
+	<key>mediocreEquivalent</key>
+	<string>invisiblemediaquery</string>
+</dict>
+</plist>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>contrastMargin</key>
+	<string>mountBoxShadow</string>
+	<key>disabledProjection</key>
+	<string>joinerCoord</string>
+	<key>firstLatency</key>
+	<string>respectiveTrigger</string>
+	<key>inactiveTool</key>
+	<string>fetchhandler</string>
+	<key>listviewAlignment</key>
+	<string>canInitializeCache</string>
+	<key>mobileflexrate</key>
+	<string>escalateCoordinator</string>
+	<key>monsterState</key>
+	<string>debugSingleton</string>
+	<key>resourceplatformbound</key>
+	<string>updateTopic</string>
+	<key>shouldMountBloc</key>
+	<string>videoStyle</string>
+</dict>
+</plist>

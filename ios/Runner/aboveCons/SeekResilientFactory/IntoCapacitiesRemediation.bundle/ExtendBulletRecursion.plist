@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>disabledScenario</key>
+	<string>heroMode</string>
+	<key>materialGradient</key>
+	<string>dispatchAspect</string>
+	<key>mediocreArchitecture</key>
+	<string>provideFrame</string>
+	<key>opaqueScene</key>
+	<string>notationVelocity</string>
+	<key>shouldConnectKernel</key>
+	<string>grainTag</string>
+</dict>
+</plist>

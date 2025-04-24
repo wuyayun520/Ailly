@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>completiontension</key>
+	<string>shouldPublishExpanded</string>
+	<key>consumetitle</key>
+	<string>configureOffset</string>
+	<key>giftTop</key>
+	<string>shouldRenderArithmetic</string>
+	<key>monsterinfo</key>
+	<string>canCreateGrayscale</string>
+	<key>occasionSkewX</key>
+	<string>resilientTable</string>
+	<key>overridestoryboard</key>
+	<string>memberSkewX</string>
+	<key>popupascent</key>
+	<string>overrideFeature</string>
+	<key>semanticPrecision</key>
+	<string>elementBorder</string>
+	<key>shouldContinueMobile</key>
+	<string>boxshadowComposite</string>
+	<key>shouldUnbindBoxShadow</key>
+	<string>canStopBaseline</string>
+</dict>
+</plist>

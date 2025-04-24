@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>equalizationevent</key>
+	<string>responsiveprogressbarduration</string>
+	<key>mapVelocity</key>
+	<string>commonPoint</string>
+	<key>prevwidgetleft</key>
+	<string>disabledanimator</string>
+	<key>shouldCacheCapsule</key>
+	<string>handlerwithlayer</string>
+	<key>shouldContinueFuture</key>
+	<string>distinctionDistance</string>
+	<key>shouldDetachNotification</key>
+	<string>typicalFlex</string>
+	<key>shouldInitializeCapsule</key>
+	<string>semanticsAlignment</string>
+	<key>shouldpausemovement</key>
+	<string>threadHead</string>
+	<key>temporaryGrayscale</key>
+	<string>canParseIndicator</string>
+</dict>
+</plist>

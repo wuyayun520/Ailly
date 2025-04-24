@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cardInterval</key>
+	<string>graphFacade</string>
+	<key>currentThroughput</key>
+	<string>requestfactory</string>
+	<key>immediateSpot</key>
+	<string>metadataLevel</string>
+	<key>operationDepth</key>
+	<string>shouldUpdateGestureDetector</string>
+	<key>precisionTheme</key>
+	<string>radiussincetype</string>
+	<key>unactivatedspineorientation</key>
+	<string>publicDisclaimer</string>
+</dict>
+</plist>

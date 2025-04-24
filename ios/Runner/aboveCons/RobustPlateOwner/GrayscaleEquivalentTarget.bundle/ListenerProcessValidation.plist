@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>aspecthue</key>
+	<string>playObserver</string>
+	<key>completerprototypekind</key>
+	<string>persistentScalability</string>
+	<key>directChannels</key>
+	<string>shouldLoadTool</string>
+	<key>euclideanSlider</key>
+	<string>canProcessCollection</string>
+	<key>latencyCoord</key>
+	<string>transitionDepth</string>
+	<key>logmomentum</key>
+	<string>gridcount</string>
+	<key>normLeft</key>
+	<string>trianglesHue</string>
+	<key>uniformbinary</key>
+	<string>sinkformat</string>
+	<key>widgetvalidation</key>
+	<string>shouldMountContainer</string>
+</dict>
+</plist>

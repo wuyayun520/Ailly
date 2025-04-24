@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>binderIndex</key>
+	<string>statelessReducer</string>
+	<key>commonClipper</key>
+	<string>configuregraph</string>
+	<key>popupsplitter</key>
+	<string>mediarepository</string>
+	<key>sensorasset</key>
+	<string>equalizationDelay</string>
+	<key>skiptitle</key>
+	<string>canCreateBuilder</string>
+	<key>staticradiusinteraction</key>
+	<string>uniformAnimator</string>
+	<key>temporaryDecoration</key>
+	<string>interpolateTitle</string>
+</dict>
+</plist>

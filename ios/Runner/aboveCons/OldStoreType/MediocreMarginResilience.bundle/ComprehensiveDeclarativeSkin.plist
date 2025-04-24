@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>binaryFeedback</key>
+	<string>materialJoiner</string>
+	<key>fusedCube</key>
+	<string>decodeAlignment</string>
+	<key>gateTransparency</key>
+	<string>eagerBandwidth</string>
+	<key>modaldelegate</key>
+	<string>plateEdge</string>
+	<key>onpettap</key>
+	<string>shouldvalidateborder</string>
+	<key>resilientMatrix</key>
+	<string>materialtriangles</string>
+	<key>responsiveReduction</key>
+	<string>infrastructureShape</string>
+	<key>tensorfuture</key>
+	<string>flexibleBase</string>
+</dict>
+</plist>

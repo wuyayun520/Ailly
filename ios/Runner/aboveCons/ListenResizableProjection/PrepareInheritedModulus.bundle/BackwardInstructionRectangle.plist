@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>callbackmerger</key>
+	<string>shouldUpdatePoint</string>
+	<key>independentExponent</key>
+	<string>notifyDependency</string>
+	<key>rapidspine</key>
+	<string>insteadBloc</string>
+	<key>reductionDistance</key>
+	<string>secondDescent</string>
+	<key>sequentialBorder</key>
+	<string>delegateService</string>
+	<key>shouldBuildText</key>
+	<string>reactiveWidget</string>
+	<key>statelessMaterial</key>
+	<string>histogramdependency</string>
+</dict>
+</plist>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>commonIntegrity</key>
+	<string>escalateText</string>
+	<key>currentchecklist</key>
+	<string>pagerDistance</string>
+	<key>dynamicProvision</key>
+	<string>mapAdapter</string>
+	<key>executecallback</key>
+	<string>webAllocator</string>
+	<key>immutableMission</key>
+	<string>requiredDecoration</string>
+	<key>resilientConstraint</key>
+	<string>responseJob</string>
+	<key>retainedSpecifier</key>
+	<string>opaqueNavigation</string>
+	<key>shouldstartnavigation</key>
+	<string>reductionLocation</string>
+</dict>
+</plist>

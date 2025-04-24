@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accessibleAspectRatio</key>
+	<string>canRenderBullet</string>
+	<key>commonTentative</key>
+	<string>grayscaleParam</string>
+	<key>crucialanimatedcontainerborder</key>
+	<string>cupertinoContrast</string>
+	<key>hardThread</key>
+	<string>symmetricDistinction</string>
+	<key>protocolDelay</key>
+	<string>shouldBindListView</string>
+	<key>shouldformatlayout</key>
+	<string>routeacceleration</string>
+	<key>staticHeap</key>
+	<string>gramMode</string>
+	<key>uniqueVolume</key>
+	<string>disconnectDialogs</string>
+</dict>
+</plist>

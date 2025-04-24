@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>amortizationType</key>
+	<string>detectorInset</string>
+	<key>equalusage</key>
+	<string>eventPhase</string>
+	<key>mainAnimation</key>
+	<string>localchart</string>
+	<key>nextFormat</key>
+	<string>pauseGrayscale</string>
+	<key>ondecorationchanged</key>
+	<string>animationVelocity</string>
+	<key>publicController</key>
+	<string>immediateChecklist</string>
+	<key>respectiveReceiver</key>
+	<string>animationSkewX</string>
+	<key>routerfeedback</key>
+	<string>restoresemantics</string>
+	<key>standaloneProvision</key>
+	<string>descriptiontheme</string>
+</dict>
+</plist>

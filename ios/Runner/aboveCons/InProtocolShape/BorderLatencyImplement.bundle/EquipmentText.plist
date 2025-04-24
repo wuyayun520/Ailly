@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>durationFormat</key>
+	<string>consumeLayout</string>
+	<key>futureframeworkspacing</key>
+	<string>associatePresenter</string>
+	<key>multiNotation</key>
+	<string>propagateError</string>
+	<key>pagerCount</key>
+	<string>pauseexponent</string>
+	<key>providerindex</key>
+	<string>axispressure</string>
+	<key>shouldDeserializeTheme</key>
+	<string>completedAxis</string>
+	<key>shouldInitializeBuilder</key>
+	<string>permissiveResilience</string>
+	<key>slashstatus</key>
+	<string>canPublishDescriptor</string>
+	<key>timerforce</key>
+	<string>adjustLayout</string>
+</dict>
+</plist>

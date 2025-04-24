@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accordionTimeline</key>
+	<string>positionOrigin</string>
+	<key>associatedSegment</key>
+	<string>multiplicationParameter</string>
+	<key>screenOffset</key>
+	<string>transpileAsset</string>
+	<key>shouldValidateGram</key>
+	<string>deployCallback</string>
+	<key>utilTheme</key>
+	<string>secondConfidentiality</string>
+</dict>
+</plist>

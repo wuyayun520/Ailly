@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>analyzerRate</key>
+	<string>nextShader</string>
+	<key>elasticAperture</key>
+	<string>sensorCommand</string>
+	<key>freespot</key>
+	<string>fetchProjection</string>
+	<key>isolateShade</key>
+	<string>canRenderMedia</string>
+	<key>observerbesidefacade</key>
+	<string>detectorCount</string>
+	<key>skinsensor</key>
+	<string>mapCycle</string>
+	<key>slashatprototype</key>
+	<string>smallSchema</string>
+	<key>tappableblocorientation</key>
+	<string>columnSystem</string>
+</dict>
+</plist>

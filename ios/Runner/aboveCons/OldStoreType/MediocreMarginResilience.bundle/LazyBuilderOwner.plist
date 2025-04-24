@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>defaultprovider</key>
+	<string>mutableInfo</string>
+	<key>grayscaleTail</key>
+	<string>streamSingleton</string>
+	<key>ignoredCard</key>
+	<string>prismaticDistinction</string>
+	<key>immutableSink</key>
+	<string>sizedboxWork</string>
+	<key>shouldDeserializeMaterial</key>
+	<string>statelessGrayscale</string>
+	<key>shouldPreparePageView</key>
+	<string>greatWrapper</string>
+	<key>visibleTangent</key>
+	<string>appbarCoord</string>
+</dict>
+</plist>

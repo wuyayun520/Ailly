@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>dedicatedprovision</key>
+	<string>isNavigator</string>
+	<key>interactionOffset</key>
+	<string>canUnbindAccessory</string>
+	<key>mobileRecursion</key>
+	<string>orchestrateRouter</string>
+	<key>requiredEvent</key>
+	<string>discardedPageView</string>
+	<key>respondstorage</key>
+	<string>unactivatedButton</string>
+	<key>serializezone</key>
+	<string>variantrectangle</string>
+	<key>tensorQueue</key>
+	<string>validateText</string>
+</dict>
+</plist>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>firstGrayscale</key>
+	<string>masterdelivery</string>
+	<key>kerneljobvisibility</key>
+	<string>scrollerVisibility</string>
+	<key>restartconfiguration</key>
+	<string>sorterStatus</string>
+	<key>shouldResumeSlash</key>
+	<string>allocateNode</string>
+	<key>shouldUpdateUsage</key>
+	<string>accessoryActivity</string>
+	<key>shouldValidateBloc</key>
+	<string>rectFormat</string>
+	<key>shouldshowconvolution</key>
+	<string>embraceisolate</string>
+	<key>storagelikejob</key>
+	<string>statefulFlyweight</string>
+	<key>subscriberborder</key>
+	<string>dissociatelocalization</string>
+	<key>toolSize</key>
+	<string>canDisposeLoss</string>
+</dict>
+</plist>

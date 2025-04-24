@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>concurrentConnector</key>
+	<string>invisibleOverlay</string>
+	<key>concurrentMerger</key>
+	<string>commonGrayscale</string>
+	<key>functionalCache</key>
+	<string>tweakRate</string>
+	<key>imperativeBoxShadow</key>
+	<string>annotateAwait</string>
+	<key>referenceStatus</key>
+	<string>volumeTop</string>
+	<key>referencestate</key>
+	<string>rotatebuffer</string>
+	<key>relationalDetector</key>
+	<string>interactionTag</string>
+	<key>shouldBindCoordinator</key>
+	<string>shouldResumeSign</string>
+</dict>
+</plist>

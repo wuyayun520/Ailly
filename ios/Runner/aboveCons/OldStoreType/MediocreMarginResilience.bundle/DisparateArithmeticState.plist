@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>consultativeLog</key>
+	<string>smallSize</string>
+	<key>dynamicBrush</key>
+	<string>unbindStateless</string>
+	<key>flexibleState</key>
+	<string>relationalutilrotation</string>
+	<key>mobileMargin</key>
+	<string>releaseContainer</string>
+	<key>optimizerTop</key>
+	<string>paralleltimeline</string>
+	<key>specifyBox</key>
+	<string>canContinueVariant</string>
+	<key>synchronousScreen</key>
+	<string>shouldNotifyDrawer</string>
+	<key>tweenName</key>
+	<string>mobileCompleter</string>
+	<key>tweenskewx</key>
+	<string>rectFlyweight</string>
+	<key>visibleDetector</key>
+	<string>hierarchicalBase</string>
+</dict>
+</plist>

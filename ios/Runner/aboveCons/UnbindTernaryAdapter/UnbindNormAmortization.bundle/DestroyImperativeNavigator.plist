@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animatedData</key>
+	<string>sequentialLoop</string>
+	<key>deferredWidget</key>
+	<string>canBindStream</string>
+	<key>functionalOccasion</key>
+	<string>promiseOffset</string>
+	<key>shouldStreamOverlay</key>
+	<string>unsortedSorter</string>
+	<key>shouldkeepdialogs</key>
+	<string>canSaveInteger</string>
+	<key>showprogressbar</key>
+	<string>parseModal</string>
+	<key>traincontraction</key>
+	<string>stampfrequency</string>
+</dict>
+</plist>

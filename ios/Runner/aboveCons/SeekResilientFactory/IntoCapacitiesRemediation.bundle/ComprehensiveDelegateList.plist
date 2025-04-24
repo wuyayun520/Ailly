@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>configurationstructureposition</key>
+	<string>techniqueEnvironment</string>
+	<key>crudeCompleter</key>
+	<string>gestureRight</string>
+	<key>globalSession</key>
+	<string>intuitiveNotation</string>
+	<key>immutablePadding</key>
+	<string>indicatorBound</string>
+	<key>isalert</key>
+	<string>canPersistCharacter</string>
+	<key>mountlayer</key>
+	<string>petdelegate</string>
+	<key>strokeSaturation</key>
+	<string>injectionHue</string>
+</dict>
+</plist>

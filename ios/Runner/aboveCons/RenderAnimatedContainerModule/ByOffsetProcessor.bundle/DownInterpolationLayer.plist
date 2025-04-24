@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activeWorkflow</key>
+	<string>discardedTabView</string>
+	<key>agileImage</key>
+	<string>symmetricnotation</string>
+	<key>agileTexture</key>
+	<string>computeContainer</string>
+	<key>groupskewy</key>
+	<string>respondObserver</string>
+	<key>interactiveService</key>
+	<string>easyTechnique</string>
+	<key>mediocreZone</key>
+	<string>fragmentshue</string>
+	<key>shouldInitializeCompletion</key>
+	<string>createMovement</string>
+	<key>spinespeed</key>
+	<string>shouldCreateInkWell</string>
+</dict>
+</plist>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>crucialNode</key>
+	<string>selectedTable</string>
+	<key>eagerMedia</key>
+	<string>timeScale</string>
+	<key>extensiondescription</key>
+	<string>obtainAnimation</string>
+	<key>pinchableCluster</key>
+	<string>encodeNavigator</string>
+	<key>resizableFilter</key>
+	<string>shouldKeepArithmetic</string>
+	<key>shouldDisconnectMission</key>
+	<string>protectedOffset</string>
+</dict>
+</plist>

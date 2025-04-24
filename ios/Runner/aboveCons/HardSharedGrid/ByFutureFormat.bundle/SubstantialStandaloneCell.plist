@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>checkboxShape</key>
+	<string>decoupleMethod</string>
+	<key>declarativeTriangles</key>
+	<string>gestureMode</string>
+	<key>geometricRow</key>
+	<string>prevHeap</string>
+	<key>infrastructureinset</key>
+	<string>streamlineGrain</string>
+	<key>inkwellMargin</key>
+	<string>completiontension</string>
+	<key>numericalEfficiency</key>
+	<string>shouldpresentoptimizer</string>
+	<key>oncontainerchanged</key>
+	<string>detailName</string>
+	<key>progressbarvalidation</key>
+	<string>spriteoutsidevariable</string>
+	<key>sortedTable</key>
+	<string>basicGrid</string>
+</dict>
+</plist>

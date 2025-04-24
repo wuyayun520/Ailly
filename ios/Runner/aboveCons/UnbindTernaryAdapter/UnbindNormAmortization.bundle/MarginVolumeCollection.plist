@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>displayableScope</key>
+	<string>callbackEdge</string>
+	<key>multiplicationversustask</key>
+	<string>shouldPaintSlash</string>
+	<key>rapidMatrix</key>
+	<string>spotName</string>
+	<key>shouldsavescroll</key>
+	<string>animateBase</string>
+	<key>tickerInteraction</key>
+	<string>basicRange</string>
+</dict>
+</plist>

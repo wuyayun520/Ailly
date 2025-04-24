@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accessibleMechanism</key>
+	<string>rectFlyweight</string>
+	<key>defaultexponent</key>
+	<string>pinchableRenderer</string>
+	<key>discardedArithmetic</key>
+	<string>multiZone</string>
+	<key>interactoralongcycle</key>
+	<string>shouldYieldAspectRatio</string>
+	<key>shouldAttachCatalyst</key>
+	<string>objectEdge</string>
+	<key>shouldShowCustomPaint</key>
+	<string>shouldsetstatecustompaint</string>
+	<key>timelineHead</key>
+	<string>inactiveCertificate</string>
+</dict>
+</plist>

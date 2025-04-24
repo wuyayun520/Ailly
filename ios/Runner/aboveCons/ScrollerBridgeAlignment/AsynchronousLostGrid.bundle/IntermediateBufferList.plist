@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cartesianAnchor</key>
+	<string>missionSpeed</string>
+	<key>coordinatorFormat</key>
+	<string>draggableVertex</string>
+	<key>drawerparticle</key>
+	<string>modalSaturation</string>
+	<key>selectedflex</key>
+	<string>sizedboxEnvironment</string>
+	<key>shouldPersistPageView</key>
+	<string>draggableIntegrity</string>
+	<key>shouldskipcoordinator</key>
+	<string>injectionDuration</string>
+	<key>statelessprotocolbound</key>
+	<string>widgetNumber</string>
+</dict>
+</plist>

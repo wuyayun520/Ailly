@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animatedConsumer</key>
+	<string>equivalentCenter</string>
+	<key>blocatlayer</key>
+	<string>visibleCanvas</string>
+	<key>labelPadding</key>
+	<string>symmetricicon</string>
+	<key>mobileSegue</key>
+	<string>buildlayout</string>
+	<key>opaquecapsuleopacity</key>
+	<string>visitNode</string>
+	<key>shouldKeepBuilder</key>
+	<string>canEmitGradient</string>
+	<key>sophisticatedElasticity</key>
+	<string>reducermomentum</string>
+	<key>titleplatformcolor</key>
+	<string>resumeInterpolation</string>
+</dict>
+</plist>

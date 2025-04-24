@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>beginnerButton</key>
+	<string>parallelScene</string>
+	<key>cartesianrect</key>
+	<string>shouldContinueTernary</string>
+	<key>polygonSpacing</key>
+	<string>shouldPrepareSession</string>
+	<key>positionedgroup</key>
+	<string>uniformAspectRatio</string>
+	<key>seamlesstoolcenter</key>
+	<string>shouldCreateTabBar</string>
+	<key>streamlineskirt</key>
+	<string>dismissCharacter</string>
+	<key>textfieldRate</key>
+	<string>asynchronousFactory</string>
+	<key>tweencreator</key>
+	<string>hasMaterial</string>
+	<key>webModal</key>
+	<string>protectedLayer</string>
+</dict>
+</plist>

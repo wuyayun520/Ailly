@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animatorSpacing</key>
+	<string>canMountMultiplication</string>
+	<key>commonMediaQuery</key>
+	<string>navigateTabView</string>
+	<key>customizedReceiver</key>
+	<string>independentBuilder</string>
+	<key>inactiveclipper</key>
+	<string>drawerPattern</string>
+	<key>pagerMargin</key>
+	<string>tweenFacade</string>
+	<key>reusableSingleton</key>
+	<string>recttag</string>
+</dict>
+</plist>

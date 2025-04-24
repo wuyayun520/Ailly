@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animatedTentative</key>
+	<string>intermediateDuration</string>
+	<key>fragmentstate</key>
+	<string>cosineParameter</string>
+	<key>oldmodel</key>
+	<string>canObserveProject</string>
+	<key>quaternionIndex</key>
+	<string>hardInjection</string>
+	<key>rectandphase</key>
+	<string>markResult</string>
+	<key>requiredImpression</key>
+	<string>canPresentBox</string>
+</dict>
+</plist>

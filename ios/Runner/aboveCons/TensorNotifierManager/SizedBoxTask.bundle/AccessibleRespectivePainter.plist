@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>deferredFragments</key>
+	<string>canPrepareSizedBox</string>
+	<key>effectdistance</key>
+	<string>draggableImage</string>
+	<key>interactorfactory</key>
+	<string>missionCenter</string>
+	<key>shouldHandleAspectRatio</key>
+	<string>deserializeUtil</string>
+	<key>temporaryAction</key>
+	<string>shouldUnmountedBaseline</string>
+	<key>titlespeed</key>
+	<string>notationShade</string>
+	<key>usedMetadata</key>
+	<string>accordionusecase</string>
+	<key>variantVisibility</key>
+	<string>animationOrientation</string>
+</dict>
+</plist>

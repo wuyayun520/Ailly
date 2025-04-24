@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>asyncVisibility</key>
+	<string>durationParameter</string>
+	<key>basicRadius</key>
+	<string>spriteRight</string>
+	<key>implementprojection</key>
+	<string>chapterplatformcoord</string>
+	<key>localSorter</key>
+	<string>sortedMap</string>
+	<key>mediumRepository</key>
+	<string>taskStatus</string>
+	<key>reliabilityHead</key>
+	<string>saveCupertino</string>
+	<key>semanticVolume</key>
+	<string>sustainableCapsule</string>
+	<key>shouldBindOverlay</key>
+	<string>shouldYieldPromise</string>
+	<key>subtleMobile</key>
+	<string>rectForm</string>
+	<key>usedController</key>
+	<string>activateAnimation</string>
+</dict>
+</plist>

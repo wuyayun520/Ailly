@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>coordinatorcommandcolor</key>
+	<string>shouldEndTask</string>
+	<key>imperativeLoss</key>
+	<string>insteadTitle</string>
+	<key>reactivelabelvelocity</key>
+	<string>canTransitionNotifier</string>
+	<key>renametool</key>
+	<string>shoulddisconnecttable</string>
+	<key>responsiveResponse</key>
+	<string>presenterCycle</string>
+	<key>shouldDetachPainter</key>
+	<string>disconnectwidget</string>
+	<key>typicalUseCase</key>
+	<string>displayableCache</string>
+</dict>
+</plist>

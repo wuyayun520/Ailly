@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>arithmeticinset</key>
+	<string>checklistCommand</string>
+	<key>assetvalidation</key>
+	<string>disabledShader</string>
+	<key>boxshadowformat</key>
+	<string>advancedplayback</string>
+	<key>cupertinoScheduler</key>
+	<string>customizedMaterial</string>
+	<key>hierarchicalPolygon</key>
+	<string>shouldFormatPainter</string>
+	<key>infoMode</key>
+	<string>similarStatus</string>
+	<key>thresholdCount</key>
+	<string>enabledLatency</string>
+</dict>
+</plist>

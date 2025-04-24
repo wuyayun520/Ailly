@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>checkboxStyle</key>
+	<string>draggableWorkflow</string>
+	<key>imperativeTopic</key>
+	<string>annotateProgressBar</string>
+	<key>shouldbuildbutton</key>
+	<string>entitythroughtier</string>
+	<key>significantAllocator</key>
+	<string>animatorAcceleration</string>
+</dict>
+</plist>

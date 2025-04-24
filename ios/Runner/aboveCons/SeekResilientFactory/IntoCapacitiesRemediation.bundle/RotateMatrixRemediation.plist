@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>characterproxyvisible</key>
+	<string>sortedlatency</string>
+	<key>criticalCustomPaint</key>
+	<string>dynamicGradient</string>
+	<key>cycleTag</key>
+	<string>imperativeThread</string>
+	<key>directMaterializer</key>
+	<string>queueslider</string>
+	<key>greatSize</key>
+	<string>deliveryHue</string>
+	<key>largeAnimatedContainer</key>
+	<string>sequentialListener</string>
+	<key>notifyposition</key>
+	<string>canStopAspectRatio</string>
+	<key>ontabviewtap</key>
+	<string>activatedDescent</string>
+	<key>plateFeedback</key>
+	<string>isview</string>
+	<key>pushtouch</key>
+	<string>unmarshalConfiguration</string>
+</dict>
+</plist>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>characteristicOrientation</key>
+	<string>refactorConstraint</string>
+	<key>crucialGrid</key>
+	<string>asyncMargin</string>
+	<key>dimensionisolate</key>
+	<string>relationalTernary</string>
+	<key>lifecycleHead</key>
+	<string>shouldRebuildNib</string>
+	<key>screenVisible</key>
+	<string>intensityJob</string>
+	<key>syncobserver</key>
+	<string>updateDimension</string>
+	<key>webCharacteristic</key>
+	<string>infrastructureTension</string>
+</dict>
+</plist>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>capacityColor</key>
+	<string>independentCollection</string>
+	<key>compositionalservicelocation</key>
+	<string>canPrepareTheme</string>
+	<key>deferredDuration</key>
+	<string>statefulScroll</string>
+	<key>ignoredBuffer</key>
+	<string>integerValidation</string>
+	<key>iterativeMend</key>
+	<string>animationVariable</string>
+	<key>shouldUpdateDropdownButton</key>
+	<string>firstItem</string>
+	<key>slashvalidation</key>
+	<string>detectorLeft</string>
+</dict>
+</plist>

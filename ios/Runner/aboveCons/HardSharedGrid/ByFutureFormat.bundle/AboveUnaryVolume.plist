@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>dividepromise</key>
+	<string>limitanimation</string>
+	<key>granularIndicator</key>
+	<string>shouldDismissInteger</string>
+	<key>listviewDensity</key>
+	<string>customizedDisclaimer</string>
+	<key>liteEntity</key>
+	<string>retainedbehavior</string>
+	<key>sessionLocation</key>
+	<string>streamwidget</string>
+	<key>shouldFetchSpot</key>
+	<string>delicateConsumer</string>
+	<key>shouldSaveProtocol</key>
+	<string>similarInkWell</string>
+</dict>
+</plist>

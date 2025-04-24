@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>consultativeTransformer</key>
+	<string>rowMediator</string>
+	<key>draggableContraction</key>
+	<string>tweakAppearance</string>
+	<key>extenddecoration</key>
+	<string>canInitializePlayback</string>
+	<key>gifttentative</key>
+	<string>canStopExpanded</string>
+	<key>pivotalJoiner</key>
+	<string>renderrect</string>
+	<key>seamlessCurve</key>
+	<string>mobileflyweighttransparency</string>
+	<key>shouldUnmountView</key>
+	<string>logarithmDirection</string>
+	<key>shouldsetstatecontainer</key>
+	<string>customizedmediaquery</string>
+	<key>sizecluster</key>
+	<string>queueBrightness</string>
+</dict>
+</plist>

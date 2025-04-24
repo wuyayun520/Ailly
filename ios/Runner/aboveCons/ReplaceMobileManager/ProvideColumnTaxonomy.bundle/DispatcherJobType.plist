@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>customImpression</key>
+	<string>canRouteBuilder</string>
+	<key>difficultPublisher</key>
+	<string>canSkipTheme</string>
+	<key>responsiveColor</key>
+	<string>geometricBox</string>
+	<key>schemaAcceleration</key>
+	<string>remediationShape</string>
+	<key>shouldBindDocument</key>
+	<string>textfieldvalidation</string>
+	<key>shouldLayoutPageView</key>
+	<string>denseCanvas</string>
+	<key>shouldMountedOption</key>
+	<string>iterativeMenu</string>
+	<key>shouldPrepareDimension</key>
+	<string>gestureBridge</string>
+	<key>specifyprojectvelocity</key>
+	<string>sanitizerouter</string>
+	<key>synchronousalert</key>
+	<string>canTransformAnimatedContainer</string>
+</dict>
+</plist>

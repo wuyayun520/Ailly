@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>declarativeLabel</key>
+	<string>nextprotocolvisible</string>
+	<key>enabledResponse</key>
+	<string>awaitJob</string>
+	<key>globalFormat</key>
+	<string>explicitJoiner</string>
+	<key>mediocreModule</key>
+	<string>mainMaster</string>
+	<key>responsiveDrawer</key>
+	<string>coordinatorPadding</string>
+	<key>retainedChecklist</key>
+	<string>functionalData</string>
+	<key>shouldparseoperation</key>
+	<string>discardedHash</string>
+</dict>
+</plist>

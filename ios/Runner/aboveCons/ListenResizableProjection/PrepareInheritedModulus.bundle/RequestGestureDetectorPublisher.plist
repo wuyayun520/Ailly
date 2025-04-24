@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>crucialobserver</key>
+	<string>characteristicBehavior</string>
+	<key>gesturedetectorVisibility</key>
+	<string>shouldStreamSemantics</string>
+	<key>hasconvolution</key>
+	<string>sharedMerger</string>
+	<key>interactivePicker</key>
+	<string>canRestartInteger</string>
+	<key>offsethue</key>
+	<string>parallelhandler</string>
+	<key>opaqueWrapper</key>
+	<string>mapMomentum</string>
+	<key>priorChapter</key>
+	<string>liteAperture</string>
+	<key>resizableScheduler</key>
+	<string>writeRadius</string>
+	<key>segmentcontrast</key>
+	<string>canDetachPageView</string>
+</dict>
+</plist>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animatedPreview</key>
+	<string>specifyRepository</string>
+	<key>easyDelivery</key>
+	<string>requestInterval</string>
+	<key>itemBound</key>
+	<string>imperativeFlex</string>
+	<key>repositoryconstant</key>
+	<string>anchorDepth</string>
+	<key>shouldMountPainter</key>
+	<string>renderCoordinator</string>
+	<key>shouldrebuildstream</key>
+	<string>delicateText</string>
+</dict>
+</plist>

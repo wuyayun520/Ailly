@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>buildcheckbox</key>
+	<string>canObserveDrawer</string>
+	<key>emitterScale</key>
+	<string>ephemeralPlate</string>
+	<key>handleisolate</key>
+	<string>observertheme</string>
+	<key>notifyanchor</key>
+	<string>canPushCupertino</string>
+	<key>originalConstraint</key>
+	<string>skirtLocation</string>
+	<key>requiredAccessory</key>
+	<string>widgetofmediator</string>
+	<key>spottransparency</key>
+	<string>handlerresponder</string>
+</dict>
+</plist>

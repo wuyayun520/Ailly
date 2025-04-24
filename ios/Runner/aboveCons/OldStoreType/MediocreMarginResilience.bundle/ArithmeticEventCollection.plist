@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>currentticker</key>
+	<string>switchPadding</string>
+	<key>exponentInteraction</key>
+	<string>densePager</string>
+	<key>interactiveSession</key>
+	<string>crudeAction</string>
+	<key>liteCapacity</key>
+	<string>appbarascent</string>
+	<key>sequentialSensor</key>
+	<string>shoulddismissstamp</string>
+	<key>slashShape</key>
+	<string>oldoffsetcoord</string>
+</dict>
+</plist>

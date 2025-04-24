@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animationnavigator</key>
+	<string>handleAccessory</string>
+	<key>capturetask</key>
+	<string>interactiveRemediation</string>
+	<key>globalGem</key>
+	<string>responsiveobservermomentum</string>
+	<key>lostMenu</key>
+	<string>canRebuildFragment</string>
+</dict>
+</plist>

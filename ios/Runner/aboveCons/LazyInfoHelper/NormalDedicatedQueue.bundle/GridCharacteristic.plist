@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accessorySpeed</key>
+	<string>protectedPublisher</string>
+	<key>activatedHeap</key>
+	<string>mediumContrast</string>
+	<key>capsulerotation</key>
+	<string>workflowPattern</string>
+	<key>cellSize</key>
+	<string>shouldInitializePageView</string>
+	<key>collectionshape</key>
+	<string>resolveDuration</string>
+	<key>impressionSkewX</key>
+	<string>fragmentsColor</string>
+	<key>normalSwitch</key>
+	<string>associateConfiguration</string>
+	<key>shouldformatflex</key>
+	<string>locateController</string>
+</dict>
+</plist>

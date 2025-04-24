@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>materialResponder</key>
+	<string>capsuleTail</string>
+	<key>newestInteraction</key>
+	<string>iterativeGridView</string>
+	<key>notationOffset</key>
+	<string>freeLoop</string>
+	<key>reactiveSlider</key>
+	<string>shouldMountedBloc</string>
+	<key>reducerfromtemple</key>
+	<string>desktopcoordinator</string>
+	<key>sequentialListener</key>
+	<string>propagatePosition</string>
+	<key>shouldStartTransition</key>
+	<string>resizableConstant</string>
+	<key>shouldYieldTheme</key>
+	<string>attachTool</string>
+	<key>slashLocation</key>
+	<string>paddingLevel</string>
+</dict>
+</plist>

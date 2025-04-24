@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>radiomode</key>
+	<string>pauseRoute</string>
+	<key>referencesystemstate</key>
+	<string>indicatorRight</string>
+	<key>scrollableConverter</key>
+	<string>requestStructure</string>
+	<key>shouldPublishNotifier</key>
+	<string>canListenStream</string>
+	<key>topicattask</key>
+	<string>similarlogflags</string>
+</dict>
+</plist>

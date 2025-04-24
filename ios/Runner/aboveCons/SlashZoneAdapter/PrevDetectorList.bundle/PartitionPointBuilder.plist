@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>aperturevisible</key>
+	<string>timerComposite</string>
+	<key>behaviorcompositeformat</key>
+	<string>tangentMethod</string>
+	<key>difficultAnchor</key>
+	<string>quantizationPosition</string>
+	<key>draggableClipper</key>
+	<string>informationorientation</string>
+	<key>gemprototypeformat</key>
+	<string>convertButton</string>
+	<key>staticResolver</key>
+	<string>materialAsset</string>
+</dict>
+</plist>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accessoryRotation</key>
+	<string>emitSpot</string>
+	<key>advancedTicker</key>
+	<string>sampleBottom</string>
+	<key>autoConstant</key>
+	<string>mediaqueryMethod</string>
+	<key>compositionalPicker</key>
+	<string>shouldAttachCharacter</string>
+	<key>lazyworkflow</key>
+	<string>showDrawer</string>
+	<key>lostMenu</key>
+	<string>reducerlikeactivity</string>
+	<key>publicresponsescale</key>
+	<string>difficultCard</string>
+</dict>
+</plist>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cursorSize</key>
+	<string>ephemeralAction</string>
+	<key>defaultslash</key>
+	<string>animatedCustomPaint</string>
+	<key>holdhistogram</key>
+	<string>materialFilter</string>
+	<key>permanentInkWell</key>
+	<string>appbarexceptphase</string>
+	<key>publictabview</key>
+	<string>animatedPadding</string>
+	<key>seamlessDescription</key>
+	<string>buffertag</string>
+	<key>transitionversuspattern</key>
+	<string>tappablePopup</string>
+</dict>
+</plist>

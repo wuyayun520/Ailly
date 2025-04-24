@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>convertmethod</key>
+	<string>associateTask</string>
+	<key>globalRequest</key>
+	<string>drawerSpeed</string>
+	<key>inheritedNotifier</key>
+	<string>thresholdHue</string>
+	<key>menubehavior</key>
+	<string>shouldDisconnectPromise</string>
+	<key>operationStyle</key>
+	<string>analyzeAction</string>
+	<key>relationalPolyfill</key>
+	<string>optimizerdensity</string>
+	<key>responsivetabviewhue</key>
+	<string>fixedSensor</string>
+	<key>workflowScale</key>
+	<string>requiredResolver</string>
+</dict>
+</plist>

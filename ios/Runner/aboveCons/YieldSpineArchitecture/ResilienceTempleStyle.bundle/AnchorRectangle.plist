@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>declarativefuture</key>
+	<string>endMovement</string>
+	<key>decoupleequalization</key>
+	<string>opaqueItem</string>
+	<key>durationduringcycle</key>
+	<string>globalAction</string>
+	<key>shouldRebuildRole</key>
+	<string>accordionInteger</string>
+	<key>similarDialogs</key>
+	<string>kernelStyle</string>
+</dict>
+</plist>

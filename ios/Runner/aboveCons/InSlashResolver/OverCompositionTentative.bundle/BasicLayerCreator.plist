@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>deserializeconfiguration</key>
+	<string>canTransformSlash</string>
+	<key>directlyCapacities</key>
+	<string>readReducer</string>
+	<key>draggablepointalignment</key>
+	<string>substantialChapter</string>
+	<key>inactiveTransition</key>
+	<string>cacheTier</string>
+	<key>otherpopup</key>
+	<string>pauseallocator</string>
+	<key>prevImpression</key>
+	<string>trianglesvisible</string>
+	<key>shouldReplaceGestureDetector</key>
+	<string>lazyCurve</string>
+</dict>
+</plist>

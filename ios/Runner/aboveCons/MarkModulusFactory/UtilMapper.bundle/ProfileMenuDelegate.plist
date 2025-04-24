@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>defaultNorm</key>
+	<string>sophisticatedmethod</string>
+	<key>diversifiedMapper</key>
+	<string>stampdecoratorstate</string>
+	<key>fetchdependency</key>
+	<string>throughputOpacity</string>
+	<key>fixedUtil</key>
+	<string>cleanLoop</string>
+	<key>nativedetector</key>
+	<string>seamlessNode</string>
+	<key>shouldBindGradient</key>
+	<string>clipController</string>
+	<key>temporaryCheckbox</key>
+	<string>canEndOption</string>
+</dict>
+</plist>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>actionDepth</key>
+	<string>sortedcontroller</string>
+	<key>controllerOpacity</key>
+	<string>continueBullet</string>
+	<key>discardedAction</key>
+	<string>shouldCacheCaption</string>
+	<key>mainMedia</key>
+	<string>stopOverlay</string>
+	<key>numericalMechanism</key>
+	<string>alphaMargin</string>
+	<key>robustCupertino</key>
+	<string>insteadState</string>
+	<key>spineDepth</key>
+	<string>compositionContext</string>
+</dict>
+</plist>

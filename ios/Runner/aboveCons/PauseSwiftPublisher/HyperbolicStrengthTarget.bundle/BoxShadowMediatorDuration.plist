@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accordionController</key>
+	<string>captionmodeorigin</string>
+	<key>adaptiveStrength</key>
+	<string>resolverexceptscope</string>
+	<key>shouldUnmountedTransition</key>
+	<string>consumerHead</string>
+</dict>
+</plist>

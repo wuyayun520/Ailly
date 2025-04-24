@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>denseQuaternion</key>
+	<string>concurrentinterpolation</string>
+	<key>descriptioninteraction</key>
+	<string>remainderstatekind</string>
+	<key>sequentialQuaternion</key>
+	<string>delegateFrame</string>
+	<key>symmetricMatrix</key>
+	<string>unmountedMonster</string>
+</dict>
+</plist>

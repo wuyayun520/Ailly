@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>associatedstatus</key>
+	<string>formatOrientation</string>
+	<key>instructionVelocity</key>
+	<string>standaloneTopic</string>
+	<key>scrollablepaddingtype</key>
+	<string>disposestep</string>
+	<key>usageRotation</key>
+	<string>declarativeBandwidth</string>
+</dict>
+</plist>

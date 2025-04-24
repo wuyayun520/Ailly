@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>agilegesturevalidation</key>
+	<string>brushdensity</string>
+	<key>concurrentColumn</key>
+	<string>integerBorder</string>
+	<key>decorationfragments</key>
+	<string>unscheduleProvider</string>
+	<key>gestureOffset</key>
+	<string>sampleInteraction</string>
+	<key>polyfillFormat</key>
+	<string>appendSprite</string>
+</dict>
+</plist>

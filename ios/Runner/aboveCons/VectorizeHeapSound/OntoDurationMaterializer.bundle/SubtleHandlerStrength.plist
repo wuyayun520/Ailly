@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>criticaldurationfrequency</key>
+	<string>marshalgroup</string>
+	<key>difficultRouter</key>
+	<string>catalystMargin</string>
+	<key>flexaudio</key>
+	<string>gesturedetectorpager</string>
+	<key>reactivescaffoldtop</key>
+	<string>reusableTexture</string>
+	<key>resizableGraphic</key>
+	<string>observeResource</string>
+	<key>scenenearsingleton</key>
+	<string>popTopic</string>
+	<key>storeversusvar</key>
+	<string>inflateAspectRatio</string>
+	<key>typicalCheckbox</key>
+	<string>disconnectPreview</string>
+</dict>
+</plist>

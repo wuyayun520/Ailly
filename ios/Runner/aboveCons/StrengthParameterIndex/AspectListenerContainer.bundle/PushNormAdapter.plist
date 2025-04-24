@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>collectionindex</key>
+	<string>storyboardVisible</string>
+	<key>documentValidation</key>
+	<string>localFlex</string>
+	<key>lostNib</key>
+	<string>locateTween</string>
+	<key>operationRight</key>
+	<string>canListenFlex</string>
+	<key>seamlessOptimizer</key>
+	<string>listenCoordinator</string>
+	<key>uniquetweenpressure</key>
+	<string>agileMember</string>
+	<key>widgetMode</key>
+	<string>shouldCreateScroll</string>
+</dict>
+</plist>

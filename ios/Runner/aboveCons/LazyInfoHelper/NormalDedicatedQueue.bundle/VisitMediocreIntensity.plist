@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>difficultAmortization</key>
+	<string>unlockTitle</string>
+	<key>dispatcherSize</key>
+	<string>writeProgressBar</string>
+	<key>relationalChannel</key>
+	<string>shouldStopTouch</string>
+	<key>viewconnector</key>
+	<string>prismaticLoss</string>
+</dict>
+</plist>

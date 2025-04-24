@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activatedCycle</key>
+	<string>blocperaction</string>
+	<key>asynchronousResponder</key>
+	<string>convertGrid</string>
+	<key>diffableoperation</key>
+	<string>transposeManager</string>
+	<key>independentPadding</key>
+	<string>itemMode</string>
+	<key>intuitivePosition</key>
+	<string>configurationFeedback</string>
+	<key>responseResponse</key>
+	<string>ignoredDialogs</string>
+</dict>
+</plist>

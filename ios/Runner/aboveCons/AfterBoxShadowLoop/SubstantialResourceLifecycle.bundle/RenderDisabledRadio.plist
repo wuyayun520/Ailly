@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>interactorandstage</key>
+	<string>interpolateAsync</string>
+	<key>navigaterouter</key>
+	<string>secondProcessor</string>
+	<key>pageviewAcceleration</key>
+	<string>buildExpanded</string>
+	<key>propagategesturedetector</key>
+	<string>setstatetransition</string>
+	<key>secondProgressBar</key>
+	<string>elasticityDistance</string>
+	<key>singletonpadding</key>
+	<string>shouldCreateMusic</string>
+	<key>skirtTag</key>
+	<string>parallelOptimizer</string>
+</dict>
+</plist>

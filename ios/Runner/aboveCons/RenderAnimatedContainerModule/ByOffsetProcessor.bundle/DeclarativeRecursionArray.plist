@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>backwardRectangle</key>
+	<string>modalTier</string>
+	<key>comprehensiveButton</key>
+	<string>gramnavigator</string>
+	<key>hierarchicalPrecision</key>
+	<string>routerCount</string>
+	<key>mediumTimeline</key>
+	<string>uniformdependencymode</string>
+	<key>rangeFlags</key>
+	<string>directTraversal</string>
+	<key>scrollableDisclaimer</key>
+	<string>shouldPresentMusic</string>
+	<key>selectedPrecision</key>
+	<string>durationCycle</string>
+	<key>sortedCard</key>
+	<string>shouldcachetangent</string>
+</dict>
+</plist>

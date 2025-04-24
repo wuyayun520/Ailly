@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>chaptersound</key>
+	<string>cupertinoInstruction</string>
+	<key>checklistposition</key>
+	<string>arithmeticBatch</string>
+	<key>defaultTask</key>
+	<string>performManager</string>
+	<key>defaultlabel</key>
+	<string>schedulerDepth</string>
+	<key>initiatorsalongcommand</key>
+	<string>currentimage</string>
+	<key>nodeparameterbound</key>
+	<string>cupertinoMember</string>
+	<key>oldbox</key>
+	<string>deferredrectangle</string>
+	<key>uniformEffect</key>
+	<string>subtleRepository</string>
+</dict>
+</plist>

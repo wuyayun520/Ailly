@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cosineprototypecolor</key>
+	<string>finderoffset</string>
+	<key>cubitforfunction</key>
+	<string>canCacheBitrate</string>
+	<key>gesturedetectorpopup</key>
+	<string>localScreen</string>
+	<key>imageoffset</key>
+	<string>shouldValidateAnchor</string>
+	<key>opaqueRoute</key>
+	<string>cosineFrequency</string>
+	<key>richtextFlags</key>
+	<string>serializeCharacter</string>
+	<key>secondloopposition</key>
+	<string>hyperbolicAudio</string>
+</dict>
+</plist>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>columnshape</key>
+	<string>shouldHandleInteger</string>
+	<key>crudeExponent</key>
+	<string>replacehero</string>
+	<key>efficiencyScale</key>
+	<string>skirtEnvironment</string>
+	<key>fusedlabel</key>
+	<string>consumeRadius</string>
+	<key>observerSpeed</key>
+	<string>shouldUnmountedEquipment</string>
+	<key>sliderOpacity</key>
+	<string>pickerPadding</string>
+	<key>smallTheme</key>
+	<string>segueVelocity</string>
+	<key>unsortedremainderborder</key>
+	<string>delicatedecorationshape</string>
+</dict>
+</plist>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>crucialStoryboard</key>
+	<string>managerWork</string>
+	<key>eagerEfficiency</key>
+	<string>maintainPreview</string>
+	<key>scrollableGesture</key>
+	<string>canShowExponent</string>
+	<key>shouldBuildObserver</key>
+	<string>shouldStartSpine</string>
+	<key>shouldTrainUsage</key>
+	<string>heroTag</string>
+	<key>significantNotation</key>
+	<string>skipMultiplication</string>
+	<key>subtleprojection</key>
+	<string>batchFunction</string>
+	<key>taskFeedback</key>
+	<string>semanticSignature</string>
+	<key>unscheduleeffect</key>
+	<string>shouldValidateLoss</string>
+</dict>
+</plist>

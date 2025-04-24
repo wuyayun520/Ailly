@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accessibleCapacities</key>
+	<string>storyboardOrigin</string>
+	<key>containeranimator</key>
+	<string>dimensionFlyweight</string>
+	<key>discardedOptimizer</key>
+	<string>sortedState</string>
+	<key>disposebehavior</key>
+	<string>inkwellComposite</string>
+	<key>reducerviacommand</key>
+	<string>parallelBaseline</string>
+</dict>
+</plist>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>defaultCurve</key>
+	<string>tabviewDirection</string>
+	<key>descriptionpressure</key>
+	<string>dismissLocalization</string>
+	<key>diffableMediaQuery</key>
+	<string>tweenActivity</string>
+	<key>nodeFeedback</key>
+	<string>commonCharacteristic</string>
+	<key>oldAlpha</key>
+	<string>writeFrame</string>
+	<key>priorityinshape</key>
+	<string>adaptiveChapter</string>
+	<key>shouldCacheStateless</key>
+	<string>binderCount</string>
+	<key>singleTransition</key>
+	<string>calculateError</string>
+</dict>
+</plist>

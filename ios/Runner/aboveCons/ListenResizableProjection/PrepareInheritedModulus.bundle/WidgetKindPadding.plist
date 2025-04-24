@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>permissiveanimationappearance</key>
+	<string>dynamicObserver</string>
+	<key>prismaticStack</key>
+	<string>methodperobserver</string>
+	<key>shouldRenderContainer</key>
+	<string>robustreducer</string>
+	<key>shouldYieldCupertino</key>
+	<string>signatureSkewY</string>
+	<key>subsequentUnary</key>
+	<string>interfaceMediator</string>
+	<key>synchronousInteractor</key>
+	<string>sophisticatedAspect</string>
+	<key>vectorCoord</key>
+	<string>materialoutsidemediator</string>
+</dict>
+</plist>

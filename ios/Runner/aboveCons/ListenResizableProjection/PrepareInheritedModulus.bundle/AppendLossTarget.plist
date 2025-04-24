@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>buttonexceptprototype</key>
+	<string>iterativeDisclaimer</string>
+	<key>coordinatorlistener</key>
+	<string>managerBuffer</string>
+	<key>plateHead</key>
+	<string>deferredAnimatedContainer</string>
+	<key>retainedRange</key>
+	<string>freeIsolate</string>
+	<key>routerStyle</key>
+	<string>onpageviewtap</string>
+	<key>shouldPrepareMaster</key>
+	<string>synchronousCubit</string>
+	<key>subsequentGradient</key>
+	<string>promiseBound</string>
+</dict>
+</plist>

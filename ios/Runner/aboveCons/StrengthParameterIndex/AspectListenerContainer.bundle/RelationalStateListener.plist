@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accordionbrushpadding</key>
+	<string>synchronousNavigation</string>
+	<key>componentOrientation</key>
+	<string>substantialBaseline</string>
+	<key>intermediateTimeline</key>
+	<string>boxshadowOpacity</string>
+	<key>layoutmethodtension</key>
+	<string>cupertinoTabBar</string>
+	<key>liteStore</key>
+	<string>segmentNumber</string>
+	<key>specifyThroughput</key>
+	<string>shouldFormatSpecifier</string>
+	<key>unactivatedlayoutvelocity</key>
+	<string>functionalPopup</string>
+</dict>
+</plist>

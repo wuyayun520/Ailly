@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>difficultrenderer</key>
+	<string>discardedmanager</string>
+	<key>hardThreshold</key>
+	<string>shouldDisposeBorder</string>
+	<key>intermediatebitrate</key>
+	<string>freeSink</string>
+	<key>mediaquerysensor</key>
+	<string>continueOption</string>
+	<key>normalcatalyst</key>
+	<string>smartVector</string>
+	<key>opaqueItem</key>
+	<string>decodeScroll</string>
+	<key>prevGraph</key>
+	<string>defaulttext</string>
+</dict>
+</plist>

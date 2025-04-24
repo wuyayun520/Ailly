@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>euclideanEquivalent</key>
+	<string>sinkviacycle</string>
+	<key>frameInset</key>
+	<string>multiDimension</string>
+	<key>hasRoute</key>
+	<string>easySlider</string>
+	<key>optimizeanimatedcontainer</key>
+	<string>canDecodeCaption</string>
+	<key>responsivePopup</key>
+	<string>popicon</string>
+	<key>semanticAspectRatio</key>
+	<string>scopeInteraction</string>
+	<key>sustainableNotification</key>
+	<string>buildSkin</string>
+</dict>
+</plist>

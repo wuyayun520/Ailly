@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>constraintBrightness</key>
+	<string>decodeExponent</string>
+	<key>disabledNotation</key>
+	<string>poolbloc</string>
+	<key>euclideanBrush</key>
+	<string>paddingActivity</string>
+	<key>richtexttransformer</key>
+	<string>converterSaturation</string>
+	<key>shouldRebuildMember</key>
+	<string>associatedPainter</string>
+	<key>singleservicesize</key>
+	<string>attachRepository</string>
+	<key>sinkstylebound</key>
+	<string>resolveInteractor</string>
+	<key>statefulSemantics</key>
+	<string>denseJoiner</string>
+	<key>subtleinstructionoffset</key>
+	<string>customStamp</string>
+</dict>
+</plist>

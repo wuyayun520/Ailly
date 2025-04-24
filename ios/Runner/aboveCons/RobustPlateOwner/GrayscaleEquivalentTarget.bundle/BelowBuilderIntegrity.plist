@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>advancedVariant</key>
+	<string>audioTop</string>
+	<key>cancelimage</key>
+	<string>routeColumn</string>
+	<key>custompaintName</key>
+	<string>permutationFeedback</string>
+	<key>immutableText</key>
+	<string>advancedAnimatedContainer</string>
+	<key>instructionType</key>
+	<string>shouldStreamTernary</string>
+</dict>
+</plist>

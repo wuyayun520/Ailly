@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>declarativeGroup</key>
+	<string>backwardMargin</string>
+	<key>flexibleTheme</key>
+	<string>synchronousDialogs</string>
+	<key>keyvector</key>
+	<string>binarySkewX</string>
+	<key>meshOrientation</key>
+	<string>flexcubit</string>
+	<key>resilientresponsecoord</key>
+	<string>marshalHash</string>
+	<key>slashdirection</key>
+	<string>hasTangent</string>
+</dict>
+</plist>

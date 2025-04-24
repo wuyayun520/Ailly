@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>assetSpeed</key>
+	<string>diversifiedAscent</string>
+	<key>declarativeMethod</key>
+	<string>otherresult</string>
+	<key>immediateResponder</key>
+	<string>liteTimeline</string>
+	<key>immutableRepository</key>
+	<string>shouldFetchProjection</string>
+	<key>largeSensor</key>
+	<string>shouldKeepSign</string>
+	<key>lazyLocalization</key>
+	<string>modalState</string>
+	<key>secondVector</key>
+	<string>animatepromise</string>
+	<key>shouldDeserializeProfile</key>
+	<string>fusedImage</string>
+	<key>streamfuture</key>
+	<string>ephemeralResource</string>
+</dict>
+</plist>

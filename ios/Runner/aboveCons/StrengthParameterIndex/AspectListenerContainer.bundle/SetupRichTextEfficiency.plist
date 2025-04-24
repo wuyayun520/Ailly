@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>brushefficiency</key>
+	<string>projectionLocation</string>
+	<key>diversifiedBorder</key>
+	<string>interactiveSlider</string>
+	<key>permanentService</key>
+	<string>collectionStrategy</string>
+	<key>seamlessButton</key>
+	<string>shouldEmitCustomPaint</string>
+	<key>shouldReplaceCube</key>
+	<string>shouldDeserializePoint</string>
+</dict>
+</plist>

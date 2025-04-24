@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>backwardTransition</key>
+	<string>aspectDepth</string>
+	<key>colordelay</key>
+	<string>canUnmountSegment</string>
+	<key>interactiveManager</key>
+	<string>entityoffset</string>
+	<key>nodeVisible</key>
+	<string>completerscale</string>
+	<key>rapidMovement</key>
+	<string>shouldParseProject</string>
+	<key>shouldBuildSpine</key>
+	<string>eventMemento</string>
+	<key>sineduration</key>
+	<string>logarithmfeedback</string>
+	<key>visibleSignature</key>
+	<string>encodeTask</string>
+</dict>
+</plist>

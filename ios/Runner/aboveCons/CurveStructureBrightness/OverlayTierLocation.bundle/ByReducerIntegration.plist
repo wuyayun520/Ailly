@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accessibleSplitter</key>
+	<string>isProfile</string>
+	<key>arithmeticScroller</key>
+	<string>liteTweak</string>
+	<key>cubeDirection</key>
+	<string>positionedStrategy</string>
+	<key>debugmodulus</key>
+	<string>sharedAsset</string>
+	<key>draggableMediaQuery</key>
+	<string>precisionSaturation</string>
+	<key>finishdependency</key>
+	<string>sequentialCapacities</string>
+	<key>oldListener</key>
+	<string>canStartSegment</string>
+	<key>prismaticInstruction</key>
+	<string>analyzeAllocator</string>
+	<key>skinSpacing</key>
+	<string>precisionvisible</string>
+</dict>
+</plist>

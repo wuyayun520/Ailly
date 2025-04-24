@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>containerskewy</key>
+	<string>remediationTop</string>
+	<key>globalIcon</key>
+	<string>vectortheme</string>
+	<key>hyperbolictopic</key>
+	<string>pushscene</string>
+	<key>materialthanbuffer</key>
+	<string>spritepatternleft</string>
+	<key>matrixparticle</key>
+	<string>annotateSlider</string>
+	<key>optimizerproxyvalidation</key>
+	<string>temporarySubpixel</string>
+	<key>reducerincludenumber</key>
+	<string>iterativeAspect</string>
+	<key>shouldBuildPositioned</key>
+	<string>imperativeController</string>
+	<key>shouldShowSession</key>
+	<string>replaceHash</string>
+	<key>symmetricExpanded</key>
+	<string>concurrentBrush</string>
+</dict>
+</plist>

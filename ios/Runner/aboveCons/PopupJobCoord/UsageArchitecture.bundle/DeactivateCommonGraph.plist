@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accessoryresilience</key>
+	<string>renderPainter</string>
+	<key>declarativeMargin</key>
+	<string>shouldstreamanimatedcontainer</string>
+	<key>displayableframe</key>
+	<string>secondSound</string>
+	<key>gesturedetectorthanbuffer</key>
+	<string>respondmusic</string>
+	<key>nodeuntilmethod</key>
+	<string>arithmeticConsumption</string>
+	<key>onskirttap</key>
+	<string>setstateTable</string>
+	<key>scenekind</key>
+	<string>sampleStrategy</string>
+	<key>shouldPresentTextField</key>
+	<string>emitTask</string>
+</dict>
+</plist>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>concurrentScale</key>
+	<string>retainEntity</string>
+	<key>difficultBandwidth</key>
+	<string>flexibleVideo</string>
+	<key>enabledVertex</key>
+	<string>disconnectsink</string>
+	<key>occasionOpacity</key>
+	<string>canValidateEffect</string>
+	<key>scrollablePet</key>
+	<string>eagerShader</string>
+	<key>shouldPublishBehavior</key>
+	<string>bitrateDelay</string>
+	<key>videoVisible</key>
+	<string>independentThroughput</string>
+	<key>visibleScroll</key>
+	<string>observeExtension</string>
+</dict>
+</plist>

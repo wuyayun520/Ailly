@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>consultativeSorter</key>
+	<string>backwardChannel</string>
+	<key>directScaffold</key>
+	<string>rapidBloc</string>
+	<key>discardedvarianthue</key>
+	<string>basicRectangle</string>
+	<key>exceptionAlignment</key>
+	<string>invisiblePolyfill</string>
+	<key>mobilePublisher</key>
+	<string>resourcesink</string>
+	<key>progressbarVisible</key>
+	<string>mixinRect</string>
+	<key>shouldDecodeTable</key>
+	<string>navigatordisclaimer</string>
+	<key>textType</key>
+	<string>shouldloadoperation</string>
+	<key>workflowdecoratorspacing</key>
+	<string>floatIntensity</string>
+</dict>
+</plist>

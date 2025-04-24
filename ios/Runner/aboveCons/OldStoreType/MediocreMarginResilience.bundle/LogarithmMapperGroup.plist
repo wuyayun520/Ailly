@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>hierarchicalThreshold</key>
+	<string>exceptionskewy</string>
+	<key>pivotalPopup</key>
+	<string>nativeModule</string>
+	<key>scopeName</key>
+	<string>canPopCheckbox</string>
+	<key>symmetricStorage</key>
+	<string>toleranceDistance</string>
+	<key>unarychainrate</key>
+	<string>currentScaffold</string>
+</dict>
+</plist>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>alertindex</key>
+	<string>canContinueGraphic</string>
+	<key>capsuleTail</key>
+	<string>canMountedAnimatedContainer</string>
+	<key>elasticPresenter</key>
+	<string>mendIndex</string>
+	<key>inactiveActivity</key>
+	<string>interactiveNotification</string>
+	<key>logVisible</key>
+	<string>sharedStateless</string>
+	<key>persistentCustomPaint</key>
+	<string>controllerinjection</string>
+	<key>sophisticatedStack</key>
+	<string>canPrepareAspect</string>
+	<key>visibleScroll</key>
+	<string>transpilecompletion</string>
+</dict>
+</plist>

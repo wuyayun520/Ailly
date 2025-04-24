@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accessibleIcon</key>
+	<string>gestureObserver</string>
+	<key>accessoryposition</key>
+	<string>overlayStage</string>
+	<key>baseTension</key>
+	<string>setstatequeue</string>
+	<key>intermediateMediaQuery</key>
+	<string>canCancelMaterial</string>
+	<key>musicDuration</key>
+	<string>easyEquivalent</string>
+	<key>shouldShowMultiplication</key>
+	<string>relationalresponse</string>
+	<key>shouldSubscribeGesture</key>
+	<string>semanticInitiators</string>
+	<key>shouldprepareskin</key>
+	<string>replicateAction</string>
+</dict>
+</plist>

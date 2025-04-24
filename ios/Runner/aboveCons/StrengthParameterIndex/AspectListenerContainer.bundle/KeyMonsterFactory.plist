@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activeMerger</key>
+	<string>constraintsingletonorientation</string>
+	<key>modalTension</key>
+	<string>contrastColor</string>
+	<key>requiredChannels</key>
+	<string>densePoint</string>
+	<key>shouldHandleMovement</key>
+	<string>specifierObserver</string>
+	<key>shouldSubscribeProfile</key>
+	<string>adaptiveNavigation</string>
+	<key>shouldcacheslash</key>
+	<string>disparateCell</string>
+	<key>validatecontraction</key>
+	<string>sharedContrast</string>
+</dict>
+</plist>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cartesianLatency</key>
+	<string>firstanimation</string>
+	<key>deferredPrecision</key>
+	<string>listenbox</string>
+	<key>endreducer</key>
+	<string>significantScene</string>
+	<key>grayscaleatinterpreter</key>
+	<string>canHandleBloc</string>
+	<key>normalstateful</key>
+	<string>currenttransition</string>
+	<key>prevDrawer</key>
+	<string>criticalReference</string>
+	<key>resilienceLocation</key>
+	<string>hyperbolicImpression</string>
+	<key>shouldStartCoordinator</key>
+	<string>immediateSlash</string>
+	<key>significantCaption</key>
+	<string>remediationFrequency</string>
+	<key>unsortedHero</key>
+	<string>sequentialManager</string>
+</dict>
+</plist>

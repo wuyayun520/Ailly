@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>advancedTime</key>
+	<string>storageBrightness</string>
+	<key>certificatearchitecture</key>
+	<string>otherprofileinterval</string>
+	<key>decorationscheduler</key>
+	<string>criticalIsolate</string>
+	<key>immutableAxis</key>
+	<string>sortedtimervisible</string>
+	<key>priorSemantics</key>
+	<string>registerNavigator</string>
+	<key>shouldStopAspect</key>
+	<string>shouldRestartGram</string>
+	<key>shouldUnbindImage</key>
+	<string>shouldResumeCapsule</string>
+	<key>shouldUnmountAnimatedContainer</key>
+	<string>typicalmaterial</string>
+	<key>shouldUnmountedMaterial</key>
+	<string>temporaryProvision</string>
+</dict>
+</plist>

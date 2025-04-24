@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>advancedMenu</key>
+	<string>endMatrix</string>
+	<key>binaryFrequency</key>
+	<string>rowvariablerate</string>
+	<key>ignoredSchema</key>
+	<string>registerStream</string>
+	<key>imperativeEfficiency</key>
+	<string>collectionKind</string>
+	<key>ongrayscalechanged</key>
+	<string>cupertinoStyle</string>
+	<key>originalRepository</key>
+	<string>utilScope</string>
+	<key>protectedRoute</key>
+	<string>localPrecision</string>
+	<key>shouldPresentInkWell</key>
+	<string>firstCanvas</string>
+	<key>shouldPublishCurve</key>
+	<string>timelineMomentum</string>
+	<key>swiftdirection</key>
+	<string>shouldStopModal</string>
+</dict>
+</plist>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>intermediateLinker</key>
+	<string>nodeAppearance</string>
+	<key>localNorm</key>
+	<string>chapterPressure</string>
+	<key>momentuminterval</key>
+	<string>matrixcolor</string>
+	<key>resizableDependency</key>
+	<string>shouldPrepareLayout</string>
+	<key>shouldDetachNotifier</key>
+	<string>pointTag</string>
+	<key>shouldSaveSegue</key>
+	<string>cartesianUseCase</string>
+	<key>shouldserializelayout</key>
+	<string>composableAlignment</string>
+	<key>standaloneCurve</key>
+	<string>priorityAction</string>
+	<key>tweakVisible</key>
+	<string>gridfunctionposition</string>
+	<key>zoneevent</key>
+	<string>specifyMusic</string>
+</dict>
+</plist>

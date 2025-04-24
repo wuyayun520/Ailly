@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>enhanceresource</key>
+	<string>otherModule</string>
+	<key>immutableGrid</key>
+	<string>synchronouslayout</string>
+	<key>mediumDialogs</key>
+	<string>yieldInteger</string>
+	<key>pinchableException</key>
+	<string>singleDecoration</string>
+	<key>restartpresenter</key>
+	<string>canRouteButton</string>
+	<key>shouldStreamMatrix</key>
+	<string>smallSearcher</string>
+	<key>signaturealignment</key>
+	<string>animatorSize</string>
+</dict>
+</plist>

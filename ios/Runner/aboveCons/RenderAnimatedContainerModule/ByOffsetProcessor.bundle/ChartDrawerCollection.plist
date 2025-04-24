@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>aspectratioShade</key>
+	<string>mediaStyle</string>
+	<key>grayscaleTint</key>
+	<string>keyArithmetic</string>
+	<key>hasplate</key>
+	<string>introspectContainer</string>
+	<key>protectedGradient</key>
+	<string>canCacheSubpixel</string>
+	<key>semanticChannels</key>
+	<string>convolutionAction</string>
+	<key>updatecompleter</key>
+	<string>custompaintRight</string>
+</dict>
+</plist>

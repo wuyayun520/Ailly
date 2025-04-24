@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>asynchronousCursor</key>
+	<string>poolScene</string>
+	<key>bindrect</key>
+	<string>shouldSerializeAspectRatio</string>
+	<key>customizedpreviewinset</key>
+	<string>isolateoutsideoperation</string>
+	<key>platebesideproxy</key>
+	<string>screenShape</string>
+</dict>
+</plist>

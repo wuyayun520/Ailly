@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>compositionalFinder</key>
+	<string>performView</string>
+	<key>delegateworkoffset</key>
+	<string>validateMediaQuery</string>
+	<key>iconTail</key>
+	<string>uniformStore</string>
+	<key>shouldFormatStateful</key>
+	<string>prepareDescriptor</string>
+	<key>stampResponse</key>
+	<string>marginCount</string>
+</dict>
+</plist>

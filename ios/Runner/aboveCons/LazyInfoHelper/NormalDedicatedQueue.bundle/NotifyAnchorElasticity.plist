@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>arithmeticHistogram</key>
+	<string>subtlebuilder</string>
+	<key>defaultgate</key>
+	<string>originalProcessor</string>
+	<key>integrationState</key>
+	<string>parallelVideo</string>
+	<key>invisibleDelivery</key>
+	<string>consultativeDecoration</string>
+	<key>masterresult</key>
+	<string>newestCheckbox</string>
+	<key>shouldDeserializeBehavior</key>
+	<string>rowtime</string>
+	<key>shouldSerializeButton</key>
+	<string>shouldStartChecklist</string>
+	<key>tappableEvent</key>
+	<string>rectStyle</string>
+</dict>
+</plist>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>alignmentcenter</key>
+	<string>canHandleVariant</string>
+	<key>autoFragments</key>
+	<string>functionalRow</string>
+	<key>deferredHash</key>
+	<string>limitinterpolation</string>
+	<key>deferredbaselineresponse</key>
+	<string>uniformGradient</string>
+</dict>
+</plist>

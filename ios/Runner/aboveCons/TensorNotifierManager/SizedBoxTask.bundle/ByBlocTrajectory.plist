@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>customTimer</key>
+	<string>canTransitionMedia</string>
+	<key>equalizationSaturation</key>
+	<string>customPermutation</string>
+	<key>firstTimeline</key>
+	<string>calculateCurve</string>
+	<key>greatRemainder</key>
+	<string>shouldDismissTabBar</string>
+	<key>movementInterval</key>
+	<string>baseofenvironment</string>
+	<key>reactiveprovider</key>
+	<string>priormethodhue</string>
+	<key>shouldDismissAnchor</key>
+	<string>transitionopacity</string>
+	<key>subtleInteger</key>
+	<string>shouldConnectObserver</string>
+</dict>
+</plist>

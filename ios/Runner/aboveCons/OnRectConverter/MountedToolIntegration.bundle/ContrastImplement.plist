@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>arithmeticRemainder</key>
+	<string>mutableusecase</string>
+	<key>basicPresenter</key>
+	<string>instantiateRoute</string>
+	<key>customizedFinder</key>
+	<string>remainderEnvironment</string>
+	<key>listviewShade</key>
+	<string>enabledSize</string>
+	<key>mediocreCallback</key>
+	<string>flexibleAmortization</string>
+	<key>permutationBottom</key>
+	<string>trajectorySkewY</string>
+	<key>pivotalScenario</key>
+	<string>giftDensity</string>
+	<key>resizabletentative</key>
+	<string>shouldDispatchMediaQuery</string>
+	<key>semanticDocument</key>
+	<string>specifyPageView</string>
+</dict>
+</plist>

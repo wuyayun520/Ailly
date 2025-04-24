@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>adaptiveReceiver</key>
+	<string>tabbarcontroller</string>
+	<key>dependencyactivityappearance</key>
+	<string>permissivecontainerdensity</string>
+	<key>notationTint</key>
+	<string>notifyanchor</string>
+	<key>shouldProcessTabBar</key>
+	<string>canStreamExponent</string>
+	<key>shouldTransitionExponent</key>
+	<string>sharedCaption</string>
+	<key>shoulddeserializeresource</key>
+	<string>sceneShade</string>
+	<key>singleGift</key>
+	<string>canPaintCurve</string>
+	<key>subscriberBorder</key>
+	<string>replaceGesture</string>
+</dict>
+</plist>

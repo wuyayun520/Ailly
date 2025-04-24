@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>deferredappbarbound</key>
+	<string>crudeSound</string>
+	<key>methodOffset</key>
+	<string>masterInset</string>
+	<key>normalInstruction</key>
+	<string>shouldlistencurve</string>
+	<key>notifyparticle</key>
+	<string>iterativerectskewy</string>
+	<key>subsequentParticle</key>
+	<string>reusableTitle</string>
+</dict>
+</plist>

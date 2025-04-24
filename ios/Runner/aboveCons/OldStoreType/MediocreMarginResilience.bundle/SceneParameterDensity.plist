@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cardmargin</key>
+	<string>bundleAnimation</string>
+	<key>invisibleItem</key>
+	<string>processortheme</string>
+	<key>shouldMountedDialogs</key>
+	<string>deferredJoiner</string>
+	<key>symbolsink</key>
+	<string>iconVariable</string>
+	<key>tappableRichText</key>
+	<string>animateDropdownButton</string>
+	<key>temporarySearcher</key>
+	<string>hasentropy</string>
+</dict>
+</plist>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>alertprovider</key>
+	<string>displayNode</string>
+	<key>configurationelasticity</key>
+	<string>showChapter</string>
+	<key>keyBorder</key>
+	<string>mechanismSpeed</string>
+	<key>parallelLatency</key>
+	<string>transpileSlider</string>
+	<key>permanentHeap</key>
+	<string>arithmeticstroke</string>
+	<key>relationalNorm</key>
+	<string>callbackindex</string>
+</dict>
+</plist>

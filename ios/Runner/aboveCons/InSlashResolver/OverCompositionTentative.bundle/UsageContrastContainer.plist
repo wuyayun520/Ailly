@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>consumptionPadding</key>
+	<string>refreshCubit</string>
+	<key>currentConstraint</key>
+	<string>yieldOperation</string>
+	<key>currentsymbol</key>
+	<string>protectedComposition</string>
+	<key>dependencySaturation</key>
+	<string>concurrentPlayback</string>
+	<key>discardedOverlay</key>
+	<string>deactivateDependency</string>
+	<key>draggablemetadatamode</key>
+	<string>flextransparency</string>
+	<key>lasttickerbrightness</key>
+	<string>immutableFragment</string>
+	<key>semanticGraphic</key>
+	<string>delegateHue</string>
+</dict>
+</plist>

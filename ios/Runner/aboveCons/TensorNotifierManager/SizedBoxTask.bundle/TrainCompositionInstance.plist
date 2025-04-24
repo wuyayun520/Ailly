@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cartesianBullet</key>
+	<string>parallelSign</string>
+	<key>composableStrength</key>
+	<string>sensorLocation</string>
+	<key>hierarchicalimpact</key>
+	<string>advancedSplitter</string>
+	<key>smartProvision</key>
+	<string>detachbehavior</string>
+	<key>standaloneBehavior</key>
+	<string>shouldCreateTool</string>
+</dict>
+</plist>

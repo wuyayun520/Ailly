@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>dataCoord</key>
+	<string>entityMethod</string>
+	<key>fixedCanvas</key>
+	<string>decorationSaturation</string>
+	<key>independentFrame</key>
+	<string>workflowJob</string>
+	<key>requestColor</key>
+	<string>histogramadaptersize</string>
+	<key>shearmap</key>
+	<string>saveSubpixel</string>
+	<key>shouldPersistExtension</key>
+	<string>inkwellParameter</string>
+	<key>shouldbindbase</key>
+	<string>secondBaseline</string>
+	<key>singleaspect</key>
+	<string>shouldDeserializeMobile</string>
+</dict>
+</plist>
