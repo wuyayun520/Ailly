@@ -10,6 +10,7 @@ import 'package:path_provider/path_provider.dart';
 import 'package:just_audio/just_audio.dart';
 import 'package:shared_preferences/shared_preferences.dart';
 import 'character_detail_page.dart';
+import 'vip_subscription_page.dart';
 
 class AvatarTabPage extends StatefulWidget {
   const AvatarTabPage({super.key});
@@ -18,12 +19,13 @@ class AvatarTabPage extends StatefulWidget {
   State<AvatarTabPage> createState() => _AvatarTabPageState();
 }
 
-class _AvatarTabPageState extends State<AvatarTabPage> with AutomaticKeepAliveClientMixin, TickerProviderStateMixin {
+class _AvatarTabPageState extends State<AvatarTabPage> with AutomaticKeepAliveClientMixin, TickerProviderStateMixin, WidgetsBindingObserver {
   final PageController _pageController = PageController();
   List<CharacterModel> _characters = [];
   int _currentIndex = 0;
   bool _isLoading = true;
   bool _isMusicPlaying = false;
+  bool _isVip = false;
   
   // 状态栏高度
   final double _statusBarHeight = 44;
@@ -60,6 +62,9 @@ class _AvatarTabPageState extends State<AvatarTabPage> with AutomaticKeepAliveCl
   // 存储键名
   static const String _lastPlayedMusicIndexKey = 'last_played_music_index';
   static const String _followingStatusKey = 'following_status_key';
+  static const String _vipStatusKey = 'isSubscribed';
+
+  bool _isAnimating = false;
 
   @override
   bool get wantKeepAlive => true; // 确保页面保持状态
@@ -67,6 +72,11 @@ class _AvatarTabPageState extends State<AvatarTabPage> with AutomaticKeepAliveCl
   @override
   void initState() {
     super.initState();
+    WidgetsBinding.instance.addObserver(this);
+    _initializeState();
+  }
+
+  void _initializeState() {
     // 先初始化动画控制器
     _pulseController = AnimationController(
       vsync: this,
@@ -99,22 +109,59 @@ class _AvatarTabPageState extends State<AvatarTabPage> with AutomaticKeepAliveCl
     // 加载关注状态
     _loadFollowingStatus();
     
+    // 加载 VIP 状态
+    _loadVipStatus();
+    
     // 然后加载角色数据
     _loadCharacters();
   }
 
   @override
   void dispose() {
-    _pageController.dispose();
+    WidgetsBinding.instance.removeObserver(this);
+    // 先停止所有动画和播放
+    _pulseController.stop();
+    _rotationController.stop();
+    _musicExpandController.stop();
+    _audioPlayer.stop();
+    
+    // 释放控制器
     _pulseController.dispose();
     _rotationController.dispose();
     _musicExpandController.dispose();
     _audioPlayer.dispose();
+    _pageController.dispose();
+    
     super.dispose();
+  }
+
+  @override
+  void didChangeAppLifecycleState(AppLifecycleState state) {
+    if (state == AppLifecycleState.resumed) {
+      _loadVipStatus(); // 当应用恢复时重新加载 VIP 状态
+    }
+  }
+  
+  // 加载 VIP 状态
+  Future<void> _loadVipStatus() async {
+    if (!mounted) return;
+    try {
+      final prefs = await SharedPreferences.getInstance();
+      final isVip = prefs.getBool(_vipStatusKey) ?? false;
+      
+      if (mounted) {
+        setState(() {
+          _isVip = isVip;
+        });
+      }
+    } catch (e) {
+      print('加载 VIP 状态出错: $e');
+    }
   }
   
   // 初始化音频播放器
   Future<void> _initAudioPlayer() async {
+    if (!mounted) return;
     try {
       // 加载上次播放的音乐索引
       final prefs = await SharedPreferences.getInstance();
@@ -123,17 +170,17 @@ class _AvatarTabPageState extends State<AvatarTabPage> with AutomaticKeepAliveCl
       
       // 设置播放器监听器
       _audioPlayer.playerStateStream.listen((state) {
-        if (state.playing) {
-          setState(() {
+        if (!mounted) return;
+        
+        setState(() {
+          if (state.playing) {
             _isMusicPlaying = true;
             _rotationController.repeat();
-          });
-        } else {
-          setState(() {
+          } else {
             _isMusicPlaying = false;
             _rotationController.stop();
-          });
-        }
+          }
+        });
         
         if (state.processingState == ProcessingState.completed) {
           _playNext();
@@ -142,11 +189,13 @@ class _AvatarTabPageState extends State<AvatarTabPage> with AutomaticKeepAliveCl
       
       // 监听音频持续时间变化
       _audioPlayer.durationStream.listen((d) {
+        if (!mounted) return;
         setState(() => _duration = d ?? Duration.zero);
       });
       
       // 监听播放进度
       _audioPlayer.positionStream.listen((p) {
+        if (!mounted) return;
         setState(() => _position = p);
       });
       
@@ -195,7 +244,7 @@ class _AvatarTabPageState extends State<AvatarTabPage> with AutomaticKeepAliveCl
     if (_musicList.isEmpty) return;
     
     final previousIndex = (_currentMusicIndex - 1 + _musicList.length) % _musicList.length;
-    _currentMusicIndex = previousIndex;
+    _currentIndex = previousIndex;
     await _setAudioSource(previousIndex);
     _audioPlayer.play();
   }
@@ -221,6 +270,7 @@ class _AvatarTabPageState extends State<AvatarTabPage> with AutomaticKeepAliveCl
   }
 
   Future<void> _loadCharacters() async {
+    if (!mounted) return;
     try {
       // 1. 加载预设角色
       final String jsonString = await rootBundle.loadString('assets/json/modern.json');
@@ -245,24 +295,127 @@ class _AvatarTabPageState extends State<AvatarTabPage> with AutomaticKeepAliveCl
         }
       }
       
-      setState(() {
-        _characters = allCharacters;
-        _isLoading = false;
-      });
+      if (mounted) {
+        setState(() {
+          _characters = allCharacters;
+          _isLoading = false;
+        });
+      }
     } catch (e) {
-      setState(() {
-        _isLoading = false;
-      });
+      if (mounted) {
+        setState(() {
+          _isLoading = false;
+        });
+      }
       print('Error loading characters: $e');
     }
   }
 
-  void _onPageChanged(int index) {
+  void _onPageChanged(int index) async {
+    if (_isAnimating) return;  // 如果正在动画中，不处理页面变化
+    
+    if (!_isVip) {
+      _isAnimating = true;
+      // 如果不是 VIP 用户，回到原来的位置
+      await _pageController.animateToPage(
+        _currentIndex,
+        duration: const Duration(milliseconds: 300),
+        curve: Curves.easeOut,
+      );
+      _isAnimating = false;
+      
+      // 显示 VIP 提示
+      await _showVipPromptDialog();
+      return;
+    }
+    
     setState(() {
       _currentIndex = index;
-      // 不再每次切换页面时重置音乐播放状态
-      // 保持音乐继续播放
     });
+  }
+
+  Future<bool> _showVipPromptDialog() async {
+    return await showDialog<bool>(
+      context: context,
+      builder: (context) => AlertDialog(
+        backgroundColor: const Color(0xFF1E1E1E),
+        title: Row(
+          children: [
+            Icon(Icons.star, color: Color(0xFFFFC107)),
+            SizedBox(width: 10),
+            Text(
+              'Upgrade to VIP',
+              style: TextStyle(color: Colors.white),
+            ),
+          ],
+        ),
+        content: Column(
+          mainAxisSize: MainAxisSize.min,
+          children: [
+            Text(
+              'You\'ve reached the free swipe limit. Upgrade to VIP for unlimited card sliding.',
+              style: TextStyle(color: Colors.white70),
+            ),
+            SizedBox(height: 15),
+            Row(
+              children: [
+                Icon(Icons.check_circle, color: Color(0xFFE535FA), size: 18),
+                SizedBox(width: 10),
+                Text('Unlimited avatar changes', style: TextStyle(color: Colors.white70)),
+              ],
+            ),
+            SizedBox(height: 8),
+            Row(
+              children: [
+                Icon(Icons.check_circle, color: Color(0xFFE535FA), size: 18),
+                SizedBox(width: 10),
+                Text('No ads', style: TextStyle(color: Colors.white70)),
+              ],
+            ),
+            SizedBox(height: 8),
+            Row(
+              children: [
+                Icon(Icons.check_circle, color: Color(0xFFE535FA), size: 18),
+                SizedBox(width: 10),
+                Text('Unlimited card sliding', style: TextStyle(color: Colors.white70)),
+              ],
+            ),
+          ],
+        ),
+        actions: [
+          TextButton(
+            onPressed: () => Navigator.of(context).pop(false),
+            child: Text(
+              'Not Now',
+              style: TextStyle(color: Colors.grey),
+            ),
+          ),
+          ElevatedButton(
+            style: ElevatedButton.styleFrom(
+              backgroundColor: Color(0xFFE535FA),
+            ),
+            onPressed: () async {
+              Navigator.of(context).pop(false);
+              // 导航到 VIP 订阅页面并等待结果
+              final result = await Navigator.push(
+                context,
+                MaterialPageRoute(
+                  builder: (context) => const VipSubscriptionPage(),
+                ),
+              );
+              // 如果返回后，重新加载 VIP 状态
+              if (mounted) {
+                await _loadVipStatus();
+              }
+            },
+            child: Text(
+              'Upgrade',
+              style: TextStyle(color: Colors.white),
+            ),
+          ),
+        ],
+      ),
+    ) ?? false;
   }
 
   void _navigateToChat() {
@@ -285,6 +438,19 @@ class _AvatarTabPageState extends State<AvatarTabPage> with AutomaticKeepAliveCl
         _rotationController.stop();
       }
     });
+  }
+
+  // 添加新方法处理下一页
+  Future<void> _handleNextPage() async {
+    if (!_isVip) {
+      await _showVipPromptDialog();
+      return;
+    }
+    
+    await _pageController.nextPage(
+      duration: const Duration(milliseconds: 400),
+      curve: Curves.easeInOut,
+    );
   }
 
   @override
@@ -325,6 +491,8 @@ class _AvatarTabPageState extends State<AvatarTabPage> with AutomaticKeepAliveCl
               scrollDirection: Axis.vertical, // 修改为垂直滚动
               onPageChanged: _onPageChanged,
               itemCount: _characters.length,
+              // 添加滑动控制，非 VIP 用户只能滑动有限次数
+              physics: const AlwaysScrollableScrollPhysics(),
               itemBuilder: (context, index) {
                 final character = _characters[index];
                 return Stack(
@@ -550,16 +718,21 @@ class _AvatarTabPageState extends State<AvatarTabPage> with AutomaticKeepAliveCl
                     },
                   ),
                   const SizedBox(height: 12),
-                  // 关闭按钮
-                  _buildCircleButton(
-                    'assets/images/consclose_nor.png',
-                    () {
-                      // 下滑到下一个用户
-                      _pageController.nextPage(
-                        duration: const Duration(milliseconds: 400),
-                        curve: Curves.easeInOut,
-                      );
-                    },
+                  // 关闭按钮 - 使用新的处理方法
+                  GestureDetector(
+                    onTap: _handleNextPage,
+                    child: Container(
+                      width: 60,
+                      height: 60,
+                      decoration: BoxDecoration(
+                        shape: BoxShape.circle,
+                      ),
+                      child: Image.asset(
+                        'assets/images/consclose_nor.png',
+                        width: 60,
+                        height: 60,
+                      ),
+                    ),
                   ),
                 ],
               ),
@@ -585,6 +758,12 @@ class _AvatarTabPageState extends State<AvatarTabPage> with AutomaticKeepAliveCl
                           return _buildTag('Level $level');
                         },
                       ),
+                      // 为 VIP 用户添加 VIP 标签
+                      if (_isVip)
+                        Padding(
+                          padding: const EdgeInsets.only(left: 8),
+                          child: _buildTag('VIP', isVip: true),
+                        ),
                     ],
                   ),
                   const SizedBox(height: 12),
@@ -639,6 +818,32 @@ class _AvatarTabPageState extends State<AvatarTabPage> with AutomaticKeepAliveCl
                 ],
               ),
             ),
+            
+            // 为非 VIP 用户添加剩余滑动次数指示器
+            if (!_isVip)
+              Positioned(
+                top: 16 + _statusBarHeight,
+                right: 16,
+                child: Container(
+                  padding: EdgeInsets.symmetric(horizontal: 10, vertical: 4),
+                  decoration: BoxDecoration(
+                    color: Colors.black.withOpacity(0.7),
+                    borderRadius: BorderRadius.circular(15),
+                    border: Border.all(
+                      color: Color(0xFFE535FA).withOpacity(0.5),
+                      width: 1,
+                    ),
+                  ),
+                  child: Text(
+                    'VIP Only',
+                    style: TextStyle(
+                      color: Colors.white,
+                      fontSize: 12,
+                      fontWeight: FontWeight.w500,
+                    ),
+                  ),
+                ),
+              ),
           ],
         ),
       ),
@@ -1205,21 +1410,25 @@ class _AvatarTabPageState extends State<AvatarTabPage> with AutomaticKeepAliveCl
     );
   }
   
-  Widget _buildTag(String text) {
+  Widget _buildTag(String text, {bool isVip = false}) {
     return Container(
       padding: const EdgeInsets.symmetric(horizontal: 10, vertical: 4),
       decoration: BoxDecoration(
-        color: Colors.black.withOpacity(0.6),
+        color: isVip 
+            ? Color(0xFFE535FA).withOpacity(0.3) 
+            : Colors.black.withOpacity(0.6),
         borderRadius: BorderRadius.circular(12),
         border: Border.all(
-          color: Colors.white.withOpacity(0.3),
+          color: isVip 
+              ? Color(0xFFE535FA) 
+              : Colors.white.withOpacity(0.3),
           width: 1,
         ),
       ),
       child: Text(
         text,
-        style: const TextStyle(
-          color: Colors.white,
+        style: TextStyle(
+          color: isVip ? Color(0xFFE535FA) : Colors.white,
           fontSize: 12,
           fontWeight: FontWeight.w500,
         ),
@@ -1229,7 +1438,9 @@ class _AvatarTabPageState extends State<AvatarTabPage> with AutomaticKeepAliveCl
   
   Widget _buildCircleButton(String imagePath, VoidCallback onPressed) {
     return GestureDetector(
-      onTap: onPressed,
+      onTap: () async {
+        onPressed();
+      },
       child: Container(
         width: 60,
         height: 60,
@@ -1328,11 +1539,12 @@ class _AvatarTabPageState extends State<AvatarTabPage> with AutomaticKeepAliveCl
   
   // 加载关注状态
   Future<void> _loadFollowingStatus() async {
+    if (!mounted) return;
     try {
       final prefs = await SharedPreferences.getInstance();
       final followingJsonString = prefs.getString(_followingStatusKey);
       
-      if (followingJsonString != null) {
+      if (followingJsonString != null && mounted) {
         final Map<String, dynamic> jsonData = json.decode(followingJsonString);
         
         setState(() {
@@ -1348,6 +1560,7 @@ class _AvatarTabPageState extends State<AvatarTabPage> with AutomaticKeepAliveCl
   
   // 保存关注状态
   Future<void> _saveFollowingStatus() async {
+    if (!mounted) return;
     try {
       final prefs = await SharedPreferences.getInstance();
       final jsonString = json.encode(_followingStatus);

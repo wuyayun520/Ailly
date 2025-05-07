@@ -9,6 +9,7 @@ import 'package:path/path.dart' as path;
 import 'home_tab_page.dart';
 import 'chat_page.dart';
 import '../models/chat_history_model.dart';
+import '../services/wallet_service.dart';
 
 class CreateTabPage extends StatefulWidget {
   const CreateTabPage({super.key});
@@ -86,7 +87,7 @@ class _CreateTabPageState extends State<CreateTabPage> {
   }
 
   // 生成AI角色（模拟）
-  void _generateCharacter() {
+  void _generateCharacter() async {
     if (_nameController.text.isEmpty || 
         _backgroundController.text.isEmpty || 
         _openingController.text.isEmpty) {
@@ -97,6 +98,17 @@ class _CreateTabPageState extends State<CreateTabPage> {
           backgroundColor: Colors.red,
         ),
       );
+      return;
+    }
+    
+    // Check if user has enough super character credits
+    final hasCredits = await WalletService.checkAndConsumeCredit(
+      context, 
+      WalletService.superCharKey,
+      "character creation"
+    );
+    
+    if (!hasCredits) {
       return;
     }
     

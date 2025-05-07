@@ -9,6 +9,8 @@ import '../privacy_policy_page.dart';
 import '../about_us_page.dart';
 import '../pages/chats_tab_page.dart';
 import '../pages/home_tab_page.dart';
+import '../pages/wallet_page.dart';
+import '../pages/vip_subscription_page.dart';
 
 class MeTabPage extends StatefulWidget {
   const MeTabPage({super.key});
@@ -21,15 +23,21 @@ class _MeTabPageState extends State<MeTabPage> {
   String _username = "Mzzz";
   String? _avatarPath;
   final ImagePicker _picker = ImagePicker();
+  bool _isVip = false; // 添加 VIP 状态标志
+  int _avatarChangeCount = 0; // 添加头像更改计数
   
   // 存储键名
   static const String _usernameKey = 'username';
   static const String _avatarPathKey = 'avatar_path';
+  static const String _vipStatusKey = 'isSubscribed'; // VIP 状态键名
+  static const String _avatarChangeCountKey = 'avatar_change_count'; // 头像更改计数键名
 
   @override
   void initState() {
     super.initState();
     _loadUserInfo();
+    _loadVipStatus();
+    _loadAvatarChangeCount();
   }
   
   Future<void> _loadUserInfo() async {
@@ -56,7 +64,144 @@ class _MeTabPageState extends State<MeTabPage> {
     }
   }
 
+  // 加载 VIP 状态
+  Future<void> _loadVipStatus() async {
+    try {
+      final prefs = await SharedPreferences.getInstance();
+      final isVip = prefs.getBool(_vipStatusKey) ?? false;
+      
+      setState(() {
+        _isVip = isVip;
+      });
+    } catch (e) {
+      print('加载 VIP 状态出错: $e');
+    }
+  }
+  
+  // 加载头像更改计数
+  Future<void> _loadAvatarChangeCount() async {
+    try {
+      final prefs = await SharedPreferences.getInstance();
+      final count = prefs.getInt(_avatarChangeCountKey) ?? 0;
+      
+      setState(() {
+        _avatarChangeCount = count;
+      });
+    } catch (e) {
+      print('加载头像更改计数出错: $e');
+    }
+  }
+  
+  // 更新头像更改计数
+  Future<void> _updateAvatarChangeCount() async {
+    try {
+      final prefs = await SharedPreferences.getInstance();
+      _avatarChangeCount++;
+      await prefs.setInt(_avatarChangeCountKey, _avatarChangeCount);
+    } catch (e) {
+      print('更新头像更改计数出错: $e');
+    }
+  }
+
+  // 检查是否可以更改头像
+  Future<bool> _canChangeAvatar() async {
+    // VIP 用户可以无限更改头像
+    if (_isVip) return true;
+    
+    // 非 VIP 用户只能更改头像 1 次
+    if (_avatarChangeCount < 1) return true;
+    
+    // 超过限制，显示 VIP 提示对话框
+    bool shouldUpgrade = await _showVipPromptDialog();
+    return shouldUpgrade;
+  }
+  
+  // 显示 VIP 提示对话框
+  Future<bool> _showVipPromptDialog() async {
+    return await showDialog<bool>(
+      context: context,
+      builder: (context) => AlertDialog(
+        backgroundColor: const Color(0xFF1E1E1E),
+        title: Row(
+          children: [
+            Icon(Icons.star, color: Color(0xFFFFC107)),
+            SizedBox(width: 10),
+            Text(
+              'Upgrade to VIP',
+              style: TextStyle(color: Colors.white),
+            ),
+          ],
+        ),
+        content: Column(
+          mainAxisSize: MainAxisSize.min,
+          children: [
+            Text(
+              'You\'ve reached the free avatar change limit. Upgrade to VIP for unlimited avatar changes.',
+              style: TextStyle(color: Colors.white70),
+            ),
+            SizedBox(height: 15),
+            Row(
+              children: [
+                Icon(Icons.check_circle, color: Color(0xFFE535FA), size: 18),
+                SizedBox(width: 10),
+                Text('Unlimited avatar changes', style: TextStyle(color: Colors.white70)),
+              ],
+            ),
+            SizedBox(height: 8),
+            Row(
+              children: [
+                Icon(Icons.check_circle, color: Color(0xFFE535FA), size: 18),
+                SizedBox(width: 10),
+                Text('No ads', style: TextStyle(color: Colors.white70)),
+              ],
+            ),
+            SizedBox(height: 8),
+            Row(
+              children: [
+                Icon(Icons.check_circle, color: Color(0xFFE535FA), size: 18),
+                SizedBox(width: 10),
+                Text('Unlimited card sliding', style: TextStyle(color: Colors.white70)),
+              ],
+            ),
+          ],
+        ),
+        actions: [
+          TextButton(
+            onPressed: () => Navigator.of(context).pop(false),
+            child: Text(
+              'Not Now',
+              style: TextStyle(color: Colors.grey),
+            ),
+          ),
+          ElevatedButton(
+            style: ElevatedButton.styleFrom(
+              backgroundColor: Color(0xFFE535FA),
+            ),
+            onPressed: () {
+              Navigator.of(context).pop(false);
+              Navigator.push(
+                context,
+                MaterialPageRoute(
+                  builder: (context) => const VipSubscriptionPage(),
+                ),
+              );
+            },
+            child: Text(
+              'Upgrade',
+              style: TextStyle(color: Colors.white),
+            ),
+          ),
+        ],
+      ),
+    ) ?? false;
+  }
+
+  // 修改为检查 VIP 状态后再选择图片
   Future<void> _pickImage() async {
+    // 先检查是否可以更改头像
+    bool canChange = await _canChangeAvatar();
+    if (!canChange) return;
+    
     try {
       final XFile? image = await _picker.pickImage(source: ImageSource.gallery);
       if (image != null) {
@@ -64,6 +209,10 @@ class _MeTabPageState extends State<MeTabPage> {
         setState(() {
           _avatarPath = savedPath;
         });
+        // 更新头像更改计数（仅对非 VIP 用户）
+        if (!_isVip) {
+          await _updateAvatarChangeCount();
+        }
         // 保存用户信息
         await _saveUserInfo();
       }
@@ -160,12 +309,10 @@ class _MeTabPageState extends State<MeTabPage> {
   // 根据路径构建图片组件 - 修改为缓存方式以避免频繁重建
   Widget _buildAvatarImage(String? imagePath) {
     if (imagePath == null || imagePath.isEmpty) {
-      return Image.asset(
-        'assets/images/userInfo/1/user_1.jpg',
-        fit: BoxFit.cover,
-        errorBuilder: (context, error, stackTrace) {
-          return const Icon(Icons.person, size: 40, color: Colors.white54);
-        },
+      return const Icon(
+        Icons.person,
+        size: 40,
+        color: Colors.white54,
       );
     }
     
@@ -231,31 +378,77 @@ class _MeTabPageState extends State<MeTabPage> {
                     // 头像 - 使用RepaintBoundary防止重绘
                     RepaintBoundary(
                       child: GestureDetector(
-                        onTap: _pickImage,
-                        child: Container(
-                          width: 80,
-                          height: 80,
-                          decoration: BoxDecoration(
-                            shape: BoxShape.circle,
-                            border: Border.all(color: Colors.white.withOpacity(0.2), width: 2),
-                          ),
-                          child: ClipRRect(
-                            borderRadius: BorderRadius.circular(40),
-                            child: _buildAvatarImage(_avatarPath),
-                          ),
+                        onTap: _pickImage, // 这里已经修改为包含 VIP 检查的方法
+                        child: Stack(
+                          children: [
+                            Container(
+                              width: 80,
+                              height: 80,
+                              decoration: BoxDecoration(
+                                shape: BoxShape.circle,
+                                border: Border.all(color: Colors.white.withOpacity(0.2), width: 2),
+                              ),
+                              child: ClipRRect(
+                                borderRadius: BorderRadius.circular(40),
+                                child: _buildAvatarImage(_avatarPath),
+                              ),
+                            ),
+                            // 为头像添加 VIP 徽章（如果是 VIP 用户）
+                            if (_isVip)
+                              Positioned(
+                                right: 0,
+                                bottom: 0,
+                                child: Container(
+                                  padding: EdgeInsets.all(4),
+                                  decoration: BoxDecoration(
+                                    color: Color(0xFFE535FA),
+                                    shape: BoxShape.circle,
+                                  ),
+                                  child: Icon(
+                                    Icons.star,
+                                    color: Colors.white,
+                                    size: 12,
+                                  ),
+                                ),
+                              ),
+                          ],
                         ),
                       ),
                     ),
                     const SizedBox(width: 20),
                     // 用户名
                     Expanded(
-                      child: Text(
-                        _username,
-                        style: const TextStyle(
-                          color: Colors.white,
-                          fontSize: 24,
-                          fontWeight: FontWeight.bold,
-                        ),
+                      child: Column(
+                        crossAxisAlignment: CrossAxisAlignment.start,
+                        children: [
+                          Text(
+                            _username,
+                            style: const TextStyle(
+                              color: Colors.white,
+                              fontSize: 24,
+                              fontWeight: FontWeight.bold,
+                            ),
+                          ),
+                          if (_isVip)
+                            Row(
+                              children: [
+                                Icon(
+                                  Icons.verified,
+                                  color: Color(0xFFE535FA),
+                                  size: 14,
+                                ),
+                                SizedBox(width: 4),
+                                Text(
+                                  'VIP Member',
+                                  style: TextStyle(
+                                    color: Color(0xFFE535FA),
+                                    fontSize: 12,
+                                    fontWeight: FontWeight.bold,
+                                  ),
+                                ),
+                              ],
+                            ),
+                        ],
                       ),
                     ),
                     // 编辑按钮
@@ -292,6 +485,31 @@ class _MeTabPageState extends State<MeTabPage> {
                     context,
                     MaterialPageRoute(
                       builder: (context) => const HomeTabPage(),
+                    ),
+                  );
+                },
+              ),
+              _buildMenuItem(
+                icon: Icons.shopping_cart_outlined,
+                title: 'In-App Purchases',
+                onTap: () {
+                  // Navigate to wallet page
+                  Navigator.push(
+                    context,
+                    MaterialPageRoute(
+                      builder: (context) => const WalletPage(),
+                    ),
+                  );
+                },
+              ),
+              _buildMenuItem(
+                icon: Icons.subscriptions_outlined,
+                title: 'Subscriptions',
+                onTap: () {
+                  Navigator.push(
+                    context,
+                    MaterialPageRoute(
+                      builder: (context) => const VipSubscriptionPage(),
                     ),
                   );
                 },
@@ -338,6 +556,32 @@ class _MeTabPageState extends State<MeTabPage> {
             ],
           ),
         ),
+      ),
+    );
+  }
+
+  void _showNotImplementedDialog(String feature) {
+    showDialog(
+      context: context,
+      builder: (context) => AlertDialog(
+        backgroundColor: const Color(0xFF1E1E1E),
+        title: Text(
+          feature,
+          style: const TextStyle(color: Colors.white),
+        ),
+        content: const Text(
+          'This feature is coming soon.',
+          style: TextStyle(color: Colors.white70),
+        ),
+        actions: [
+          TextButton(
+            onPressed: () => Navigator.of(context).pop(),
+            child: const Text(
+              'OK',
+              style: TextStyle(color: Color(0xFFE91E63)),
+            ),
+          ),
+        ],
       ),
     );
   }

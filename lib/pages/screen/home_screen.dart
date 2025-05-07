@@ -4,6 +4,7 @@ import '../../models/note.dart';
 import '../../models/note_category.dart';
 import '../../providers/note_provider.dart';
 import '../../providers/category_provider.dart';
+import '../../services/wallet_service.dart';
 import 'package:intl/intl.dart';
 import 'rich_note_screen.dart';
 
@@ -148,15 +149,24 @@ class _HomeScreenState extends State<HomeScreen> {
       ),
       floatingActionButton: FloatingActionButton(
         heroTag: 'richTextButton',
-        onPressed: () {
-          Navigator.push(
-            context,
-            MaterialPageRoute(
-              builder: (context) => RichNoteScreen(
-                isNewNote: true,
-              ),
-            ),
+        onPressed: () async {
+          // Check if user has enough credits to create a note
+          final hasCredits = await WalletService.checkAndConsumeCredit(
+            context, 
+            WalletService.homePageViewsKey,
+            "note creation"
           );
+          
+          if (hasCredits) {
+            Navigator.push(
+              context,
+              MaterialPageRoute(
+                builder: (context) => RichNoteScreen(
+                  isNewNote: true,
+                ),
+              ),
+            );
+          }
         },
         backgroundColor: const Color(0xFF00ACC1),
         child: const Icon(Icons.add),

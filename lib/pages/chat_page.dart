@@ -7,6 +7,7 @@ import 'dart:io';
 import 'package:intl/intl.dart';
 import '../models/chat_history_model.dart';
 import '../services/ai_service.dart';
+import '../services/wallet_service.dart';
 import 'package:path_provider/path_provider.dart';
 import 'chats_tab_page.dart'; // 导入聊天标签页
 import 'package:flutter_cache_manager/flutter_cache_manager.dart';
@@ -623,6 +624,17 @@ class _ChatPageState extends State<ChatPage> {
     final text = _messageController.text.trim();
     if (text.isEmpty) return;
 
+    // Check if user has enough message credits
+    final hasCredits = await WalletService.checkAndConsumeCredit(
+      context, 
+      WalletService.messageQuotaKey,
+      "messaging"
+    );
+    
+    if (!hasCredits) {
+      return;
+    }
+
     // 保存用户消息
     _lastUserMessage = text;
     
@@ -680,6 +692,17 @@ class _ChatPageState extends State<ChatPage> {
           backgroundColor: Colors.red,
         ),
       );
+      return;
+    }
+    
+    // Check if user has enough ask photo credits
+    final hasCredits = await WalletService.checkAndConsumeCredit(
+      context, 
+      WalletService.specialFeaturesKey,
+      "ask photo"
+    );
+    
+    if (!hasCredits) {
       return;
     }
     

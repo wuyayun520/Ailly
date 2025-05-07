@@ -1,0 +1,198 @@
+{
+  "identifier" : "Configuration",
+  "products" : [
+    {
+      "displayPrice" : "5.99",
+      "familyShareable" : false,
+      "internalID" : "1000000001",
+      "localizations" : [
+        {
+          "description" : "5 message credits",
+          "displayName" : "Message Credits Package",
+          "locale" : "en_US"
+        }
+      ],
+      "productID" : "Funify1_5",
+      "referenceName" : "Message Credits",
+      "type" : "Consumable"
+    },
+    {
+      "displayPrice" : "15.99",
+      "familyShareable" : false,
+      "internalID" : "1000000002",
+      "localizations" : [
+        {
+          "description" : "15 message credits",
+          "displayName" : "Message Credits Medium Package",
+          "locale" : "en_US"
+        }
+      ],
+      "productID" : "Funify1_15",
+      "referenceName" : "Message Credits Medium",
+      "type" : "Consumable"
+    },
+    {
+      "displayPrice" : "19.99",
+      "familyShareable" : false,
+      "internalID" : "1000000003",
+      "localizations" : [
+        {
+          "description" : "19 message credits",
+          "displayName" : "Message Credits Large Package",
+          "locale" : "en_US"
+        }
+      ],
+      "productID" : "Funify1_19",
+      "referenceName" : "Message Credits Large",
+      "type" : "Consumable"
+    },
+    {
+      "displayPrice" : "6.99",
+      "familyShareable" : false,
+      "internalID" : "1000000004",
+      "localizations" : [
+        {
+          "description" : "6 home page views",
+          "displayName" : "Home Page Views Small Package",
+          "locale" : "en_US"
+        }
+      ],
+      "productID" : "Funify2_6",
+      "referenceName" : "Home Page Views Small",
+      "type" : "Consumable"
+    },
+    {
+      "displayPrice" : "19.99",
+      "familyShareable" : false,
+      "internalID" : "1000000005",
+      "localizations" : [
+        {
+          "description" : "19 home page views",
+          "displayName" : "Home Page Views Medium Package",
+          "locale" : "en_US"
+        }
+      ],
+      "productID" : "Funify2_19",
+      "referenceName" : "Home Page Views Medium",
+      "type" : "Consumable"
+    },
+    {
+      "displayPrice" : "29.99",
+      "familyShareable" : false,
+      "internalID" : "1000000006",
+      "localizations" : [
+        {
+          "description" : "29 home page views",
+          "displayName" : "Home Page Views Large Package",
+          "locale" : "en_US"
+        }
+      ],
+      "productID" : "Funify2_29",
+      "referenceName" : "Home Page Views Large",
+      "type" : "Consumable"
+    },
+    {
+      "displayPrice" : "8.99",
+      "familyShareable" : false,
+      "internalID" : "1000000007",
+      "localizations" : [
+        {
+          "description" : "8 super characters",
+          "displayName" : "Super Characters Small Package",
+          "locale" : "en_US"
+        }
+      ],
+      "productID" : "Funify3_8",
+      "referenceName" : "Super Characters Small",
+      "type" : "Consumable"
+    },
+    {
+      "displayPrice" : "19.99",
+      "familyShareable" : false,
+      "internalID" : "1000000008",
+      "localizations" : [
+        {
+          "description" : "19 super characters",
+          "displayName" : "Super Characters Medium Package",
+          "locale" : "en_US"
+        }
+      ],
+      "productID" : "Funify3_19",
+      "referenceName" : "Super Characters Medium",
+      "type" : "Consumable"
+    },
+    {
+      "displayPrice" : "39.99",
+      "familyShareable" : false,
+      "internalID" : "1000000009",
+      "localizations" : [
+        {
+          "description" : "39 super characters",
+          "displayName" : "Super Characters Large Package",
+          "locale" : "en_US"
+        }
+      ],
+      "productID" : "Funify3_39",
+      "referenceName" : "Super Characters Large",
+      "type" : "Consumable"
+    },
+    {
+      "displayPrice" : "8.99",
+      "familyShareable" : false,
+      "internalID" : "1000000010",
+      "localizations" : [
+        {
+          "description" : "8 special features",
+          "displayName" : "Special Features Small Package",
+          "locale" : "en_US"
+        }
+      ],
+      "productID" : "Funify4_8",
+      "referenceName" : "Special Features Small",
+      "type" : "Consumable"
+    },
+    {
+      "displayPrice" : "19.99",
+      "familyShareable" : false,
+      "internalID" : "1000000011",
+      "localizations" : [
+        {
+          "description" : "19 special features",
+          "displayName" : "Special Features Medium Package",
+          "locale" : "en_US"
+        }
+      ],
+      "productID" : "Funify4_19",
+      "referenceName" : "Special Features Medium",
+      "type" : "Consumable"
+    },
+    {
+      "displayPrice" : "39.99",
+      "familyShareable" : false,
+      "internalID" : "1000000012",
+      "localizations" : [
+        {
+          "description" : "39 special features",
+          "displayName" : "Special Features Large Package",
+          "locale" : "en_US"
+        }
+      ],
+      "productID" : "Funify4_39",
+      "referenceName" : "Special Features Large",
+      "type" : "Consumable"
+    }
+  ],
+  "settings" : {
+    "_askToBuyEnabled" : false,
+    "_compatibilityTimeRate" : null,
+    "_failTransactionsEnabled" : false,
+    "_locale" : "en_US",
+    "_storefront" : "USA",
+    "_storeKitError" : 0
+  },
+  "subscriptionGroups" : [],
+  "version" : {
+    "major" : 2,
+    "minor" : 0
+  }
+} 
