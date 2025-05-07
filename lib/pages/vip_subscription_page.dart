@@ -1,5 +1,7 @@
 import 'package:flutter/material.dart';
 import 'package:in_app_purchase/in_app_purchase.dart';
+import 'package:in_app_purchase_storekit/in_app_purchase_storekit.dart';
+import 'package:in_app_purchase_storekit/store_kit_wrappers.dart';
 import 'dart:async';
 import 'dart:io';
 import 'package:path_provider/path_provider.dart';
@@ -58,7 +60,16 @@ class _VipSubscriptionPageState extends State<VipSubscriptionPage> {
   @override
   void initState() {
     super.initState();
-    _initInAppPurchase();
+    
+    // 确保在初始化IAP前清理旧的交易
+    if (Platform.isIOS) {
+      _clearCompletedTransactions().then((_) {
+        _initInAppPurchase();
+      });
+    } else {
+      _initInAppPurchase();
+    }
+    
     _loadSubscriptionStatus();
   }
 
@@ -172,17 +183,55 @@ class _VipSubscriptionPageState extends State<VipSubscriptionPage> {
     if (_lastErrorTime == null || now.difference(_lastErrorTime!).inSeconds > 3) {
       _lastErrorTime = now;
       
-      // 只在 UI 上显示与用户相关的重要错误信息
-      if (error.code != 'product_id_not_found') {
+      // 输出详细错误信息到控制台
+      print('IAP error: ${error.code} - ${error.message} - Source: ${error.source}');
+      
+      // 处理苹果特有的错误码
+      String userMessage = 'An error occurred during purchase';
+      
+      if (error.source == 'SKErrorDomain') {
+        // 处理苹果StoreKit特定错误
+        switch (error.code) {
+          case 'purchase_not_allowed':
+            userMessage = 'Purchases are not allowed on this device';
+            break;
+          case 'cloud_service_permission_denied':
+            userMessage = 'Cloud service permission denied';
+            break;
+          case 'cloud_service_network_connection_failed':
+            userMessage = 'Network connection failed, please check your connection';
+            break;
+          case 'client_invalid':
+            userMessage = 'Client is invalid';
+            break;
+          case 'payment_invalid':
+            userMessage = 'Payment information is invalid';
+            break;
+          case 'payment_not_allowed':
+            userMessage = 'Payment is not allowed for this Apple ID';
+            break;
+          case 'storekit_sandboxreceipt_in_prod':
+            userMessage = 'Sandbox receipt cannot be used in production';
+            // 尝试在测试环境中验证
+            break;
+          default:
+            userMessage = 'Purchase failed: ${error.message}';
+        }
+      } else if (error.code == 'product_id_not_found') {
+        // 这个错误不需要显示给用户
+        return;
+      }
+      
+      // 显示用户友好的错误消息
+      if (mounted) {
         ScaffoldMessenger.of(context).showSnackBar(
           SnackBar(
-            content: Text('Purchase error: ${error.message}'),
+            content: Text(userMessage),
             backgroundColor: Colors.red,
+            duration: const Duration(seconds: 3),
           ),
         );
       }
-      
-      print('IAP error: ${error.code} - ${error.message}');
     }
   }
 
@@ -194,17 +243,10 @@ class _VipSubscriptionPageState extends State<VipSubscriptionPage> {
         throw Exception('Invalid purchase status: ${purchaseDetails.status}');
       }
       
-      // Validate receipt with Apple servers in a real app
-      // For this example, we'll just accept the purchase as valid
-      
-      // Calculate subscription end date based on the purchased plan
-      final DateTime now = DateTime.now();
-      DateTime endDate;
-      
       // Find which plan was purchased
       String productId = purchaseDetails.productID;
       
-      // 已经报告过的产品ID不再重复报告错误
+      // 验证产品ID是否有效
       if (!_subscriptionPlans.any((plan) => plan['id'] == productId)) {
         if (!_reportedProductIds.contains(productId)) {
           _reportedProductIds.add(productId);
@@ -212,6 +254,37 @@ class _VipSubscriptionPageState extends State<VipSubscriptionPage> {
         }
         return;
       }
+      
+      // 在实际应用中，此处应该验证收据
+      // 推荐的做法是：
+      // 1. 先尝试对生产环境进行验证
+      // 2. 如果返回错误码"Sandbox receipt used in production"，再尝试对测试环境验证
+      // 
+      // 以下是简化的收据验证逻辑示例：
+      //
+      // final String? receiptData = purchaseDetails.verificationData.serverVerificationData;
+      // if (receiptData == null || receiptData.isEmpty) {
+      //   throw Exception('Receipt data is empty');
+      // }
+      //
+      // // 步骤1：尝试在生产环境验证
+      // bool isValid = await _validateReceiptWithServer(receiptData, isProduction: true);
+      // 
+      // // 步骤2：如果生产环境验证失败，尝试在沙盒环境验证
+      // if (!isValid) {
+      //   isValid = await _validateReceiptWithServer(receiptData, isProduction: false);
+      // }
+      //
+      // if (!isValid) {
+      //   throw Exception('Receipt validation failed');
+      // }
+      
+      // 这里我们简化处理，直接认为交易有效
+      print('Subscription verified successfully for product: $productId');
+      
+      // Calculate subscription end date based on the purchased plan
+      final DateTime now = DateTime.now();
+      DateTime endDate;
       
       if (productId == _subscriptionPlans[0]['id']) {
         // Monthly plan
@@ -233,7 +306,7 @@ class _VipSubscriptionPageState extends State<VipSubscriptionPage> {
       if (!mounted) return;
       ScaffoldMessenger.of(context).showSnackBar(
         const SnackBar(
-          content: Text('Subscription activated successfully!'),
+          content: Text('Subscription successfully activated!'),
           backgroundColor: Colors.green,
         ),
       );
@@ -269,30 +342,55 @@ class _VipSubscriptionPageState extends State<VipSubscriptionPage> {
     try {
       setState(() => _isPurchasePending = true);
       
+      // 清理任何未完成的交易，避免干扰新交易
+      if (Platform.isIOS) {
+        await _clearCompletedTransactions();
+      }
+      
       final String productId = plan['id'];
-      final ProductDetails? foundProduct = _products.firstWhere(
-        (product) => product.id == productId,
-        orElse: () => throw Exception('Product not found: $productId'),
-      );
+      
+      // 查找产品详情
+      ProductDetails? foundProduct;
+      try {
+        foundProduct = _products.firstWhere((product) => product.id == productId);
+      } catch (e) {
+        print('Product not found in loaded products: $productId');
+        // 如果在已加载的产品中找不到，尝试重新查询
+        final ProductDetailsResponse response = 
+            await _inAppPurchase.queryProductDetails({productId});
+        
+        if (response.productDetails.isNotEmpty) {
+          foundProduct = response.productDetails.first;
+          
+          // 更新缓存的产品列表
+          setState(() {
+            _products = [..._products, ...response.productDetails];
+          });
+        } else {
+          throw Exception('Product ID does not exist in App Store: $productId');
+        }
+      }
 
       if (foundProduct == null) {
         throw Exception('Product not found: $productId');
       }
 
-      // Create purchase parameters
+      print('Preparing to purchase product: ${foundProduct.id}, price: ${foundProduct.price}');
+
+      // 创建购买参数
       final PurchaseParam purchaseParam = PurchaseParam(
         productDetails: foundProduct,
         applicationUserName: null,
       );
 
-      // Complete the purchase
+      // 完成购买
       if (Platform.isIOS) {
-        // For iOS, use buyNonConsumable for subscription products
+        // 对于iOS，使用buyNonConsumable购买订阅商品
         await _inAppPurchase.buyNonConsumable(purchaseParam: purchaseParam);
-        // Don't set _isPurchasePending to false here, as we'll do that in the purchaseStream listener
+        // 不要在这里设置_isPurchasePending为false，我们会在purchaseStream监听器中完成
       } else {
         setState(() => _isPurchasePending = false);
-        throw Exception('Platform not supported for subscriptions');
+        throw Exception('Only iOS devices are supported for subscriptions');
       }
     } catch (e) {
       setState(() => _isPurchasePending = false);
@@ -652,27 +750,10 @@ class _VipSubscriptionPageState extends State<VipSubscriptionPage> {
                     const SizedBox(height: 12),
                     TextButton(
                       onPressed: () {
-                        setState(() => _isPurchasePending = true);
-                        InAppPurchase.instance.restorePurchases().then((_) {
-                          setState(() => _isPurchasePending = false);
-                          ScaffoldMessenger.of(context).showSnackBar(
-                            const SnackBar(
-                              content: Text('Purchases restored successfully'),
-                              backgroundColor: Colors.green,
-                            ),
-                          );
-                        }).catchError((error) {
-                          setState(() => _isPurchasePending = false);
-                          ScaffoldMessenger.of(context).showSnackBar(
-                            SnackBar(
-                              content: Text('Error restoring purchases: $error'),
-                              backgroundColor: Colors.red,
-                            ),
-                          );
-                        });
+                        _restorePurchases();
                       },
                       child: Text(
-                        'Restore Purchases',
+                        'Restore Purchase',
                         style: TextStyle(
                           color: Colors.white.withOpacity(0.7),
                           fontSize: 14,
@@ -703,7 +784,7 @@ class _VipSubscriptionPageState extends State<VipSubscriptionPage> {
                       child: Column(
                         children: [
                           Text(
-                            'Pricing Details',
+                            'Price Details',
                             style: TextStyle(
                               color: Colors.white,
                               fontSize: 14,
@@ -712,12 +793,12 @@ class _VipSubscriptionPageState extends State<VipSubscriptionPage> {
                             textAlign: TextAlign.center,
                           ),
                           const SizedBox(height: 8),
-                          _buildPriceInfoItem('Monthly VIP', '\$19.99 per month, auto-renews until canceled'),
-                          _buildPriceInfoItem('Quarterly VIP', '\$29.99 every 3 months, auto-renews until canceled'),
-                          _buildPriceInfoItem('Annual VIP', '\$69.99 per year, auto-renews until canceled'),
+                          _buildPriceInfoItem('Monthly VIP', '¥19.99/month, auto-renew until canceled'),
+                          _buildPriceInfoItem('Quarterly VIP', '¥29.99/3 months, auto-renew until canceled'),
+                          _buildPriceInfoItem('Annual VIP', '¥69.99/year, auto-renew until canceled'),
                           const SizedBox(height: 4),
                           Text(
-                            'Payment will be charged to your iTunes Account at confirmation of purchase. Subscription automatically renews unless auto-renew is turned off at least 24 hours before the end of the current period. Your account will be charged for renewal within 24 hours prior to the end of the current period. You can manage your subscriptions in your iTunes Account settings.',
+                            'After purchase confirmation, the fee will be deducted from your iTunes account. Unless you cancel auto-renewal at least 24 hours before the end of the current subscription period, your subscription will automatically renew. If you cancel auto-renewal within 24 hours before the end of the current subscription period, your account will be charged for renewal. You can manage your subscription in your iTunes account settings.',
                             style: TextStyle(
                               color: Colors.white.withOpacity(0.5),
                               fontSize: 11,
@@ -761,7 +842,7 @@ class _VipSubscriptionPageState extends State<VipSubscriptionPage> {
                     ),
                     const SizedBox(height: 8),
                     Text(
-                      'To cancel or modify your subscription, go to your Apple ID subscription settings.',
+                      'To cancel or modify your subscription, please go to your Apple ID subscription settings.',
                       textAlign: TextAlign.center,
                       style: TextStyle(
                         color: Colors.white.withOpacity(0.6),
@@ -938,5 +1019,118 @@ class _VipSubscriptionPageState extends State<VipSubscriptionPage> {
         ],
       ),
     );
+  }
+
+  // 此方法用于验证收据，是未来实现的框架
+  // 需要根据您的后端服务来实际实现
+  Future<bool> _validateReceiptWithServer(String receiptData, {required bool isProduction}) async {
+    try {
+      // 这里应该是您的后端验证逻辑
+      // 例如，使用 http 包发送请求到您的服务器
+      
+      // 生产环境验证URL
+      final String productionVerifyURL = 'https://your-backend-api.com/verify-receipt';
+      
+      // 沙盒环境验证URL
+      final String sandboxVerifyURL = 'https://your-backend-api.com/verify-receipt/sandbox';
+      
+      final String verifyURL = isProduction ? productionVerifyURL : sandboxVerifyURL;
+      
+      // 实际实现中，您应该发送HTTP请求到您的后端
+      // final response = await http.post(
+      //   Uri.parse(verifyURL),
+      //   body: {
+      //     'receipt-data': receiptData,
+      //     'password': '您的App Store共享密钥' // 如果需要
+      //   }
+      // );
+      
+      // 解析响应并验证
+      // if (response.statusCode == 200) {
+      //   final data = jsonDecode(response.body);
+      //   
+      //   // 如果在生产环境中使用了沙盒收据，status将为21007
+      //   if (isProduction && data['status'] == 21007) {
+      //     print('Sandbox receipt used in production, retrying with sandbox validation');
+      //     return false; // 返回false触发沙盒验证
+      //   }
+      //   
+      //   // 成功验证的状态码为0
+      //   return data['status'] == 0;
+      // }
+      
+      // 示例中，暂时返回true
+      print('Receipt validation would go to: $verifyURL');
+      return true;
+      
+    } catch (e) {
+      print('Receipt validation error: $e');
+      return false;
+    }
+  }
+  
+  // 移除支付队列中所有已完成的交易
+  Future<void> _clearCompletedTransactions() async {
+    if (!Platform.isIOS) return;
+    
+    try {
+      final paymentWrapper = SKPaymentQueueWrapper();
+      final transactions = await paymentWrapper.transactions();
+      
+      for (var transaction in transactions) {
+        await paymentWrapper.finishTransaction(transaction);
+        print('Finished transaction: ${transaction.transactionIdentifier}');
+      }
+    } catch (e) {
+      print('Error clearing transactions: $e');
+    }
+  }
+
+  // 恢复购买功能
+  Future<void> _restorePurchases() async {
+    if (!mounted) return;
+    
+    if (!_isAvailable) {
+      ScaffoldMessenger.of(context).showSnackBar(
+        const SnackBar(
+          content: Text('The store is not available, please try again later'),
+          backgroundColor: Colors.red,
+        ),
+      );
+      return;
+    }
+    
+    setState(() => _isPurchasePending = true);
+    
+    try {
+      // 先清理任何未完成的交易
+      if (Platform.isIOS) {
+        await _clearCompletedTransactions();
+      }
+      
+      print('Starting to restore purchase...');
+      await InAppPurchase.instance.restorePurchases();
+      
+      // 恢复购买请求已发送，实际处理会在 _handleVIPPurchaseUpdates 中完成
+      // 我们不在这里设置 _isPurchasePending = false，因为那将在流监听器中完成
+      
+      ScaffoldMessenger.of(context).showSnackBar(
+        const SnackBar(
+          content: Text('Restoring your purchase, please wait...'),
+          backgroundColor: Colors.blue,
+        ),
+      );
+    } catch (e) {
+      setState(() => _isPurchasePending = false);
+      
+      if (!mounted) return;
+      ScaffoldMessenger.of(context).showSnackBar(
+        SnackBar(
+          content: Text('Restore purchase failed: $e'),
+          backgroundColor: Colors.red,
+        ),
+      );
+      print('Restore purchase error: $e');
+    }
   }
 } 

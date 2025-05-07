@@ -30,11 +30,11 @@ class IAPConstants {
     return productId.startsWith('Funify1_') ||
            productId.startsWith('Funify2_') ||
            productId.startsWith('Funify3_') ||
-           productId.startsWith('Funify4_');
+           productId.startsWith('Funify4_') ;
   }
   
   static bool isSubscriptionProduct(String productId) {
     // 订阅产品以FunifySub开头
-    return productId.startsWith('FunifySub');
+    return productId.startsWith('FunifySub') ;
   }
 } 
