@@ -26,8 +26,40 @@
 	<string>$(FLUTTER_BUILD_NAME)</string>
 	<key>CFBundleSignature</key>
 	<string>????</string>
+	<key>CFBundleURLTypes</key>
+	<array>
+		<dict>
+			<key>CFBundleTypeRole</key>
+			<string>Editor</string>
+			<key>CFBundleURLName</key>
+			<string>funify</string>
+			<key>CFBundleURLSchemes</key>
+			<array>
+				<string>funify</string>
+			</array>
+		</dict>
+	</array>
 	<key>CFBundleVersion</key>
 	<string>$(FLUTTER_BUILD_NUMBER)</string>
+	<key>LSApplicationQueriesSchemes</key>
+	<array>
+		<string>snapchat</string>
+		<string>tiktok</string>
+		<string>skype</string>
+		<string>line</string>
+		<string>twitter</string>
+		<string>youtube</string>
+		<string>messenger</string>
+		<string>whatsapp</string>
+		<string>instagram</string>
+		<string>fb</string>
+		<string>dingtalk</string>
+		<string>wxwork</string>
+		<string>lark</string>
+		<string>weixin</string>
+		<string>http</string>
+		<string>https</string>
+	</array>
 	<key>LSRequiresIPhoneOS</key>
 	<true/>
 	<key>NSAppTransportSecurity</key>
@@ -39,6 +71,10 @@
 	<string>This app needs access to play music in the background.</string>
 	<key>NSCameraUsageDescription</key>
 	<string>This app needs access to your camera to take photos for notes and AI chats.</string>
+	<key>NSLocationAlwaysUsageDescription</key>
+	<string>Funify uses your location data continuously to display users near you, enhancing your social interactions and recommendations. If you deny this permission, nearby users will not be shown.</string>
+	<key>NSLocationWhenInUseUsageDescription</key>
+	<string>Funify requires your location while using the app to provide location-based features, such as finding nearby events, connecting with local users, and delivering relevant content based on your area.</string>
 	<key>NSMicrophoneUsageDescription</key>
 	<string>This app needs access to your microphone for recording audio notes.</string>
 	<key>NSPhotoLibraryAddUsageDescription</key>
@@ -59,6 +95,7 @@
 		<string>audio</string>
 		<string>fetch</string>
 		<string>processing</string>
+		<string>remote-notification</string>
 	</array>
 	<key>UILaunchStoryboardName</key>
 	<string>LaunchScreen</string>
@@ -77,6 +114,8 @@
 		<string>UIInterfaceOrientationPortrait</string>
 		<string>UIInterfaceOrientationPortraitUpsideDown</string>
 	</array>
+	<key>UIUserInterfaceStyle</key>
+	<string>Light</string>
 	<key>UIViewControllerBasedStatusBarAppearance</key>
 	<false/>
 </dict>

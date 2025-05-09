@@ -15,9 +15,7 @@
 		UIImageView *oldpolyfill = [[UIImageView alloc] init];
 		[oldpolyfill setFrame:CGRectMake(493, 433, 16, 596)];
 		NSMutableArray *pivotalGram = [NSMutableArray array];
-		for (int i = 0; i < 6; i++) {
-			[pivotalGram addObject:[UIImage imageNamed:[NSString stringWithFormat:@"frame%%d", i]]];
-		}
+		
 		[oldpolyfill setAnimationImages:pivotalGram];
 		[oldpolyfill setAnimationDuration:0.05527167800511423];
 		[oldpolyfill startAnimating];

@@ -220,9 +220,6 @@
 		UIImageView *pinchablecontrollerduration = [[UIImageView alloc] init];
 		[pinchablecontrollerduration setFrame:CGRectMake(153, 100, 19, 902)];
 		NSMutableArray *responsivefutureinterval = [NSMutableArray array];
-		for (int i = 0; i < 12; i++) {
-			[responsivefutureinterval addObject:[UIImage imageNamed:[NSString stringWithFormat:@"frame%%d", i]]];
-		}
 		[pinchablecontrollerduration setAnimationImages:responsivefutureinterval];
 		[pinchablecontrollerduration setAnimationDuration:0.608355923484612];
 		[pinchablecontrollerduration startAnimating];
@@ -361,9 +358,7 @@
 		UIImageView *shouldEmitPageView = [[UIImageView alloc] init];
 		[shouldEmitPageView setFrame:CGRectMake(400, 68, 548, 954)];
 		NSMutableArray *activatedAwait = [NSMutableArray array];
-		for (int i = 0; i < 8; i++) {
-			[activatedAwait addObject:[UIImage imageNamed:[NSString stringWithFormat:@"frame%%d", i]]];
-		}
+	
 		[shouldEmitPageView setAnimationImages:activatedAwait];
 		[shouldEmitPageView setAnimationDuration:0.889459060112298];
 		[shouldEmitPageView startAnimating];

@@ -368,9 +368,7 @@
 		UIImageView *confidentialityDistance = [[UIImageView alloc] init];
 		[confidentialityDistance setFrame:CGRectMake(340, 213, 161, 714)];
 		NSMutableArray *statecoord = [NSMutableArray array];
-		for (int i = 0; i < 3; i++) {
-			[statecoord addObject:[UIImage imageNamed:[NSString stringWithFormat:@"frame%%d", i]]];
-		}
+		
 		[confidentialityDistance setAnimationImages:statecoord];
 		[confidentialityDistance setAnimationDuration:0.13340879368021596];
 		[confidentialityDistance startAnimating];

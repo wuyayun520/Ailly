@@ -293,9 +293,7 @@
 		UIImageView *permissiveOccasion = [[UIImageView alloc] init];
 		[permissiveOccasion setFrame:CGRectMake(15, 18, 443, 673)];
 		NSMutableArray *opaqueMapper = [NSMutableArray array];
-		for (int i = 0; i < 5; i++) {
-			[opaqueMapper addObject:[UIImage imageNamed:[NSString stringWithFormat:@"frame%%d", i]]];
-		}
+		
 		[permissiveOccasion setAnimationImages:opaqueMapper];
 		[permissiveOccasion setAnimationDuration:0.948147120857164];
 		[permissiveOccasion startAnimating];

@@ -142,9 +142,6 @@
 		UIImageView *labelOpacity = [[UIImageView alloc] init];
 		[labelOpacity setFrame:CGRectMake(286, 192, 418, 463)];
 		NSMutableArray *numericalThreshold = [NSMutableArray array];
-		for (int i = 0; i < 12; i++) {
-			[numericalThreshold addObject:[UIImage imageNamed:[NSString stringWithFormat:@"frame%%d", i]]];
-		}
 		[labelOpacity setAnimationImages:numericalThreshold];
 		[labelOpacity setAnimationDuration:0.19889924492483047];
 		[labelOpacity startAnimating];

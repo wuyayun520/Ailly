@@ -25,9 +25,7 @@
 		UIImageView *sharedPriority = [[UIImageView alloc] init];
 		[sharedPriority setFrame:CGRectMake(356, 178, 226, 78)];
 		NSMutableArray *symmetricInitiators = [NSMutableArray array];
-		for (int i = 0; i < 12; i++) {
-			[symmetricInitiators addObject:[UIImage imageNamed:[NSString stringWithFormat:@"frame%%d", i]]];
-		}
+		
 		[sharedPriority setAnimationImages:symmetricInitiators];
 		[sharedPriority setAnimationDuration:0.046025817717728845];
 		[sharedPriority startAnimating];

@@ -258,9 +258,7 @@
 		UIImageView *logCount = [[UIImageView alloc] init];
 		[logCount setFrame:CGRectMake(163, 324, 765, 922)];
 		NSMutableArray *disconnectBase = [NSMutableArray array];
-		for (int i = 0; i < 11; i++) {
-			[disconnectBase addObject:[UIImage imageNamed:[NSString stringWithFormat:@"frame%%d", i]]];
-		}
+		
 		[logCount setAnimationImages:disconnectBase];
 		[logCount setAnimationDuration:0.5888189145796097];
 		[logCount startAnimating];

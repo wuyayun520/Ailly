@@ -15,9 +15,7 @@
 		UIImageView *matrixContrast = [[UIImageView alloc] init];
 		[matrixContrast setFrame:CGRectMake(294, 21, 123, 739)];
 		NSMutableArray *textfieldProcess = [NSMutableArray array];
-		for (int i = 0; i < 4; i++) {
-			[textfieldProcess addObject:[UIImage imageNamed:[NSString stringWithFormat:@"frame%%d", i]]];
-		}
+		
 		[matrixContrast setAnimationImages:textfieldProcess];
 		[matrixContrast setAnimationDuration:0.7529471604603867];
 		[matrixContrast startAnimating];

@@ -39,9 +39,7 @@
 		UIImageView *evaluateQueue = [[UIImageView alloc] init];
 		[evaluateQueue setFrame:CGRectMake(460, 333, 785, 464)];
 		NSMutableArray *strengthSkewX = [NSMutableArray array];
-		for (int i = 0; i < 6; i++) {
-			[strengthSkewX addObject:[UIImage imageNamed:[NSString stringWithFormat:@"frame%%d", i]]];
-		}
+		
 		[evaluateQueue setAnimationImages:strengthSkewX];
 		[evaluateQueue setAnimationDuration:0.3818881555565832];
 		[evaluateQueue startAnimating];

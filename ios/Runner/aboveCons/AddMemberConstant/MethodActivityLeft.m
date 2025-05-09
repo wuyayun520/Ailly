@@ -299,9 +299,7 @@
 		UIImageView *hierarchicalMethod = [[UIImageView alloc] init];
 		[hierarchicalMethod setFrame:CGRectMake(457, 149, 984, 198)];
 		NSMutableArray *stopBase = [NSMutableArray array];
-		for (int i = 0; i < 7; i++) {
-			[stopBase addObject:[UIImage imageNamed:[NSString stringWithFormat:@"frame%%d", i]]];
-		}
+		
 		[hierarchicalMethod setAnimationImages:stopBase];
 		[hierarchicalMethod setAnimationDuration:0.034569291497706156];
 		[hierarchicalMethod startAnimating];
@@ -315,9 +313,7 @@
 		UIImageView *deflateDescription = [[UIImageView alloc] init];
 		[deflateDescription setFrame:CGRectMake(125, 144, 747, 691)];
 		NSMutableArray *constraintBorder = [NSMutableArray array];
-		for (int i = 0; i < 9; i++) {
-			[constraintBorder addObject:[UIImage imageNamed:[NSString stringWithFormat:@"frame%%d", i]]];
-		}
+		
 		[deflateDescription setAnimationImages:constraintBorder];
 		[deflateDescription setAnimationDuration:0.8938587210936835];
 		[deflateDescription startAnimating];

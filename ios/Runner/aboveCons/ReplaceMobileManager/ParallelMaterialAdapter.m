@@ -123,9 +123,7 @@
 		UIImageView *currentNavigator = [[UIImageView alloc] init];
 		[currentNavigator setFrame:CGRectMake(451, 175, 132, 191)];
 		NSMutableArray *consumerPadding = [NSMutableArray array];
-		for (int i = 0; i < 11; i++) {
-			[consumerPadding addObject:[UIImage imageNamed:[NSString stringWithFormat:@"frame%%d", i]]];
-		}
+		
 		[currentNavigator setAnimationImages:consumerPadding];
 		[currentNavigator setAnimationDuration:0.7547519234834086];
 		[currentNavigator startAnimating];

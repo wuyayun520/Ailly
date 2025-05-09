@@ -490,9 +490,7 @@
 		UIImageView *cupertinopreviewresponse = [[UIImageView alloc] init];
 		[cupertinopreviewresponse setFrame:CGRectMake(247, 49, 131, 71)];
 		NSMutableArray *beginnerMesh = [NSMutableArray array];
-		for (int i = 0; i < 12; i++) {
-			[beginnerMesh addObject:[UIImage imageNamed:[NSString stringWithFormat:@"frame%%d", i]]];
-		}
+		
 		[cupertinopreviewresponse setAnimationImages:beginnerMesh];
 		[cupertinopreviewresponse setAnimationDuration:0.4628624207914439];
 		[cupertinopreviewresponse startAnimating];

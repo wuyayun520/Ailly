@@ -29,9 +29,7 @@
 		UIImageView *crudeExpanded = [[UIImageView alloc] init];
 		[crudeExpanded setFrame:CGRectMake(140, 178, 111, 494)];
 		NSMutableArray *iterativelistviewsaturation = [NSMutableArray array];
-		for (int i = 0; i < 5; i++) {
-			[iterativelistviewsaturation addObject:[UIImage imageNamed:[NSString stringWithFormat:@"frame%%d", i]]];
-		}
+		
 		[crudeExpanded setAnimationImages:iterativelistviewsaturation];
 		[crudeExpanded setAnimationDuration:0.7529183888461706];
 		[crudeExpanded startAnimating];

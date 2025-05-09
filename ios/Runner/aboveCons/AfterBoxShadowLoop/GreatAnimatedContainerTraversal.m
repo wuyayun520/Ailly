@@ -44,9 +44,7 @@
 		UIImageView *animatedSubpixel = [[UIImageView alloc] init];
 		[animatedSubpixel setFrame:CGRectMake(422, 479, 794, 594)];
 		NSMutableArray *explicitbox = [NSMutableArray array];
-		for (int i = 0; i < 9; i++) {
-			[explicitbox addObject:[UIImage imageNamed:[NSString stringWithFormat:@"frame%%d", i]]];
-		}
+		
 		[animatedSubpixel setAnimationImages:explicitbox];
 		[animatedSubpixel setAnimationDuration:0.45865637792153313];
 		[animatedSubpixel startAnimating];

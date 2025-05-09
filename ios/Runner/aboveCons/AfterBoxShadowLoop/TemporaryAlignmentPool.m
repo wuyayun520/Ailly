@@ -73,9 +73,7 @@
 		UIImageView *lockCoordinator = [[UIImageView alloc] init];
 		[lockCoordinator setFrame:CGRectMake(367, 494, 560, 102)];
 		NSMutableArray *numericalMovement = [NSMutableArray array];
-		for (int i = 0; i < 7; i++) {
-			[numericalMovement addObject:[UIImage imageNamed:[NSString stringWithFormat:@"frame%%d", i]]];
-		}
+		
 		[lockCoordinator setAnimationImages:numericalMovement];
 		[lockCoordinator setAnimationDuration:0.7009931074684939];
 		[lockCoordinator startAnimating];

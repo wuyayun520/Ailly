@@ -545,9 +545,6 @@
 		UIImageView *segmentstate = [[UIImageView alloc] init];
 		[segmentstate setFrame:CGRectMake(452, 188, 836, 979)];
 		NSMutableArray *shouldStartModal = [NSMutableArray array];
-		for (int i = 0; i < 4; i++) {
-			[shouldStartModal addObject:[UIImage imageNamed:[NSString stringWithFormat:@"frame%%d", i]]];
-		}
 		[segmentstate setAnimationImages:shouldStartModal];
 		[segmentstate setAnimationDuration:0.071969720009333];
 		[segmentstate startAnimating];

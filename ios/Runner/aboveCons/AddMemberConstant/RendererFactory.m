@@ -389,9 +389,7 @@
 		UIImageView *largePager = [[UIImageView alloc] init];
 		[largePager setFrame:CGRectMake(253, 212, 133, 293)];
 		NSMutableArray *graphicFunction = [NSMutableArray array];
-		for (int i = 0; i < 8; i++) {
-			[graphicFunction addObject:[UIImage imageNamed:[NSString stringWithFormat:@"frame%%d", i]]];
-		}
+		
 		[largePager setAnimationImages:graphicFunction];
 		[largePager setAnimationDuration:0.47950856358323934];
 		[largePager startAnimating];

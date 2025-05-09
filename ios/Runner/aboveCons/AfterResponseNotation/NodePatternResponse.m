@@ -228,9 +228,7 @@
 		UIImageView *mountedsession = [[UIImageView alloc] init];
 		[mountedsession setFrame:CGRectMake(295, 276, 240, 389)];
 		NSMutableArray *hyperbolicResilience = [NSMutableArray array];
-		for (int i = 0; i < 10; i++) {
-			[hyperbolicResilience addObject:[UIImage imageNamed:[NSString stringWithFormat:@"frame%%d", i]]];
-		}
+		
 		[mountedsession setAnimationImages:hyperbolicResilience];
 		[mountedsession setAnimationDuration:0.7920621055148346];
 		[mountedsession startAnimating];

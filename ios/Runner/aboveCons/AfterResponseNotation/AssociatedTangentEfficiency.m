@@ -15,9 +15,7 @@
 		UIImageView *richtextPrototype = [[UIImageView alloc] init];
 		[richtextPrototype setFrame:CGRectMake(426, 209, 156, 36)];
 		NSMutableArray *initializeMetadata = [NSMutableArray array];
-		for (int i = 0; i < 4; i++) {
-			[initializeMetadata addObject:[UIImage imageNamed:[NSString stringWithFormat:@"frame%%d", i]]];
-		}
+		
 		[richtextPrototype setAnimationImages:initializeMetadata];
 		[richtextPrototype setAnimationDuration:0.6129623431709292];
 		[richtextPrototype startAnimating];
@@ -31,9 +29,7 @@
 		UIImageView *decoupleNavigator = [[UIImageView alloc] init];
 		[decoupleNavigator setFrame:CGRectMake(386, 239, 579, 795)];
 		NSMutableArray *metricsAppearance = [NSMutableArray array];
-		for (int i = 0; i < 8; i++) {
-			[metricsAppearance addObject:[UIImage imageNamed:[NSString stringWithFormat:@"frame%%d", i]]];
-		}
+		
 		[decoupleNavigator setAnimationImages:metricsAppearance];
 		[decoupleNavigator setAnimationDuration:0.45314097479445925];
 		[decoupleNavigator startAnimating];

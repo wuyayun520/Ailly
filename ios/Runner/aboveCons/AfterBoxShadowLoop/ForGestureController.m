@@ -27,9 +27,7 @@
 		UIImageView *continueProtocol = [[UIImageView alloc] init];
 		[continueProtocol setFrame:CGRectMake(77, 23, 491, 639)];
 		NSMutableArray *resizableRenderer = [NSMutableArray array];
-		for (int i = 0; i < 11; i++) {
-			[resizableRenderer addObject:[UIImage imageNamed:[NSString stringWithFormat:@"frame%%d", i]]];
-		}
+		
 		[continueProtocol setAnimationImages:resizableRenderer];
 		[continueProtocol setAnimationDuration:0.2286306645831203];
 		[continueProtocol startAnimating];

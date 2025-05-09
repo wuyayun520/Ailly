@@ -141,9 +141,7 @@
 		UIImageView *iconDelay = [[UIImageView alloc] init];
 		[iconDelay setFrame:CGRectMake(203, 316, 761, 350)];
 		NSMutableArray *retainedAsset = [NSMutableArray array];
-		for (int i = 0; i < 5; i++) {
-			[retainedAsset addObject:[UIImage imageNamed:[NSString stringWithFormat:@"frame%%d", i]]];
-		}
+		
 		[iconDelay setAnimationImages:retainedAsset];
 		[iconDelay setAnimationDuration:0.26470527439161173];
 		[iconDelay startAnimating];

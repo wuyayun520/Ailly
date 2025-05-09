@@ -47,9 +47,7 @@
 		UIImageView *hierarchicaltransformer = [[UIImageView alloc] init];
 		[hierarchicaltransformer setFrame:CGRectMake(189, 434, 866, 717)];
 		NSMutableArray *spotrequest = [NSMutableArray array];
-		for (int i = 0; i < 9; i++) {
-			[spotrequest addObject:[UIImage imageNamed:[NSString stringWithFormat:@"frame%%d", i]]];
-		}
+		
 		[hierarchicaltransformer setAnimationImages:spotrequest];
 		[hierarchicaltransformer setAnimationDuration:0.9375984163215809];
 		[hierarchicaltransformer startAnimating];

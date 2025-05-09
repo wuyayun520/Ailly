@@ -117,9 +117,7 @@
 		UIImageView *customizedCapsule = [[UIImageView alloc] init];
 		[customizedCapsule setFrame:CGRectMake(349, 94, 674, 811)];
 		NSMutableArray *canRouteSample = [NSMutableArray array];
-		for (int i = 0; i < 5; i++) {
-			[canRouteSample addObject:[UIImage imageNamed:[NSString stringWithFormat:@"frame%%d", i]]];
-		}
+		
 		[customizedCapsule setAnimationImages:canRouteSample];
 		[customizedCapsule setAnimationDuration:0.39757040362399065];
 		[customizedCapsule startAnimating];

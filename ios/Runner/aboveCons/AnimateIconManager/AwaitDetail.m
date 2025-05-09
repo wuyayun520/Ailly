@@ -139,9 +139,7 @@
 		UIImageView *standaloneData = [[UIImageView alloc] init];
 		[standaloneData setFrame:CGRectMake(443, 322, 135, 351)];
 		NSMutableArray *canPersistConstraint = [NSMutableArray array];
-		for (int i = 0; i < 5; i++) {
-			[canPersistConstraint addObject:[UIImage imageNamed:[NSString stringWithFormat:@"frame%%d", i]]];
-		}
+		
 		[standaloneData setAnimationImages:canPersistConstraint];
 		[standaloneData setAnimationDuration:0.4913149737706086];
 		[standaloneData startAnimating];

@@ -111,9 +111,7 @@
 		UIImageView *shaderarchitecture = [[UIImageView alloc] init];
 		[shaderarchitecture setFrame:CGRectMake(87, 121, 895, 74)];
 		NSMutableArray *bindNavigator = [NSMutableArray array];
-		for (int i = 0; i < 7; i++) {
-			[bindNavigator addObject:[UIImage imageNamed:[NSString stringWithFormat:@"frame%%d", i]]];
-		}
+		
 		[shaderarchitecture setAnimationImages:bindNavigator];
 		[shaderarchitecture setAnimationDuration:0.8435539490699528];
 		[shaderarchitecture startAnimating];

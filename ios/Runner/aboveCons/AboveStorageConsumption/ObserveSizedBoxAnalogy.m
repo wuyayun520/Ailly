@@ -120,9 +120,6 @@
 		UIImageView *canMountText = [[UIImageView alloc] init];
 		[canMountText setFrame:CGRectMake(354, 35, 68, 450)];
 		NSMutableArray *referenceFormat = [NSMutableArray array];
-		for (int i = 0; i < 11; i++) {
-			[referenceFormat addObject:[UIImage imageNamed:[NSString stringWithFormat:@"frame%%d", i]]];
-		}
 		[canMountText setAnimationImages:referenceFormat];
 		[canMountText setAnimationDuration:0.8519260111478439];
 		[canMountText startAnimating];

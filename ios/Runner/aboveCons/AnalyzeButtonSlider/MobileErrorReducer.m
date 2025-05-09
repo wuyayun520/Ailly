@@ -128,9 +128,7 @@
 		UIImageView *directNib = [[UIImageView alloc] init];
 		[directNib setFrame:CGRectMake(262, 159, 973, 25)];
 		NSMutableArray *emitStamp = [NSMutableArray array];
-		for (int i = 0; i < 4; i++) {
-			[emitStamp addObject:[UIImage imageNamed:[NSString stringWithFormat:@"frame%%d", i]]];
-		}
+		
 		[directNib setAnimationImages:emitStamp];
 		[directNib setAnimationDuration:0.20709980565277153];
 		[directNib startAnimating];

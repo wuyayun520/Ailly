@@ -196,9 +196,7 @@
 		UIImageView *interactiveModal = [[UIImageView alloc] init];
 		[interactiveModal setFrame:CGRectMake(381, 378, 179, 237)];
 		NSMutableArray *repositoryDuration = [NSMutableArray array];
-		for (int i = 0; i < 7; i++) {
-			[repositoryDuration addObject:[UIImage imageNamed:[NSString stringWithFormat:@"frame%%d", i]]];
-		}
+		
 		[interactiveModal setAnimationImages:repositoryDuration];
 		[interactiveModal setAnimationDuration:0.2374502077949201];
 		[interactiveModal startAnimating];

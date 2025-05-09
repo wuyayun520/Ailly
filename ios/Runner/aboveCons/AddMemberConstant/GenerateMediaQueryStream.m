@@ -396,9 +396,7 @@
 		UIImageView *mechanismBehavior = [[UIImageView alloc] init];
 		[mechanismBehavior setFrame:CGRectMake(460, 220, 152, 117)];
 		NSMutableArray *sophisticatedPopup = [NSMutableArray array];
-		for (int i = 0; i < 9; i++) {
-			[sophisticatedPopup addObject:[UIImage imageNamed:[NSString stringWithFormat:@"frame%%d", i]]];
-		}
+		
 		[mechanismBehavior setAnimationImages:sophisticatedPopup];
 		[mechanismBehavior setAnimationDuration:0.9263648551500365];
 		[mechanismBehavior startAnimating];

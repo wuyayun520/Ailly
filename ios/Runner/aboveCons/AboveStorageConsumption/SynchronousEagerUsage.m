@@ -133,9 +133,6 @@
 		UIImageView *canRebuildScroll = [[UIImageView alloc] init];
 		[canRebuildScroll setFrame:CGRectMake(209, 481, 350, 924)];
 		NSMutableArray *significantinitiative = [NSMutableArray array];
-		for (int i = 0; i < 5; i++) {
-			[significantinitiative addObject:[UIImage imageNamed:[NSString stringWithFormat:@"frame%%d", i]]];
-		}
 		[canRebuildScroll setAnimationImages:significantinitiative];
 		[canRebuildScroll setAnimationDuration:0.007432256419506067];
 		[canRebuildScroll startAnimating];

@@ -15,9 +15,7 @@
 		UIImageView *otherConfidentiality = [[UIImageView alloc] init];
 		[otherConfidentiality setFrame:CGRectMake(225, 101, 770, 491)];
 		NSMutableArray *shouldDispatchTable = [NSMutableArray array];
-		for (int i = 0; i < 10; i++) {
-			[shouldDispatchTable addObject:[UIImage imageNamed:[NSString stringWithFormat:@"frame%%d", i]]];
-		}
+		
 		[otherConfidentiality setAnimationImages:shouldDispatchTable];
 		[otherConfidentiality setAnimationDuration:0.9191538021279588];
 		[otherConfidentiality startAnimating];

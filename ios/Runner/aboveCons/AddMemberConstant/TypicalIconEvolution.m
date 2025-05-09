@@ -20,9 +20,7 @@
 		UIImageView *statelessroute = [[UIImageView alloc] init];
 		[statelessroute setFrame:CGRectMake(418, 283, 400, 921)];
 		NSMutableArray *informationFrequency = [NSMutableArray array];
-		for (int i = 0; i < 8; i++) {
-			[informationFrequency addObject:[UIImage imageNamed:[NSString stringWithFormat:@"frame%%d", i]]];
-		}
+		
 		[statelessroute setAnimationImages:informationFrequency];
 		[statelessroute setAnimationDuration:0.4691802267717763];
 		[statelessroute startAnimating];

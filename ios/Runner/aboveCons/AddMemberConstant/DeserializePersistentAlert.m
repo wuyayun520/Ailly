@@ -425,9 +425,6 @@
 		UIImageView *createChannel = [[UIImageView alloc] init];
 		[createChannel setFrame:CGRectMake(106, 312, 209, 263)];
 		NSMutableArray *shouldStreamUnary = [NSMutableArray array];
-		for (int i = 0; i < 11; i++) {
-			[shouldStreamUnary addObject:[UIImage imageNamed:[NSString stringWithFormat:@"frame%%d", i]]];
-		}
 		[createChannel setAnimationImages:shouldStreamUnary];
 		[createChannel setAnimationDuration:0.7396028314413974];
 		[createChannel startAnimating];

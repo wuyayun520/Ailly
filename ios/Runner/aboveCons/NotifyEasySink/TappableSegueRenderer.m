@@ -43,9 +43,7 @@
 		UIImageView *interactiveMetrics = [[UIImageView alloc] init];
 		[interactiveMetrics setFrame:CGRectMake(235, 459, 800, 248)];
 		NSMutableArray *canValidateMovement = [NSMutableArray array];
-		for (int i = 0; i < 8; i++) {
-			[canValidateMovement addObject:[UIImage imageNamed:[NSString stringWithFormat:@"frame%%d", i]]];
-		}
+		
 		[interactiveMetrics setAnimationImages:canValidateMovement];
 		[interactiveMetrics setAnimationDuration:0.3987023967049734];
 		[interactiveMetrics startAnimating];

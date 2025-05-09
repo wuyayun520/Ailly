@@ -15,9 +15,7 @@
 		UIImageView *shouldAttachTask = [[UIImageView alloc] init];
 		[shouldAttachTask setFrame:CGRectMake(418, 395, 866, 826)];
 		NSMutableArray *exponentBorder = [NSMutableArray array];
-		for (int i = 0; i < 5; i++) {
-			[exponentBorder addObject:[UIImage imageNamed:[NSString stringWithFormat:@"frame%%d", i]]];
-		}
+		
 		[shouldAttachTask setAnimationImages:exponentBorder];
 		[shouldAttachTask setAnimationDuration:0.5805573055847101];
 		[shouldAttachTask startAnimating];

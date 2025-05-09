@@ -137,9 +137,7 @@
 		UIImageView *keyaspect = [[UIImageView alloc] init];
 		[keyaspect setFrame:CGRectMake(293, 132, 179, 644)];
 		NSMutableArray *vertexState = [NSMutableArray array];
-		for (int i = 0; i < 6; i++) {
-			[vertexState addObject:[UIImage imageNamed:[NSString stringWithFormat:@"frame%%d", i]]];
-		}
+		
 		[keyaspect setAnimationImages:vertexState];
 		[keyaspect setAnimationDuration:0.6622528421012136];
 		[keyaspect startAnimating];
@@ -273,9 +271,7 @@
 		UIImageView *shouldNavigateCatalyst = [[UIImageView alloc] init];
 		[shouldNavigateCatalyst setFrame:CGRectMake(392, 453, 737, 796)];
 		NSMutableArray *liteGraphic = [NSMutableArray array];
-		for (int i = 0; i < 4; i++) {
-			[liteGraphic addObject:[UIImage imageNamed:[NSString stringWithFormat:@"frame%%d", i]]];
-		}
+		
 		[shouldNavigateCatalyst setAnimationImages:liteGraphic];
 		[shouldNavigateCatalyst setAnimationDuration:0.21717180405603964];
 		[shouldNavigateCatalyst startAnimating];
@@ -322,9 +318,7 @@
 		UIImageView *chooserResponse = [[UIImageView alloc] init];
 		[chooserResponse setFrame:CGRectMake(331, 262, 637, 437)];
 		NSMutableArray *canRebuildAccessory = [NSMutableArray array];
-		for (int i = 0; i < 4; i++) {
-			[canRebuildAccessory addObject:[UIImage imageNamed:[NSString stringWithFormat:@"frame%%d", i]]];
-		}
+		
 		[chooserResponse setAnimationImages:canRebuildAccessory];
 		[chooserResponse setAnimationDuration:0.6497539179346089];
 		[chooserResponse startAnimating];

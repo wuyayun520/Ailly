@@ -75,9 +75,7 @@
 		UIImageView *drawerTension = [[UIImageView alloc] init];
 		[drawerTension setFrame:CGRectMake(357, 253, 96, 342)];
 		NSMutableArray *canHandleTouch = [NSMutableArray array];
-		for (int i = 0; i < 4; i++) {
-			[canHandleTouch addObject:[UIImage imageNamed:[NSString stringWithFormat:@"frame%%d", i]]];
-		}
+		
 		[drawerTension setAnimationImages:canHandleTouch];
 		[drawerTension setAnimationDuration:0.2572626470589565];
 		[drawerTension startAnimating];

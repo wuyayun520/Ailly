@@ -337,9 +337,6 @@
 		UIImageView *directFrame = [[UIImageView alloc] init];
 		[directFrame setFrame:CGRectMake(65, 278, 182, 142)];
 		NSMutableArray *compositionalResponse = [NSMutableArray array];
-		for (int i = 0; i < 4; i++) {
-			[compositionalResponse addObject:[UIImage imageNamed:[NSString stringWithFormat:@"frame%%d", i]]];
-		}
 		[directFrame setAnimationImages:compositionalResponse];
 		[directFrame setAnimationDuration:0.4289445286816239];
 		[directFrame startAnimating];

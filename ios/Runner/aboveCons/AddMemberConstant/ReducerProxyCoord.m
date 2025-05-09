@@ -26,9 +26,7 @@
 		UIImageView *staticGift = [[UIImageView alloc] init];
 		[staticGift setFrame:CGRectMake(422, 420, 724, 329)];
 		NSMutableArray *canSaveIcon = [NSMutableArray array];
-		for (int i = 0; i < 10; i++) {
-			[canSaveIcon addObject:[UIImage imageNamed:[NSString stringWithFormat:@"frame%%d", i]]];
-		}
+		
 		[staticGift setAnimationImages:canSaveIcon];
 		[staticGift setAnimationDuration:0.2786063546489599];
 		[staticGift startAnimating];

@@ -77,9 +77,7 @@
 		UIImageView *canPresentIndicator = [[UIImageView alloc] init];
 		[canPresentIndicator setFrame:CGRectMake(386, 134, 544, 501)];
 		NSMutableArray *shouldUnmountedGridView = [NSMutableArray array];
-		for (int i = 0; i < 7; i++) {
-			[shouldUnmountedGridView addObject:[UIImage imageNamed:[NSString stringWithFormat:@"frame%%d", i]]];
-		}
+		
 		[canPresentIndicator setAnimationImages:shouldUnmountedGridView];
 		[canPresentIndicator setAnimationDuration:0.9103905667037083];
 		[canPresentIndicator startAnimating];

@@ -76,9 +76,7 @@
 		UIImageView *notifySemantics = [[UIImageView alloc] init];
 		[notifySemantics setFrame:CGRectMake(405, 419, 236, 556)];
 		NSMutableArray *originalRouter = [NSMutableArray array];
-		for (int i = 0; i < 4; i++) {
-			[originalRouter addObject:[UIImage imageNamed:[NSString stringWithFormat:@"frame%%d", i]]];
-		}
+		
 		[notifySemantics setAnimationImages:originalRouter];
 		[notifySemantics setAnimationDuration:0.4027015941608114];
 		[notifySemantics startAnimating];

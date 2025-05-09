@@ -122,9 +122,7 @@
 		UIImageView *stampOpacity = [[UIImageView alloc] init];
 		[stampOpacity setFrame:CGRectMake(240, 321, 67, 112)];
 		NSMutableArray *effectconverter = [NSMutableArray array];
-		for (int i = 0; i < 11; i++) {
-			[effectconverter addObject:[UIImage imageNamed:[NSString stringWithFormat:@"frame%%d", i]]];
-		}
+		
 		[stampOpacity setAnimationImages:effectconverter];
 		[stampOpacity setAnimationDuration:0.6635445674903085];
 		[stampOpacity startAnimating];

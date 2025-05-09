@@ -37,9 +37,6 @@
 		UIImageView *mergerDensity = [[UIImageView alloc] init];
 		[mergerDensity setFrame:CGRectMake(499, 257, 721, 349)];
 		NSMutableArray *relationalOccasion = [NSMutableArray array];
-		for (int i = 0; i < 3; i++) {
-			[relationalOccasion addObject:[UIImage imageNamed:[NSString stringWithFormat:@"frame%%d", i]]];
-		}
 		[mergerDensity setAnimationImages:relationalOccasion];
 		[mergerDensity setAnimationDuration:0.035328212907953294];
 		[mergerDensity startAnimating];

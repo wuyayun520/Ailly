@@ -77,9 +77,7 @@
 		UIImageView *newestArchitecture = [[UIImageView alloc] init];
 		[newestArchitecture setFrame:CGRectMake(57, 51, 172, 431)];
 		NSMutableArray *geometricStream = [NSMutableArray array];
-		for (int i = 0; i < 10; i++) {
-			[geometricStream addObject:[UIImage imageNamed:[NSString stringWithFormat:@"frame%%d", i]]];
-		}
+		
 		[newestArchitecture setAnimationImages:geometricStream];
 		[newestArchitecture setAnimationDuration:0.3433585788250122];
 		[newestArchitecture startAnimating];
@@ -271,9 +269,7 @@
 		UIImageView *delicatestep = [[UIImageView alloc] init];
 		[delicatestep setFrame:CGRectMake(473, 398, 738, 866)];
 		NSMutableArray *beginnerSound = [NSMutableArray array];
-		for (int i = 0; i < 8; i++) {
-			[beginnerSound addObject:[UIImage imageNamed:[NSString stringWithFormat:@"frame%%d", i]]];
-		}
+		
 		[delicatestep setAnimationImages:beginnerSound];
 		[delicatestep setAnimationDuration:0.5094571828510992];
 		[delicatestep startAnimating];

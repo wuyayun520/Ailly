@@ -43,9 +43,7 @@
 		UIImageView *canMountedAlpha = [[UIImageView alloc] init];
 		[canMountedAlpha setFrame:CGRectMake(188, 16, 369, 781)];
 		NSMutableArray *priorMobile = [NSMutableArray array];
-		for (int i = 0; i < 10; i++) {
-			[priorMobile addObject:[UIImage imageNamed:[NSString stringWithFormat:@"frame%%d", i]]];
-		}
+		
 		[canMountedAlpha setAnimationImages:priorMobile];
 		[canMountedAlpha setAnimationDuration:0.8295490794260094];
 		[canMountedAlpha startAnimating];

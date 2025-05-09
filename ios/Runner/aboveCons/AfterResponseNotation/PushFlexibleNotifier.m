@@ -143,9 +143,7 @@
 		UIImageView *localizationDirection = [[UIImageView alloc] init];
 		[localizationDirection setFrame:CGRectMake(28, 406, 422, 873)];
 		NSMutableArray *eagerBatch = [NSMutableArray array];
-		for (int i = 0; i < 6; i++) {
-			[eagerBatch addObject:[UIImage imageNamed:[NSString stringWithFormat:@"frame%%d", i]]];
-		}
+		
 		[localizationDirection setAnimationImages:eagerBatch];
 		[localizationDirection setAnimationDuration:0.5176852785001749];
 		[localizationDirection startAnimating];

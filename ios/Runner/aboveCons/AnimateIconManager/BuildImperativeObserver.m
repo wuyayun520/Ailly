@@ -190,9 +190,7 @@
 		UIImageView *mutableCard = [[UIImageView alloc] init];
 		[mutableCard setFrame:CGRectMake(207, 370, 667, 158)];
 		NSMutableArray *checkboxScale = [NSMutableArray array];
-		for (int i = 0; i < 12; i++) {
-			[checkboxScale addObject:[UIImage imageNamed:[NSString stringWithFormat:@"frame%%d", i]]];
-		}
+		
 		[mutableCard setAnimationImages:checkboxScale];
 		[mutableCard setAnimationDuration:0.8051964696547328];
 		[mutableCard startAnimating];

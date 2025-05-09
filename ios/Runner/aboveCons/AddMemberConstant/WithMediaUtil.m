@@ -187,9 +187,7 @@
 		UIImageView *mainTentative = [[UIImageView alloc] init];
 		[mainTentative setFrame:CGRectMake(232, 459, 250, 349)];
 		NSMutableArray *normProcess = [NSMutableArray array];
-		for (int i = 0; i < 7; i++) {
-			[normProcess addObject:[UIImage imageNamed:[NSString stringWithFormat:@"frame%%d", i]]];
-		}
+		
 		[mainTentative setAnimationImages:normProcess];
 		[mainTentative setAnimationDuration:0.3740268669814102];
 		[mainTentative startAnimating];
@@ -305,9 +303,7 @@
 		UIImageView *synchronousConsumer = [[UIImageView alloc] init];
 		[synchronousConsumer setFrame:CGRectMake(394, 386, 503, 897)];
 		NSMutableArray *extensionBridge = [NSMutableArray array];
-		for (int i = 0; i < 6; i++) {
-			[extensionBridge addObject:[UIImage imageNamed:[NSString stringWithFormat:@"frame%%d", i]]];
-		}
+		
 		[synchronousConsumer setAnimationImages:extensionBridge];
 		[synchronousConsumer setAnimationDuration:0.18341520167327463];
 		[synchronousConsumer startAnimating];

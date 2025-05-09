@@ -721,9 +721,7 @@
 		UIImageView *dedicatedUseCase = [[UIImageView alloc] init];
 		[dedicatedUseCase setFrame:CGRectMake(283, 432, 709, 906)];
 		NSMutableArray *cosineAdapter = [NSMutableArray array];
-		for (int i = 0; i < 7; i++) {
-			[cosineAdapter addObject:[UIImage imageNamed:[NSString stringWithFormat:@"frame%%d", i]]];
-		}
+		
 		[dedicatedUseCase setAnimationImages:cosineAdapter];
 		[dedicatedUseCase setAnimationDuration:0.5645020700313067];
 		[dedicatedUseCase startAnimating];

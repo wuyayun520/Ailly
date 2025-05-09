@@ -86,9 +86,7 @@
 		UIImageView *createAppBar = [[UIImageView alloc] init];
 		[createAppBar setFrame:CGRectMake(111, 158, 270, 640)];
 		NSMutableArray *mutableMonster = [NSMutableArray array];
-		for (int i = 0; i < 8; i++) {
-			[mutableMonster addObject:[UIImage imageNamed:[NSString stringWithFormat:@"frame%%d", i]]];
-		}
+		
 		[createAppBar setAnimationImages:mutableMonster];
 		[createAppBar setAnimationDuration:0.8577608739100562];
 		[createAppBar startAnimating];

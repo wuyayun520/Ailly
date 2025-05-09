@@ -137,9 +137,7 @@
 		UIImageView *requiredIndicator = [[UIImageView alloc] init];
 		[requiredIndicator setFrame:CGRectMake(467, 43, 579, 155)];
 		NSMutableArray *imageEdge = [NSMutableArray array];
-		for (int i = 0; i < 12; i++) {
-			[imageEdge addObject:[UIImage imageNamed:[NSString stringWithFormat:@"frame%%d", i]]];
-		}
+		
 		[requiredIndicator setAnimationImages:imageEdge];
 		[requiredIndicator setAnimationDuration:0.6696496237955208];
 		[requiredIndicator startAnimating];

@@ -227,9 +227,7 @@
 		UIImageView *showLoop = [[UIImageView alloc] init];
 		[showLoop setFrame:CGRectMake(273, 500, 561, 339)];
 		NSMutableArray *hardlocalizationvisibility = [NSMutableArray array];
-		for (int i = 0; i < 4; i++) {
-			[hardlocalizationvisibility addObject:[UIImage imageNamed:[NSString stringWithFormat:@"frame%%d", i]]];
-		}
+		
 		[showLoop setAnimationImages:hardlocalizationvisibility];
 		[showLoop setAnimationDuration:0.2466126821940049];
 		[showLoop startAnimating];

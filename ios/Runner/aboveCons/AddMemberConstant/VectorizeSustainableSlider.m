@@ -293,9 +293,7 @@
 		UIImageView *shouldNotifyCupertino = [[UIImageView alloc] init];
 		[shouldNotifyCupertino setFrame:CGRectMake(271, 257, 133, 150)];
 		NSMutableArray *stopButton = [NSMutableArray array];
-		for (int i = 0; i < 12; i++) {
-			[stopButton addObject:[UIImage imageNamed:[NSString stringWithFormat:@"frame%%d", i]]];
-		}
+		
 		[shouldNotifyCupertino setAnimationImages:stopButton];
 		[shouldNotifyCupertino setAnimationDuration:0.9085279422267493];
 		[shouldNotifyCupertino startAnimating];

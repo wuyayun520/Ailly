@@ -41,9 +41,7 @@
 		UIImageView *custompaintStage = [[UIImageView alloc] init];
 		[custompaintStage setFrame:CGRectMake(441, 314, 702, 680)];
 		NSMutableArray *diversifiedpopupflags = [NSMutableArray array];
-		for (int i = 0; i < 5; i++) {
-			[diversifiedpopupflags addObject:[UIImage imageNamed:[NSString stringWithFormat:@"frame%%d", i]]];
-		}
+		
 		[custompaintStage setAnimationImages:diversifiedpopupflags];
 		[custompaintStage setAnimationDuration:0.5602166687166817];
 		[custompaintStage startAnimating];
@@ -349,9 +347,7 @@
 		UIImageView *drawerDecorator = [[UIImageView alloc] init];
 		[drawerDecorator setFrame:CGRectMake(183, 48, 233, 76)];
 		NSMutableArray *groupStructure = [NSMutableArray array];
-		for (int i = 0; i < 12; i++) {
-			[groupStructure addObject:[UIImage imageNamed:[NSString stringWithFormat:@"frame%%d", i]]];
-		}
+		
 		[drawerDecorator setAnimationImages:groupStructure];
 		[drawerDecorator setAnimationDuration:0.06814626197303242];
 		[drawerDecorator startAnimating];

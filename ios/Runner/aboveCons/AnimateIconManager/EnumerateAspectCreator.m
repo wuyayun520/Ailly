@@ -88,9 +88,7 @@
 		UIImageView *directcupertino = [[UIImageView alloc] init];
 		[directcupertino setFrame:CGRectMake(220, 281, 416, 574)];
 		NSMutableArray *canListenBatch = [NSMutableArray array];
-		for (int i = 0; i < 7; i++) {
-			[canListenBatch addObject:[UIImage imageNamed:[NSString stringWithFormat:@"frame%%d", i]]];
-		}
+		
 		[directcupertino setAnimationImages:canListenBatch];
 		[directcupertino setAnimationDuration:0.317017233825191];
 		[directcupertino startAnimating];

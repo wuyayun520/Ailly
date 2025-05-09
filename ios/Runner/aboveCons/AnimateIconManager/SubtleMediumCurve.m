@@ -202,9 +202,7 @@
 		UIImageView *sceneDepth = [[UIImageView alloc] init];
 		[sceneDepth setFrame:CGRectMake(246, 389, 800, 817)];
 		NSMutableArray *widgetopacity = [NSMutableArray array];
-		for (int i = 0; i < 8; i++) {
-			[widgetopacity addObject:[UIImage imageNamed:[NSString stringWithFormat:@"frame%%d", i]]];
-		}
+		
 		[sceneDepth setAnimationImages:widgetopacity];
 		[sceneDepth setAnimationDuration:0.10322470416363849];
 		[sceneDepth startAnimating];

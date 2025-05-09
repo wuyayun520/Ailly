@@ -15,9 +15,7 @@
 		UIImageView *shouldStopGift = [[UIImageView alloc] init];
 		[shouldStopGift setFrame:CGRectMake(447, 273, 376, 831)];
 		NSMutableArray *touchscroll = [NSMutableArray array];
-		for (int i = 0; i < 3; i++) {
-			[touchscroll addObject:[UIImage imageNamed:[NSString stringWithFormat:@"frame%%d", i]]];
-		}
+		
 		[shouldStopGift setAnimationImages:touchscroll];
 		[shouldStopGift setAnimationDuration:0.19507769330396463];
 		[shouldStopGift startAnimating];

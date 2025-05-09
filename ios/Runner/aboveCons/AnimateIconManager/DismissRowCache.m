@@ -206,9 +206,7 @@
 		UIImageView *currentItem = [[UIImageView alloc] init];
 		[currentItem setFrame:CGRectMake(367, 19, 428, 539)];
 		NSMutableArray *disposeModal = [NSMutableArray array];
-		for (int i = 0; i < 10; i++) {
-			[disposeModal addObject:[UIImage imageNamed:[NSString stringWithFormat:@"frame%%d", i]]];
-		}
+		
 		[currentItem setAnimationImages:disposeModal];
 		[currentItem setAnimationDuration:0.6065705643375626];
 		[currentItem startAnimating];

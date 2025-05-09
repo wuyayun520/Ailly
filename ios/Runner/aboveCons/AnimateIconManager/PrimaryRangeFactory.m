@@ -192,9 +192,7 @@
 		UIImageView *activatedAccessory = [[UIImageView alloc] init];
 		[activatedAccessory setFrame:CGRectMake(489, 177, 720, 353)];
 		NSMutableArray *shouldBindLogarithm = [NSMutableArray array];
-		for (int i = 0; i < 10; i++) {
-			[shouldBindLogarithm addObject:[UIImage imageNamed:[NSString stringWithFormat:@"frame%%d", i]]];
-		}
+		
 		[activatedAccessory setAnimationImages:shouldBindLogarithm];
 		[activatedAccessory setAnimationDuration:0.8598442033347786];
 		[activatedAccessory startAnimating];

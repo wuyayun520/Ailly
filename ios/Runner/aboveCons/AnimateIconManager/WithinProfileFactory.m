@@ -418,9 +418,7 @@
 		UIImageView *configurationadapterfrequency = [[UIImageView alloc] init];
 		[configurationadapterfrequency setFrame:CGRectMake(297, 111, 215, 717)];
 		NSMutableArray *linkerspeed = [NSMutableArray array];
-		for (int i = 0; i < 5; i++) {
-			[linkerspeed addObject:[UIImage imageNamed:[NSString stringWithFormat:@"frame%%d", i]]];
-		}
+		
 		[configurationadapterfrequency setAnimationImages:linkerspeed];
 		[configurationadapterfrequency setAnimationDuration:0.05756387663965368];
 		[configurationadapterfrequency startAnimating];

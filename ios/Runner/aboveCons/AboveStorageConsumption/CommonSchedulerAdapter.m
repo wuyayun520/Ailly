@@ -182,9 +182,6 @@
 		UIImageView *tappableDisclaimer = [[UIImageView alloc] init];
 		[tappableDisclaimer setFrame:CGRectMake(432, 128, 751, 863)];
 		NSMutableArray *shouldshowstateless = [NSMutableArray array];
-		for (int i = 0; i < 5; i++) {
-			[shouldshowstateless addObject:[UIImage imageNamed:[NSString stringWithFormat:@"frame%%d", i]]];
-		}
 		[tappableDisclaimer setAnimationImages:shouldshowstateless];
 		[tappableDisclaimer setAnimationDuration:0.8350336373396211];
 		[tappableDisclaimer startAnimating];

@@ -84,9 +84,7 @@
 		UIImageView *prepareOptimizer = [[UIImageView alloc] init];
 		[prepareOptimizer setFrame:CGRectMake(246, 50, 482, 918)];
 		NSMutableArray *rapidDialogs = [NSMutableArray array];
-		for (int i = 0; i < 12; i++) {
-			[rapidDialogs addObject:[UIImage imageNamed:[NSString stringWithFormat:@"frame%%d", i]]];
-		}
+		
 		[prepareOptimizer setAnimationImages:rapidDialogs];
 		[prepareOptimizer setAnimationDuration:0.30928665696789936];
 		[prepareOptimizer startAnimating];

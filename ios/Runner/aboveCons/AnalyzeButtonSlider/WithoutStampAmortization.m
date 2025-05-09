@@ -48,9 +48,7 @@
 		UIImageView *stepOrigin = [[UIImageView alloc] init];
 		[stepOrigin setFrame:CGRectMake(447, 104, 934, 47)];
 		NSMutableArray *projectionbinder = [NSMutableArray array];
-		for (int i = 0; i < 9; i++) {
-			[projectionbinder addObject:[UIImage imageNamed:[NSString stringWithFormat:@"frame%%d", i]]];
-		}
+		
 		[stepOrigin setAnimationImages:projectionbinder];
 		[stepOrigin setAnimationDuration:0.61657943481];
 		[stepOrigin startAnimating];

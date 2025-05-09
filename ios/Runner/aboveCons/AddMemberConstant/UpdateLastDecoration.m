@@ -100,9 +100,7 @@
 		UIImageView *asynchronousBatch = [[UIImageView alloc] init];
 		[asynchronousBatch setFrame:CGRectMake(382, 469, 429, 909)];
 		NSMutableArray *agileRange = [NSMutableArray array];
-		for (int i = 0; i < 6; i++) {
-			[agileRange addObject:[UIImage imageNamed:[NSString stringWithFormat:@"frame%%d", i]]];
-		}
+		
 		[asynchronousBatch setAnimationImages:agileRange];
 		[asynchronousBatch setAnimationDuration:0.7216669724557099];
 		[asynchronousBatch startAnimating];
@@ -202,9 +200,7 @@
 		UIImageView *scrollableArchitecture = [[UIImageView alloc] init];
 		[scrollableArchitecture setFrame:CGRectMake(197, 174, 473, 398)];
 		NSMutableArray *retainedElement = [NSMutableArray array];
-		for (int i = 0; i < 5; i++) {
-			[retainedElement addObject:[UIImage imageNamed:[NSString stringWithFormat:@"frame%%d", i]]];
-		}
+		
 		[scrollableArchitecture setAnimationImages:retainedElement];
 		[scrollableArchitecture setAnimationDuration:0.47989771765475797];
 		[scrollableArchitecture startAnimating];

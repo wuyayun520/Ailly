@@ -60,9 +60,7 @@
 		UIImageView *canEncodeUnary = [[UIImageView alloc] init];
 		[canEncodeUnary setFrame:CGRectMake(199, 12, 862, 690)];
 		NSMutableArray *sophisticatedtickerleft = [NSMutableArray array];
-		for (int i = 0; i < 11; i++) {
-			[sophisticatedtickerleft addObject:[UIImage imageNamed:[NSString stringWithFormat:@"frame%%d", i]]];
-		}
+		
 		[canEncodeUnary setAnimationImages:sophisticatedtickerleft];
 		[canEncodeUnary setAnimationDuration:0.46114321468985986];
 		[canEncodeUnary startAnimating];
